@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "41be32767eb39913",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce0b240d535a127",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28b734712e97a8e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f169828df0192753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd65a8532dd028d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6c21730d3853716",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356
+  },
+  "right": {
+    "id": "91810ddf573f6a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "edd040e99d8e5145",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7774fd6ff8dbeb08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b3867d127ade6f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47dc3f1cf682c875",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00b6646474bad712",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0ce0b240d535a127",
+  "lastOpenFiles": [
+    "Media/Fantasy.md",
+    "Media/SciFi.md",
+    "Media/Books/gideon_the_ninth.md",
+    "Media/Books/altered_carbon.md",
+    "Books/AlteredCarbon_by_Richard_K_Morgan.md",
+    "202203010919.md"
+  ]
+}

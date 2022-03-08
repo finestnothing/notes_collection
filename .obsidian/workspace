@@ -130,14 +130,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "6b6331f5382fed29",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "253119491e2cbce6",
   "lastOpenFiles": [

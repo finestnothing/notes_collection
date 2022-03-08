@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8a2246d7d9aa84cb",
+        "id": "253119491e2cbce6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202203080705.md",
+            "file": "Work/202203080705.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202203080705.md",
+                "file": "Work/202203080705.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202203080705.md",
+                "file": "Work/202203080705.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,28 +110,44 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202203080705.md"
+                "file": "Work/202203080705.md"
               }
+            }
+          },
+          {
+            "id": "e5900aa6edd22672",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c47692f50f303b9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8a2246d7d9aa84cb",
+  "active": "253119491e2cbce6",
   "lastOpenFiles": [
-    "202203080705.md",
-    "Templates/Untitled.md",
-    "2022-03-08.md",
-    "Work/03082022.md",
+    "Work/202203080705.md",
+    "Daily Notes/2022-03-08.md",
+    "Day Planners/Day Planner-20220308.md",
+    "README.md",
+    "202203080714.md",
     "Media/Fantasy.md",
     "Media/SciFi.md",
-    "Media/Books/gideon_the_ninth.md",
-    "Media/Books/altered_carbon.md",
-    "Books/AlteredCarbon_by_Richard_K_Morgan.md",
-    "202203010919.md"
+    "Templates/work_tracking_{{date}}.md",
+    "Templates/Untitled.md",
+    "Work/03082022.md"
   ]
 }

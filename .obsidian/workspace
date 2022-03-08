@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ce0b240d535a127",
+        "id": "8a2246d7d9aa84cb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "202203080705.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202203080705.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "202203080705.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,18 +109,24 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "202203080705.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0ce0b240d535a127",
+  "active": "8a2246d7d9aa84cb",
   "lastOpenFiles": [
+    "202203080705.md",
+    "Templates/Untitled.md",
+    "2022-03-08.md",
+    "Work/03082022.md",
     "Media/Fantasy.md",
     "Media/SciFi.md",
     "Media/Books/gideon_the_ninth.md",

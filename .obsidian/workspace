@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work/202203080705.md",
+            "file": "Work/202203090647.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/202203080705.md",
+                "file": "Work/202203090647.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/202203080705.md",
+                "file": "Work/202203090647.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/202203080705.md"
+                "file": "Work/202203090647.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "253119491e2cbce6",
   "lastOpenFiles": [
-    "Work/202203080705.md",
+    "Work/202203090647.md",
+    "Daily Notes/2022-03-09.md",
     "Daily Notes/2022-03-08.md",
+    "Work/202203080705.md",
     "Day Planners/Day Planner-20220308.md",
     "README.md",
     "202203080714.md",
     "Media/Fantasy.md",
     "Media/SciFi.md",
-    "Templates/work_tracking_{{date}}.md",
-    "Templates/Untitled.md",
-    "Work/03082022.md"
+    "Templates/work_tracking_{{date}}.md"
   ]
 }

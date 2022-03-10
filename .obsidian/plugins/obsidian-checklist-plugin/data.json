@@ -1,5 +1,5 @@
 {
-  "todoPageName": "todo",
+  "todoPageName": "todo\ntodopersonal\ntodoschool\ntodowork",
   "showChecked": false,
   "autoRefresh": true,
   "subGroups": false,
@@ -10,5 +10,9 @@
   "includeFiles": "",
   "lookAndFeel": "classic",
   "_collapsedSections": [],
-  "_hiddenTags": []
+  "_hiddenTags": [
+    "todo",
+    "todopersonal",
+    "todoschool"
+  ]
 }

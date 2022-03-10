@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "253119491e2cbce6",
+        "id": "f81d099baf4c8a6a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -144,19 +144,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316,
+    "collapsed": true
   },
-  "active": "253119491e2cbce6",
+  "active": "f81d099baf4c8a6a",
   "lastOpenFiles": [
     "Work/202203100634.md",
-    "Work/202203090647.md",
-    "Daily Notes/2022-03-09.md",
-    "Daily Notes/2022-03-08.md",
-    "Work/202203080705.md",
-    "Day Planners/Day Planner-20220308.md",
+    "Daily Notes/2022-03-10.md",
     "README.md",
-    "202203080714.md",
-    "Media/Fantasy.md",
-    "Media/SciFi.md"
+    "Work/202203090647.md",
+    "Work/202203080705.md",
+    "Daily Notes/2022-03-08.md",
+    "Daily Notes/2022-03-09.md",
+    "Templates/daily_note_{{date}}.md",
+    "Day Planners/Day Planner-20220308.md",
+    "202203080714.md"
   ]
 }

@@ -144,19 +144,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 316,
+    "collapsed": true
   },
   "active": "b9abb4d1bcabbe59",
   "lastOpenFiles": [
     "Daily Notes/2022-03-15.md",
-    "Daily Notes/2022-03-14.md",
+    "Work/202203150809.md",
     "Work/202203140726.md",
+    "Daily Notes/2022-03-14.md",
     "Daily Notes/2022-03-08.md",
     "Reviews/Books/altered_carbon.md",
     "Daily Notes/2022-03-10.md",
     "Work/202203100634.md",
     "Work/202203090647.md",
-    "Recipes/Hoisin Honey Chicken.md",
-    "Templates/work_tracking_template.md"
+    "Recipes/Hoisin Honey Chicken.md"
   ]
 }

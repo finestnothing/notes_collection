@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-03-14.md",
+            "file": "Daily Notes/2022-03-15.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-03-14.md",
+                "file": "Daily Notes/2022-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-03-14.md",
+                "file": "Daily Notes/2022-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-03-14.md"
+                "file": "Daily Notes/2022-03-15.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "b9abb4d1bcabbe59",
   "lastOpenFiles": [
+    "Daily Notes/2022-03-15.md",
     "Daily Notes/2022-03-14.md",
     "Work/202203140726.md",
     "Daily Notes/2022-03-08.md",
@@ -156,7 +157,6 @@
     "Work/202203100634.md",
     "Work/202203090647.md",
     "Recipes/Hoisin Honey Chicken.md",
-    "Templates/work_tracking_template.md",
-    "Templates/daily_note_template.md"
+    "Templates/work_tracking_template.md"
   ]
 }

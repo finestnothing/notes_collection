@@ -20,4 +20,4 @@ Got much better a few chapters in.
 Very diverse characters, some things didn't make sense or weren't explained as well as they could've been, but still a great read.
 
 #### Tags:
-#fantasy #alternateworld
+#book #fantasy #alternateworld #highfantasy 

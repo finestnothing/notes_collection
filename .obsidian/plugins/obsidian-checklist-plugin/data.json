@@ -9,6 +9,10 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
   "lookAndFeel": "classic",
-  "_collapsedSections": [],
+  "_collapsedSections": [
+    "Work/202203150809.md",
+    "Daily Notes/2022-03-14.md",
+    "Daily Notes/2022-03-15.md"
+  ],
   "_hiddenTags": []
 }

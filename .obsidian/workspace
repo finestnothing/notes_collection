@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work/202203160728.md",
+            "file": "Daily Notes/2022-03-16.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/202203160728.md",
+                "file": "Daily Notes/2022-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/202203160728.md",
+                "file": "Daily Notes/2022-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/202203160728.md"
+                "file": "Daily Notes/2022-03-16.md"
               }
             }
           },
@@ -148,8 +148,8 @@
   },
   "active": "494fefa66346a0be",
   "lastOpenFiles": [
-    "Work/202203160728.md",
     "Daily Notes/2022-03-16.md",
+    "Work/202203160728.md",
     "Templates/work_tracking_template.md",
     "Reviews/Books/leviathan_wakes.md",
     "Reviews/Books/rise_of_the_mages.md",

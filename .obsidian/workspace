@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work/202203170727.md",
+            "file": "Daily Notes/2022-03-21.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/202203170727.md",
+                "file": "Daily Notes/2022-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/202203170727.md",
+                "file": "Daily Notes/2022-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/202203170727.md"
+                "file": "Daily Notes/2022-03-21.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "0c8ff02b6fc51046",
   "lastOpenFiles": [
+    "Daily Notes/2022-03-21.md",
     "Work/202203170727.md",
     "Work/202203160728.md",
     "Daily Notes/2022-03-17.md",
@@ -156,7 +157,6 @@
     "Reviews/Books/leviathan_wakes.md",
     "Reviews/Books/rise_of_the_mages.md",
     "Reviews/Books/gideon_the_ninth.md",
-    "Reviews/Books/altered_carbon.md",
-    "Work/202203100634.md"
+    "Reviews/Books/altered_carbon.md"
   ]
 }

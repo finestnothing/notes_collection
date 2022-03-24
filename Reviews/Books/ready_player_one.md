@@ -18,4 +18,4 @@ finished:
 Beginning - [2022-03-23](2022-03-23.md) - A lot darker and grittier than the movie, but the same general concept, very well written already though. I think I'll like it a lot.
 
 #### Tags:
-#scifi #futuristic
+#scifi #futuristic #book 

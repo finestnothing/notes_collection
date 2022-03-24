@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-03-24.md",
+            "file": "Work/202203240719.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-03-24.md",
+                "file": "Work/202203240719.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-03-24.md",
+                "file": "Work/202203240719.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-03-24.md"
+                "file": "Work/202203240719.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "0c8ff02b6fc51046",
   "lastOpenFiles": [
+    "Work/202203240719.md",
+    "Templates/work_tracking_template.md",
     "Daily Notes/2022-03-24.md",
-    "Work/202203230722.md",
+    "Reviews/Books/ready_player_one.md",
     "Daily Notes/2022-03-23.md",
+    "Reviews/Books/leviathan_wakes.md",
+    "Work/202203230722.md",
     "Daily Notes/2022-03-22.md",
     "Work/202203220837.md",
-    "Work/202203210707.md",
-    "Daily Notes/2022-03-21.md",
-    "Work/202203170727.md",
-    "Work/202203160728.md",
-    "Daily Notes/2022-03-17.md"
+    "Work/202203210707.md"
   ]
 }

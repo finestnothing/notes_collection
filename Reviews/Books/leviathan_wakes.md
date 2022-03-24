@@ -5,7 +5,7 @@ genre: Scifi
 series: The Expanse
 book: 1
 rating: 
-started: 2022-03-16
+started:
 finished:
 ---
 # `= this.title`

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-03-24.md",
+            "file": "Daily Notes/2022-03-27.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-03-24.md",
+                "file": "Work/202203240719.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-03-24.md",
+                "file": "Work/202203240719.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-03-24.md"
+                "file": "Work/202203240719.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "5157d05190500161",
   "lastOpenFiles": [
+    "Work/202203240719.md",
     "Daily Notes/2022-03-24.md",
     "Templates/class_notes_template.md",
     "Templates/book_template.md",
@@ -156,7 +157,6 @@
     "Daily Notes/2022-03-25.md",
     "Daily Notes/2022-03-22.md",
     "Daily Notes/2022-03-23.md",
-    "Work/202203080705.md",
-    "Daily Notes/2022-03-09.md"
+    "Work/202203080705.md"
   ]
 }

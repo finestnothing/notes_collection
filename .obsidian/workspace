@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0ccae50e82eb593",
+        "id": "53d7df381096e3a4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2022-03-28.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/2022-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/2022-03-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/2022-03-28.md"
+              }
             }
           },
           {
@@ -137,13 +146,13 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "d0ccae50e82eb593",
+  "active": "53d7df381096e3a4",
   "lastOpenFiles": [
+    "Daily Notes/2022-03-28.md",
+    "Work/202203280658.md",
     "Daily Notes/2022-07-29.md",
     "Daily Notes/2022-07-04.md",
     "Daily Notes/2022-06-13.md",
-    "Daily Notes/2022-03-28.md",
-    "Work/202203280658.md",
     "Daily Notes/2022-03-25.md",
     "Reviews/Books/ready_player_one.md",
     "Work/202203080705.md",

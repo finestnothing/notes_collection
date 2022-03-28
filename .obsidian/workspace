@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3748e9054e8ee86d",
+        "id": "d1d9589fecc48841",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Work/202203280658.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235,
-    "collapsed": true
+    "width": 235
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/202203280658.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work/202203280658.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work/202203280658.md"
+              }
             }
           },
           {
@@ -131,24 +139,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 316,
     "collapsed": true
   },
-  "active": "3748e9054e8ee86d",
+  "active": "d1d9589fecc48841",
   "lastOpenFiles": [
-    "Daily Notes/2022-03-24.md",
+    "Work/202203280658.md",
+    "Daily Notes/2022-03-28.md",
     "Daily Notes/2022-03-25.md",
-    "Daily Notes/2022-03-27.md",
-    "Work/202203240719.md",
-    "Templates/class_notes_template.md",
-    "Templates/book_template.md",
-    "Templates/daily_note_template.md",
-    "Templates/work_tracking_template.md",
-    "Daily Notes/2022-03-22.md",
-    "Daily Notes/2022-03-23.md"
+    "Reviews/Books/ready_player_one.md",
+    "Work/202203080705.md",
+    "Work/202203090647.md",
+    "Work/202203100634.md",
+    "Work/202203140726.md",
+    "Work/202203150809.md",
+    "Work/202203160728.md"
   ]
 }

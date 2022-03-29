@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work/202203280658.md",
+            "file": "Work/202203290702.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/202203280658.md",
+                "file": "Work/202203290702.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/202203280658.md",
+                "file": "Work/202203290702.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/202203280658.md"
+                "file": "Work/202203290702.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "b16cec62fa2885c6",
   "lastOpenFiles": [
+    "Work/202203290702.md",
     "Work/202203280658.md",
+    "Daily Notes/2022-03-29.md",
     "Daily Notes/2022-03-28.md",
     "Daily Notes/2022-07-29.md",
     "Daily Notes/2022-07-04.md",
     "Daily Notes/2022-06-13.md",
     "Daily Notes/2022-03-25.md",
     "Reviews/Books/ready_player_one.md",
-    "Work/202203080705.md",
-    "Work/202203090647.md",
-    "Work/202203100634.md"
+    "Work/202203080705.md"
   ]
 }

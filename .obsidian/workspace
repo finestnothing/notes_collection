@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-03-30.md",
+            "file": "Work/202203300806.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-03-30.md",
+                "file": "Work/202203300806.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-03-30.md",
+                "file": "Work/202203300806.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-03-30.md"
+                "file": "Work/202203300806.md"
               }
             }
           },
@@ -148,11 +148,11 @@
   },
   "active": "352de8f424208660",
   "lastOpenFiles": [
+    "Work/202203300806.md",
     "Daily Notes/2022-03-30.md",
     "Daily Notes/2022-03-29.md",
     "Reviews/Recipes/mushroom_ravioli_in_tomato_cream_sauce.md",
     "Reviews/Recipes/sourdough_dough_pizza_crust.md",
-    "Work/202203300806.md",
     "Work/202203290702.md",
     "unlinked files output.md",
     "README.md",

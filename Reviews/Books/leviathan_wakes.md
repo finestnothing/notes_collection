@@ -17,4 +17,4 @@ finished:
 #### Review:
 
 #### Tags:
-#book #scifi #inprogress
+#book #scifi

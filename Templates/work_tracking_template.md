@@ -1,3 +1,2 @@
-# Work Tracking - {{date}}
-#todowork
+# Work Tracking - [{{date}}]({{date}})
 - [ ]  

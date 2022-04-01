@@ -24,6 +24,7 @@ SORT rating desc
 ```
 
 ## Recipes:
+Favorite: [sourdough_dough_pizza_crust](Reviews/Recipes/sourdough_dough_pizza_crust.md)
 ```dataview
 TABLE WITHOUT ID
 	file.link as Name,
@@ -34,6 +35,7 @@ SORT rating desc
 ```
 
 ## Restaurants:
+Favorite: [suh_sushi_korean_bbq](Reviews/Restaurants/suh_sushi_korean_bbq.md)
 ```dataview
 TABLE WITHOUT ID
 	file.link as Name,

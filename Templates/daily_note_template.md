@@ -17,6 +17,7 @@
 	- [ ] Brush Teeth
 	- [ ] Clean Dishes
 - Day
+	- [ ] Work on Udacity course
 - Evening
 	- [ ] Clean Dishes Night
 	- [ ] Brush Teeth Night

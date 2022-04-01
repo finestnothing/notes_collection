@@ -3,7 +3,7 @@ name: magic_mirror
 category: tech
 start_date: 2022-03-31
 finish_date:
-status: inprogress
+status: idea
 ---
 # Magic Mirror
 ## `= this.start_date` - `= this.finish_date`

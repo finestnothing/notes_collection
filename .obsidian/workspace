@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b1d82404e234cde2",
+        "id": "0290f40c75b056b3",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -143,19 +143,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 316,
+    "collapsed": true
   },
-  "active": "b1d82404e234cde2",
+  "active": "0290f40c75b056b3",
   "lastOpenFiles": [
     "Daily Notes/2022-04-01.md",
+    "Projects/portfolio_website.md",
+    "Projects/magic_mirror.md",
+    "Class Notes/CSc177/csc177_midterm.md",
+    "Class Notes/CSc177/csc177_midterm_num29.md",
+    "Attachments/csc177_midterm_regression_tree.pdf",
+    "Attachments/csc177_midterm_decision_tree.pdf",
     "Templates/daily_note_template.md",
     "Daily Notes/2022-06-13.md",
-    "Daily Notes/2022-07-29.md",
-    "Daily Notes/2022-07-04.md",
-    "Daily Notes/2022-03-31.md",
-    "Daily Notes/2022-03-30.md",
-    "Daily Notes/2022-03-29.md",
-    "Daily Notes/2022-03-28.md",
-    "Daily Notes/2022-03-27.md"
+    "Daily Notes/2022-07-29.md"
   ]
 }

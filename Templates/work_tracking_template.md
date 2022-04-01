@@ -1,2 +1,0 @@
-# Work Tracking - [{{date}}]({{date}})
-- [ ]  

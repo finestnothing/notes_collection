@@ -1,14 +1,15 @@
 # Collection of Notes in Obsidian
-## Books:
+## Projects:
 ```dataview
 TABLE WITHOUT ID
 	file.link as Name,
-	rating as Rating
-from "Reviews/Books"
-where rating >= 7
-sort rating desc
-
+	status as Status
+from "Projects"
+sort status asc
 ```
+
+## Books:
+
 
 ## Recipes:
 ```dataview

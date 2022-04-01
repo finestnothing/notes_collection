@@ -1,0 +1,18 @@
+---
+name: magic_mirror
+category: tech
+start_date: 2022-03-31
+finish_date:
+status: inprogress
+---
+# Magic Mirror
+## `= this.start_date` - `= this.finish_date`
+## Status: `= this.status`
+## Description
+Convert a monitor into a magic mirror
+Display calendar, events, weather, shopping list, important notes, etc
+
+## Notes
+
+### Tags
+#tech #coding #diy #raspberrypi

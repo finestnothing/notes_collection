@@ -5,4 +5,5 @@
 [recipe_template](recipe_template.md)
 [restaurant_template](restaurant_template.md)
 [review_template](review_template.md)
-[work_tracking_template](work_tracking_template.md)
+[project_template](project_template.md)
+[video_game_template](video_game_template.md)

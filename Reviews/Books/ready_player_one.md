@@ -6,7 +6,7 @@ series: Ready Player One
 book: 1
 rating: 10
 started: 2022-03-23
-finished:
+finished: 
 ---
 # `= this.title`
 ## By `= this.author`

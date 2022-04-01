@@ -14,7 +14,7 @@ rating: 9
 ### Expensive:  `= this.expensive`
 
 #### Review:
-[2022-03-26](2022-03-26.md)
+[2022-03-26](../../Daily_Notes/2022-03-26.md)
 Awesome food. The crunch albacore was pretty small and expensive for it, but it was really tasty.
 We got the Colorado roll and the Rocky Mountain roll, both were delicious (but very similar)
 We definitely want to go back again, and want to try the bbq cooktops and meals.

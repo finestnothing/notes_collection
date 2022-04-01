@@ -1,7 +1,7 @@
 ---
 title: Gideon the Ninth
 author: Tamsyn Muir
-genre: #fantasy
+genre: fantasy
 series: The Locked Tomb Series
 book: 1
 rating: 8

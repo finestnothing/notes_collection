@@ -14,7 +14,7 @@ rating: 8
 ### Expensive:  `= this.expensive`
 
 #### Review:
-(Visited [2022-03-30](2022-03-30.md)) Great Mediterranean food despite it being a chain. Relatively healthy chain, super tasty and a lot of options. Walking distance from the apartment which is great too.
+(Visited [2022-03-30](../../Daily_Notes/2022-03-30.md)) Great Mediterranean food despite it being a chain. Relatively healthy chain, super tasty and a lot of options. Walking distance from the apartment which is great too.
 
 #### Tags:
 #mediterranean #byo #gyros #restaurant #chain

@@ -1,5 +1,5 @@
 ---
-title:
+title: {{title}}
 class:
 initial_date:{{date}}
 last_update:

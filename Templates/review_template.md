@@ -1,5 +1,5 @@
 ---
-name:
+name: {{title}}
 rating:
 ---
 # `= this.name`

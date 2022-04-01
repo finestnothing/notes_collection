@@ -14,7 +14,7 @@ Include academic and professional information, code examples
 [finestnothing.github.io](https://finestnothing.github.io/)
 
 ## Notes
-[2022-03-31](2022-03-31.md) - Found a good reference website today [ericwadkins portfolio](http://www.ericwadkins.com/)
+[2022-03-31](../Daily_Notes/2022-03-31.md) - Found a good reference website today [ericwadkins portfolio](http://www.ericwadkins.com/)
 
 ### Tags
 #professional #web #coding #project

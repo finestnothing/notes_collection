@@ -14,7 +14,7 @@ rating: 6
 ### Expensive:  `= this.expensive`
 
 #### Review:
-(Visited [2022-03-31](2022-03-31.md)) It was alright, but by no means great. Mikayla wasn't thrilled with the food, I was pretty happy with mine. Would visit again if we needed to get Thai food nearby, but otherwise we likely won't.
+(Visited [2022-03-31](../../Daily_Notes/2022-03-31.md)) It was alright, but by no means great. Mikayla wasn't thrilled with the food, I was pretty happy with mine. Would visit again if we needed to get Thai food nearby, but otherwise we likely won't.
 
 #### Tags:
 #thai #asian #restaurant 

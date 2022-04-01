@@ -20,4 +20,4 @@ We got the Colorado roll and the Rocky Mountain roll, both were delicious (but v
 We definitely want to go back again, and want to try the bbq cooktops and meals.
 
 #### Tags:
-#sushi #korean #bbq #foco
+#sushi #korean #bbq #foco #restaurant 

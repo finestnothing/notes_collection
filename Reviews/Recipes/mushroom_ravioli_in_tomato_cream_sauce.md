@@ -11,4 +11,4 @@ rating: 10
 (Ate [2022-03-29](2022-03-29.md)) This was delicious, the sauce was flavorful and had a bit of acidity from the tomato which made it even better. The ricotta on top was also great with it and added a great creamy texture to each bite (on top of the creaminess of the sauce). Would definitely get or make again.
 
 #### Tags:
-#hellofresh #pasta #sauce #ravioli
+#hellofresh #pasta #sauce #ravioli #recipe 

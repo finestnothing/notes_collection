@@ -4,7 +4,7 @@ author: Ernest Cline
 genre: Sci-Fi
 series: Ready Player One
 book: 1
-rating: 
+rating: 10
 started: 2022-03-23
 finished:
 ---

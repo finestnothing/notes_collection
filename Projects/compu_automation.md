@@ -1,6 +1,6 @@
 ---
 name: compu_automation
-category:
+category: work
 start_date: 2022-04-01
 finish_date:
 status: inprogress

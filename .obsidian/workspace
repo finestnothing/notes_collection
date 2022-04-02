@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/clothes_manager.md",
+            "file": "Daily_Notes/2022-04-02.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/clothes_manager.md",
+                "file": "Daily_Notes/2022-04-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/clothes_manager.md",
+                "file": "Daily_Notes/2022-04-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/clothes_manager.md"
+                "file": "Daily_Notes/2022-04-02.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -148,13 +148,13 @@
   },
   "active": "0d07c9aca89a3924",
   "lastOpenFiles": [
+    "Daily_Notes/2022-04-02.md",
+    "Daily_Notes/2022-04-01.md",
     "Projects/clothes_manager.md",
     "Projects/magic_mirror.md",
     "Projects/portfolio_website.md",
     "Projects/compu_automation.md",
-    "Daily_Notes/2022-04-01.md",
     "README.md",
-    "Daily_Notes/2022-04-02.md",
     "Daily_Notes/2022-04-04.md",
     "Daily_Notes/2022-03-28.md",
     "Daily_Notes/2022-03-24.md"

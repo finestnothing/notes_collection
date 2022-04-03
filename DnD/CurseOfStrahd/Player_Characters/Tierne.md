@@ -1,3 +1,11 @@
+---
+name: tierne
+campaign: strahd
+class: barbarian
+race: shifter
+subrace: wildhunt
+controller: shorttrooper
+---
 # Name: Tierne
 ## Class: Barbarian
 ## Race: Wildhunt Shifter

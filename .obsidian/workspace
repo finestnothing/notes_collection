@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/CurseOfStrahd/players.md",
+            "file": "DnD/CurseOfStrahd/Player_Characters/Miazorwyn.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241
+    "width": 372
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/CurseOfStrahd/players.md",
+                "file": "DnD/CurseOfStrahd/Player_Characters/Miazorwyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/CurseOfStrahd/players.md",
+                "file": "DnD/CurseOfStrahd/Player_Characters/Miazorwyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/CurseOfStrahd/players.md"
+                "file": "DnD/CurseOfStrahd/Player_Characters/Miazorwyn.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,14 +148,15 @@
   },
   "active": "92d6fba58864b7e8",
   "lastOpenFiles": [
-    "DnD/CurseOfStrahd/players.md",
-    "DnD/CurseOfStrahd/Player_Characters/Specter.md",
     "DnD/CurseOfStrahd/Player_Characters/Miazorwyn.md",
     "DnD/CurseOfStrahd/Player_Characters/Tierne.md",
+    "DnD/CurseOfStrahd/Player_Characters/Teeter.md",
+    "DnD/CurseOfStrahd/Player_Characters/Specter.md",
     "DnD/CurseOfStrahd/Player_Characters/Aphophia.md",
-    "Templates/dnd_character.md",
-    "Templates/project_template.md",
-    "Templates/recipe_template.md",
-    "Templates/review_template.md"
+    "DnD/CurseOfStrahd/Overview.md",
+    "DnD/CurseOfStrahd/0.Deathhouse.md",
+    "DnD/CurseOfStrahd/Death_House/deathhouse_library_secret_room_letter.md",
+    "DnD/CurseOfStrahd/Death_House/deathhouse_balcony.md",
+    "DnD/CurseOfStrahd/Death_House/deathhouse_upper_hall.md"
   ]
 }

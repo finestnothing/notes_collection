@@ -1,3 +1,10 @@
+---
+name: miazorwyn
+campaign: strahd
+class: druid
+race: aasimar
+controller: softwaresocks
+---
 # Name: Miazorwyn
 ## Class: Druid
 ## Race:  Aasimar

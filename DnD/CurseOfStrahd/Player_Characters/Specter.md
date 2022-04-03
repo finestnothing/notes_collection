@@ -1,3 +1,10 @@
+---
+name: specter
+campaign: strahd
+class: rogue
+race: changeling
+controller: devaroniandcheese
+---
 # Name: Specter
 ## Class: Rogue
 ## Race: Changeling

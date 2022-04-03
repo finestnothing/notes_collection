@@ -1,3 +1,10 @@
+---
+name: {{title}}
+campaign: strahd
+class: warlock
+race: warforged
+controller: mordiva
+---
 # Name: Aphophia
 ## Class: Warlock
 ## Race: Warforged

@@ -7,3 +7,6 @@
 [review_template](review_template.md)
 [project_template](project_template.md)
 [video_game_template](video_game_template.md)
+[dnd_letter](dnd_letter.md)
+[dnd_location](dnd_location.md)
+[dnd_location](dnd_location.md)

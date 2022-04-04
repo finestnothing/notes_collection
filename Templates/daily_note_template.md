@@ -18,6 +18,7 @@
 	- [ ] Clean Dishes
 - Day
 	- [ ] Work on Udacity course
+	- [ ] Prep DnD
 - Evening
 	- [ ] Clean Dishes Night
 	- [ ] Brush Teeth Night

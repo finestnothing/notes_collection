@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
-  "search": "path:DnD/CurseOfStrahd",
-  "showTags": true,
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Reviews",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:\"Daily Notes\"",
+      "query": "path:Daily_Notes",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "path:DnD/CurseOfStrahd",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 1.58651685393258,
   "lineSizeMultiplier": 2.025,
   "collapse-forces": false,
-  "centerStrength": 0.358974358974359,
-  "repelStrength": 14.3589743589744,
-  "linkStrength": 0.846153846153846,
-  "linkDistance": 249,
-  "scale": 0.2566614077085325,
+  "centerStrength": 0.43452380952381,
+  "repelStrength": 13.0952380952381,
+  "linkStrength": 0.744047619047619,
+  "linkDistance": 167,
+  "scale": 0.35983490412650465,
   "close": true
 }

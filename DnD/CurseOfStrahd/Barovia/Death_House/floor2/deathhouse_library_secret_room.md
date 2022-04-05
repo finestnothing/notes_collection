@@ -47,4 +47,4 @@ Floor: `= this.floor`
 		- the will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents’ deaths. 
 	- The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
 ### Connected rooms
-[deathhouse_library](deathhouse_library.md)
+[deathhouse_library](floor2/deathhouse_library.md)

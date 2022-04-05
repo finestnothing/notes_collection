@@ -28,5 +28,5 @@ Floor: `= this.floor`
 	- The characters find Strahd’s letter in the secret room behind the library ([area 9](https://www.dndbeyond.com/sources/cos/appendix-b-death-house#9SecretRoom "area 9")).
 	- The characters find the replica secret door in the attic of the dollhouse ([area 20](https://www.dndbeyond.com/sources/cos/appendix-b-death-house#20ChildrensRoom "area 20")).
 ### Connected rooms
-[deathhouse_attic_hall](deathhouse_attic_hall.md)
+[deathhouse_attic_hall](floor4/deathhouse_attic_hall.md)
 [deathhouse_secret_stairs](deathhouse_secret_stairs.md)

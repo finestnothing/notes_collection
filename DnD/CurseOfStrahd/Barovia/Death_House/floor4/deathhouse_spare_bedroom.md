@@ -21,4 +21,4 @@ Floor: `= this.floor`
 - A smiling doll in a lacy yellow dress sits in the northern window box, cobwebs draping it like a wedding veil.
 ### Interactables
 ### Connected rooms
-[deathhouse_attic_hall](deathhouse_attic_hall.md)
+[deathhouse_attic_hall](floor4/deathhouse_attic_hall.md)

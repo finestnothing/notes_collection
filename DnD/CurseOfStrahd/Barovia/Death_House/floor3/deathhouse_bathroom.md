@@ -21,4 +21,4 @@ Floor: `= this.floor`
 - A cistern on the roof used to collect rainwater, which was borne down a pipe to the spigot; however, the plumbing no longer works.
 ### Interactables
 ### Connected rooms
-[deathhouse_balcony](deathhouse_balcony.md)
+[deathhouse_balcony](floor3/deathhouse_balcony.md)

@@ -17,7 +17,7 @@ Function: `= this.function`
 Room: `= this.room`
 Floor: `= this.floor` 
 ### Description
-- Locked from outside [Locked Door](deathhouse_attic_hall.md#Locked%20Door)
+- Locked from outside [Locked Door](floor4/deathhouse_attic_hall.md#Locked%20Door)
 - Read to Players:
 	- This room contains a bricked-up window flanked by two dusty, wood-framed beds sized for children. 
 	- Closer to the door is a toy chest with windmills painted on its sides and a dollhouse that’s a perfect replica of the dreary edifice in which you stand. 

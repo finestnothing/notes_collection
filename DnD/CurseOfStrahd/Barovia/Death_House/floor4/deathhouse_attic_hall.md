@@ -23,8 +23,8 @@ Floor: `= this.floor`
 - The door to [area 20](https://www.dndbeyond.com/sources/cos/appendix-b-death-house#20ChildrensRoom "area 20") is held shut with a padlock. [deathhouse_childrens_room](deathhouse_childrens_room.md)
 - Its key is kept in the library ([area 8](https://www.dndbeyond.com/sources/cos/appendix-b-death-house#8Library "area 8")), but the lock can also be picked with thieves’ tools and a successful DC 15 Dexterity check.
 ### Connected rooms
-[deathhouse_balcony](deathhouse_balcony.md)
-[deathhouse_nursemaids_suite](deathhouse_nursemaids_suite.md)
+[deathhouse_balcony](../floor3/deathhouse_balcony.md)
+[deathhouse_nursemaids_suite](../floor3/deathhouse_nursemaids_suite.md)
 [deathhouse_attic_storage_room](deathhouse_attic_storage_room.md)
 [deathhouse_spare_bedroom_2](deathhouse_spare_bedroom_2.md)
 [deathhouse_childrens_room](deathhouse_childrens_room.md)

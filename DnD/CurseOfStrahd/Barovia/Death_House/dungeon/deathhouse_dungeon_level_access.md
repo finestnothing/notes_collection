@@ -32,4 +32,5 @@ Floor: `= this.floor`
 - It’s impossible to gauge where the sound is coming from until the characters reach [area 26](https://www.dndbeyond.com/sources/cos/appendix-b-death-house#26HiddenSpikedPit "area 26") or [29](https://www.dndbeyond.com/sources/cos/appendix-b-death-house#29GhoulishEncounter "29"). 
 - They can’t discern its words until they reach [area 35](https://www.dndbeyond.com/sources/cos/appendix-b-death-house#35Reliquary "area 35").
 ### Connected rooms
-[deathhouse_secret_stairs](deathhouse_secret_stairs.md)
+[deathhouse_secret_stairs](../floor4/deathhouse_secret_stairs.md)
+[deathhouse_family_crypts](deathhouse_family_crypts.md)

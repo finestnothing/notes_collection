@@ -5,7 +5,7 @@ town: barovia
 building: deathhouse
 function: 
 room: 
-floor: 
+floor: -1
 area: 
 ---
 # Title: {{title}}

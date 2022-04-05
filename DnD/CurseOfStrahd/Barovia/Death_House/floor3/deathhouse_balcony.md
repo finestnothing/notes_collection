@@ -28,11 +28,11 @@ Floor: `= this.floor`
 #### Secret Door
 - A secret door in the west wall can be found with a successful DC 15 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check. 
 	- It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic.
-	- [deathhouse_attic_hall](deathhouse_attic_hall.md)
+	- [deathhouse_attic_hall](floor4/deathhouse_attic_hall.md)
 ### Connected rooms
-- [deathhouse_upper_hall](deathhouse_upper_hall.md)
+- [deathhouse_upper_hall](../floor2/deathhouse_upper_hall.md)
 	- Staircase
-- [deathhouse_attic_hall](deathhouse_attic_hall.md)
+- [deathhouse_attic_hall](floor4/deathhouse_attic_hall.md)
 	- Secret door
 - [deathhouse_storage_room](deathhouse_storage_room.md)
 - [deathhouse_bathroom](deathhouse_bathroom.md)

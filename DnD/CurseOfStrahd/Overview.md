@@ -8,8 +8,8 @@
 
 ## Maps
 ### Barovia
-- [baroviadm](Death_House/baroviadm.jpg)
-- [baroviaplayer](Death_House/baroviaplayer.jpg)
+- [baroviadm](Barovia/baroviadm.jpg)
+- [baroviaplayer](Barovia/baroviaplayer.jpg)
 
 ## Items
 ```dataview
@@ -19,5 +19,5 @@ FROM #storyitem
 ```
 ## Starting Area
 Players are transported to Barovia in the fog (see [adventure hooks](https://www.dndbeyond.com/sources/cos/into-the-mists#AdventureHooks))
-[Barovia](Barovia.md)
+[Barovia](Barovia/Barovia.md)
 #dnd #strahd 

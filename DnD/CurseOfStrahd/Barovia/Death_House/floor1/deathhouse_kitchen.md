@@ -32,7 +32,7 @@ Floor: `= this.floor`
 #### Dumbwaiter
 - A Small character can squeeze into the elevator box with a successful DC 10 Dexterity ([Acrobatics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Acrobatics)) check.
 	- The dumbwaiter’s rope-and-pulley mechanism can support 200 pounds of weight before breaking.
-	- Connects to dumbwaiter in [deathhouse_servants_room](deathhouse_servants_room.md)
+	- Connects to dumbwaiter in [deathhouse_servants_room](../floor2/deathhouse_servants_room.md)
 ### Connected rooms
 [deathhouse_main_hall](deathhouse_main_hall.md)
-[deathhouse_servants_room](deathhouse_servants_room.md)
+[deathhouse_servants_room](../floor2/deathhouse_servants_room.md)

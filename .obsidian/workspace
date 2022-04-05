@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f0a4f6eb0efbae15",
+        "id": "393a8cdd3cf065ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-04-05.md",
+            "file": "DnD/CurseOfStrahd/Barovia/Barovia.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 369
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-04-05.md",
+                "file": "DnD/CurseOfStrahd/Barovia/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-04-05.md",
+                "file": "DnD/CurseOfStrahd/Barovia/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-04-05.md"
+                "file": "DnD/CurseOfStrahd/Barovia/Barovia.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "f0a4f6eb0efbae15",
+  "active": "393a8cdd3cf065ae",
   "lastOpenFiles": [
+    "DnD/CurseOfStrahd/Barovia/Barovia.md",
     "Daily_Notes/2022-04-05.md",
-    "Daily_Notes/2022-04-04.md",
-    "DnD/CurseOfStrahd/Player_Characters/Teeter.md",
-    "DnD/CurseOfStrahd/Overview.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_nursemaids_suite.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_childrens_room.md",
-    "DnD/CurseOfStrahd/Barovia.md",
-    "DnD/CurseOfStrahd/Death_House/deathhousedm.jpg",
-    "README.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_spare_bedroom_2.md"
+    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_dungeon_stairs_down.md",
+    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_dungeon_spellbook.md",
+    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_family_crypts.md",
+    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_porticullis.md",
+    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_prison.md",
+    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_reliquary.md",
+    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_ritual_chamber.md",
+    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_well_and_cultist_quarters.md"
   ]
 }

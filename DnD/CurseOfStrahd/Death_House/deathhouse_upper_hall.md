@@ -37,4 +37,5 @@ Floor: `= this.floor`
 	- Right side closest to stairs
 - [deathhouse_library](deathhouse_library.md)
 	- Right side, furthest from stairs
-- 
+- [deathhouse_balcony](deathhouse_balcony.md)
+	- Main stairs

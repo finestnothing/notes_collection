@@ -12,6 +12,7 @@ controller: mordiva
 ## About
 ### Backstory
 - Struck a bargain with [The Hexblade](https://www.dndbeyond.com/sources/xgte/subclasses#TheHexblade) to become a warlock
+- Previously human, The Apparatus was used to put them in a warforgeds body
 ### During Campaign
 ### Quick Notes
 - Can create [Specters](https://www.dndbeyond.com/sources/mm/monsters-s#Specter) from humanoids slain by them

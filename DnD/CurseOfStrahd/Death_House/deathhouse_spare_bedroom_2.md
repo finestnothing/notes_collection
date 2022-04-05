@@ -1,5 +1,5 @@
 ---
-title: deathhouse_attic_spare_bedroom
+title: deathhouse_spare_bedroom_2
 campaign: strahd
 town: barovia
 building: deathhouse

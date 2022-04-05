@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
+    "width": 383,
     "collapsed": true
   },
   "right": {
@@ -150,14 +150,14 @@
   "active": "f0a4f6eb0efbae15",
   "lastOpenFiles": [
     "Daily_Notes/2022-04-04.md",
-    "Daily_Notes/2022-06-13.md",
-    "Templates/template_list.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_dungeon_level_access.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_attic_hall.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_attic_spare_bedroom.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_attic_storage_room.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_secret_stairs.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_library_secret_room.md",
-    "DnD/CurseOfStrahd/0.Deathhouse.md"
+    "DnD/CurseOfStrahd/Player_Characters/Teeter.md",
+    "DnD/CurseOfStrahd/Overview.md",
+    "DnD/CurseOfStrahd/Death_House/deathhouse_nursemaids_suite.md",
+    "DnD/CurseOfStrahd/Death_House/deathhouse_childrens_room.md",
+    "DnD/CurseOfStrahd/Barovia.md",
+    "DnD/CurseOfStrahd/Death_House/deathhousedm.jpg",
+    "README.md",
+    "DnD/CurseOfStrahd/Death_House/deathhouse_spare_bedroom_2.md",
+    "DnD/CurseOfStrahd/Death_House/deathhouse_spare_bedroom.md"
   ]
 }

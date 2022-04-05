@@ -26,4 +26,5 @@ Floor: `= this.floor`
 [deathhouse_balcony](deathhouse_balcony.md)
 [deathhouse_nursemaids_suite](deathhouse_nursemaids_suite.md)
 [deathhouse_attic_storage_room](deathhouse_attic_storage_room.md)
-[deathhouse_attic_spare_bedroom](deathhouse_attic_spare_bedroom.md)
+[deathhouse_spare_bedroom_2](deathhouse_spare_bedroom_2.md)
+[deathhouse_childrens_room](deathhouse_childrens_room.md)

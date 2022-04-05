@@ -1,7 +1,7 @@
 ---
 name: teeter
 campaign: strahd
-class: wizard
+class: druid
 race: shifter
 subrace: swiftstride
 controller: jisa
@@ -12,9 +12,25 @@ controller: jisa
 ## Campaign: Curse of Strahd
 ## About
 ### Backstory
-Noble
+- Witherbloom Initiate
+- Goes to a magical school
+	- Drimath, School of Wizardy
+		- Institution for young magic users
+- Likes to mess with people, doesn't think about consequences
+- Wants to have fun
+- Following Morton
+	- Morton disappeared from Teeters perspective
+
+- Morton
+	- Backup character and best friend
+	- Warlock
+	- Firbolg
+	- Comes from little village
+	- Became a folk hero (by patron)
+		- Ended a forest fire
+	- Runs away because of their patron
+		- Patron ordered them to run away
 ### During Campaign
 ### Quick Notes
-Great DEX, CON, and INT, bad STR, WIS, CHA
 ## Tags
 #strahd #pc 

@@ -26,3 +26,4 @@ Floor: `= this.floor`
 - Mahogany-framed double doors leading from the foyer to the main hall (area 2A) are set with panes of stained glass.
 ### Interactables
 ### Connected rooms
+[deathhouse_main_hall](deathhouse_main_hall.md)

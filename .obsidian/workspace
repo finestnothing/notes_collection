@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-04-04.md",
+            "file": "Daily_Notes/2022-04-05.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-04-04.md",
+                "file": "Daily_Notes/2022-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-04-04.md",
+                "file": "Daily_Notes/2022-04-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-04-04.md"
+                "file": "Daily_Notes/2022-04-05.md"
               }
             }
           },
@@ -149,6 +149,7 @@
   },
   "active": "f0a4f6eb0efbae15",
   "lastOpenFiles": [
+    "Daily_Notes/2022-04-05.md",
     "Daily_Notes/2022-04-04.md",
     "DnD/CurseOfStrahd/Player_Characters/Teeter.md",
     "DnD/CurseOfStrahd/Overview.md",
@@ -157,7 +158,6 @@
     "DnD/CurseOfStrahd/Barovia.md",
     "DnD/CurseOfStrahd/Death_House/deathhousedm.jpg",
     "README.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_spare_bedroom_2.md",
-    "DnD/CurseOfStrahd/Death_House/deathhouse_spare_bedroom.md"
+    "DnD/CurseOfStrahd/Death_House/deathhouse_spare_bedroom_2.md"
   ]
 }

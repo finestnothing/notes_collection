@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "path:DnD",
+  "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1.58651685393258,
   "lineSizeMultiplier": 2.025,
   "collapse-forces": false,
-  "centerStrength": 0.583333333333333,
+  "centerStrength": 0.345238095238095,
   "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 173,
-  "scale": 0.35983490412650543,
+  "linkStrength": 0.285714285714286,
+  "linkDistance": 310,
+  "scale": 0.2566614077085383,
   "close": true
 }

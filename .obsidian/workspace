@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-04-05.md",
+            "file": "Daily_Notes/2022-04-06.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-04-05.md",
+                "file": "Daily_Notes/2022-04-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-04-05.md",
+                "file": "Daily_Notes/2022-04-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-04-05.md"
+                "file": "Daily_Notes/2022-04-06.md"
               }
             }
           },
@@ -149,6 +149,7 @@
   },
   "active": "393a8cdd3cf065ae",
   "lastOpenFiles": [
+    "Daily_Notes/2022-04-06.md",
     "Daily_Notes/2022-04-05.md",
     "DnD/CurseOfStrahd/Barovia/Barovia.md",
     "DnD/CurseOfStrahd/Overview.md",
@@ -157,7 +158,6 @@
     "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_family_crypts.md",
     "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_porticullis.md",
     "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_prison.md",
-    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_reliquary.md",
-    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_ritual_chamber.md"
+    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_reliquary.md"
   ]
 }

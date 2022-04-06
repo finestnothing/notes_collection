@@ -13,8 +13,8 @@ Death_House files begin at [deathhouse_entrance](Death_House/floor1/deathhouse_e
 - Dungeon Alchemist File: [floor2](Death_House/floor2/floor2.dam)
 - Dungeon Alchemist File: [floor3](Death_House/floor3/floor3.dam)
 - Dungeon Alchemist File: [floor4](Death_House/floor4/floor4.dam)
-- Dungeon Alchemist File:
-- Dungeon Alchemist File:
+- Dungeon Alchemist File: [dungeon1](Death_House/dungeon/dungeon1.dam)
+- Dungeon Alchemist File: [dungeon2](Death_House/dungeon/dungeon2.jpg)
 ## Progress
 ### Area 1: Death House
 - [https://www.dndbeyond.com/sources/cos/appendix-b-death-house](https://www.dndbeyond.com/sources/cos/appendix-b-death-house)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/CurseOfStrahd/Barovia/Barovia.md",
+            "file": "Daily_Notes/2022-04-05.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369
+    "width": 369,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/CurseOfStrahd/Barovia/Barovia.md",
+                "file": "Daily_Notes/2022-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/CurseOfStrahd/Barovia/Barovia.md",
+                "file": "Daily_Notes/2022-04-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/CurseOfStrahd/Barovia/Barovia.md"
+                "file": "Daily_Notes/2022-04-05.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,15 +149,15 @@
   },
   "active": "393a8cdd3cf065ae",
   "lastOpenFiles": [
-    "DnD/CurseOfStrahd/Barovia/Barovia.md",
     "Daily_Notes/2022-04-05.md",
+    "DnD/CurseOfStrahd/Barovia/Barovia.md",
+    "DnD/CurseOfStrahd/Overview.md",
     "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_dungeon_stairs_down.md",
     "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_dungeon_spellbook.md",
     "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_family_crypts.md",
     "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_porticullis.md",
     "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_prison.md",
     "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_reliquary.md",
-    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_ritual_chamber.md",
-    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_well_and_cultist_quarters.md"
+    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_ritual_chamber.md"
   ]
 }

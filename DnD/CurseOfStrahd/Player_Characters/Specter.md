@@ -17,6 +17,8 @@ controller: devaroniandcheese
 - Loyal to friends
 - Supporting a friend
 - Innocent in prison for their crimes (okay with it)
+- Hired by relative of someone who disappeared into Ravenloft
+	- Strahd is going to take him, he likes to toy with adventurers, and this one is looking for him
 ### During Campaign
 ### Quick Notes
 - Great at DEX and INT, awful at STR and WIS

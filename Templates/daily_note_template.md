@@ -12,7 +12,7 @@
 ### Chores
 - Any time
 	- [ ] Read
-	- [ ] Video game review
+	- [ ] Add items to grocy
 - Morning
 	- [ ] Brush Teeth
 	- [ ] Clean Dishes

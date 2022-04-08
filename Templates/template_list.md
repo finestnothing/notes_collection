@@ -9,4 +9,5 @@
 [video_game_template](video_game_template.md)
 [dnd_letter](dnd_letter.md)
 [dnd_location](dnd_location.md)
-[dnd_location](dnd_location.md)
+[dnd_character](dnd_character.md)
+[dnd_session_notes](dnd_session_notes.md)

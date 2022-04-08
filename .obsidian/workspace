@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a0b8c12af7563fe6",
+        "id": "7d6c1c1b76f1582a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-04-06.md",
+            "file": "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-04-06.md",
+                "file": "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-04-06.md",
+                "file": "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-04-06.md"
+                "file": "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md"
               }
             }
           },
@@ -147,17 +147,17 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "a0b8c12af7563fe6",
+  "active": "7d6c1c1b76f1582a",
   "lastOpenFiles": [
-    "Daily_Notes/2022-04-06.md",
-    "DnD/aurora_char_sheets.md",
-    "DnD/CurseOfStrahd/Player_Characters/Specter.md",
+    "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
     "DnD/CurseOfStrahd/Overview.md",
-    "DnD/CurseOfStrahd/Barovia/Barovia.md",
-    "DnD/CurseOfStrahd/Player_Characters/Aphophia.md",
+    "DnD/CurseOfStrahd/Player_Characters/Specter.md",
+    "DnD/CurseOfStrahd/Player_Characters/Teeter.md",
     "DnD/CurseOfStrahd/Player_Characters/Tierne.md",
-    "DnD/CurseOfStrahd/Barovia/Death_House/deathhouseplayer.jpg",
-    "Daily_Notes/2022-04-05.md",
-    "DnD/CurseOfStrahd/Barovia/Death_House/dungeon/deathhouse_dungeon_stairs_down.md"
+    "DnD/CurseOfStrahd/NPCs/Strahd_von_Zarovich.md",
+    "DnD/CurseOfStrahd/Barovia/Barovia.md",
+    "DnD/CurseOfStrahd/Barovia/baroviadm.jpg",
+    "Daily_Notes/2022-04-07.md",
+    "DnD/CurseOfStrahd/Player_Characters/Miazorwyn.md"
   ]
 }

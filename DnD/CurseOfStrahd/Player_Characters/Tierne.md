@@ -15,6 +15,7 @@ controller: shorttrooper
 - Lawful neutral
 - Faced unimaginable horror, no stranger to darkness
 - Addicted to the hunt
+- Lost memory
 ### During Campaign
 ### Notes
 - Great at STR, DEX, and CON. Awful at INT, WIS, CHA

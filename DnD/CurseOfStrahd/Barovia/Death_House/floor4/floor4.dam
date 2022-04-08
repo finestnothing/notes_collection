@@ -478,9 +478,9 @@
         "x": 3,
         "y": 4
       },
-      "height": 0,
-      "buildingBlockInstanceId": "d72493b5-d810-44d6-83d9-00a0f018897e",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 23,
+      "buildingBlockInstanceId": "afe13d43-7cf7-4376-8605-8d27d3208c20",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "fec6d949-5e72-40eb-8875-3f0d1b153c45"
     },
     {
@@ -489,9 +489,9 @@
         "x": 4,
         "y": 4
       },
-      "height": 1,
-      "buildingBlockInstanceId": "42206749-bd25-4dee-a28f-f03a548abc9e",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 25,
+      "buildingBlockInstanceId": "59c0e885-e97f-48c8-9d3f-3c9e94f0b460",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "8398bc2f-bcbc-40ce-8cec-b8336165e4dd"
     },
     {
@@ -500,9 +500,9 @@
         "x": 3,
         "y": 5
       },
-      "height": 2,
-      "buildingBlockInstanceId": "8af118f0-0e4a-40b5-af1a-64adaf54d936",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 24,
+      "buildingBlockInstanceId": "3dfb5043-7a85-4949-b99a-622d8d7bf810",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "83e20619-7bed-46d9-9a58-8eaf1b0f2cdc"
     },
     {
@@ -511,9 +511,9 @@
         "x": 4,
         "y": 5
       },
-      "height": 3,
-      "buildingBlockInstanceId": "f9fa5afe-3256-46a4-943c-c4b77e802746",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 26,
+      "buildingBlockInstanceId": "6b3300c3-53c2-4469-93fd-bcd5498007f6",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "5f760121-001f-4190-9df2-55d4814dc62f"
     },
     {
@@ -522,9 +522,9 @@
         "x": 3,
         "y": 6
       },
-      "height": 4,
-      "buildingBlockInstanceId": "a3b96fb2-c33c-4671-888e-6feef52c7cbd",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 20,
+      "buildingBlockInstanceId": "ab4c2516-0b74-4708-baf0-648b18bc4e3a",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "dee100c4-88f0-4cf8-bf33-7239d8aa0240"
     },
     {
@@ -533,9 +533,9 @@
         "x": 4,
         "y": 6
       },
-      "height": 5,
-      "buildingBlockInstanceId": "361eaf39-bd96-467f-8838-1eb5fa08c53c",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 21,
+      "buildingBlockInstanceId": "65b67b8e-0542-47b8-a19d-6a231bdf100d",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "bc646b78-92f3-46f2-a74a-b4625c0eebcc"
     },
     {
@@ -544,9 +544,9 @@
         "x": 3,
         "y": 7
       },
-      "height": 6,
-      "buildingBlockInstanceId": "97f7e7a0-3224-4e63-a5de-265aafba4a07",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 17,
+      "buildingBlockInstanceId": "80315b48-cadf-47e3-a354-de022753f951",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "bfe1b3d1-fe8e-42e9-a5ef-981c7b191a87"
     },
     {
@@ -555,9 +555,9 @@
         "x": 4,
         "y": 7
       },
-      "height": 7,
-      "buildingBlockInstanceId": "ae1eafc5-5f46-401a-9b24-7406c4afa9f4",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 18,
+      "buildingBlockInstanceId": "63fe809e-b08d-4363-9b8b-19cdd57bd832",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "649900dd-121d-400e-afd4-e7ccbd299aa9"
     },
     {
@@ -566,9 +566,9 @@
         "x": 5,
         "y": 6
       },
-      "height": 8,
-      "buildingBlockInstanceId": "833cfa14-b807-467b-95fd-6ca6b80fc3d9",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 22,
+      "buildingBlockInstanceId": "682a2e5f-495a-4fe0-aaca-4312b9f940ef",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "9d4a4228-7aa0-4f10-b150-f6d21d12d867"
     },
     {
@@ -577,9 +577,9 @@
         "x": 5,
         "y": 7
       },
-      "height": 9,
-      "buildingBlockInstanceId": "ca7af36b-6e96-4d6d-9453-5a6104b95824",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 19,
+      "buildingBlockInstanceId": "f7e420e0-0443-45d1-a372-60af86e4a18f",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "33140ba2-18d9-4cdd-98f1-07badd688f03"
     },
     {
@@ -588,9 +588,9 @@
         "x": 1,
         "y": 7
       },
-      "height": 10,
-      "buildingBlockInstanceId": "43a772e0-9734-4a7b-a51c-6ada45efb558",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 15,
+      "buildingBlockInstanceId": "b373e2f8-c8f7-4a7d-8902-842a5ec62399",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "5a716e1f-3616-419d-be02-0e525a0fa159"
     },
     {
@@ -599,9 +599,9 @@
         "x": 2,
         "y": 7
       },
-      "height": 11,
-      "buildingBlockInstanceId": "3d6f7dc5-aafb-4818-a6da-425720461770",
-      "floorBlockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
+      "height": 16,
+      "buildingBlockInstanceId": "aa705d5f-171b-4d4c-a99b-602c4e50e801",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "0ffec63a-1c88-4604-b0b0-71973b4a281b"
     },
     {
@@ -819,9 +819,9 @@
         "x": 0,
         "y": 8
       },
-      "height": 0,
-      "buildingBlockInstanceId": "2801dfcc-df36-4f31-9458-81199ed9366a",
-      "floorBlockId": "70629e7b-1495-424f-9977-22bc7c38aede",
+      "height": 6,
+      "buildingBlockInstanceId": "e49d60d0-72bf-4874-b9dc-ca695acf4e11",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "b3557b79-5a7a-45c6-884c-b815b0f130db"
     },
     {
@@ -830,9 +830,9 @@
         "x": 1,
         "y": 8
       },
-      "height": 1,
-      "buildingBlockInstanceId": "8f0255e8-e32c-4d7f-afa1-d2d2ea4d91aa",
-      "floorBlockId": "70629e7b-1495-424f-9977-22bc7c38aede",
+      "height": 9,
+      "buildingBlockInstanceId": "bcc18570-38be-47a3-8e7a-6a62c9bdf274",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "41826385-7192-466a-bcc1-aebabdf36d6c"
     },
     {
@@ -841,9 +841,9 @@
         "x": 0,
         "y": 9
       },
-      "height": 2,
-      "buildingBlockInstanceId": "131f4b76-b7af-4bf3-a54b-e4af2b57d56c",
-      "floorBlockId": "70629e7b-1495-424f-9977-22bc7c38aede",
+      "height": 7,
+      "buildingBlockInstanceId": "39f77bdb-714e-485a-b1d7-96f445df4c20",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "2053f3f9-15e2-45b6-8e81-91b1246969ed"
     },
     {
@@ -852,9 +852,9 @@
         "x": 1,
         "y": 9
       },
-      "height": 3,
-      "buildingBlockInstanceId": "ea4917d7-27fd-45b0-82db-6307e301e22d",
-      "floorBlockId": "70629e7b-1495-424f-9977-22bc7c38aede",
+      "height": 10,
+      "buildingBlockInstanceId": "86cc2b73-a219-448e-b244-90e674d74a00",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "6d239015-319e-4004-a442-4ffc7cb0d40a"
     },
     {
@@ -863,9 +863,9 @@
         "x": 0,
         "y": 10
       },
-      "height": 4,
-      "buildingBlockInstanceId": "bda38373-1f57-48f3-b9c8-3ae0bce9fe6c",
-      "floorBlockId": "70629e7b-1495-424f-9977-22bc7c38aede",
+      "height": 8,
+      "buildingBlockInstanceId": "2d5d9919-b5d5-40ab-93fb-bfc5b10575e3",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "82574c70-b9b7-4733-8477-70530fc02906"
     },
     {
@@ -874,9 +874,9 @@
         "x": 1,
         "y": 10
       },
-      "height": 5,
-      "buildingBlockInstanceId": "b33f2cbf-5e66-4cd9-803e-045a6da82e09",
-      "floorBlockId": "70629e7b-1495-424f-9977-22bc7c38aede",
+      "height": 11,
+      "buildingBlockInstanceId": "d0ac1b23-8d57-4cd9-8417-446f0fefe68e",
+      "floorBlockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "id": "201bc6c5-48d0-4c8d-b5a7-51e62837c5bc"
     },
     {
@@ -4503,7 +4503,7 @@
       "id": "511bb5d9-49b9-4906-a8b3-5c91be307f49"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "b1d6a1f6-dba8-49d0-a779-b588ec42b142",
       "position": {
         "x": 3.0,
@@ -4526,7 +4526,7 @@
       "id": "6f1a626c-d34e-404f-8684-01ef13cc1577"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "c545a0e4-28d6-4390-87ac-b0e1b5bcaf09",
       "position": {
         "x": 2.962542,
@@ -4549,7 +4549,7 @@
       "id": "68df78ac-ecb0-4cc1-8eb1-d805393de1fe"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "c545a0e4-28d6-4390-87ac-b0e1b5bcaf09",
       "position": {
         "x": 2.96798134,
@@ -4572,7 +4572,7 @@
       "id": "43c2513c-1be7-408b-b7b6-59775dcf83ed"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "b1d6a1f6-dba8-49d0-a779-b588ec42b142",
       "position": {
         "x": 4.0,
@@ -4595,7 +4595,7 @@
       "id": "7d707a03-159c-4089-bb9a-79ae19bddb65"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "fcdcdf51-a031-420c-b6be-8abdcf08c9cd",
       "position": {
         "x": 3.0,
@@ -4618,7 +4618,7 @@
       "id": "d1a6a2c5-8c78-4ee5-a640-ff4f948f366a"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "c545a0e4-28d6-4390-87ac-b0e1b5bcaf09",
       "position": {
         "x": 2.73316574,
@@ -4641,7 +4641,7 @@
       "id": "1b7d8b3f-024b-4b51-8af8-06ff5d134b25"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "c545a0e4-28d6-4390-87ac-b0e1b5bcaf09",
       "position": {
         "x": 2.767253,
@@ -4664,7 +4664,7 @@
       "id": "36350dc3-3cfa-4336-83ec-2adfb3130b4e"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "c545a0e4-28d6-4390-87ac-b0e1b5bcaf09",
       "position": {
         "x": 2.77907276,
@@ -5412,56 +5412,6 @@
     },
     {
       "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 3.5,
-        "y": 4.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "d72493b5-d810-44d6-83d9-00a0f018897e"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 4.5,
-        "y": 4.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "42206749-bd25-4dee-a28f-f03a548abc9e"
-    },
-    {
-      "Version": 3,
       "blockId": "a319e464-772f-4912-9ebe-4462516ba0ca",
       "position": {
         "x": 4.5,
@@ -5745,252 +5695,6 @@
       "backWallBlockId": "31895b1f-fe3f-4e6a-bfcc-ddd42fa6fc38",
       "randSeed": 0,
       "id": "5d90b93c-f99e-4302-8c02-23029231c69c"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 5.5,
-        "y": 7.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {},
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "ca7af36b-6e96-4d6d-9453-5a6104b95824"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 4.5,
-        "y": 7.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "ae1eafc5-5f46-401a-9b24-7406c4afa9f4"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 4.5,
-        "y": 5.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "f9fa5afe-3256-46a4-943c-c4b77e802746"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 3.5,
-        "y": 5.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "8af118f0-0e4a-40b5-af1a-64adaf54d936"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 5.5,
-        "y": 6.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "833cfa14-b807-467b-95fd-6ca6b80fc3d9"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 4.5,
-        "y": 6.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "361eaf39-bd96-467f-8838-1eb5fa08c53c"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 3.5,
-        "y": 6.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "a3b96fb2-c33c-4671-888e-6feef52c7cbd"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 3.5,
-        "y": 7.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "97f7e7a0-3224-4e63-a5de-265aafba4a07"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 2.5,
-        "y": 7.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {},
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "3d6f7dc5-aafb-4818-a6da-425720461770"
-    },
-    {
-      "Version": 3,
-      "blockId": "66b4e303-60a9-497e-8778-019e13fa4ecc",
-      "position": {
-        "x": 1.5,
-        "y": 7.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "43a772e0-9734-4a7b-a51c-6ada45efb558"
     },
     {
       "Version": 3,
@@ -6289,31 +5993,6 @@
       "backWallBlockId": null,
       "randSeed": 0,
       "id": "bb3a9cd6-22b8-4a1a-9e9d-57e2587ee796"
-    },
-    {
-      "Version": 3,
-      "blockId": "73cc7d1e-935d-47f9-bdee-b29e7cd1b71a",
-      "position": {
-        "x": 0.5,
-        "y": 6.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "bfcfdcde-cd47-4be8-a8b1-d9b57fef03f6"
     },
     {
       "Version": 3,
@@ -7742,154 +7421,6 @@
     },
     {
       "Version": 3,
-      "blockId": "70629e7b-1495-424f-9977-22bc7c38aede",
-      "position": {
-        "x": 0.5,
-        "y": 8.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "2801dfcc-df36-4f31-9458-81199ed9366a"
-    },
-    {
-      "Version": 3,
-      "blockId": "70629e7b-1495-424f-9977-22bc7c38aede",
-      "position": {
-        "x": 1.5,
-        "y": 8.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "8f0255e8-e32c-4d7f-afa1-d2d2ea4d91aa"
-    },
-    {
-      "Version": 3,
-      "blockId": "70629e7b-1495-424f-9977-22bc7c38aede",
-      "position": {
-        "x": 0.5,
-        "y": 9.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "131f4b76-b7af-4bf3-a54b-e4af2b57d56c"
-    },
-    {
-      "Version": 3,
-      "blockId": "70629e7b-1495-424f-9977-22bc7c38aede",
-      "position": {
-        "x": 1.5,
-        "y": 9.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "ea4917d7-27fd-45b0-82db-6307e301e22d"
-    },
-    {
-      "Version": 3,
-      "blockId": "70629e7b-1495-424f-9977-22bc7c38aede",
-      "position": {
-        "x": 0.5,
-        "y": 10.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "bda38373-1f57-48f3-b9c8-3ae0bce9fe6c"
-    },
-    {
-      "Version": 3,
-      "blockId": "70629e7b-1495-424f-9977-22bc7c38aede",
-      "position": {
-        "x": 1.5,
-        "y": 10.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {},
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "b33f2cbf-5e66-4cd9-803e-045a6da82e09"
-    },
-    {
-      "Version": 3,
       "blockId": "26a8b7bf-ca67-4674-a660-4c9c841c7f6a",
       "position": {
         "x": 0.0,
@@ -8104,7 +7635,7 @@
       "id": "67c53c95-b29e-4e7e-93dd-8167548a5980"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "b1d6a1f6-dba8-49d0-a779-b588ec42b142",
       "position": {
         "x": -2.98023224E-08,
@@ -8127,7 +7658,7 @@
       "id": "186a3351-b86d-424b-b12c-9eeb0a8a7a42"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "0280b823-5836-4a8d-9e19-35bf6aa78065",
       "position": {
         "x": 0.05790949,
@@ -8150,7 +7681,7 @@
       "id": "91725d7e-7e29-4282-8384-cd04a2bad6bf"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "b1d6a1f6-dba8-49d0-a779-b588ec42b142",
       "position": {
         "x": -2.98023224E-08,
@@ -8173,7 +7704,7 @@
       "id": "83802627-1ab2-4f89-801f-2e65d69b98c7"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "c545a0e4-28d6-4390-87ac-b0e1b5bcaf09",
       "position": {
         "x": -0.000333398581,
@@ -8196,7 +7727,7 @@
       "id": "a07badff-f0cb-45f5-9fdb-7cdb36ad154c"
     },
     {
-      "Version": 1,
+      "Version": 3,
       "blockId": "c545a0e4-28d6-4390-87ac-b0e1b5bcaf09",
       "position": {
         "x": -0.0154281557,
@@ -8538,56 +8069,6 @@
       "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
       "position": {
         "x": 2.5,
-        "y": 8.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "6b799640-b8dd-407c-9996-56e435e6ec61"
-    },
-    {
-      "Version": 3,
-      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
-      "position": {
-        "x": 3.5,
-        "y": 8.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "9ef2f652-4b7e-4cc7-ba91-c3ed572b8dca"
-    },
-    {
-      "Version": 3,
-      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
-      "position": {
-        "x": 2.5,
         "y": 9.5
       },
       "height": 0.2,
@@ -8607,31 +8088,6 @@
       "backWallBlockId": null,
       "randSeed": 0,
       "id": "264cd8f9-fc4c-4bc8-a1c3-63f712d63139"
-    },
-    {
-      "Version": 3,
-      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
-      "position": {
-        "x": 4.5,
-        "y": 8.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {
-        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
-      },
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "ff2e7136-9014-4672-b24f-b2b322a9e49a"
     },
     {
       "Version": 3,
@@ -8893,29 +8349,6 @@
       "backWallBlockId": null,
       "randSeed": 1040067999,
       "id": "e3f2ec9c-023a-4d20-b01e-8284f208c5f2"
-    },
-    {
-      "Version": 3,
-      "blockId": "73cc7d1e-935d-47f9-bdee-b29e7cd1b71a",
-      "position": {
-        "x": 0.5,
-        "y": 7.5
-      },
-      "height": 0.2,
-      "scale": 1.0,
-      "rotation": 0.0,
-      "flipped": false,
-      "attachedWall": "",
-      "modifierValues": {},
-      "parentInstanceId": null,
-      "variantId": null,
-      "variantRootInstanceId": null,
-      "variantRootRotation": 0.0,
-      "cutoutBackBlockId": null,
-      "cutoutFrontBlockId": null,
-      "backWallBlockId": null,
-      "randSeed": 0,
-      "id": "b05df666-b7bc-4443-9fb7-d90938e1adfb"
     },
     {
       "Version": 3,
@@ -9730,6 +9163,575 @@
       "backWallBlockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
       "randSeed": 0,
       "id": "a8ab88c3-459b-4d92-bbd5-2e3c2e8cfe2f"
+    },
+    {
+      "Version": 3,
+      "blockId": "73cc7d1e-935d-47f9-bdee-b29e7cd1b71a",
+      "position": {
+        "x": 0.5,
+        "y": 6.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "bfcfdcde-cd47-4be8-a8b1-d9b57fef03f6"
+    },
+    {
+      "Version": 3,
+      "blockId": "73cc7d1e-935d-47f9-bdee-b29e7cd1b71a",
+      "position": {
+        "x": 0.5,
+        "y": 7.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {},
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "b05df666-b7bc-4443-9fb7-d90938e1adfb"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 1.5,
+        "y": 7.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "b373e2f8-c8f7-4a7d-8902-842a5ec62399"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 2.5,
+        "y": 7.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "aa705d5f-171b-4d4c-a99b-602c4e50e801"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 3.5,
+        "y": 7.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "80315b48-cadf-47e3-a354-de022753f951"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 5.5,
+        "y": 7.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "f7e420e0-0443-45d1-a372-60af86e4a18f"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 5.5,
+        "y": 6.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "682a2e5f-495a-4fe0-aaca-4312b9f940ef"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 3.5,
+        "y": 6.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "ab4c2516-0b74-4708-baf0-648b18bc4e3a"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 4.5,
+        "y": 4.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "59c0e885-e97f-48c8-9d3f-3c9e94f0b460"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 3.5,
+        "y": 4.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "afe13d43-7cf7-4376-8605-8d27d3208c20"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 3.5,
+        "y": 5.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "3dfb5043-7a85-4949-b99a-622d8d7bf810"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 4.5,
+        "y": 5.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {},
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "6b3300c3-53c2-4469-93fd-bcd5498007f6"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 4.5,
+        "y": 6.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "65b67b8e-0542-47b8-a19d-6a231bdf100d"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 4.5,
+        "y": 7.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "63fe809e-b08d-4363-9b8b-19cdd57bd832"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 4.5,
+        "y": 8.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "ff2e7136-9014-4672-b24f-b2b322a9e49a"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 3.5,
+        "y": 8.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "9ef2f652-4b7e-4cc7-ba91-c3ed572b8dca"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 2.5,
+        "y": 8.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "6b799640-b8dd-407c-9996-56e435e6ec61"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 0.5,
+        "y": 8.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "e49d60d0-72bf-4874-b9dc-ca695acf4e11"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 0.5,
+        "y": 9.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "39f77bdb-714e-485a-b1d7-96f445df4c20"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 1.5,
+        "y": 8.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "bcc18570-38be-47a3-8e7a-6a62c9bdf274"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 1.5,
+        "y": 9.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "86cc2b73-a219-448e-b244-90e674d74a00"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 1.5,
+        "y": 10.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {},
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "d0ac1b23-8d57-4cd9-8417-446f0fefe68e"
+    },
+    {
+      "Version": 3,
+      "blockId": "abb6d5a5-b0e3-4863-8fb7-0ae734bb3e80",
+      "position": {
+        "x": 0.5,
+        "y": 10.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "flipped": false,
+      "attachedWall": "",
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\"overlayCount\":0,\"overlayBuildingBlockConfigs\":[],\"overlaySides\":[],\"overlayRotations\":[]}"
+      },
+      "parentInstanceId": null,
+      "variantId": null,
+      "variantRootInstanceId": null,
+      "variantRootRotation": 0.0,
+      "cutoutBackBlockId": null,
+      "cutoutFrontBlockId": null,
+      "backWallBlockId": null,
+      "randSeed": 0,
+      "id": "2d5d9919-b5d5-40ab-93fb-bfc5b10575e3"
     }
   ],
   "binaryData": {}

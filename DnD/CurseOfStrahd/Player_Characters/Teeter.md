@@ -31,6 +31,8 @@ controller: jisa
 	- Runs away because of their patron
 		- Patron ordered them to run away
 ### During Campaign
+- Short, really pale (skin and hair)
+- Rodent like limbs
 ### Quick Notes
 ## Tags
 #strahd #pc 

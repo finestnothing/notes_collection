@@ -22,3 +22,6 @@ Death_House files begin at [deathhouse_entrance](Death_House/floor1/deathhouse_e
 	- See [Mists of Ravenloft](https://www.dndbeyond.com/sources/cos/the-lands-of-barovia#MistsofRavenloft) For forcing characters into the house
 	- Cannot leave until the ending in the [deathhouse_ritual_chamber](Death_House/dungeon/deathhouse_ritual_chamber.md)
 - Begins at [deathhouse_entrance](Death_House/floor1/deathhouse_entrance.md)
+
+## Session Notes
+- [Session_Notes_strahd_2022-04-07](../Session_Notes/Session_Notes_strahd_2022-04-07.md)

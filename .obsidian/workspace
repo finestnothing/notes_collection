@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
+            "file": "Daily_Notes/2022-04-07.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
+                "file": "Daily_Notes/2022-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
+                "file": "Daily_Notes/2022-04-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md"
+                "file": "Daily_Notes/2022-04-07.md"
               }
             }
           },
@@ -149,6 +149,8 @@
   },
   "active": "7d6c1c1b76f1582a",
   "lastOpenFiles": [
+    "Daily_Notes/2022-04-07.md",
+    "Daily_Notes/2022-04-08.md",
     "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
     "DnD/CurseOfStrahd/Overview.md",
     "DnD/CurseOfStrahd/Player_Characters/Specter.md",
@@ -156,8 +158,6 @@
     "DnD/CurseOfStrahd/Player_Characters/Tierne.md",
     "DnD/CurseOfStrahd/NPCs/Strahd_von_Zarovich.md",
     "DnD/CurseOfStrahd/Barovia/Barovia.md",
-    "DnD/CurseOfStrahd/Barovia/baroviadm.jpg",
-    "Daily_Notes/2022-04-07.md",
-    "DnD/CurseOfStrahd/Player_Characters/Miazorwyn.md"
+    "DnD/CurseOfStrahd/Barovia/baroviadm.jpg"
   ]
 }

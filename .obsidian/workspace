@@ -130,14 +130,6 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "6b6331f5382fed29",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2

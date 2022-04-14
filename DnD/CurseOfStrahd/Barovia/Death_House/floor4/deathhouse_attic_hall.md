@@ -28,3 +28,4 @@ Floor: `= this.floor`
 [deathhouse_attic_storage_room](deathhouse_attic_storage_room.md)
 [deathhouse_spare_bedroom_2](deathhouse_spare_bedroom_2.md)
 [deathhouse_childrens_room](deathhouse_childrens_room.md)
+[deathhouse_spare_bedroom](deathhouse_spare_bedroom.md)

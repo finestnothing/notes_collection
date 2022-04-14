@@ -11,6 +11,7 @@ status: inprogress
 ## Description
 
 ## Notes
+- Got started [2022-04-14](../Daily_Notes/2022-04-14.md)
 
 ### Tags
 #csc177 #school 

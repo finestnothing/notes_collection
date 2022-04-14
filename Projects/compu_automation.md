@@ -9,7 +9,8 @@ status: inprogress
 ## `= this.start_date` - `= this.finish_date`
 ## Status: `= this.status`
 ## Description
-Automate video download from google drive, course creation, billing side setup, etc
+- Made on [2022-04-01](../Daily_Notes/2022-04-01.md)
+- [ ] Automate video download from google drive, course creation, billing side setup, etc
 - [ ] Complete CompostU Course Information google sheet
 	- [x] #compost2020
 	- [x] #compost2021

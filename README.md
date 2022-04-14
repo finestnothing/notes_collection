@@ -1,5 +1,5 @@
-# Alecs Notes
-Made in [https://obsidian.md/](https://obsidian.md/). Links to other files should still work without it.
+# Notes Collection
+Made in [https://obsidian.md/](https://obsidian.md/). Everything should work fine outside of Obsidian.
 
 ## Projects:
 ```dataview
@@ -46,6 +46,7 @@ SORT rating desc
 ```
 
 ## Templates:
+[template_list](Templates/template_list.md)
 ```dataview
 TABLE WITHOUT ID
 	file.link as File

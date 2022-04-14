@@ -15,6 +15,7 @@ Include academic and professional information, code examples
 
 ## Notes
 [2022-03-31](../Daily_Notes/2022-03-31.md) - Found a good reference website today [ericwadkins portfolio](http://www.ericwadkins.com/)
+[2022-04-02](../Daily_Notes/2022-04-02.md) - Some design ideas
 
 ### Tags
 #professional #web #coding #project

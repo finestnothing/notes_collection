@@ -18,7 +18,6 @@
 	- [ ] Brush Teeth
 - Day
 	- [ ] Work on Udacity course
-	- [ ] Prep DnD
 - Evening
 	- [ ] Brush Teeth Night
 	- [ ] Take supplements

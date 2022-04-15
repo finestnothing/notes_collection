@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/senior_project.md",
+            "file": "Daily_Notes/2022-04-15.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369,
-    "collapsed": true
+    "width": 369
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/senior_project.md",
+                "file": "Daily_Notes/2022-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/senior_project.md",
+                "file": "Daily_Notes/2022-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/senior_project.md"
+                "file": "Daily_Notes/2022-04-15.md"
               }
             }
           },
@@ -149,15 +148,15 @@
   },
   "active": "ba44a06c6afec9db",
   "lastOpenFiles": [
-    "Projects/senior_project.md",
+    "Daily_Notes/2022-04-15.md",
     "Daily_Notes/2022-04-14.md",
+    "Projects/senior_project.md",
     "Daily_Notes/2022-04-18.md",
     "Templates/daily_note_template.md",
     "unlinked files output.md",
     "README.md",
     "Daily_Notes/2022-06-13.md",
     "Daily_Notes/2022-07-04.md",
-    "Daily_Notes/2022-07-29.md",
-    "Reviews/Books/rise_of_the_mages.md"
+    "Daily_Notes/2022-07-29.md"
   ]
 }

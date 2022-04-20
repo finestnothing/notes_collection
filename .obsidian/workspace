@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-04-19.md",
+            "file": "Daily_Notes/2022-04-20.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bundt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-04-19.md",
+                "file": "Daily_Notes/2022-04-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-04-19.md",
+                "file": "Daily_Notes/2022-04-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-04-19.md"
+                "file": "Daily_Notes/2022-04-20.md"
               }
             }
           },
@@ -149,6 +150,8 @@
   },
   "active": "ba44a06c6afec9db",
   "lastOpenFiles": [
+    "Daily_Notes/2022-04-20.md",
+    "Projects/senior_project.md",
     "Daily_Notes/2022-04-19.md",
     "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
     "Daily_Notes/2022-04-18.md",
@@ -156,8 +159,6 @@
     "Daily_Notes/2022-04-16.md",
     "Attachments/corne_keymap.pdf",
     "Projects/keymap_efficiency.md",
-    "Daily_Notes/2022-04-15.md",
-    "Projects/learning_steno.md",
-    "Reviews/Restaurants/smokin_fins.md"
+    "Daily_Notes/2022-04-15.md"
   ]
 }

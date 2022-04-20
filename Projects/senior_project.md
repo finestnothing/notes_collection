@@ -11,11 +11,14 @@ status: inprogress
 ## Description
 
 ## Notes
-- [ ] Make better light-assignment
+- [x] Make better light-assignment
 - [x] Retrain ML model
 	- In progress, started [2022-04-14](../Daily_Notes/2022-04-14.md) 6:00PM
 	- Changed to only Red/Yellow/Green for this training [2022-04-14](../Daily_Notes/2022-04-14.md)
 - [ ] work on README
+- [ ] Need to run model in openvino
+- [ ] Put it in DL workbench, see if that can improve performance
+- [ ] Presentation Work
 
 ### Maintenance
 - Tested with python 3.9.12

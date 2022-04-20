@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/classification_models.md",
+            "file": "Daily_Notes/2022-04-20.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369
+    "width": 369,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/classification_models.md",
+                "file": "Daily_Notes/2022-04-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/classification_models.md",
+                "file": "Daily_Notes/2022-04-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/classification_models.md"
+                "file": "Daily_Notes/2022-04-20.md"
               }
             }
           },
@@ -148,8 +149,8 @@
   },
   "active": "ba44a06c6afec9db",
   "lastOpenFiles": [
-    "Projects/classification_models.md",
     "Daily_Notes/2022-04-20.md",
+    "Projects/classification_models.md",
     "Daily_Notes/2022-04-19.md",
     "Reviews/Books/ready_player_two.md",
     "Reviews/Books/ready_player_one.md",

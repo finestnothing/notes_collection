@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -150,6 +150,7 @@
   "active": "ba44a06c6afec9db",
   "lastOpenFiles": [
     "Daily_Notes/2022-04-19.md",
+    "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
     "Daily_Notes/2022-04-18.md",
     "Projects/classification_models.md",
     "Daily_Notes/2022-04-16.md",
@@ -157,7 +158,6 @@
     "Projects/keymap_efficiency.md",
     "Daily_Notes/2022-04-15.md",
     "Projects/learning_steno.md",
-    "Reviews/Restaurants/smokin_fins.md",
-    "Reviews/Restaurants/nothing_bundt_cakes.md"
+    "Reviews/Restaurants/smokin_fins.md"
   ]
 }

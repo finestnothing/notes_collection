@@ -13,7 +13,7 @@ end: 8:00
 - [x] Shorttrooper hook
 - [x] Mordiva Hook
 - [x] Jisa Hook
-- [ ] Fortunes of Ravenloft Setup
+- [x] Fortunes of Ravenloft Setup
 	- https://www.dndbeyond.com/sources/cos/into-the-mists#FortunesofRavenloft
 ### General
 - Specter took playing cards

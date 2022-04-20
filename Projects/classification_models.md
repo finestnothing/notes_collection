@@ -14,7 +14,7 @@ status: inprogress
 - Got started [2022-04-14](../Daily_Notes/2022-04-14.md)
 - [x] Get Models work done [2022-04-19](../Daily_Notes/2022-04-19.md)
 	- Models should be all set up
-- [ ] Feature extraction (optional)
+- [x] Feature extraction (optional)
 - [ ] Get report done [2022-04-20](../Daily_Notes/2022-04-19.md)
 - [ ] Turn in project [2022-04-20](../Daily_Notes/2022-04-19.md)
 

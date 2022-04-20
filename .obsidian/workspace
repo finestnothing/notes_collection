@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-04-20.md",
+            "file": "Projects/classification_models.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369,
-    "collapsed": true
+    "width": 369
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-04-20.md",
+                "file": "Projects/classification_models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-04-20.md",
+                "file": "Projects/classification_models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-04-20.md"
+                "file": "Projects/classification_models.md"
               }
             }
           },
@@ -149,6 +148,7 @@
   },
   "active": "ba44a06c6afec9db",
   "lastOpenFiles": [
+    "Projects/classification_models.md",
     "Daily_Notes/2022-04-20.md",
     "Daily_Notes/2022-04-19.md",
     "Reviews/Books/ready_player_two.md",
@@ -157,7 +157,6 @@
     "Reviews/Books/gideon_the_ninth.md",
     "Reviews/Books/altered_carbon.md",
     "Reviews/Books/rise_of_the_mages.md",
-    "Templates/book_template.md",
-    "Projects/senior_project.md"
+    "Templates/book_template.md"
   ]
 }

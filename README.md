@@ -11,7 +11,7 @@ sort status asc
 ```
 
 ## Books:
-Current: [ready_player_one](Reviews/Books/ready_player_one.md)
+Current: [ready_player_two](Reviews/Books/ready_player_two.md)
 Favorite: [ready_player_one](Reviews/Books/ready_player_one.md)
 ```dataview
 TABLE WITHOUT ID
@@ -19,7 +19,7 @@ TABLE WITHOUT ID
 	genre as Genre,
 	rating as Rating
 FROM "Reviews/Books"
-WHERE rating >= 6
+WHERE rating >= 6 OR status = "inprogress"
 SORT rating desc
 ```
 

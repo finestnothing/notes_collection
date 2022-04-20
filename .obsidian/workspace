@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,14 +150,14 @@
   "active": "ba44a06c6afec9db",
   "lastOpenFiles": [
     "Daily_Notes/2022-04-20.md",
-    "Projects/senior_project.md",
     "Daily_Notes/2022-04-19.md",
-    "DnD/CurseOfStrahd/Session_Notes/Session_Notes_strahd_2022-04-07.md",
-    "Daily_Notes/2022-04-18.md",
-    "Projects/classification_models.md",
-    "Daily_Notes/2022-04-16.md",
-    "Attachments/corne_keymap.pdf",
-    "Projects/keymap_efficiency.md",
-    "Daily_Notes/2022-04-15.md"
+    "Reviews/Books/ready_player_two.md",
+    "Reviews/Books/ready_player_one.md",
+    "README.md",
+    "Reviews/Books/gideon_the_ninth.md",
+    "Reviews/Books/altered_carbon.md",
+    "Reviews/Books/rise_of_the_mages.md",
+    "Templates/book_template.md",
+    "Projects/senior_project.md"
   ]
 }

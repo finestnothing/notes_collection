@@ -7,6 +7,7 @@ book: 1
 rating: 9
 started: February 2022
 finished: 03/16/2022
+status: complete
 ---
 # `= this.title`
 ## By `= this.author`

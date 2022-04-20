@@ -5,8 +5,9 @@ genre:
 series:
 book:
 rating:
-started:
-finished:
+started: {{date}}
+finished: 
+status: inprogress
 ---
 # `= this.title`
 ## By `= this.author`

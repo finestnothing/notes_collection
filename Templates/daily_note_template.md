@@ -29,6 +29,7 @@ TABLE WITHOUT ID
 	file.link as Name,
 	status as Status
 FROM "Projects"
+WHERE status != "finished"
 SORT status desc
 ```
 

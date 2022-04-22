@@ -9,7 +9,7 @@ status: idea
 ## `= this.start_date` - `= this.finish_date`
 ## Status: `= this.status`
 ## Description
-- Datascience on word usage, keymaps, etc
+- Data science on word usage, keymaps, etc
 - Maybe ML for most optimized keymap?
 
 ## Notes

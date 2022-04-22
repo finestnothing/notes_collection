@@ -6,60 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Reviews",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Daily_Notes",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Work",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Templates",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:DnD/CurseOfStrahd",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:Projects",
-      "color": {
-        "a": 1,
-        "rgb": 65322
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.3,
-  "nodeSizeMultiplier": 1.9375,
-  "lineSizeMultiplier": 1.325,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.261904761904762,
-  "repelStrength": 20,
-  "linkStrength": 0.660714285714286,
-  "linkDistance": 30,
-  "scale": 0.2566614077085401,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.38230109687699754,
   "close": false
 }

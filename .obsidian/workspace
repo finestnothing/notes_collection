@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-04-22.md",
+            "file": "Daily_Notes/2022-04-24.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-04-22.md",
+                "file": "Daily_Notes/2022-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-04-22.md",
+                "file": "Daily_Notes/2022-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-04-22.md"
+                "file": "Daily_Notes/2022-04-24.md"
               }
             }
           },
@@ -138,9 +138,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "f8efa1bb19ccbc04",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -149,6 +157,8 @@
   },
   "active": "a613dcdf2377e543",
   "lastOpenFiles": [
+    "Daily_Notes/2022-04-24.md",
+    "Daily_Notes/2022-04-23.md",
     "Daily_Notes/2022-04-22.md",
     "Templates/daily_note_template.md",
     "Projects/kubernetes_server.md",
@@ -156,8 +166,6 @@
     "Projects/senior_project.md",
     "README.md",
     "Projects/classification_models.md",
-    "Daily_Notes/2022-04-21.md",
-    "Projects/portfolio_website.md",
-    "Daily_Notes/2022-04-19.md"
+    "Daily_Notes/2022-04-21.md"
   ]
 }

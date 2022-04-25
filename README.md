@@ -11,8 +11,8 @@ sort status asc
 ```
 
 ## Books:
-Current: [ready_player_two](Reviews/Books/ready_player_two.md)
-Favorite: [ready_player_one](Reviews/Books/ready_player_one.md)
+Current: [ready_player_two](Media/Books/ready_player_two.md)
+Favorite: [ready_player_one](Media/Books/ready_player_one.md)
 ```dataview
 TABLE WITHOUT ID
 	file.link as Name,
@@ -24,7 +24,7 @@ SORT rating desc
 ```
 
 ## Recipes:
-Favorite: [sourdough_dough_pizza_crust](Reviews/Recipes/sourdough_dough_pizza_crust.md)
+Favorite: [sourdough_dough_pizza_crust](Media/Recipes/sourdough_dough_pizza_crust.md)
 ```dataview
 TABLE WITHOUT ID
 	file.link as Name,
@@ -35,7 +35,7 @@ SORT rating desc
 ```
 
 ## Restaurants:
-Favorite: [suh_sushi_korean_bbq](Reviews/Restaurants/suh_sushi_korean_bbq.md)
+Favorite: [suh_sushi_korean_bbq](Media/Restaurants/suh_sushi_korean_bbq.md)
 ```dataview
 TABLE WITHOUT ID
 	file.link as Name,

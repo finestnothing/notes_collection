@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-04-25.md",
+            "file": "Daily_Notes/2022-04-26.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-04-25.md",
+                "file": "Daily_Notes/2022-04-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-04-25.md",
+                "file": "Daily_Notes/2022-04-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-04-25.md"
+                "file": "Daily_Notes/2022-04-26.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "a613dcdf2377e543",
   "lastOpenFiles": [
+    "Daily_Notes/2022-04-26.md",
     "Daily_Notes/2022-04-25.md",
     "Daily_Notes/2022-04-20.md",
     "Daily_Notes/2022-04-21.md",
@@ -165,7 +166,6 @@
     "Templates/movie_template.md",
     "Templates/template_list.md",
     "Templates/book_template.md",
-    "Projects/cluster_analysis.md",
-    "Projects/classification_models.md"
+    "Projects/cluster_analysis.md"
   ]
 }

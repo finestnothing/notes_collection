@@ -13,8 +13,8 @@ Cluster analysis project for #csc177
 
 ## Notes
 - [ ] ANN Classification
-- [ ] Cluster Analysis
-- [ ] Text Mining
+- [x] Cluster Analysis
+- [x] Text Mining
 
 ### Tags
 #school 

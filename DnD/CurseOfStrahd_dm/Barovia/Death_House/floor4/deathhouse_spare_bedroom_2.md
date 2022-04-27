@@ -20,4 +20,4 @@ Floor: `= this.floor`
 - This web-filled room contains a slender bed, a nightstand, a rocking chair, an empty wardrobe, and a small iron stove.
 ### Interactables
 ### Connected rooms
-[deathhouse_attic_hall](floor4/deathhouse_attic_hall.md)
+[deathhouse_attic_hall](deathhouse_attic_hall.md)

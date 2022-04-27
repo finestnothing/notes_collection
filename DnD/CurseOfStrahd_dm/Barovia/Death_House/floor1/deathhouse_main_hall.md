@@ -28,13 +28,13 @@ Floor: `= this.floor`
 #### Walls
 - Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check, see serpents and skulls inconspicuously woven into the wall designs.
 ### Connected rooms
-- [deathhouse_entrance](floor1/deathhouse_entrance.md)
+- [deathhouse_entrance](deathhouse_entrance.md)
 	- Double wide door 
-- [deathhouse_den_of_wolves](floor1/deathhouse_den_of_wolves.md)
+- [deathhouse_den_of_wolves](deathhouse_den_of_wolves.md)
 	- Door, right of stairs
-- [deathhouse_kitchen](floor1/deathhouse_kitchen.md)
+- [deathhouse_kitchen](deathhouse_kitchen.md)
 	- Door, left of stairs
-- [deathhouse_dining_room](floor1/deathhouse_dining_room.md)
+- [deathhouse_dining_room](deathhouse_dining_room.md)
 	- 2 Doors, left of stairs, both sides of cloakroom
 - [deathhouse_upper_hall](../floor2/deathhouse_upper_hall.md)
 	- Sweeping, red marble staircase

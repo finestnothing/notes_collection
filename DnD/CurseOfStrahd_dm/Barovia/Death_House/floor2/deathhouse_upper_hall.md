@@ -29,13 +29,13 @@ Floor: `= this.floor`
 #### Doors
 - Close inspection and a successful DC 12 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check reveals that the youths aren’t really dancing but fighting off swarms of bats.
 ### Connected rooms
-- [deathhouse_main_hall](floor1/deathhouse_main_hall.md)
+- [deathhouse_main_hall](../floor1/deathhouse_main_hall.md)
 	- Staircase down
-- [deathhouse_conservatory](floor2/deathhouse_conservatory.md)
+- [deathhouse_conservatory](deathhouse_conservatory.md)
 	- Left side
-- [deathhouse_servants_room](floor2/deathhouse_servants_room.md)
+- [deathhouse_servants_room](deathhouse_servants_room.md)
 	- Right side closest to stairs
-- [deathhouse_library](floor2/deathhouse_library.md)
+- [deathhouse_library](deathhouse_library.md)
 	- Right side, furthest from stairs
-- [deathhouse_balcony](floor3/deathhouse_balcony.md)
+- [deathhouse_balcony](../floor3/deathhouse_balcony.md)
 	- Main stairs

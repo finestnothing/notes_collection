@@ -38,5 +38,5 @@ Floor: `= this.floor`
 - A secret door behind the mirror can be found with a successful DC 15 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check. 
 - It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic.
 ### Connected rooms
-[deathhouse_balcony](floor3/deathhouse_balcony.md)
-[deathhouse_attic_hall](floor4/deathhouse_attic_hall.md)
+[deathhouse_balcony](deathhouse_balcony.md)
+[deathhouse_attic_hall](../floor4/deathhouse_attic_hall.md)

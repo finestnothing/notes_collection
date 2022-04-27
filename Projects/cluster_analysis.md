@@ -13,6 +13,7 @@ Cluster analysis project for #csc177
 
 ## Notes
 - [ ] ANN Classification
+	- Going to finish [2022-04-27](../Daily_Notes/2022-04-27.md)
 - [x] Cluster Analysis
 - [x] Text Mining
 

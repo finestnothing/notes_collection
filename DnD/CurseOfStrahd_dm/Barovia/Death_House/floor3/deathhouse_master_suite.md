@@ -33,12 +33,12 @@ Floor: `= this.floor`
 #### Dumbwaiter
 - A Small character can squeeze into the elevator box with a successful DC 10 Dexterity ([Acrobatics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Acrobatics)) check.
 	- The dumbwaiter’s rope-and-pulley mechanism can support 200 pounds of weight before breaking.
-	- Connects to dumbwaiter in [deathhouse_kitchen](floor1/deathhouse_kitchen.md) and [deathhouse_servants_room](../floor2/deathhouse_servants_room.md)
+	- Connects to dumbwaiter in [deathhouse_kitchen](../floor1/deathhouse_kitchen.md) and [deathhouse_servants_room](../floor2/deathhouse_servants_room.md)
 - Small button next to it
-	- Pressing the button rings a bell in the [deathhouse_kitchen](floor1/deathhouse_kitchen.md)
+	- Pressing the button rings a bell in the [deathhouse_kitchen](../floor1/deathhouse_kitchen.md)
 #### Treasure
 - The jewelry box on the vanity is made of silver with gold filigree (worth 75 gp). 
 - It contains three gold rings (worth 25 gp each) and a thin platinum necklace with a topaz pendant (worth 750 gp).
 ### Connected rooms
 [deathhouse_servants_room](../floor2/deathhouse_servants_room.md)
-[deathhouse_balcony](floor3/deathhouse_balcony.md)
+[deathhouse_balcony](deathhouse_balcony.md)

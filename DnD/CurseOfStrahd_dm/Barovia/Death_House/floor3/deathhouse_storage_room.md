@@ -25,4 +25,4 @@ Floor: `= this.floor`
 - A cobweb-covered [broom of animated attack](https://www.dndbeyond.com/monsters/broom-of-animated-attack) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs "appendix D")) leans against the far wall
 - it attacks any creature approaching within 5 feet of it.
 ### Connected rooms
-[deathhouse_balcony](floor3/deathhouse_balcony.md)
+[deathhouse_balcony](deathhouse_balcony.md)

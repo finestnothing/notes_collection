@@ -26,4 +26,4 @@ Floor: `= this.floor`
 - Characters who descend the spiral staircase end up in area 22.
 ### Interactables
 ### Connected rooms
-[deathhouse_attic_hall](floor4/deathhouse_attic_hall.md)
+[deathhouse_attic_hall](deathhouse_attic_hall.md)

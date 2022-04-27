@@ -17,4 +17,4 @@ Cluster analysis project for #csc177
 - [x] Text Mining
 
 ### Tags
-#school 
+#school #csc177 

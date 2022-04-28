@@ -13,4 +13,4 @@
 [dnd_session_notes](dnd_session_notes.md)
 [notes_template](notes_template.md)
 [movie_template](movie_template.md)
-[tv_show](tv_show.md)
+[tv_show_template](tv_show_template.md)

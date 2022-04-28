@@ -5,7 +5,7 @@ series:
 season:
 season_length: 
 rating:
-status: in-progress
+status: inprogress
 started:
 finished: 
 ---

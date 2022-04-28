@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-04-27.md",
+            "file": "Media/Movies/captain_america_the_first_avenger.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369,
+    "width": 319,
     "collapsed": true
   },
   "right": {
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-04-27.md",
+                "file": "Media/Movies/captain_america_the_first_avenger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-04-27.md",
+                "file": "Media/Movies/captain_america_the_first_avenger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-04-27.md"
+                "file": "Media/Movies/captain_america_the_first_avenger.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "a613dcdf2377e543",
   "lastOpenFiles": [
+    "Media/Movies/captain_america_the_first_avenger.md",
     "Daily_Notes/2022-04-27.md",
+    "Templates/daily_note_template.md",
     "Media/mcu_watch_order.md",
+    "Templates/movie_template.md",
+    "Templates/tv_show.md",
+    "Templates/review_template.md",
     "Daily_Notes/2022-04-01.md",
     "Templates/project_template.md",
-    "DnD/CurseOfStrahd_dm/Barovia/Death_House/dungeon/deathhouse_porticullis.md",
-    "Projects/cluster_analysis.md",
-    "Daily_Notes/2022-04-26.md",
-    "Daily_Notes/2022-04-25.md",
-    "Daily_Notes/2022-04-20.md",
-    "Daily_Notes/2022-04-21.md"
+    "DnD/CurseOfStrahd_dm/Barovia/Death_House/dungeon/deathhouse_porticullis.md"
   ]
 }

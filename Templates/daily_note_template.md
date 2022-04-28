@@ -33,6 +33,16 @@ WHERE status != "finished"
 SORT status desc
 ```
 
+### Reviews
+```dataview
+TABLE WITHOUT ID
+	file.link as Name,
+	status as Status
+FROM "Media"
+WHERE status != "complete" AND status
+SORT status desc
+```
+
 ### Work
 
 ### School

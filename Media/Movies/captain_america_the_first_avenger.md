@@ -2,7 +2,7 @@
 title: captain_america_the_first_avenger
 genre: superhero
 series: MCU
-rating:
+rating: 8
 last_watched: 04/27/2022
 status: inprogress
 ---

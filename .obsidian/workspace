@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-04-28.md",
+            "file": "Daily_Notes/2022-04-29.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319,
-    "collapsed": true
+    "width": 319
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-04-28.md",
+                "file": "Daily_Notes/2022-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-04-28.md",
+                "file": "Daily_Notes/2022-04-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-04-28.md"
+                "file": "Daily_Notes/2022-04-29.md"
               }
             }
           },
@@ -157,15 +156,15 @@
   },
   "active": "a613dcdf2377e543",
   "lastOpenFiles": [
+    "Daily_Notes/2022-04-29.md",
+    "Media/Movies/captain_marvel.md",
+    "Media/Movies/captain_america_the_first_avenger.md",
+    "Templates/movie_template.md",
+    "Media/mcu_watch_order.md",
     "Daily_Notes/2022-04-28.md",
     "Media/Books/ready_player_two.md",
     "Templates/tv_show_template.md",
     "Media/Shows/moon_night.md",
-    "Media/Videogames/overwatch_2_beta.md",
-    "Media/mcu_watch_order.md",
-    "Daily_Notes/2022-04-27.md",
-    "Media/Movies/captain_america_the_first_avenger.md",
-    "Templates/daily_note_template.md",
-    "Templates/movie_template.md"
+    "Media/Videogames/overwatch_2_beta.md"
   ]
 }

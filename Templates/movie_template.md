@@ -4,7 +4,7 @@ genre:
 series:
 rating:
 last_watched: 
-status: finished
+status: inprogress
 ---
 # `= this.title`
 ### Rating: `= this.rating`/10

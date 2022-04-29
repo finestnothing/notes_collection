@@ -17,6 +17,7 @@ status: inprogress
 
 #### Review:
 Start - [2022-04-20](../../Daily_Notes/2022-04-20.md) - Finished [ready_player_one](ready_player_one.md) today, started ready player two
+Middle - [2022-04-28](../../Daily_Notes/2022-04-28.md) - It's been a lot sadder than the original book, but it is very interesting. I look forward to reading more of it.
 
 #### Tags:
 #scifi #futuristic #sequel #book 

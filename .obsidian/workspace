@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 319,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -157,10 +158,10 @@
   "active": "a613dcdf2377e543",
   "lastOpenFiles": [
     "Daily_Notes/2022-04-29.md",
+    "Media/mcu_watch_order.md",
     "Media/Movies/captain_marvel.md",
     "Media/Movies/captain_america_the_first_avenger.md",
     "Templates/movie_template.md",
-    "Media/mcu_watch_order.md",
     "Daily_Notes/2022-04-28.md",
     "Media/Books/ready_player_two.md",
     "Templates/tv_show_template.md",

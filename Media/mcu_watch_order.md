@@ -3,7 +3,7 @@ Including everything
 1. [captain_america_the_first_avenger](Movies/captain_america_the_first_avenger.md)
 2. Agent Carter Season 1
 3. Agent Carter Season 2
-4. Captain Marvel
+4. [captain_marvel](Movies/captain_marvel.md)
 5. Iron Man
 6. Iron Man 2
 7. The incredible hulk

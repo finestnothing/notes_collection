@@ -12,13 +12,10 @@
 ### Chores
 - Any time
 	- [ ] Read
-	- [ ] Add items to grocy
 	- [ ] Clean dishes
 - Morning
 	- [ ] Brush Teeth
 - Day
-	- [ ] Work on Udacity course
-	- [ ] Practice steno
 - Evening
 	- [ ] Brush Teeth Night
 	- [ ] Take supplements

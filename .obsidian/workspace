@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a613dcdf2377e543",
+        "id": "b999c041675147b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-05-02.md",
+            "file": "Daily_Notes/2022-05-03.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-05-02.md",
+                "file": "Daily_Notes/2022-05-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-05-02.md",
+                "file": "Daily_Notes/2022-05-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-05-02.md"
+                "file": "Daily_Notes/2022-05-03.md"
               }
             }
           },
@@ -155,17 +155,17 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "a613dcdf2377e543",
+  "active": "b999c041675147b0",
   "lastOpenFiles": [
+    "Daily_Notes/2022-05-03.md",
     "Daily_Notes/2022-05-02.md",
     "Projects/cluster_analysis.md",
+    "Untitled.md",
     "Daily_Notes/2022-05-01.md",
     "Daily_Notes/2022-04-30.md",
     "DnD/CurseOfStrahd_gabby/Aenan_Yaeldrin.md",
     "DnD/CurseOfStrahd_dm/Player_Characters/Aphophia.md",
     "Templates/daily_note_template.md",
-    "Daily_Notes/2022-04-29.md",
-    "Media/mcu_watch_order.md",
-    "Media/Movies/captain_marvel.md"
+    "Daily_Notes/2022-04-29.md"
   ]
 }

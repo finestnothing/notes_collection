@@ -2,8 +2,8 @@
 name: cluster_analysis
 category: school
 start_date: 2022-04-25
-finish_date:
-status: inprogress
+finish_date: 2022-05-02
+status: complete
 ---
 # Project Title
 ## `= this.start_date` - `= this.finish_date`
@@ -12,11 +12,14 @@ status: inprogress
 Cluster analysis project for #csc177 
 
 ## Notes
-- [ ] ANN Classification
+- [x] ANN Classification
 	- Going to finish [2022-04-27](../Daily_Notes/2022-04-27.md)
 	- Didn't going to finish and turn in today [2022-05-02](../Daily_Notes/2022-05-02.md)
+	- Model not training correctly
 - [x] Cluster Analysis
 - [x] Text Mining
+- [x] Report
+- Turned in [2022-05-02](../Daily_Notes/2022-05-02.md)
 
 ### Tags
 #school #csc177 

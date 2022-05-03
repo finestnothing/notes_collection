@@ -18,14 +18,14 @@
       "query": "path:Daily_Notes",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 65310
       }
     },
     {
       "query": "path:Templates",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 12255487
       }
     },
     {
@@ -43,9 +43,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.443820224719101,
-  "repelStrength": 10,
-  "linkStrength": 1,
+  "repelStrength": 20,
+  "linkStrength": 0.960674157303371,
   "linkDistance": 323,
-  "scale": 0.5359795996225956,
+  "scale": 0.2726859917360089,
   "close": false
 }

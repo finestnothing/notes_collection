@@ -23,15 +23,7 @@
 - Dungeon Alchemist File: [dungeon2](Death_House/dungeon/dungeon2.jpg)
 	- [dungeon2](Death_House/dungeon/dungeon2.json)
 ## Progress
-### Area 1: Death House
-- [https://www.dndbeyond.com/sources/cos/appendix-b-death-house](https://www.dndbeyond.com/sources/cos/appendix-b-death-house)
-- Players are guided to the Deathhouse by the fog forcing them there
-	- See [Mists of Ravenloft](https://www.dndbeyond.com/sources/cos/the-lands-of-barovia#MistsofRavenloft) For forcing characters into the house
-	- Cannot leave until the ending in the [deathhouse_ritual_chamber](Death_House/dungeon/deathhouse_ritual_chamber.md)
-- Begins at [deathhouse_entrance](Death_House/floor1/deathhouse_entrance.md)
 
 ## Session Notes
 - Prepped on [2022-04-06](../../../Daily_Notes/2022-04-06.md) and [2022-04-05](../../../Daily_Notes/2022-04-05.md)
 - [Session_Notes_strahd_2022-04-07](../Session_Notes/Session_Notes_strahd_2022-04-07.md)
-- Cancelled campaign, multiple people dropped :/
-- Going to try to find a one-shot to join

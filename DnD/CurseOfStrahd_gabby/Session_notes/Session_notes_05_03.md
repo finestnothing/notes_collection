@@ -2,7 +2,7 @@
 date: 2022-05-03
 campaign: strahd
 start: 6:00
-end: 
+end: 10:00
 ---
 # Session_notes_05_03
 ## Notes

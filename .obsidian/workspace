@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/CurseOfStrahd_gabby/Session_notes/Session_notes_05_03.md",
+            "file": "Daily_Notes/2022-05-04.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/CurseOfStrahd_gabby/Session_notes/Session_notes_05_03.md",
+                "file": "Daily_Notes/2022-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/CurseOfStrahd_gabby/Session_notes/Session_notes_05_03.md",
+                "file": "Daily_Notes/2022-05-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/CurseOfStrahd_gabby/Session_notes/Session_notes_05_03.md"
+                "file": "Daily_Notes/2022-05-04.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "5c02d2c968ae2977",
   "lastOpenFiles": [
+    "Daily_Notes/2022-05-04.md",
+    "Daily_Notes/2022-05-02.md",
+    "Daily_Notes/2022-05-03.md",
     "DnD/CurseOfStrahd_gabby/Session_notes/Session_notes_05_03.md",
     "DnD/CurseOfStrahd_gabby/Aenan_Yaeldrin.md",
-    "Daily_Notes/2022-05-03.md",
-    "Daily_Notes/2022-05-02.md",
     "Templates/dnd_session_notes.md",
     "DnD/CurseOfStrahd_dm/Overview.md",
     "DnD/CurseOfStrahd_dm/Session_Notes/Session_Notes_strahd_2022-04-07.md",
     "DnD/CurseOfStrahd_dm/Player_Characters/Aphophia.md",
-    "DnD/CurseOfStrahd_dm/NPCs/Strahd_von_Zarovich.md",
-    "DnD/CurseOfStrahd_dm/Barovia/baroviadm.jpg"
+    "DnD/CurseOfStrahd_dm/NPCs/Strahd_von_Zarovich.md"
   ]
 }

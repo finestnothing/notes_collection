@@ -53,6 +53,6 @@ end:
 	- Vistani are a colorful dark people
 		- Rumor of them serving Voldemort
 		- Nomadic travellers
+- Fought a group of vampire spawn and retrieved a set of glowing blessed bones
 
-### End of Session summary
 ### Tags

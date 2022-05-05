@@ -152,15 +152,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316,
-    "collapsed": true
+    "width": 316
   },
   "active": "5c02d2c968ae2977",
   "lastOpenFiles": [
     "Daily_Notes/2022-05-04.md",
-    "Daily_Notes/2022-05-02.md",
     "Daily_Notes/2022-05-03.md",
-    "DnD/CurseOfStrahd_gabby/Session_notes/Session_notes_05_03.md",
+    "Daily_Notes/2022-05-02.md",
+    "DnD/CurseOfStrahd_gabby/Session_notes/session_notes_05_03.md",
     "DnD/CurseOfStrahd_gabby/Aenan_Yaeldrin.md",
     "Templates/dnd_session_notes.md",
     "DnD/CurseOfStrahd_dm/Overview.md",

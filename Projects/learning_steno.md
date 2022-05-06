@@ -2,7 +2,7 @@
 name: learning_steno
 category: personal hobby
 start_date: 2022-04-15
-status: inprogress
+status: idea
 ---
 # Project Title
 ## `= this.start_date` - `= this.finish_date`

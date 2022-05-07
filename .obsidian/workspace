@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -158,14 +158,14 @@
   "active": "5c02d2c968ae2977",
   "lastOpenFiles": [
     "Daily_Notes/2022-05-06.md",
+    "Projects/senior_project.md",
+    "Media/Movies/iron_man.md",
+    "Media/Movies/iron_man_2.md",
     "Daily_Notes/2022-05-04.md",
     "Daily_Notes/2022-05-05.md",
     "Projects/learning_steno.md",
-    "Projects/senior_project.md",
     "Daily_Notes/2022-05-03.md",
     "Daily_Notes/2022-05-02.md",
-    "DnD/CurseOfStrahd_gabby/Session_notes/session_notes_05_03.md",
-    "DnD/CurseOfStrahd_gabby/Aenan_Yaeldrin.md",
-    "Templates/dnd_session_notes.md"
+    "DnD/CurseOfStrahd_gabby/Session_notes/session_notes_05_03.md"
   ]
 }

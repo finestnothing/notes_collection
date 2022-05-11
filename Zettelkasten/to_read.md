@@ -1,0 +1,21 @@
+# What to Read
+- https://github.com/papers-we-love/papers-we-love
+- 'How to read a paper' by S. Keshav
+	- [[how-to-read-a-paper.pdf]]
+	- [[202205091944]]
+- ‘NO SILVER BULLET – ESSENCE AND ACCIDENT IN SOFTWARE ENGINEERING’ BY FRED BROOKS
+	- [[Brooks-NoSilverBullet.pdf]]
+- 'Out of the Tar Pit' by Ben Moseley and Peter Marks
+	- [[out-of-the-tar-pit.pdf]]
+- 'Ironies of Automation' by Lisanne Bainbridge
+	- [[ironies-of-automation.pdf]]
+- 'How do Committees Invent?' by Melvin E. Conway
+	- [https://www.melconway.com/Home/Committees_Paper.html](https://www.melconway.com/Home/Committees_Paper.html)
+- 'A Mathematical Theory of Communication' by C. E. Shannon
+	- [[a-mathematical-theory-of-communication.pdf]]
+- 'Paths trees and flowers' by J. Edmonds
+	- [[paths-trees-and-flowers.pdf]]
+- 'Quantum Mechanical Computers' by Richard P. Feynman
+	- [[quantum-mechanical-computers.pdf]]
+- 'Reducibility Among Combinatorial Problems' by Richard M. Karp
+	- [[reducability-among-combinatorial-problems.pdf]]

@@ -1,54 +1,17 @@
 # Notes Collection
-Made in [https://obsidian.md/](https://obsidian.md/). Everything should work fine outside of Obsidian.
+Made in [https://obsidian.md/](https://obsidian.md/). Links are primarily wikilinks
 
 ## Projects:
-```dataview
-TABLE WITHOUT ID
-	file.link as Name,
-	status as Status
-from "Projects"
-sort status asc
-```
 
 ## Books:
 Current: [ready_player_two](Media/Books/ready_player_two.md)
 Favorite: [ready_player_one](Media/Books/ready_player_one.md)
-```dataview
-TABLE WITHOUT ID
-	file.link as Name,
-	genre as Genre,
-	rating as Rating
-FROM "Reviews/Books"
-WHERE rating >= 6 OR status = "inprogress"
-SORT rating desc
-```
 
 ## Recipes:
-Favorite: [sourdough_dough_pizza_crust](Media/Recipes/sourdough_dough_pizza_crust.md)
-```dataview
-TABLE WITHOUT ID
-	file.link as Name,
-	rating as Rating
-FROM "Reviews/Recipes"
-WHERE rating >= 7
-SORT rating desc
-```
+Favorite: [sourdough_dough_pizza_crust](Food/Recipes/sourdough_dough_pizza_crust.md)
 
 ## Restaurants:
-Favorite: [suh_sushi_korean_bbq](Media/Restaurants/suh_sushi_korean_bbq.md)
-```dataview
-TABLE WITHOUT ID
-	file.link as Name,
-	rating as Rating
-FROM "Reviews/Restaurants"
-WHERE rating >= 7
-SORT rating desc
-```
+Favorite: [suh_sushi_korean_bbq](Food/Restaurants/suh_sushi_korean_bbq.md)
 
 ## Templates:
-[template_list](Templates/template_list.md)
-```dataview
-TABLE WITHOUT ID
-	file.link as File
-FROM "Templates"
-```
+![[Templates/template_list]]

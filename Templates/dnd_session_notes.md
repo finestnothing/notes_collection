@@ -8,4 +8,3 @@ end:
 ## Notes
 ### General
 ### End of Session summary
-### Tags

@@ -18,5 +18,5 @@ status: finished
 - [x] Get report done [2022-04-20](../Daily_Notes/2022-04-19.md)
 - [x] Turn in project [2022-04-20](../Daily_Notes/2022-04-19.md)
 
-### Tags
-#csc177 #school 
+
+csc177  

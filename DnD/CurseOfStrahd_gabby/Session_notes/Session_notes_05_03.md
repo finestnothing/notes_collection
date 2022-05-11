@@ -55,4 +55,3 @@ end: 10:00
 		- Nomadic travellers
 - Fought a group of vampire spawn and retrieved a set of glowing blessed bones
 
-### Tags

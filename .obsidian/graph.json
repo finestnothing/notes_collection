@@ -18,25 +18,39 @@
       "query": "path:Daily_Notes",
       "color": {
         "a": 1,
-        "rgb": 65310
-      }
-    },
-    {
-      "query": "path:Templates",
-      "color": {
-        "a": 1,
-        "rgb": 12255487
+        "rgb": 1304346
       }
     },
     {
       "query": "path:Media",
       "color": {
         "a": 1,
-        "rgb": 5397472
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Food",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Projects",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Templates",
+      "color": {
+        "a": 1,
+        "rgb": 12394194
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 0.960674157303371,
   "linkDistance": 323,
-  "scale": 0.2726859917360089,
+  "scale": 0.7514342322277722,
   "close": false
 }

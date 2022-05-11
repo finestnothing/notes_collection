@@ -16,5 +16,5 @@ status: complete
 - Great movie, a lot of action but some plot holes and weird areas.
 - Wish captain marvel was more prominent in other movies, but they are pretty OP
 
-#### Tags:
-#mcu 
+:
+ 

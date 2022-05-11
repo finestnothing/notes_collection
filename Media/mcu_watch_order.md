@@ -1,11 +1,10 @@
 # Watch Order for MCU
-Including everything
 1. [captain_america_the_first_avenger](Movies/captain_america_the_first_avenger.md)
 2. Agent Carter Season 1
 3. Agent Carter Season 2
 4. [captain_marvel](Movies/captain_marvel.md)
-5. Iron Man
-6. Iron Man 2
+5. [iron_man](Movies/iron_man.md)
+6. [iron_man_2](Movies/iron_man_2.md)
 7. The incredible hulk
 8. Thor
 9. The avengers
@@ -25,7 +24,7 @@ Including everything
 23. Agents of S.H.I.E.L.D. Season 3
 24. Luke Cage Season 1
 25. Spider-Man: Homecoming
-26. Doctor Strange
+26. [doctor_strange](Movies/doctor_strange.md)
 27. Black Panther
 28. Iron Fist Season 1
 29. Agents of S.H.I.E.L.D. Season 4
@@ -54,38 +53,4 @@ Including everything
 52. Hawkeye
 53. Loki
 54. [moon_night](Shows/moon_night.md)
-
-
-Not including non-disney TV shows
-1. Captain America: The first avenger
-2. Captain Marvel
-3. Iron Man
-4. Iron Man 2
-5. The incredible hulk
-6. Thor
-7. The avengers
-8. Iron Man 3
-9. Thor: The Dark World
-10. Captain America: The Winter Soldier
-11. Guardians of the Galaxy
-12. Guardians of the Galaxy Vol 2
-13. Avengers: Age of Ultron
-14. Ant-man
-15. Captain America: Civil War
-16. Spider-Man: Homecoming
-17. Doctor Strange
-18. Black Panther
-19. Thor: Ragnarok
-20. Ant-man and the Wasp
-21. Black Widow
-22. Avengers: Infinity War
-23. Avengers: Endgame
-24. Wandavision
-25. Shang-Chi and the Legend of the Ten Rings
-26. Spider-man: Far From Home
-27. The Falcon and the Winter Soldier
-28. Eternals
-29. Spider-man: No Way Home
-30. Hawkeye
-31. Loki
-
+55. Doctor Strange in the Multiverse of Madness

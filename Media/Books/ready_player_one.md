@@ -23,5 +23,5 @@ End - [2022-04-20](../../Daily_Notes/2022-04-20.md) - Finished it today. It was 
 
 Sequel: [ready_player_two](ready_player_two.md)
 
-#### Tags:
-#scifi #futuristic #book 
+:
+   

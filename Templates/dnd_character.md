@@ -13,4 +13,3 @@ controller:
 ### Backstory
 ### During Campaign
 ### Quick Notes
-## Tags

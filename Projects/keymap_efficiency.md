@@ -14,4 +14,3 @@ status: idea
 
 ## Notes
 - Made [2022-04-16](../Daily_Notes/2022-04-16.md)
-### Tags

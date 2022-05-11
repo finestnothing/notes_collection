@@ -9,7 +9,7 @@ status: complete
 ## `= this.start_date` - `= this.finish_date`
 ## Status: `= this.status`
 ## Description
-Cluster analysis project for #csc177 
+Cluster analysis project for csc177 
 
 ## Notes
 - [x] ANN Classification
@@ -21,5 +21,5 @@ Cluster analysis project for #csc177
 - [x] Report
 - Turned in [2022-05-02](../Daily_Notes/2022-05-02.md)
 
-### Tags
-#school #csc177 
+
+ csc177 

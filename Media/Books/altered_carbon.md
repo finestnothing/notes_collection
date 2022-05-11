@@ -21,5 +21,5 @@ but overall it was a very good book.
 
 A lot of things were different from the tv show adaptation, for better or for worse
 
-#### Tags:
-#book #scifi #futuristic
+:
+  

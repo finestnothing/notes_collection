@@ -15,13 +15,13 @@ status: inprogress
 - [x] Retrain ML model
 	- In progress, started [2022-04-14](../Daily_Notes/2022-04-14.md) 6:00PM
 	- Changed to only Red/Yellow/Green for this training [2022-04-14](../Daily_Notes/2022-04-14.md)
-- [ ] work on README
+- [x] work on README
 - [x] Need to run model in openvino
 - [ ] Put it in DL workbench, see if that can improve performance
 - [x] Presentation Work
-- [ ] User Manual
-- [ ] Maintenance Manual
-- [ ] Testing Document
+- [x] User Manual Finished [[2022-05-09]]
+- [x] Maintenance Manual - Need to finish [[2022-05-10]]
+- [ ] Testing Document - Some input video vs output frames expected?
 
 ### Maintenance
 - Tested with python 3.9.12
@@ -50,5 +50,5 @@ The project has 4 distinct parts loaded in this repo.
 |  AWS Service   |                  This is the centralized AWS service                  |
 |    database    |       This is the database that runs on AWS and SignalSenseBox        |
 
-### Tags
-#school 
+
+ 

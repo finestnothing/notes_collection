@@ -15,5 +15,5 @@ status: complete
 - Finished [2022-04-29](../../Daily_Notes/2022-04-29.md)
 - Love the movie, there are some points that aren't great but overall it's very good
 
-#### Tags:
-#mcu 
+:
+ 

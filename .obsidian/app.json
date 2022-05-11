@@ -42,5 +42,6 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "trashOption": "local"
+  "trashOption": "local",
+  "strictLineBreaks": false
 }

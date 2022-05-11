@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-05-11.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-05-11.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-05-11.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-05-11.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "5dc568a6bb34dadb",
   "lastOpenFiles": [
+    "README.md",
     "Daily_Notes/2022-05-11.md",
     "Media/Books/the_iliad.md",
     "Templates/template_list.md",
@@ -165,7 +166,6 @@
     "Zettelkasten/to_read.md",
     "Attachments/paths-trees-and-flowers.pdf",
     "Attachments/a-plea-for-lean-software.pdf",
-    "Daily_Notes/2022-05-09.md",
-    "Zettelkasten/Fleeting_Notes/202205081822.md"
+    "Daily_Notes/2022-05-09.md"
   ]
 }

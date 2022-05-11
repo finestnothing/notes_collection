@@ -15,14 +15,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "b4d97d230e3b51c4",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 319,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -137,25 +130,34 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e95da24397a4156c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 316,
+    "collapsed": true
   },
   "active": "8d5ba848b958fa89",
   "lastOpenFiles": [
     "Daily_Notes/2022-05-11.md",
-    "Daily_Notes/2022-05-12.md",
+    "Daily_Notes/the_iliadME.md",
     "README.md",
+    "Daily_Notes/2022-05-12.md",
     "Notes Collection.md",
     "Daily_Notes/2022-04-14.md",
     "Media/Books/the_iliad.md",
     "Templates/template_list.md",
     "Daily_Notes/2022-05-10.md",
-    "Projects/senior_project.md",
-    "Zettelkasten/to_read.md"
+    "Projects/senior_project.md"
   ]
 }

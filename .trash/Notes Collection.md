@@ -1,3 +1,11 @@
+# {{title}}
+Created: 2022-05-11 11:57
+
+
+
+References
+1. 
+
 # Notes Collection
 Made in [https://obsidian.md/](https://obsidian.md/). Links are primarily wikilinks
 
@@ -14,4 +22,4 @@ Favorite: [sourdough_dough_pizza_crust](Food/Recipes/sourdough_dough_pizza_crust
 Favorite: [suh_sushi_korean_bbq](Food/Restaurants/suh_sushi_korean_bbq.md)  
 
 ## Templates:
-[[template_list]]
+[[Templates/template_list]]

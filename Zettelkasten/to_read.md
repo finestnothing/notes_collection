@@ -2,7 +2,7 @@
 - https://github.com/papers-we-love/papers-we-love
 - 'How to read a paper' by S. Keshav
 	- [[how-to-read-a-paper.pdf]]
-	- [[202205091944]]
+	- [[202205091944|]]
 - ‘NO SILVER BULLET – ESSENCE AND ACCIDENT IN SOFTWARE ENGINEERING’ BY FRED BROOKS
 	- [[Brooks-NoSilverBullet.pdf]]
 - 'Out of the Tar Pit' by Ben Moseley and Peter Marks

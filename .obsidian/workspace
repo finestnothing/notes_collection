@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5dc568a6bb34dadb",
+        "id": "8d5ba848b958fa89",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Daily_Notes/2022-05-11.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
+        }
+      },
+      {
+        "id": "b4d97d230e3b51c4",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -62,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319,
-    "collapsed": true
+    "width": 319
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -79,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily_Notes/2022-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily_Notes/2022-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,31 +126,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily_Notes/2022-05-11.md"
               }
             }
           },
           {
-            "id": "e5900aa6edd22672",
+            "id": "5bcd3026c23a8449",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c47692f50f303b9",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "f8efa1bb19ccbc04",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -152,20 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316,
-    "collapsed": true
+    "width": 316
   },
-  "active": "5dc568a6bb34dadb",
+  "active": "8d5ba848b958fa89",
   "lastOpenFiles": [
-    "README.md",
     "Daily_Notes/2022-05-11.md",
+    "Daily_Notes/2022-05-12.md",
+    "README.md",
+    "Notes Collection.md",
+    "Daily_Notes/2022-04-14.md",
     "Media/Books/the_iliad.md",
     "Templates/template_list.md",
     "Daily_Notes/2022-05-10.md",
     "Projects/senior_project.md",
-    "Zettelkasten/to_read.md",
-    "Attachments/paths-trees-and-flowers.pdf",
-    "Attachments/a-plea-for-lean-software.pdf",
-    "Daily_Notes/2022-05-09.md"
+    "Zettelkasten/to_read.md"
   ]
 }

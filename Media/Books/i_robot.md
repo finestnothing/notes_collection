@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
-genre:
+title: i_robot
+author: Isaac Asimov
+genre: scifi
 rating:
-started: {{date}}
+started: 
 finished: 
 status: 
 ---
@@ -15,3 +15,5 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[classic]] [[scifi]]

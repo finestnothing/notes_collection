@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
+title: hunters_of_dune
+author: Frank Hebert
 genre:
 rating:
-started: {{date}}
+started: 
 finished: 
 status: 
 ---
@@ -15,3 +15,7 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[chapterhouse_dune]]
+[[sandworms_of_dune]]
+[[scifi]] [[classic]]

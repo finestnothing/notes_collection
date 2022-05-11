@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
+title: a_brief_history_of_time
+author: Stephen Hawking
 genre:
 rating:
-started: {{date}}
+started: 
 finished: 
 status: 
 ---

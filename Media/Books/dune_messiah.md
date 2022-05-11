@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
+title: dune_messiah
+author: Frank Hebert
 genre:
 rating:
-started: {{date}}
+started: 
 finished: 
 status: 
 ---
@@ -15,3 +15,7 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[dune]]
+[[children_of_dune]]
+[[scifi]] [[classic]]

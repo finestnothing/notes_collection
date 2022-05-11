@@ -1,9 +1,9 @@
 ---
-title: {{title}}
+title: heretics_of_dune
 author:
 genre:
 rating:
-started: {{date}}
+started:
 finished: 
 status: 
 ---
@@ -15,3 +15,7 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[god_emperor_of_dune]]
+[[chapterhouse_dune]]
+[[scifi]] [[classic]]

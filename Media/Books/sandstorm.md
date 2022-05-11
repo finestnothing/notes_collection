@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
+title: sandstorm
+author: James Rollins
 genre:
 rating:
-started: {{date}}
+started: 
 finished: 
 status: 
 ---
@@ -15,3 +15,4 @@ status:
 #### Review:
 
 #### Quotes: 
+

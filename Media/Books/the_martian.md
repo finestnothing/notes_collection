@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
+title: the_martian
+author: Andy Weir
 genre:
 rating:
-started: {{date}}
+started: 
 finished: 
 status: 
 ---
@@ -15,3 +15,5 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[scifi]]

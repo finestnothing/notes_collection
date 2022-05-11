@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
+title: god_emperor_of_dune
+author: Frank Hebert
 genre:
 rating:
-started: {{date}}
+started: 
 finished: 
 status: 
 ---
@@ -15,3 +15,7 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[children_of_dune]]
+[[heretics_of_dune]]
+[[scifi]] [[classic]]

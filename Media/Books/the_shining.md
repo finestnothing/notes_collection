@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
-genre:
+title: the_shining
+author: Stephen King
+genre: Horror
 rating:
-started: {{date}}
+started: 
 finished: 
 status: 
 ---
@@ -15,3 +15,5 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[horror]]

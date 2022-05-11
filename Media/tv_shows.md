@@ -1,0 +1,9 @@
+- The Witcher
+- Marvel Shows (Not on [[mcu_watch_order]])
+	- Daredevil
+	- Luke Cage
+	- Jessica Jones
+	- The Defenders
+- Shadow and Bone
+- Peacemaker
+- Futurama

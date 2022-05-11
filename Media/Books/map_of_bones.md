@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
+title: map_of_bones
+author: James Rollins
 genre:
 rating:
-started: {{date}}
+started:
 finished: 
 status: 
 ---
@@ -15,3 +15,5 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[sandstorm]]

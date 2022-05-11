@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
+title: the_art_of_war
+author: Sun Tzu
 genre:
 rating:
-started: {{date}}
+started: 
 finished: 
 status: 
 ---
@@ -15,3 +15,5 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[classic]]

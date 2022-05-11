@@ -22,6 +22,4 @@ Middle - [2022-03-24](../../Daily_Notes/2022-03-24.md) - Still loving it all
 End - [2022-04-20](../../Daily_Notes/2022-04-20.md) - Finished it today. It was awesome right through the end even though it was very different than the movie.
 
 Sequel: [ready_player_two](ready_player_two.md)
-
-:
-   
+[[scifi]]

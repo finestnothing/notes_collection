@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
+title: sandworms_of_dune
+author: Frank Hebert
 genre:
 rating:
-started: {{date}}
+started: 
 finished: 
 status: 
 ---
@@ -15,3 +15,6 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[hunters_of_dune]]
+[[scifi]] [[classic]]

@@ -1,0 +1,119 @@
+- Books by Michael J Sullivan https://www.bookseriesinorder.com/michael-j-sullivan/
+- The Atlas Trilogy by Olivie Blake
+	- The Atlas Six
+	- The Atlas Paradox
+	- In progress
+- Moon Fall Series by James Rollins
+	- The Starless Crown
+	- In progress
+- Sigma Force Series by James Rollins
+	- [[sandstorm]]
+	- [[map_of_bones]]
+	- Kowalski's in Love
+	- Black Order
+	- The Judas Strain
+	- The Last Oracle
+	- The Doomsday Key
+	- The Skeleton Key
+	- The Devil Colony
+	- Tracker
+	- Bloodline
+	- The Eye of God
+	- The Sixth Extinction
+	- The Midnight Watch
+	- The Bone Labyrinth
+	- Crash and Burn
+	- The Seventh Plague
+	- Ghost Ship
+	- The Demon Crown
+	- Crucible
+	- The Last Odyssey
+	- Kingdom of Bones
+- Astra Black Series by Maurice Broaddus
+	- Sweep of Stars
+	- In progress
+- Book of Night by Holly Black
+- Glass Immortals Series by Brian McClellan
+	- In the Shadow of Lightning
+	- In progress
+- The Redwinter Chronicles by Ed McDonald
+	- Daughter of Redwinter
+	- In Progress
+- Tales of Tremaine Series by R. R. Virdi
+	- The First Binding
+	- In Progress
+- Ancillary Justice by Ann Leckie
+- A Long Way to a Small, Angry Planet by Becky Chambers
+- The Three-Body Problem by Cixin Liu
+- The Wheel of Time Series by Robert Jordan
+	- New Spring
+	- The Eye of the World
+	- The Great Hunt
+	- The Dragon Reborn
+	- The Shadow Rising
+	- The Fires of Heaven
+	- Lord of Chaos
+	- A Crown of Sword
+	- The Path of Daggers
+- Lord of the Rings by J. R. R. Tolkein
+	- The Fellowship of the Ring
+	- The Two Towers
+	- The Return of the King
+	- The Hobbit
+- The Witcher Series by
+	- The Last Wish
+	- Sword of Destiny
+	- Blood of Elves
+	- Time of Contempt
+	- Baptism of Fire
+	- The Tower of the Swallow
+	- The Lade of the Lake
+	- Season of Storms
+- Neverwhere by Neil Gaiman
+- American Gods by Neil Gaiman
+- Good Omens by Neil Gaiman
+- Sherlock Holmes by Sir Arthur Conan Doyle
+- Altered Carbon Series
+	- Broken Angels
+	- Woken Furies
+- Void Star by Zachary Mason
+- The Water Knife by Paolo Bacigalupi
+- Red Rising by Pierce Brown
+- Semiosis by Sue Burke
+- Leviathan Wakes by James Corey
+- The Peripheral E by William Gibson
+- The Stars are Legion by Kameron Hurley
+- The Monster of Elendhaven by Jennifer Giesbrecht
+- Rosewater by Tade Thompson
+- Too Like the Lighjtning by Ada Palmer
+- Seveneves by Neal Stephenson
+- We Are Legion by Dennis B Taylor
+- Station Eleven by Emily St John Mandel
+- Luna New Moon by Ian McDonald
+- Children of Time by Adrian Tchaikovsky
+- Shogun by James Cavell
+- Adventures Grimm
+- The Count of Monte Cristo (unabridged)
+- Shadow and Bone Series by Leigh Bardugo
+	- Shadow and Bone
+	- Siege and Storm
+	- Ruin and Rising
+- The Chaser by John Colliert
+- Shannara Chronicles by Terry Brooks
+	- The Sword of Shannara
+	- The Elfstones of Shannara
+	- The Wishsong of Shannara
+- Enders Game by Orson Scott Card
+- Pride and Prejudice by Jane Austen
+- Animal Farm by George Orwell
+- The Book Thief by Markus Zusak
+- The Hitchhikers Guide to the Galaxy by Douglas Adams
+- 2001: A Space Odyssey by Arthur C Clarke
+- The Left Hand of Darkness by Ursula K Le Guin
+- Project Hail Mary by Andy Weir
+- 1984 by George Orwell
+- Mistborn Trilogy by Brandon Sanderson
+	- Mistborn
+	- The Well of Ascension
+	- The Hero of Ages
+- The Complete Works of William Shakespeare

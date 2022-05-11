@@ -1,9 +1,9 @@
 ---
-title: {{title}}
-author:
+title: shadow_and_bone
+author: Leigh Bardugo
 genre:
 rating:
-started: {{date}}
+started:
 finished: 
 status: 
 ---
@@ -15,3 +15,6 @@ status:
 #### Review:
 
 #### Quotes: 
+
+[[siege_and_storm]]
+[[fantasy]]

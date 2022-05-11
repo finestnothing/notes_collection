@@ -1,14 +1,12 @@
 ---
-title: the_iliad
+title: the_odyssey
 author: Homer
 translator: Samuel Butler
 genre: classical mythology
-series: the iliad and the odyssey
-book: 1
 rating:
-started: 2022-05-11
+started: 
 finished: 
-status: inprogress
+status: 
 ---
 # `= this.title`
 ## By `= this.author`
@@ -22,5 +20,5 @@ Starting [[2022-05-11]]
 
 #### Quotes:
 
-[[the_odyssey]]
-[[classic]]
+[[the_iliad]]
+[[classic]] 

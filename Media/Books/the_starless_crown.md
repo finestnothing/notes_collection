@@ -13,6 +13,7 @@ status:
 ### `= this.started` - `= this.finished`
 
 #### Review:
+- Started reading [[2022-05-11]] - It's pretty good, so far just in back story but it's written well
 
 #### Quotes: 
 ```ad-quote

@@ -7,3 +7,4 @@
 - Chicken Parmesan
 - Lasagna
 	- [[pasta]]
+- Chicken wings

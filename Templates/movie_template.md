@@ -11,5 +11,3 @@ status: inprogress
 ### Last Watched: `= this.last_watched`
 
 #### Review:
-
-:

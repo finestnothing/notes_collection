@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -149,14 +149,14 @@
   "active": "1e8e5e2a937bbca3",
   "lastOpenFiles": [
     "Daily_Notes/2022-05-14.md",
-    "Zettelkasten/to_read.md",
+    "Projects/compu_automation.md",
     "Daily_Notes/2022-05-13.md",
+    "Media/Movies/doctor_strange.md",
+    "Media/Movies/doctor_strange_multiverse_of_madness.md",
+    "Templates/movie_template.md",
+    "Zettelkasten/to_read.md",
     "Daily_Notes/2022-05-12.md",
     "Media/Books/the_kubernetes_book.md",
-    "Zettelkasten/Fleeting_Notes/202205121047.md",
-    "Daily_Notes/2022-05-11.md",
-    "Media/Books/the_starless_crown.md",
-    "Media/Books/a_brief_history_of_time.md",
-    "Media/Books/the_illustrated_a_brief_history_of_time.md"
+    "Zettelkasten/Fleeting_Notes/202205121047.md"
   ]
 }

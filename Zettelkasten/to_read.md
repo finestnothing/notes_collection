@@ -3,6 +3,8 @@
 - 'How to read a paper' by S. Keshav
 	- [[how-to-read-a-paper.pdf]]
 	- [[202205091944|]]
+- Borg, Omega, and Kubernetes by Brendan Burns, Brian Grant, and David Oppenheimer
+	- [[borg_omega_kubernetes.pdf]]
 - ‘NO SILVER BULLET – ESSENCE AND ACCIDENT IN SOFTWARE ENGINEERING’ BY FRED BROOKS
 	- [[Brooks-NoSilverBullet.pdf]]
 - 'Out of the Tar Pit' by Ben Moseley and Peter Marks

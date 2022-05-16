@@ -1,11 +1,5 @@
----
-name: alfredo_sauce
-source: 
-rating: 9
----
-# `= this.name`
-## `= this.source`
-### Rating: `= this.rating`/10
+# Alfredo Sauce
+### Rating: 9/10
 
 #### Instructions:
 - Combine, let simmer for 5 minutes
@@ -22,7 +16,6 @@ rating: 9
 #### Review:
 Pretty easy to make, 1 cup gruyere 1/2 cup parmesan is really strong but still really good.
 
-Served it with grilled chicken on homemade [pasta](pasta.md) on [2022-05-06](../../Daily_Notes/2022-05-06.md) for dinner and it was awesome
+Served it with grilled chicken on homemade [homemade_pasta](homemade_pasta.md) on [2022-05-06](../../Daily_Notes/2022-05-06.md) for dinner and it was awesome
 
-:
-  
+[[sauce]]

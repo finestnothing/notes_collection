@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-05-16.md",
+            "file": "Daily_Notes/2022-05-17.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-05-16.md",
+                "file": "Daily_Notes/2022-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-05-16.md",
+                "file": "Daily_Notes/2022-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-05-16.md"
+                "file": "Daily_Notes/2022-05-17.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "5565274b8162e580",
   "lastOpenFiles": [
+    "Daily_Notes/2022-05-17.md",
+    "Media/Books/the_starless_crown.md",
     "Daily_Notes/2022-05-16.md",
+    "Daily_Notes/2022-05-12.md",
     "Media/Videogames/path_of_exile.md",
     "Food/Food_ideas.md",
     "Food/Recipes/alfredo_sauce.md",
     "Food/Recipes/homemade_pasta.md",
     "Food/Recipes/chicken_fettucini_alfredo.md",
-    "Food/Recipes/sourdough_dough_pizza_crust.md",
-    "Templates/recipe_template.md",
-    "Food/Recipes/mushroom_ravioli_in_tomato_cream_sauce.md",
-    "Daily_Notes/2022-05-15.md"
+    "Food/Recipes/sourdough_dough_pizza_crust.md"
   ]
 }

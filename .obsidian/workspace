@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 319,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -149,6 +150,7 @@
   "active": "5565274b8162e580",
   "lastOpenFiles": [
     "Daily_Notes/2022-05-16.md",
+    "Media/Videogames/path_of_exile.md",
     "Food/Food_ideas.md",
     "Food/Recipes/alfredo_sauce.md",
     "Food/Recipes/homemade_pasta.md",
@@ -156,7 +158,6 @@
     "Food/Recipes/sourdough_dough_pizza_crust.md",
     "Templates/recipe_template.md",
     "Food/Recipes/mushroom_ravioli_in_tomato_cream_sauce.md",
-    "Daily_Notes/2022-05-15.md",
-    "Daily_Notes/2022-05-14.md"
+    "Daily_Notes/2022-05-15.md"
   ]
 }

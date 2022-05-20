@@ -18,12 +18,9 @@
 - Day
 - Evening
 	- [ ] Brush Teeth Night
-	- [ ] Take supplements
 
 ### Projects
 
 ### Reviews
 
 ### Work
-
-### School

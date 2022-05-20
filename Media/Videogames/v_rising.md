@@ -1,5 +1,5 @@
 ---
-name: {{title}}
+name: v_rising
 genre:
 rating:
 ---

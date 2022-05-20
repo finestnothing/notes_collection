@@ -1,5 +1,5 @@
 ---
-name: {{title}}
+name: old_world
 genre:
 rating:
 ---

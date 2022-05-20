@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-05-19.md",
+            "file": "Daily_Notes/2022-05-20.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-05-19.md",
+                "file": "Daily_Notes/2022-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-05-19.md",
+                "file": "Daily_Notes/2022-05-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-05-19.md"
+                "file": "Daily_Notes/2022-05-20.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "5d2c2db1e051294b",
   "lastOpenFiles": [
+    "Daily_Notes/2022-05-20.md",
     "Daily_Notes/2022-05-19.md",
-    "Daily_Notes/2022-05-18.md",
-    "Daily_Notes/2022-05-17.md",
-    "README.md",
-    "Media/Books/the_starless_crown.md",
-    "Daily_Notes/2022-05-16.md",
-    "Daily_Notes/2022-05-12.md",
+    "Media/Videogames/v_rising.md",
+    "Media/Videogames/old_world.md",
+    "Templates/video_game_template.md",
+    "Templates/tv_show_template.md",
     "Media/Videogames/path_of_exile.md",
-    "Food/Food_ideas.md",
-    "Food/Recipes/alfredo_sauce.md"
+    "Media/Videogames/overwatch_2_beta.md",
+    "Templates/daily_note_template.md",
+    "Daily_Notes/2022-05-18.md"
   ]
 }

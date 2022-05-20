@@ -11,6 +11,3 @@ rating: 10
 - Got access to beta on [2022-04-27](../../Daily_Notes/2022-04-27.md)
 - As of [2022-04-28](../../Daily_Notes/2022-04-28.md) it's an amazing beta. It's definitely better than overwatch 1 despite the bugs
 - Can't wait for the full release
-
-:
- 

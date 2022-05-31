@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-05-24.md",
+            "file": "Daily_Notes/2022-05-31.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-05-24.md",
+                "file": "Daily_Notes/2022-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-05-24.md",
+                "file": "Daily_Notes/2022-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-05-24.md"
+                "file": "Daily_Notes/2022-05-31.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "5d2c2db1e051294b",
   "lastOpenFiles": [
-    "Daily_Notes/2022-05-24.md",
-    "Daily_Notes/2022-05-23.md",
-    "Daily_Notes/2022-05-19.md",
-    "Daily_Notes/2022-05-20.md",
-    "Media/Videogames/v_rising.md",
-    "Media/Videogames/old_world.md",
-    "Templates/video_game_template.md",
-    "Templates/tv_show_template.md",
-    "Media/Videogames/path_of_exile.md",
-    "Media/Videogames/overwatch_2_beta.md"
+    "Daily_Notes/2022-05-31.md",
+    "Daily_Notes/2022-05-25.md",
+    "Notes/Projects.md",
+    "Notes/Projects/compu_automation.md",
+    "Notes/Projects/keymap_efficiency.md",
+    "Notes/Projects/senior_project.md",
+    "Notes/Projects/portfolio_website.md",
+    "Notes/Projects/learning_steno.md",
+    "Notes/Projects/kubernetes_server.md",
+    "Notes/Projects/cluster_analysis.md"
   ]
 }

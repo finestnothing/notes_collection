@@ -9,7 +9,7 @@ status: inprogress
 ## `= this.start_date` - `= this.finish_date`
 ## Status: `= this.status`
 ## Description
-- Made on [2022-04-01](../Daily_Notes/2022-04-01.md)
+- Made on [2022-04-01](2022-04-01.md)
 - [x] Automate video download from google drive, course creation, billing side setup, etc
 - [x] Complete CompostU Course Information google sheet
 	- [x] compost2020
@@ -21,6 +21,7 @@ status: inprogress
 - [x] Link YM to CompostU Course
 - [x] Fill in all info for CompostU course
 - [x] Move to next video
+- [ ] Create tutorial for new users
 
 ## Notes
 - Currently waiting on others to verify that the first course was fully created successfully, but it looks good [[2022-05-14]]

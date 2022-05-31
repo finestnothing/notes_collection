@@ -11,12 +11,12 @@ status: finished
 ## Description
 
 ## Notes
-- Got started [2022-04-14](../Daily_Notes/2022-04-14.md)
-- [x] Get Models work done [2022-04-19](../Daily_Notes/2022-04-19.md)
+- Got started [2022-04-14](2022-04-14.md)
+- [x] Get Models work done [2022-04-19](2022-04-19.md)
 	- Models should be all set up
 - [x] Feature extraction (optional)
-- [x] Get report done [2022-04-20](../Daily_Notes/2022-04-19.md)
-- [x] Turn in project [2022-04-20](../Daily_Notes/2022-04-19.md)
+- [x] Get report done [2022-04-20](2022-04-19.md)
+- [x] Turn in project [2022-04-20](2022-04-19.md)
 
 
 csc177  

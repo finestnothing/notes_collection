@@ -13,4 +13,4 @@ status: idea
 - Maybe ML for most optimized keymap?
 
 ## Notes
-- Made [2022-04-16](../Daily_Notes/2022-04-16.md)
+- Made [2022-04-16](2022-04-16.md)

@@ -13,13 +13,13 @@ Cluster analysis project for csc177
 
 ## Notes
 - [x] ANN Classification
-	- Going to finish [2022-04-27](../Daily_Notes/2022-04-27.md)
-	- Didn't going to finish and turn in today [2022-05-02](../Daily_Notes/2022-05-02.md)
+	- Going to finish [2022-04-27](2022-04-27.md)
+	- Didn't going to finish and turn in today [2022-05-02](2022-05-02.md)
 	- Model not training correctly
 - [x] Cluster Analysis
 - [x] Text Mining
 - [x] Report
-- Turned in [2022-05-02](../Daily_Notes/2022-05-02.md)
+- Turned in [2022-05-02](2022-05-02.md)
 
 
  csc177 

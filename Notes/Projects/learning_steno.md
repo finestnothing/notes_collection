@@ -29,6 +29,6 @@ status: idea
 	- #### Practice Plover
 		- https://practiceplover.com/
 ## Notes
-- [2022-04-15](../Daily_Notes/2022-04-15.md)
+- [2022-04-15](2022-04-15.md)
 	- Getting started with learning it again with Learn Plover!
 

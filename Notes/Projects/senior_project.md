@@ -13,15 +13,15 @@ status: inprogress
 ## Notes
 - [x] Make better light-assignment
 - [x] Retrain ML model
-	- In progress, started [2022-04-14](../Daily_Notes/2022-04-14.md) 6:00PM
-	- Changed to only Red/Yellow/Green for this training [2022-04-14](../Daily_Notes/2022-04-14.md)
+	- In progress, started [2022-04-14](2022-04-14.md) 6:00PM
+	- Changed to only Red/Yellow/Green for this training [2022-04-14](2022-04-14.md)
 - [x] work on README
 - [x] Need to run model in openvino
-- [ ] Put it in DL workbench, see if that can improve performance
 - [x] Presentation Work
 - [x] User Manual Finished [[2022-05-09]]
 - [x] Maintenance Manual - Need to finish [[2022-05-10]]
-- [ ] Testing Document - Some input video vs output frames expected?
+- [x] Testing Document - Some input video vs output frames expected?
+- [ ] Make demo video of openvino version for Harsh
 
 ### Maintenance
 - Tested with python 3.9.12

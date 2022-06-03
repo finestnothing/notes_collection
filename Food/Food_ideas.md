@@ -207,6 +207,8 @@
 	- [[cooking_for_two]] page 222
 - Pasta with roasted cherry tomatoes, garlic, and basil
 	- [[cooking_for_two]] page 224
+- Spaghetti and Turkey-pesto meatballs
+	- [[cooking_for_two]] page 225
 - Orecchiette with Broccoli Rabe and Italian sausage
 	- [[cooking_for_two]] page 226
 - Linguine with fresh clam sauce

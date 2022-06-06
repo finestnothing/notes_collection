@@ -1,0 +1,6 @@
+- [[chicken_parmesan]]
+- [[buffalo_chicken_wings]]
+- [[chicken_fettucini_alfredo]]
+- [[chipotle_chicken_enchilada]]
+- [[schnitzel_chicken_kiev]]
+- [[sesame_chicken]]

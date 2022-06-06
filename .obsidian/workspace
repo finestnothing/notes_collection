@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8b95253a99283fa6",
+        "id": "6a41f80dd56b7d3a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -58,13 +58,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 319,
-    "collapsed": true
+    "width": 319
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -140,25 +138,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 316,
     "collapsed": true
   },
-  "active": "8b95253a99283fa6",
+  "active": "6a41f80dd56b7d3a",
   "lastOpenFiles": [
     "Daily_Notes/2022-06-06.md",
-    "Daily_Notes/2022-06-04.md",
-    "Daily_Notes/2022-06-03.md",
-    "Daily_Notes/2022-04-08.md",
-    "Food/Food_ideas.md",
-    "Daily_Notes/2022-06-02.md",
-    "Daily_Notes/2022-06-01.md",
-    "Daily_Notes/2022-05-31.md",
-    "Daily_Notes/2022-05-25.md",
-    "Notes/Projects.md"
+    "Zettelkasten/Literature_Notes/my_product_is_my_garden.md",
+    "Notes/Tattoo_ideas.md",
+    "Notes/prospective_tattoo_ideas.md",
+    "Zettelkasten/to_read.md",
+    "Zettelkasten/Fleeting_Notes/202205131523.md",
+    "Zettelkasten/Fleeting_Notes/202205121047.md",
+    "Zettelkasten/Fleeting_Notes/202205091944.md",
+    "Zettelkasten/Fleeting_Notes/202205081822.md",
+    "Food/good_eats_the_final_years.md"
   ]
 }

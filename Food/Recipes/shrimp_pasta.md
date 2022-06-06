@@ -1,0 +1,6 @@
+- Shrimp Pasta
+- [[good_eats_the_final_years]] page 372
+- [[shrimp]]
+- [[seafood]]
+- [[pasta]]
+- [[dinner_recipe]]

@@ -1,0 +1,4 @@
+- Ricotta Latkes
+- [[good_eats_the_final_years]] page 188
+- [[potato]]
+- [[dinner_recipe]]

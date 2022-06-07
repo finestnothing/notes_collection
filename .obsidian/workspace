@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-06-06.md",
+            "file": "Daily_Notes/2022-06-07.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-06-06.md",
+                "file": "Daily_Notes/2022-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-06-06.md",
+                "file": "Daily_Notes/2022-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-06-06.md"
+                "file": "Daily_Notes/2022-06-07.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "6a41f80dd56b7d3a",
   "lastOpenFiles": [
+    "Daily_Notes/2022-06-07.md",
     "Daily_Notes/2022-06-06.md",
     "Zettelkasten/Literature_Notes/my_product_is_my_garden.md",
     "Notes/Tattoo_ideas.md",
@@ -155,7 +156,6 @@
     "Zettelkasten/Fleeting_Notes/202205131523.md",
     "Zettelkasten/Fleeting_Notes/202205121047.md",
     "Zettelkasten/Fleeting_Notes/202205091944.md",
-    "Zettelkasten/Fleeting_Notes/202205081822.md",
-    "Food/good_eats_the_final_years.md"
+    "Zettelkasten/Fleeting_Notes/202205081822.md"
   ]
 }

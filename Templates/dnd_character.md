@@ -1,14 +1,7 @@
----
-name: {{title}}
-campaign: 
-class: 
-race: 
-controller:
----
 # Name: {{title}}
-## Class:  `= this.class`
-## Race: `= this.race`
-## Campaign:  `= this.campaign`
+## Class:  
+## Race: 
+## Campaign:  
 ## About
 ### Backstory
 ### During Campaign

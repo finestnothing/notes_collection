@@ -10,7 +10,7 @@
 	- [ ] New hobby or class (cooking, craft of some sort, etc) (library may have classes)
 	- [ ] Zoo or botanical garden
 	- [x] Lake/river day
-	- [ ] Geocaching
+	- [x] Geocaching
 	- [ ] Visit a national park
 	- [ ] Spa day
 	- [ ] Bird watching

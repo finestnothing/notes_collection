@@ -1,9 +1,3 @@
----
-date: {{date}}
-campaign: strahd
-start: 
-end: 
----
 # {{Title}}
 ## Notes
 ### General

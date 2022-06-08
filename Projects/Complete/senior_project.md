@@ -3,7 +3,7 @@ name: senior_project
 category: school
 start_date: 2022-04-13
 finish_date:
-status: inprogress
+status: complete
 ---
 # Project Title
 ## `= this.start_date` - `= this.finish_date`

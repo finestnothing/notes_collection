@@ -7,8 +7,13 @@
         "id": "bd3ef4dd3c32d453",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Literature_Notes/three_pass_process.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Literature_Notes/three_pass_process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Literature_Notes/three_pass_process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,26 +117,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Literature_Notes/three_pass_process.md"
+              }
             }
           },
           {
-            "id": "5bcd3026c23a8449",
+            "id": "eb15e6c8aafc322c",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "e95da24397a4156c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -138,15 +140,15 @@
   },
   "active": "bd3ef4dd3c32d453",
   "lastOpenFiles": [
-    "Daily_Notes/2022-06-07.md",
-    "pages/logseq_test_page.md",
-    "pages/contents.md",
-    "Zettelkasten/Projects/bootstrapping_a_startup_blog.md",
+    "Zettelkasten/Literature_Notes/three_pass_process.md",
+    "Zettelkasten/Fleeting_Notes/202206071704.md",
+    "Zettelkasten/Fleeting_Notes/202205131523.md",
+    "Zettelkasten/Fleeting_Notes/202206080938.md",
+    "Daily_Notes/2022-06-08.md",
+    "logseq/journals/2022_06_07.md",
     "Zettelkasten/Content_maps/zettelkasten.md",
-    "Zettelkasten/Content_maps/bootstrapping_a_startup.md",
-    "Zettelkasten/Permanent_Notes/benefits_of_bootstrapping.md",
-    "Zettelkasten/Permanent_Notes/what_is_bootstrapping.md",
-    "Zettelkasten/Permanent_Notes/skills_required_for_bootstrapping.md",
-    "Zettelkasten/Permanent_Notes/goals_for_bootstrapping.md"
+    "Daily_Notes/2022-06-07.md",
+    "logseq/pages/contents.md",
+    "README.md"
   ]
 }

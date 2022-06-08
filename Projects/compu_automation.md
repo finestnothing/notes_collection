@@ -21,7 +21,7 @@ status: inprogress
 - [x] Link YM to CompostU Course
 - [x] Fill in all info for CompostU course
 - [x] Move to next video
-- [ ] Create tutorial for new users
+- [x] Create tutorial for new users
 
 ## Notes
 - Currently waiting on others to verify that the first course was fully created successfully, but it looks good [[2022-05-14]]

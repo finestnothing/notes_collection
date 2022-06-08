@@ -1,19 +1,8 @@
----
-title: the_starless_crown
-author: James Rollins
-genre: fantasy
-rating:
-started: 2022-05-11
-finished: 
-status: 
----
-# `= this.title`
-## By `= this.author`
-### Rating: `= this.rating`/10
-### `= this.started` - `= this.finished`
-
+# The Starless Crown
+## By James Rollins
 #### Review:
 - Started reading [[2022-05-11]] - It's pretty good, so far just in back story but it's written well
+- Finished [[2022-05-28]] - Really good book, very happy with it
 
 #### Quotes: 
 ```ad-quote

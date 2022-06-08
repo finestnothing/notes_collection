@@ -1,17 +1,5 @@
----
-title: {{title}}
-author:
-genre:
-rating:
-started: {{date}}
-finished: 
-status: 
----
-# `= this.title`
-## By `= this.author`
-### Rating: `= this.rating`/10
-### `= this.started` - `= this.finished`
+# 
+## By 
+### Review
 
-#### Review:
-
-#### Quotes: 
+### Final Thoughts

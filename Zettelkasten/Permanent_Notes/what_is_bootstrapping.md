@@ -6,3 +6,6 @@ It can (and often does) mean slower growth of the business, but does not have ou
 
 ## References
 1. [[benefits_of_bootstrapping]]
+
+## Source(s)
+1. [[my_product_is_my_garden]]

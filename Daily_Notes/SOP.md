@@ -1,0 +1,13 @@
+# SOP for AirX Utility Surveyors
+- Map and Log QC
+	- Make changes to map and log to meet crossbore requirements
+	- Includes adding anything that was missed previously, anything that isn't determined until the end of a project (No SM, No SD, customer contact issues)
+	- Map uses basic autocad functions
+- Send deliverables to PG&E project managers
+	- Address any revisions or questions that come back as soon as possible
+- Look at rejection reports as they come in, address any contestable segments (called missing but should've been sent, unclear to/from etc)
+	- Other segments will need to be reshot or addressed in some other way (depending on reason)
+- Move jobs to "Ready to burn" folder in Q drive when the jobs are confirmed by the PG&E coordinator
+- Answer any questions from the project managers for ongoing projects (progress checks, etc)
+- Update PG&E PM's weekly on UTA issues for jobs that take longer than a week
+	- Need to get cleaning quotes for any relevant segments from Dave

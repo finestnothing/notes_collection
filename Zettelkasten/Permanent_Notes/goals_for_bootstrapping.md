@@ -7,4 +7,6 @@ The major goals for bootstrapping a startup are:
 2. Delivering incremental value to continually gain more users
 
 ## References
+
+## Source(s)
 1. [[my_product_is_my_garden]]

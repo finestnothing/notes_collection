@@ -16,7 +16,7 @@ status: complete
 ### `= this.started` - `= this.finished`
 
 #### Review:
-Finished [2022-03-16](../../Daily_Notes/2022-03-16.md)
+Finished [2022-03-16](2022-03-16.md)
 Really good book, there were a few slow points but they were important.
 This tells the story of Emrael Ire, attempting to rescue his brother. 
 He finds out that he is a mage, something that was stigmatized in their society following a previous war.

@@ -15,9 +15,9 @@ finished: 2022-05-06
 - Part of the [mcu_watch_order](../mcu_watch_order.md)
 
 #### Review:
-- [2022-04-28](../../Daily_Notes/2022-04-28.md) - Episode 5
+- [2022-04-28](2022-04-28.md) - Episode 5
 	- Show is still very interesting, there are a few mind-fuck places, but overall it's very good
-- [2022-05-06](../../Daily_Notes/2022-05-06.md) - Episode 6
+- [2022-05-06](2022-05-06.md) - Episode 6
 	- Finished this today, still super trippy and the finale was pretty short, but it was really good.
 	- I hope it comes back for another season
 :

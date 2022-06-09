@@ -14,7 +14,7 @@ rating: 8
 ### Expensive:  `= this.expensive`
 
 #### Review:
-Visited [2022-03-31](../../Daily_Notes/2022-03-31.md) - It was really tasty. The pork taco had less flavor than the beef (the democrat) but both were really good. The chips and quac were great
+Visited [2022-03-31](2022-03-31.md) - It was really tasty. The pork taco had less flavor than the beef (the democrat) but both were really good. The chips and quac were great
 
 :
    

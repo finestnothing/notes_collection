@@ -9,4 +9,6 @@ Some of the major skills needed for bootstrapping:
 4. Marketing, sales, copywriting, branding! 
 
 ## References
+
+## Source(s)
 1. [[my_product_is_my_garden]]

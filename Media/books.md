@@ -4,7 +4,7 @@
 	- The Atlas Paradox
 	- In progress
 - Moon Fall Series by James Rollins
-	- The Starless Crown
+	- [[the_starless_crown]]
 	- In progress
 - Sigma Force Series by James Rollins
 	- [[sandstorm]]
@@ -85,7 +85,7 @@
 - The Stars are Legion by Kameron Hurley
 - The Monster of Elendhaven by Jennifer Giesbrecht
 - Rosewater by Tade Thompson
-- Too Like the Lighjtning by Ada Palmer
+- Too Like the Lightning by Ada Palmer
 - Seveneves by Neal Stephenson
 - We Are Legion by Dennis B Taylor
 - Station Eleven by Emily St John Mandel
@@ -112,8 +112,4 @@
 - The Left Hand of Darkness by Ursula K Le Guin
 - Project Hail Mary by Andy Weir
 - 1984 by George Orwell
-- Mistborn Trilogy by Brandon Sanderson
-	- Mistborn
-	- The Well of Ascension
-	- The Hero of Ages
 - The Complete Works of William Shakespeare

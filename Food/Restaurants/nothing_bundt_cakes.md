@@ -14,7 +14,7 @@ rating: 9
 ### Expensive:  `= this.expensive`
 
 #### Review:
-Visited [2022-03-30](../../Daily_Notes/2022-03-30.md) - Got Raspberry and White Chocolate, Strawberries and Cream, and Marble. All are delicious.
+Visited [2022-03-30](2022-03-30.md) - Got Raspberry and White Chocolate, Strawberries and Cream, and Marble. All are delicious.
 
 :
   

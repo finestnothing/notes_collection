@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bd3ef4dd3c32d453",
+        "id": "2deb858caccd0e91",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-06-08.md",
+            "file": "Media/books.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-06-08.md",
+                "file": "Media/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-06-08.md",
+                "file": "Media/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-06-08.md"
+                "file": "Media/books.md"
               }
             }
           },
@@ -138,17 +138,17 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "bd3ef4dd3c32d453",
+  "active": "2deb858caccd0e91",
   "lastOpenFiles": [
-    "Daily_Notes/2022-06-08.md",
-    "Zettelkasten/Permanent_Notes/what_is_the_three_pass_process.md",
-    "Zettelkasten/Literature_Notes/three_pass_process.md",
+    "Media/books.md",
     "Zettelkasten/Fleeting_Notes/202206071704.md",
-    "Zettelkasten/Fleeting_Notes/202205131523.md",
-    "Zettelkasten/Fleeting_Notes/202206080938.md",
-    "logseq/journals/2022_06_07.md",
-    "Zettelkasten/Content_maps/zettelkasten.md",
-    "Daily_Notes/2022-06-07.md",
-    "logseq/pages/contents.md"
+    "Daily_Notes/2022-06-09.md",
+    "Daily_Notes/SOP.md",
+    "Media/Books/the_kubernetes_book.md",
+    "Media/Books/the_illustrated_a_brief_history_of_time.md",
+    "Media/Books/the_iliad.md",
+    "Media/Books/sandstorm.md",
+    "Media/Books/how_to_make_a_spaceship.md",
+    "Zettelkasten/Content_maps/zettelkasten.md"
   ]
 }

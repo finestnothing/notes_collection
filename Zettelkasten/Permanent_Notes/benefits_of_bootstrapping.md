@@ -8,4 +8,6 @@ Created: 2022-06-07 17:36
 5. Don't need to focus on hiring and managing other people
 
 ## References
+
+## Source(s)
 1. [[my_product_is_my_garden]]

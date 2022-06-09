@@ -1,1 +1,3 @@
-Look in to other knowledge management systems
+- [x] Look into other project management systems
+	- LogSeq - Best
+	- Roam - Paid, gross

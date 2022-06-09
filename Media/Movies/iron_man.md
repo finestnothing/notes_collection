@@ -11,7 +11,7 @@ status: complete
 ### Last Watched: `= this.last_watched`
 
 #### Review:
-Watched [2022-05-06](../../Daily_Notes/2022-05-06.md)
+Watched [2022-05-06](2022-05-06.md)
 Great movie, you really hate Tony but they force you to love him as his character grows.
 
 :

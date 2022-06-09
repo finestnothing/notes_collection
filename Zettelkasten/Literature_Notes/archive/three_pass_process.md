@@ -1,4 +1,4 @@
-# 202205091944
+# Three Pass Process
 Created: 2022-05-09 19:44
 
 Three-pass process to improve efficiency of reading research papers
@@ -43,7 +43,7 @@ This can take 4-5 hours for a beginner, but as little as 1 hour with experience.
 
 ## Literature Survey
 
-Tests your reading skills (from above)
+Tests your reading skills
 
 Pick 5 recent papers in some field from google scholar (find with keywords)
 Do a first pass on each

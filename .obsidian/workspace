@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Literature_Notes/three_pass_process.md",
+            "file": "Daily_Notes/2022-06-08.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Literature_Notes/three_pass_process.md",
+                "file": "Daily_Notes/2022-06-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Literature_Notes/three_pass_process.md",
+                "file": "Daily_Notes/2022-06-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Literature_Notes/three_pass_process.md"
+                "file": "Daily_Notes/2022-06-08.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "bd3ef4dd3c32d453",
   "lastOpenFiles": [
+    "Daily_Notes/2022-06-08.md",
+    "Zettelkasten/Permanent_Notes/what_is_the_three_pass_process.md",
     "Zettelkasten/Literature_Notes/three_pass_process.md",
     "Zettelkasten/Fleeting_Notes/202206071704.md",
     "Zettelkasten/Fleeting_Notes/202205131523.md",
     "Zettelkasten/Fleeting_Notes/202206080938.md",
-    "Daily_Notes/2022-06-08.md",
     "logseq/journals/2022_06_07.md",
     "Zettelkasten/Content_maps/zettelkasten.md",
     "Daily_Notes/2022-06-07.md",
-    "logseq/pages/contents.md",
-    "README.md"
+    "logseq/pages/contents.md"
   ]
 }

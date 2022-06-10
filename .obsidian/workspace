@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Media/books.md",
+            "file": "Daily_Notes/2022-06-09.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 319,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/books.md",
+                "file": "Daily_Notes/2022-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/books.md",
+                "file": "Daily_Notes/2022-06-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/books.md"
+                "file": "Daily_Notes/2022-06-09.md"
               }
             }
           },
@@ -140,15 +141,15 @@
   },
   "active": "2deb858caccd0e91",
   "lastOpenFiles": [
-    "Media/books.md",
-    "Zettelkasten/Fleeting_Notes/202206071704.md",
     "Daily_Notes/2022-06-09.md",
     "Daily_Notes/SOP.md",
+    "Notes/SFL_scientific.md",
+    "Media/Books/algorithms_to_live_by.md",
+    "Media/books.md",
+    "Zettelkasten/Fleeting_Notes/202206071704.md",
     "Media/Books/the_kubernetes_book.md",
     "Media/Books/the_illustrated_a_brief_history_of_time.md",
     "Media/Books/the_iliad.md",
-    "Media/Books/sandstorm.md",
-    "Media/Books/how_to_make_a_spaceship.md",
-    "Zettelkasten/Content_maps/zettelkasten.md"
+    "Media/Books/sandstorm.md"
   ]
 }

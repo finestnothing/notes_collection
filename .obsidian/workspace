@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-06-09.md",
+            "file": "Zettelkasten/Fleeting_Notes/202206100727.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-06-09.md",
+                "file": "Zettelkasten/Fleeting_Notes/202206100727.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-06-09.md",
+                "file": "Zettelkasten/Fleeting_Notes/202206100727.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-06-09.md"
+                "file": "Zettelkasten/Fleeting_Notes/202206100727.md"
               }
             }
           },
@@ -141,15 +141,15 @@
   },
   "active": "2deb858caccd0e91",
   "lastOpenFiles": [
+    "Zettelkasten/Fleeting_Notes/202206100727.md",
+    "Zettelkasten/Fleeting_Notes/202206100707.md",
+    "Media/Books/algorithms_to_live_by.md",
     "Daily_Notes/2022-06-09.md",
     "Daily_Notes/SOP.md",
     "Notes/SFL_scientific.md",
-    "Media/Books/algorithms_to_live_by.md",
     "Media/books.md",
     "Zettelkasten/Fleeting_Notes/202206071704.md",
     "Media/Books/the_kubernetes_book.md",
-    "Media/Books/the_illustrated_a_brief_history_of_time.md",
-    "Media/Books/the_iliad.md",
-    "Media/Books/sandstorm.md"
+    "Media/Books/the_illustrated_a_brief_history_of_time.md"
   ]
 }

@@ -11,9 +11,8 @@
 	- [ ] Zoo or botanical garden
 	- [x] Lake/river day
 	- [x] Geocaching
-	- [ ] Visit a national park
+	- [x] Visit a national park
 	- [ ] Spa day
-	- [ ] Bird watching
 	- [ ] Find and hike to a waterfall or cave
 	- [ ] Photographic scavenger hunt
 		- In nature
@@ -22,6 +21,7 @@
 	- [ ] Buy plane ticket to new City or place for a single day
 - Half day adventures - Green
 	- [ ] Hiking
+	- [ ] Bird watching
 	- [x] picnic
 	- [ ] Museum
 		- [ ] History
@@ -38,9 +38,8 @@
 	- [ ] Visit local historical landmark(s)
 	- [ ] Visit a park
 	- [ ] Look into a specific piece of history
-	- [ ] Early morning hike, eat while watching sunrise
+	- [x] Early morning hike, eat while watching sunrise
 	- [ ] Kite flying
-	- [ ] Find local street art
 	- [ ] Planetarium
 	- [ ] Local music
 	- [ ] Food tour
@@ -55,16 +54,22 @@
 	- [ ] Learn/play chess
 	- [ ] Learn/play mahjong
 	- [ ] Learn/play Go
-- Evenings - dark blue
+- Evenings - blue
 	- [ ] Dinner at {{restaurant}}
 	- [ ] New recipe
 	- [ ] Walk and homemade dinner
 	- [ ] Try new restaurant
 	- [ ] Try making a new dish from a different country
 	- [ ] Movie night
-	- [ ] Star gazing
+	- [x] Star gazing
 	- [ ] Movie/game All-nighter
 	- [ ] Evening show of some sort
 	- [ ] New kind of sushi
-- Misc - red
-	- [ ] Start or join a book club
+	- [x] Movie and Dinner night out
+- Personal - red
+	- [x] Butt stuff
+	- [x] Bondage
+	- [ ] Pegging
+	- [ ] Dildos
+	- [ ] Threesome
+	- [ ] Double penetration

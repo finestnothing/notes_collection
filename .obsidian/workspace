@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-06-12.md",
+            "file": "Daily_Notes/2022-06-13.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-06-12.md",
+                "file": "Daily_Notes/2022-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-06-12.md",
+                "file": "Daily_Notes/2022-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-06-12.md"
+                "file": "Daily_Notes/2022-06-13.md"
               }
             }
           },
@@ -140,6 +140,7 @@
   },
   "active": "1b3a74ca579c2014",
   "lastOpenFiles": [
+    "Daily_Notes/2022-06-13.md",
     "Daily_Notes/2022-06-12.md",
     "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch1.md",
     "Zettelkasten/Fleeting_Notes/archive/202206111224.md",
@@ -148,7 +149,6 @@
     "Zettelkasten/Permanent_Notes/using_zettelkasten.md",
     "Zettelkasten/Content_maps/zettelkasten.md",
     "Zettelkasten/Fleeting_Notes/202206111251.md",
-    "Zettelkasten/Fleeting_Notes/202206071704.md",
-    "Daily_Notes/2022-06-11.md"
+    "Zettelkasten/Fleeting_Notes/202206071704.md"
   ]
 }

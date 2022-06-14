@@ -1,0 +1,46 @@
+- https://www.tylertech.com/careers/job-listings/utility-billing-conversion-engineer-22-12856-01
+- Questions
+	- Typical day in this position
+	- Best and worst parts of working there? Working culture?
+		- Prioritize employee happiness, benefits, work-life balance
+	- Where is the company hoping to be in 5 years
+	- Pay
+	- Opportunity for growth in company
+- Phone [[screening]] [[2022-06-14]]
+	- Screening, one more interview after this
+		- Follow up for second interview should be within the next 24 to 48 hours [[2022-06-16]]
+	- Tyler Technologies
+		- Largest software company that not many people have heard of
+		- Mostly partner with public companies (government stuff)
+		- 66 web products, 26 offices, and expanding. Growing rapidly
+		- A lot of vertical and horizontal growth
+		- Base Salary, 3%, lotta days off
+			- After 6 months, discounted stock
+			- After 12 months, tuition reimbursement
+	- Robin and Jamie are hiring managers
+	- Best part
+		- Culture
+		- Fosters culture of family, work hard play hard, flexible
+		- Mental health
+		- Wants to be more competitive in pay grades, very low turn over
+	- First three months - Meeting
+		- Fly out to Maine
+		- Meet managers and division president in person
+		- Called Tyler Days
+	- Worst Parts
+		- For their own department, flooded with requisitions (new positions), very busy and hard to fill
+	- 5 Year plan
+		- No major plans or changes planned, publicly traded so all changes are public
+		- Continuing to acquire companies
+		- Presence in US, Canada, and Philippines
+	- Switching jobs
+		- Internal interviews for switching
+			- If good reviews with current manager, streamlined process
+		- Stay in current role for at least 18 months
+		- Work with HR partners in company to make career plan
+			- Want to see x amount of growth or in role x by y time, talk to them and they'll help
+	- Tuition reimbursement
+		- Degree in line with current role and career path
+		- Pays for college or certifications
+	- Likes to highlight
+		- In pandemic, no major layoffs and now growing

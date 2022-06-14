@@ -1,0 +1,5 @@
+- First [[interview]] [[2022-06-16]]
+- https://www.linkedin.com/jobs/search/?currentJobId=3114064396&geoId=103644278&keywords=insights%20analyst%20srg&location=United%20States
+- Hybrid in Boulder, CO
+- They are mainly looking for someone with a degree in Marketing, Psychology, Advertising, or Mathematics
+	- Minor in math will likely be big

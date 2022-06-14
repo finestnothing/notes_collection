@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-06-13.md",
+            "file": "Daily_Notes/SOP.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 319,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-06-13.md",
+                "file": "Daily_Notes/SOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-06-13.md",
+                "file": "Daily_Notes/SOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-06-13.md"
+                "file": "Daily_Notes/SOP.md"
               }
             }
           },
@@ -140,15 +141,15 @@
   },
   "active": "1b3a74ca579c2014",
   "lastOpenFiles": [
-    "Daily_Notes/2022-06-13.md",
-    "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch2.md",
-    "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch1.md",
+    "Daily_Notes/SOP.md",
+    "Daily_Notes/2022-06-14.md",
     "Zettelkasten/Fleeting_Notes/202206121422.md",
-    "Zettelkasten/Fleeting_Notes/archive/202206131529.md",
     "Zettelkasten/Fleeting_Notes/202206071704.md",
-    "Media/TBR.md",
-    "Media/tv_shows.md",
-    "Media/movies.md",
-    "Zettelkasten/Fleeting_Notes/archive/202206111251.md"
+    "Notes/Companies/SFL_scientific.md",
+    "Notes/Companies/Dynatrace.md",
+    "Notes/Companies/tyler_technologies.md",
+    "Notes/Companies/interview.md",
+    "Notes/Companies/SRG.md",
+    "Daily_Notes/2022-06-13.md"
   ]
 }

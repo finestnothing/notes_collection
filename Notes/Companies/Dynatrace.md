@@ -1,0 +1,48 @@
+# Dynatrace
+## Job as consultant
+- Best guess link - https://www.linkedin.com/jobs/view/2990186481/?alternateChannel=search&refId=WCzzGoaEJm2YaR25HPKm%2Bg%3D%3D&trackingId=y%2BdGinVGp71vWWhBhQntag%3D%3D
+- Interview [[2022-06-09]]
+	- Performance monitoring space
+	- Develop and sell a performance monitoring tool
+	- Role is technical and people facing
+	- May work with them on bug fixing, developers, cloud teams, etc
+	- 14 weeks of virtual training
+		- Set me up for success
+		- Covering Dynatrace software
+			- Certifications on Dynatrace, but also work on others like AWS
+				- Won't explicitly get the other certifications, but will be ready or close to ready to get them myself
+		- Labs on the software that the companies are using
+	- After, hybrid
+		- Opening a new office in Denver soon which is where I would be working
+	- novena.petracaj@dynatrace.com
+	- Start date wouldn't be until July 25
+- Technical [[interview]] scheduled for [[2022-06-14]]
+	- 5 pillars of OOP (Just in case they're needed)
+		- Encapsulation
+			- Use a class without viewing code
+		- Data Hiding
+			- Cannot access internal data from outside the class
+		- Specialization
+			- Create advanced subclasses from existing classes
+		- Polymorphism
+			- Parent class references child class values
+			- E.G. Animals: Make noise, each animal makes a different noise but the call can be the same
+		- Division of Responsibility
+			- Lets multiple people develop a program together
+			- Set just the inputs and outputs so they can work together
+	- Interview Notes
+	- Molly
+		- Team lead 
+		- Based in Detroit
+	- What do you like most
+		- The people are the best
+		- People care about the company and for each other
+	- What do you like least
+		- A lot of changes that have been occurring, growing and such
+	- Fully remote until the Denver office is setup
+- Next Steps
+	- Interview day, 4 half hour sessions
+		- Technical
+		- cognitive reasoning
+		- Presentation of a possible scenario
+	- Potential Offer

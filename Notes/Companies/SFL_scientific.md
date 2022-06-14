@@ -17,10 +17,11 @@ Created: 2022-06-09 07:47
 		- Improving national security
 		- Predict structural issues
 		- Conservation of species
-	- Next interview with Dan Ferante
-		- One of the owners
-		- Sits above the entire data team
-		- More technical
-		- 30 minute timeslot
-	- Take home exercise
-	- 1 hour presentation about myself and the exercise
+	- Next Steps
+		- Next interview with Dan Ferante
+			- One of the owners
+			- Sits above the entire data team
+			- More technical
+			- 30 minute timeslot
+		- Take home exercise
+		- 1 hour presentation about myself and the exercise

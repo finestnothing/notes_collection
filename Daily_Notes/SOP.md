@@ -11,3 +11,34 @@
 - Answer any questions from the project managers for ongoing projects (progress checks, etc)
 - Update PG&E PM's weekly on UTA issues for jobs that take longer than a week
 	- Need to get cleaning quotes for any relevant segments from Dave
+
+- Map and Log QC
+	- Make changes to map and log to meet crossbore requirements
+		- Check request sheet to make sure all requested addresses were ran or attempted
+		- Check header for accuracy with the confirmation email, request form, and AirX contact information
+			- Revision number and dates match
+			- PGE job number is correct
+			- Cumulative SM and SD footages are coiorect
+			- Last inspection date
+			- Num of laterals
+			- Compass on every page of map
+		- Check right two columns of log to ensure they are empty of any notes
+		- Check the log line by line to ensure all the information matches with map
+			- Segment name (L1, L2, B1, B2, SM, MH-123, etc)
+			- Street names
+			- Footages
+			- Clear/not clear and reason why
+			- Relevant comments
+				- Clear/not clear past PL is important to note
+			- Matchlines for any multi-page maps
+		- Check map to make sure all addresses and ran segments are mapped
+		- Make sure all roadways have SM and SD noted (even if it's saying No SM/No SD)
+		- Check map and log together and highlight the map as you go to ensure no addresses were missed on the log
+- Updating PM's on UTA's
+	- 
+- Checking with PM regarding any issues with scope
+- Answering questions from PM's
+- Point of Contact for PG&E
+- Rejection Report
+- Confirmed jobs
+- Crossbores found 

@@ -17,7 +17,7 @@
 		- Base Salary, 3%, lotta days off
 			- After 6 months, discounted stock
 			- After 12 months, tuition reimbursement
-	- Robin and Jamie are hiring managers
+	- Robyn and Jamie are hiring managers
 	- Best part
 		- Culture
 		- Fosters culture of family, work hard play hard, flexible

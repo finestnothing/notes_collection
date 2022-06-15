@@ -43,5 +43,6 @@
     "editor:configure-toolbar"
   ],
   "trashOption": "local",
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "fileSortOrder": "byModifiedTime"
 }

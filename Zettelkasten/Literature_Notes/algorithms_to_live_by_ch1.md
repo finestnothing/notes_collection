@@ -2,7 +2,7 @@
 Created: 2022-06-11 13:52
 
 ## Early Stopping 
-Mathematical/early stopping is a kind of mathematics problems where you try to tackle the question of when to stop. They are often applied when you cannot revisit a choice, like when you have to make a decision on the spot. You can't wait until the very last option or you are stuck with them, but if you stop too early then you almost certainly miss out on a better option.
+Mathematical/early stopping is a kind of mathematics problems where you try to tackle the question of when to stop. They are often applied when you cannot revisit a choice, like when you have to make a decision on the spot. You can't wait until the very last option or you are stuck with them, but if you stop too early then you almost certainly miss out on a better option. 
 
 ### 37% Method
 One efficient method for solving this problem is by using the 37% rule. Under this system, you should spend 37% of your time or options just exploring, with no intention to pick them. You will likely see really good options, really bad ones, and everything in between. 

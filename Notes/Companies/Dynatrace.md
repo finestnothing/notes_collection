@@ -40,9 +40,13 @@
 	- What do you like least
 		- A lot of changes that have been occurring, growing and such
 	- Fully remote until the Denver office is setup
+	- Interview went well! Moving on to the next step in the process
 - Next Steps
 	- Interview day, 4 half hour sessions
 		- Technical
 		- cognitive reasoning
-		- Presentation of a possible scenario
+		- Etc
+		- Presentation of a possible scenario (On same day as above?)
 	- Potential Offer
+- Followup from Kara for scheduling final interview - [[2022-06-21]]
+	- Everything happens on one day

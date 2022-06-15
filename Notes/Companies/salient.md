@@ -1,0 +1,4 @@
+- https://www.linkedin.com/jobs/view/applications-specialist-at-salient-management-company-3103954170/
+- Max pay of $70,000 for this position
+- Applications Specialist Position
+- First [[interview]] on [[2022-06-17]]

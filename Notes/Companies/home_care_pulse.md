@@ -1,0 +1,45 @@
+- https://www.linkedin.com/jobs/view/data-warehouse-engineer-at-home-care-pulse-3020348719/
+- Initial [[interview]] with Brian at 2:00 PM [[2022-06-15]]
+	- Home Care Pulse
+		- Over 10 years
+		- Focus on patient-caregiver satisfaction
+			- Surveys etc
+		- Training caregivers etc
+			- Courses, pass/no pass
+		- Reputation management
+			- Scrape info from third party tools, aggregate and send to clients
+		- Dev
+			- 8 developers
+			- Spread out
+			- All Remote, a lot in Idaho
+		- Tech stack
+			- Postgresql for DB
+			- C# for surveys
+			- Java on ELearning
+			- React for frontend 
+			- All stored in AWS
+		- All data is reactive
+			- Can tell you what happened, but not may happen
+	- Next steps
+		- Between now and then is about a month
+		- Technical assessment
+		- Technical interview with Hiring manager
+		- Either bring back multiple finalists or offer letter
+		- Expect something in the next 2-3
+	- Favorite Part
+		- Likes building out roadmaps and processes
+		- Culture is great
+			- Only been there about 6 months
+		- Everyone is close knit and friendly
+	- Least Favorite part
+		- Based in Idaho, he's in California
+		- Starts early in the morning
+		- Lot of information coming in and being directed
+	- 5 Year plan
+		- A Venture capital firm invested in Home Care Pulse
+		- Brian got the job from someone at the VC area to lead tech
+		- Currently focused on home-care
+			- Wants to get into hospice, and other healthcare
+		- May in the future look into being bought out, but it would not dissolve my position
+	- No discounted stock buying
+	- No tuition reimbursement

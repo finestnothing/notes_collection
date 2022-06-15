@@ -1,0 +1,6 @@
+- Call from Benjamin Blevins-Boor [[2022-06-15]] at 2:30
+- They're a recruiter, specific to clients in the Denver area
+	- Specifically looking for Data Engineers
+	- Majority of their roles start 90,000, told them 70,000-80,000 is minimum
+	- Most clients work pretty fast for interview process
+	- Seemed to like me and should hear back by [[2022-06-22]]

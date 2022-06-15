@@ -1,14 +1,10 @@
 - https://www.tylertech.com/careers/job-listings/utility-billing-conversion-engineer-22-12856-01
 - Questions
-	- Typical day in this position
-	- Best and worst parts of working there? Working culture?
-		- Prioritize employee happiness, benefits, work-life balance
-	- Where is the company hoping to be in 5 years
 	- Pay
-	- Opportunity for growth in company
+		- Said 70,000-80,000
 - Phone [[screening]] [[2022-06-14]]
 	- Screening, one more interview after this
-		- Follow up for second interview should be within the next 24 to 48 hours [[2022-06-16]]
+		- Follow up for second interview should be within the next 24 to 48 hours 
 	- Tyler Technologies
 		- Largest software company that not many people have heard of
 		- Mostly partner with public companies (government stuff)
@@ -44,3 +40,43 @@
 		- Pays for college or certifications
 	- Likes to highlight
 		- In pandemic, no major layoffs and now growing
+- Second [[interview]] [[2022-06-15]] at 9 AM with Robyn
+	- Questions:
+		- Typical day in this role?
+			- Utility billing is different in that the conversions are more complex
+				- 6-8 projects at a time, work on 2 clients per week
+			- Financial
+				- Faster conversions, less data, etc
+				- 20-30 projects, 4-5 clients per week
+			- Work with implementation team
+				- PM's oversee projects
+				- Implementers
+					- train client on software
+				- This position brings in data from their software to ours
+			- First pass is analyzing the data, figuring out where everything is. Maybe they gave us a SQL database, map out all info that they have. (Addresses, info, etc)
+				- 4-6 weeks to work on it, other projects may also come up that you need to work on that
+			- Work with client to proof data, report conversion data
+			- Second pass: Currently use Sharepoint
+				- Tracks conversion issues, changes they want to make, etc
+				- 2 Weeks roughly
+	- Robyn is Senior Director of conversion team
+		- Has 3 managers under them that normally handle these, but they're busy
+	- 30 conversion programmers
+		- Each manager handles a different division
+		- All under multiple divisions
+			- Multiple teams, a lot of acronyms
+	- Two positions, one new and one filling a position from someone who retired
+	- Communication and deadlines are very important for this role (yay)
+	- Use some existing tools, but have to ad-hoc them to fit data
+	- Typical day in the role
+		- 2-5 projects to work on for the week
+		- Prioritize my own workload, decide what projects to work on and ensure I meet requirements
+		- Make tweaks
+		- Verification scripts
+		- Error logs from programs
+		- Implementers can ping me for help
+			- Look at issue quickly to fix the issue
+			- Re-run, send back to them with fix
+	- All over the country, based in texas or maine
+		- Conversion team only 4/30 come into office
+	- Next step is to meet with the other hiring managers since this one was scheduled last minute by HR

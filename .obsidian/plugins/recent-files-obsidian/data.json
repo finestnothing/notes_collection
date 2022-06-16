@@ -1,52 +1,192 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-06-15",
-      "path": "Daily_Notes/2022-06-15.md"
-    },
-    {
-      "basename": "algorithms_to_live_by_ch6",
-      "path": "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch6.md"
-    },
-    {
-      "basename": "202206151246",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206151246.md"
-    },
-    {
-      "basename": "algorithms_to_live_by_ch5",
-      "path": "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch5.md"
-    },
-    {
-      "basename": "202206141754",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206141754.md"
-    },
-    {
-      "basename": "202206150654",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206150654.md"
-    },
-    {
-      "basename": "202206071704",
-      "path": "Zettelkasten/Fleeting_Notes/202206071704.md"
+      "basename": "algorithms_to_live_by",
+      "path": "Zettelkasten/Content_maps/algorithms_to_live_by.md"
     },
     {
       "basename": "202206121422",
       "path": "Zettelkasten/Fleeting_Notes/202206121422.md"
     },
     {
+      "basename": "202206160649",
+      "path": "Zettelkasten/Fleeting_Notes/202206160649.md"
+    },
+    {
+      "basename": "algorithms_to_live_by_ch6",
+      "path": "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch6.md"
+    },
+    {
+      "basename": "algorithms_to_live_by_ch5",
+      "path": "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch5.md"
+    },
+    {
+      "basename": "fast_efficient_organization",
+      "path": "Zettelkasten/Permanent_Notes/fast_efficient_organization.md"
+    },
+    {
+      "basename": "algorithms_to_live_by_ch4",
+      "path": "Zettelkasten/Literature_Notes/archive/algorithms_to_live_by_ch4.md"
+    },
+    {
       "basename": "202206141748",
       "path": "Zettelkasten/Fleeting_Notes/archive/202206141748.md"
     },
     {
-      "basename": "algorithms_to_live_by_ch4",
-      "path": "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch4.md"
+      "basename": "202206131529",
+      "path": "Zettelkasten/Fleeting_Notes/archive/202206131529.md"
+    },
+    {
+      "basename": "algorithms_to_live_by",
+      "path": "Media/Books/in-progress/algorithms_to_live_by.md"
     },
     {
       "basename": "algorithms_to_live_by_ch2",
-      "path": "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch2.md"
+      "path": "Zettelkasten/Literature_Notes/archive/algorithms_to_live_by_ch2.md"
     },
     {
       "basename": "algorithms_to_live_by_ch1",
-      "path": "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch1.md"
+      "path": "Zettelkasten/Literature_Notes/archive/algorithms_to_live_by_ch1.md"
+    },
+    {
+      "basename": "202206100727",
+      "path": "Zettelkasten/Fleeting_Notes/archive/202206100727.md"
+    },
+    {
+      "basename": "202206100707",
+      "path": "Zettelkasten/Fleeting_Notes/archive/202206100707.md"
+    },
+    {
+      "basename": "what_is_the_37_percent_rule",
+      "path": "Zettelkasten/Permanent_Notes/what_is_the_37_percent_rule.md"
+    },
+    {
+      "basename": "what_is_an_explore_exploit_problem",
+      "path": "Zettelkasten/Permanent_Notes/what_is_an_explore_exploit_problem.md"
+    },
+    {
+      "basename": "benefits_of_gittins_index",
+      "path": "Zettelkasten/Permanent_Notes/benefits_of_gittins_index.md"
+    },
+    {
+      "basename": "gittins_index",
+      "path": "Zettelkasten/Permanent_Notes/gittins_index.md"
+    },
+    {
+      "basename": "how_to_decide_explore_or_exploit",
+      "path": "Zettelkasten/Permanent_Notes/how_to_decide_explore_or_exploit.md"
+    },
+    {
+      "basename": "gittins_index_table",
+      "path": "Zettelkasten/Permanent_Notes/gittins_index_table.md"
+    },
+    {
+      "basename": "explore_exploit_interval",
+      "path": "Zettelkasten/Permanent_Notes/explore_exploit_interval.md"
+    },
+    {
+      "basename": "examples_of_explore_exploit_problems",
+      "path": "Zettelkasten/Permanent_Notes/examples_of_explore_exploit_problems.md"
+    },
+    {
+      "basename": "bootstrapping_a_startup",
+      "path": "Zettelkasten/Content_maps/bootstrapping_a_startup.md"
+    },
+    {
+      "basename": "202206111224",
+      "path": "Zettelkasten/Fleeting_Notes/archive/202206111224.md"
+    },
+    {
+      "basename": "202206150654",
+      "path": "Zettelkasten/Fleeting_Notes/archive/202206150654.md"
+    },
+    {
+      "basename": "202206141754",
+      "path": "Zettelkasten/Fleeting_Notes/archive/202206141754.md"
+    },
+    {
+      "basename": "202206151246",
+      "path": "Zettelkasten/Fleeting_Notes/archive/202206151246.md"
+    },
+    {
+      "basename": "202206111251",
+      "path": "Zettelkasten/Fleeting_Notes/archive/202206111251.md"
+    },
+    {
+      "basename": "how_to_apply_37_percent_rule",
+      "path": "Zettelkasten/Permanent_Notes/how_to_apply_37_percent_rule.md"
+    },
+    {
+      "basename": "what_is_the_threshold_rule",
+      "path": "Zettelkasten/Permanent_Notes/what_is_the_threshold_rule.md"
+    },
+    {
+      "basename": "benefits_of_37_percent_rule",
+      "path": "Zettelkasten/Permanent_Notes/benefits_of_37_percent_rule.md"
+    },
+    {
+      "basename": "benefits_of_bootstrapping",
+      "path": "Zettelkasten/Permanent_Notes/benefits_of_bootstrapping.md"
+    },
+    {
+      "basename": "what_is_bootstrapping",
+      "path": "Zettelkasten/Permanent_Notes/what_is_bootstrapping.md"
+    },
+    {
+      "basename": "skills_required_for_bootstrapping",
+      "path": "Zettelkasten/Permanent_Notes/skills_required_for_bootstrapping.md"
+    },
+    {
+      "basename": "how_zettelkasten_grows",
+      "path": "Zettelkasten/Permanent_Notes/how_zettelkasten_grows.md"
+    },
+    {
+      "basename": "goals_for_bootstrapping",
+      "path": "Zettelkasten/Permanent_Notes/goals_for_bootstrapping.md"
+    },
+    {
+      "basename": "second_read_of_research_paper",
+      "path": "Zettelkasten/Permanent_Notes/second_read_of_research_paper.md"
+    },
+    {
+      "basename": "what_is_the_three_pass_process",
+      "path": "Zettelkasten/Permanent_Notes/what_is_the_three_pass_process.md"
+    },
+    {
+      "basename": "using_zettelkasten",
+      "path": "Zettelkasten/Permanent_Notes/using_zettelkasten.md"
+    },
+    {
+      "basename": "2022-06-16",
+      "path": "Daily_Notes/2022-06-16.md"
+    },
+    {
+      "basename": "SOP",
+      "path": "Daily_Notes/SOP.md"
+    },
+    {
+      "basename": "2022-06-09",
+      "path": "Daily_Notes/2022-06-09.md"
+    },
+    {
+      "basename": "2022-06-10",
+      "path": "Daily_Notes/2022-06-10.md"
+    },
+    {
+      "basename": "2022-06-15",
+      "path": "Daily_Notes/2022-06-15.md"
+    },
+    {
+      "basename": "2022-06-13",
+      "path": "Daily_Notes/2022-06-13.md"
+    },
+    {
+      "basename": "2022-06-14",
+      "path": "Daily_Notes/2022-06-14.md"
+    },
+    {
+      "basename": "202206071704",
+      "path": "Zettelkasten/Fleeting_Notes/202206071704.md"
     },
     {
       "basename": "tyler_technologies",
@@ -55,90 +195,6 @@
     {
       "basename": "lumicity_recruiting",
       "path": "Notes/Companies/lumicity_recruiting.md"
-    },
-    {
-      "basename": "home_care_pulse",
-      "path": "Notes/Companies/home_care_pulse.md"
-    },
-    {
-      "basename": "salient",
-      "path": "Notes/Companies/salient.md"
-    },
-    {
-      "basename": "SFL_scientific",
-      "path": "Notes/Companies/SFL_scientific.md"
-    },
-    {
-      "basename": "202205081822",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202205081822.md"
-    },
-    {
-      "basename": "202206080938",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206080938.md"
-    },
-    {
-      "basename": "202206100707",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206100707.md"
-    },
-    {
-      "basename": "202206111251",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206111251.md"
-    },
-    {
-      "basename": "202206100727",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206100727.md"
-    },
-    {
-      "basename": "Dynatrace",
-      "path": "Notes/Companies/Dynatrace.md"
-    },
-    {
-      "basename": "2022-06-03",
-      "path": "Daily_Notes/2022-06-03.md"
-    },
-    {
-      "basename": "2022-05-20",
-      "path": "Daily_Notes/2022-05-20.md"
-    },
-    {
-      "basename": "2022-05-13",
-      "path": "Daily_Notes/2022-05-13.md"
-    },
-    {
-      "basename": "the_shining",
-      "path": "Media/Books/the_shining.md"
-    },
-    {
-      "basename": "Tattoo_ideas",
-      "path": "Notes/Tattoo_ideas.md"
-    },
-    {
-      "basename": "adventure_jar",
-      "path": "Notes/adventure_jar.md"
-    },
-    {
-      "basename": "classification_models",
-      "path": "Projects/Complete/classification_models.md"
-    },
-    {
-      "basename": "cluster_analysis",
-      "path": "Projects/Complete/cluster_analysis.md"
-    },
-    {
-      "basename": "senior_project",
-      "path": "Projects/Complete/senior_project.md"
-    },
-    {
-      "basename": "compu_automation",
-      "path": "Projects/compu_automation.md"
-    },
-    {
-      "basename": "2022-06-14",
-      "path": "Daily_Notes/2022-06-14.md"
-    },
-    {
-      "basename": "2022-06-13",
-      "path": "Daily_Notes/2022-06-13.md"
     }
   ],
   "omittedPaths": [],

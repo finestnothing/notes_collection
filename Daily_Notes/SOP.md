@@ -1,24 +1,11 @@
-# SOP for AirX Utility Surveyors
-- Map and Log QC
-	- Make changes to map and log to meet crossbore requirements
-	- Includes adding anything that was missed previously, anything that isn't determined until the end of a project (No SM, No SD, customer contact issues)
-	- Map uses basic autocad functions
-- Send deliverables to PG&E project managers
-	- Address any revisions or questions that come back as soon as possible
-- Look at rejection reports as they come in, address any contestable segments (called missing but should've been sent, unclear to/from etc)
-	- Other segments will need to be reshot or addressed in some other way (depending on reason)
-- Move jobs to "Ready to burn" folder in Q drive when the jobs are confirmed by the PG&E coordinator
-- Answer any questions from the project managers for ongoing projects (progress checks, etc)
-- Update PG&E PM's weekly on UTA issues for jobs that take longer than a week
-	- Need to get cleaning quotes for any relevant segments from Dave
-
+# SOP for AirX
 - Map and Log QC
 	- Make changes to map and log to meet crossbore requirements
 		- Check request sheet to make sure all requested addresses were ran or attempted
 		- Check header for accuracy with the confirmation email, request form, and AirX contact information
 			- Revision number and dates match
 			- PGE job number is correct
-			- Cumulative SM and SD footages are coiorect
+			- Cumulative SM and SD footages are correct
 			- Last inspection date
 			- Num of laterals
 			- Compass on every page of map
@@ -35,10 +22,49 @@
 		- Make sure all roadways have SM and SD noted (even if it's saying No SM/No SD)
 		- Check map and log together and highlight the map as you go to ensure no addresses were missed on the log
 - Updating PM's on UTA's
-	- 
+	- Each week, any jobs that are multiple weeks long, update the project manager at PG&E with any UTA's in a cumulative list
+	- Split them up By Laterals versus Sewer and storm, with sub categories for the recommended action (below)
+		- Jetting/cleaning recommended
+		- CO install recommended
+		- All efforts exhausted
+	- For any UTA's that we can resolve, get a cleaning and/or CO install quote from Dave and attach it to the email.
 - Checking with PM regarding any issues with scope
+	- If any issues or confusion comes up regarding request sheets or the scope of work, reach out to the PM by email (better for finding later)
+	- Make sure to save their response in the Project Info and Correspondence folder
+		- If you called them, make a file with the notes manually
 - Answering questions from PM's
-- Point of Contact for PG&E
+	- The PG&E coordinators will occasionally have questions or requests through projects that will need to be answered
+	- Common ones are progress on the job, UTA's (see above), and occasional changes to the scope, but they can change a lot.
+	- Answer them as best you can, if you need input from the field, forward it to the field supervisor (lmccowan@airxus.com) or the relevant field personnel if you know who they are.
+		- May need to ask Dave for what he wants to do regarding the questions as well - don't guess on the response
+- Project Revisions
+	- Anything that the PG&E coordinators find wrong with deliverables will be sent back, it's very important that you address the revisions ASAP. 
+		- Prioritize it over other jobs unless you are on a very tight schedule. Minimizing revisions is great, but making sure we get any revisions back quickly is important
+	- Respond to each revision individually, even if it's just saying "Map and log changed".
+		- They often come in lists, so it helps to copy their list, go to the next line for each, and tab over for your response
+	- If you don't agree, the PM likely made a typo, or there is some other issue, feel free to add that as your comment (No, the UTA is outside of PL, etc) or call the PM for clarification
+		- They are usually very accurate, but they occasionally make mistakes, especially the newer coordinators
+	- Make sure to update the dates on the maps and logs when you send them back. Even if the log or map wasn't changed, make sure to update the date and attach a new log and a new map
+- Questions from Field
+	- Questions will come in from the field frequently - usually about the scope of the project or what they have to run. They usually call rather than text or email, if you need to look into it or contact someone else tell them that rather than giving them a rushed answer.
 - Rejection Report
+	- The rejection report comes out about every month
+	- It contains a list of all video segments that were rejected for some reason or another
+	- Look through the segments that are added each week, if they can be addressed (missing, but they should've been on a disk we sent, etc) then tell them why it can be cleared or ask them to look for the missing video (especially if an entire job is missing, ask them to check if they received the DVD or if the package was open when they received it, etc).
+	- For video issues, ask video QC (wjirde@airxus.com) to look for the videos or into the issue with them to see if we can clear it or if it is something that will need to be reshot.
 - Confirmed jobs
-- Crossbores found 
+	- As jobs are confirmed by the PM's, you will receive emails that often start with "Please find the attached (Pre/Post)-Inspection logs for PM#..."
+	- These emails are the trigger that we can now bill the project. Move the job folder on the Q drive into the "DVD's Ready to Burn" folder, also on the Q drive. This lets whoever is handling billing know that the jobs are ready to bill and ship the videos weekly.
+- Crossbores found
+	- If the field finds a crossbore, they must immediately stop the inspection and call someone in the office.
+	- The guides for handling crossbores that are found is located in the Q Drive under Guides. The files are titled Crossbore Procedure.txt and Cross Bore Found Standardized Reporting.msg.
+	- It is vitally important to drop everything you're doing to handle these
+	- If a crossbore is found, write the time that you are called and the time it is resolved, this is important for billing. Make sure to put all emails you send and receive about each crossbore in the project info and correspondence folder for the job.
+	- On the map, put a purple X with text regarding the crossbore 
+		- PGE Crossbore, Non-PGE Crossbore, etc
+- UJR - Upcoming Job Report
+	- Every Wednesday, PG&E sends out the UJR - Upcoming job report. It has all the projects that are due the following week.
+	- By EOD Friday, we need to respond with the status of each of the jobs.
+	- Respond to each job with the status, such as "On-schedule", "already complete", "will need to be pushed back", "Rescheduled to X", etc.
+		- Notes here do not influence the project itself, if it needs to be pushed back you need to tell the PM directly. 
+	- The primary goal of the UJR is to make sure no jobs get missed and that they are on schedule.

@@ -1,6 +1,6 @@
 # Owned
 - [ ] [[the_stars_are_legion]]
-- [ ] [[algorithms_to_live_by]]
+- [ ] [[Media/Books/in-progress/algorithms_to_live_by]]
 - [ ] [[the_kubernetes_book]]
 - [ ] [[the_shining]]
 - [ ] [[the_iliad]]

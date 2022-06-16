@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e5fd2b6bfd27ec14",
+        "id": "06d499ebba68169d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-06-15.md",
+            "file": "Zettelkasten/Content_maps/algorithms_to_live_by.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 272.5
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-06-15.md",
+                "file": "Zettelkasten/Content_maps/algorithms_to_live_by.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-06-15.md",
+                "file": "Zettelkasten/Content_maps/algorithms_to_live_by.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-06-15.md"
+                "file": "Zettelkasten/Content_maps/algorithms_to_live_by.md"
               }
             }
           },
@@ -145,26 +145,34 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "849535becdb6e86b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 316,
     "collapsed": true
   },
-  "active": "e5fd2b6bfd27ec14",
+  "active": "06d499ebba68169d",
   "lastOpenFiles": [
-    "Daily_Notes/2022-06-15.md",
-    "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch6.md",
-    "Zettelkasten/Fleeting_Notes/archive/202206151246.md",
-    "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch5.md",
-    "Zettelkasten/Fleeting_Notes/archive/202206141754.md",
-    "Zettelkasten/Fleeting_Notes/archive/202206150654.md",
-    "Zettelkasten/Fleeting_Notes/202206071704.md",
+    "Zettelkasten/Content_maps/algorithms_to_live_by.md",
     "Zettelkasten/Fleeting_Notes/202206121422.md",
-    "Zettelkasten/Fleeting_Notes/archive/202206141748.md",
-    "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch4.md"
+    "Zettelkasten/Fleeting_Notes/202206160649.md",
+    "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch6.md",
+    "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch5.md",
+    "Zettelkasten/Permanent_Notes/fast_efficient_organization.md",
+    "Zettelkasten/Permanent_Notes/what_to_look_out_for_fast_efficient_organization.md",
+    "Zettelkasten/Permanent_Notes/conditions_.md",
+    "Zettelkasten/Literature_Notes/archive/algorithms_to_live_by_ch4.md",
+    "Zettelkasten/Fleeting_Notes/archive/202206141748.md"
   ]
 }

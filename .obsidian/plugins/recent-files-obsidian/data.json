@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-16",
+      "path": "Daily_Notes/2022-06-16.md"
+    },
+    {
+      "basename": "SFL_scientific",
+      "path": "Notes/Companies/SFL_scientific.md"
+    },
+    {
+      "basename": "SRG",
+      "path": "Notes/Companies/SRG.md"
+    },
+    {
       "basename": "algorithms_to_live_by",
       "path": "Zettelkasten/Content_maps/algorithms_to_live_by.md"
     },
@@ -157,10 +169,6 @@
       "path": "Zettelkasten/Permanent_Notes/using_zettelkasten.md"
     },
     {
-      "basename": "2022-06-16",
-      "path": "Daily_Notes/2022-06-16.md"
-    },
-    {
       "basename": "SOP",
       "path": "Daily_Notes/SOP.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "tyler_technologies",
       "path": "Notes/Companies/tyler_technologies.md"
-    },
-    {
-      "basename": "lumicity_recruiting",
-      "path": "Notes/Companies/lumicity_recruiting.md"
     }
   ],
   "omittedPaths": [],

@@ -1,15 +1,14 @@
 # SFL_scientific
 Created: 2022-06-09 07:47
 
-- I probably won't get it, but they scheduled an interview so who knows!
-	- [LinkedIn Job Posting](https://www.linkedin.com/jobs/view/3082105221/?refId=3ff93752-c06c-449c-8ee6-afca3c92b22a)
+- [LinkedIn Job Posting](https://www.linkedin.com/jobs/view/3082105221/?refId=3ff93752-c06c-449c-8ee6-afca3c92b22a)
 - [[interview]] [[2022-06-09]] with Camille Cramer (Roberto Chacon sitting in)
 	- Founded by three people that were at Brown
 	- Around 60 people in the company, about 45 in the tech side
 	- Most from PhD disciplines etc
 	- This role is on Data Engineering team
 		- Everything that is needed for the model to be useful
-		- Team is at 7, wanting to almost double by end of team
+		- Team is at 7, wanting to almost double by end of year
 	- Platform agnostic
 	- Team works on tough stuff
 		- Aid on search and rescue missions with ML
@@ -25,4 +24,27 @@ Created: 2022-06-09 07:47
 			- 30 minute timeslot
 		- Take home exercise
 		- 1 hour presentation about myself and the exercise
-- Followed up with Camille [[2022-06-15]]
+- Live Session notes - Maybe helpful for exercise
+	- Dynatrace is very good at monitoring where it's used/where the agents are deployed
+		- Agents are great at tracking Front, middle, and back end. Both for monitoring and helping development
+	- Acts as a quality gate for pipelines
+	- Can be used to compare updates
+		- Uses rules for it to determine good or bad
+	- Databases
+		- Keeps track of what and how many statements run on the databases
+			- Keeps total time, response time, slowest 10%
+		- Does individual traces all the way back down to code for each request
+			- Can even show what application triggered it
+			- Super useful for finding bugs, able to go up or downstream to find issues and causes
+			- Can monitor user use (based on their connections to the backend)
+	- Unique because it can monitor/traverse up and down your tech stack easily
+		- Don't need log files or manual connections, Dynatrace shows all relevant info for you
+		- Can easily find any part of your tech stack, not just front or backend etc
+	- Can monitor performance
+	- Doesn't just monitor response time or performance rating
+		- Monitors how users feel about the app
+			- Called the Apdex
+				- If it drops, can look into reason why it may drop immediately
+			- Standard mechanism for displaying and interpreting end user experience
+	- Can break down desktop vs mobile, types of browsers, app, etc
+		- Can also monitor based on specific browsers, etc (in case you need to check if it works on a specific browser, etc)

@@ -3,3 +3,10 @@
 - Hybrid in Boulder, CO
 - They are mainly looking for someone with a degree in Marketing, Psychology, Advertising, or Mathematics
 	- Minor in math will likely be big
+- [[screening]]
+	- Recruits exclusively for urgent hiring
+	- SRG is growing
+	- Looking for insights analyst
+		- Understanding data, telling story with data
+	- Dan and Shad are both hiring managers
+	- Will hear back in the next few days

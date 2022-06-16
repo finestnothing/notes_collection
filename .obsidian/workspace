@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Content_maps/algorithms_to_live_by.md",
+            "file": "Daily_Notes/2022-06-16.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Content_maps/algorithms_to_live_by.md",
+                "file": "Daily_Notes/2022-06-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Content_maps/algorithms_to_live_by.md",
+                "file": "Daily_Notes/2022-06-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Content_maps/algorithms_to_live_by.md"
+                "file": "Daily_Notes/2022-06-16.md"
               }
             }
           },
@@ -164,15 +165,15 @@
   },
   "active": "06d499ebba68169d",
   "lastOpenFiles": [
+    "Daily_Notes/2022-06-16.md",
+    "Notes/Companies/SFL_scientific.md",
+    "Notes/Companies/SRG.md",
     "Zettelkasten/Content_maps/algorithms_to_live_by.md",
     "Zettelkasten/Fleeting_Notes/202206121422.md",
     "Zettelkasten/Fleeting_Notes/202206160649.md",
     "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch6.md",
     "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch5.md",
     "Zettelkasten/Permanent_Notes/fast_efficient_organization.md",
-    "Zettelkasten/Permanent_Notes/what_to_look_out_for_fast_efficient_organization.md",
-    "Zettelkasten/Permanent_Notes/conditions_.md",
-    "Zettelkasten/Literature_Notes/archive/algorithms_to_live_by_ch4.md",
-    "Zettelkasten/Fleeting_Notes/archive/202206141748.md"
+    "Zettelkasten/Permanent_Notes/what_to_look_out_for_fast_efficient_organization.md"
   ]
 }

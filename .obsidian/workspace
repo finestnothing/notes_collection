@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-06-16.md",
+            "file": "Daily_Notes/2022-06-18.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -64,7 +64,7 @@
       {
         "id": "1550c08ec8668a65",
         "type": "tabs",
-        "dimension": 23.599999999999998,
+        "dimension": 23.6,
         "children": [
           {
             "id": "a924f77a45c6cb03",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-06-16.md",
+                "file": "Daily_Notes/2022-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-06-16.md",
+                "file": "Daily_Notes/2022-06-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-06-16.md"
+                "file": "Daily_Notes/2022-06-18.md"
               }
             }
           },

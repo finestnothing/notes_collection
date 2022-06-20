@@ -37,7 +37,7 @@
 			- Want to see x amount of growth or in role x by y time, talk to them and they'll help
 	- Tuition reimbursement
 		- Degree in line with current role and career path
-		- Pays for college or certifications
+		- Pays for college or certifications up to a certain amount per year (~5,000 I think?)
 	- Likes to highlight
 		- In pandemic, no major layoffs and now growing
 - Second [[interview]] [[2022-06-15]] at 9 AM with Robyn
@@ -80,3 +80,6 @@
 	- All over the country, based in texas or maine
 		- Conversion team only 4/30 come into office
 	- Next step is to meet with the other hiring managers since this one was scheduled last minute by HR
+- Final [[interview]] [[2022-06-20]]
+	- Next couple of weeks - Offer, another interview, etc
+	- So this maybe wasn't the final interview - blehg

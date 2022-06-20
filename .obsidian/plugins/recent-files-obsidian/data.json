@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "salient",
-      "path": "Notes/Companies/salient.md"
-    },
-    {
       "basename": "2022-06-20",
       "path": "Daily_Notes/2022-06-20.md"
+    },
+    {
+      "basename": "tyler_technologies",
+      "path": "Notes/Companies/tyler_technologies.md"
+    },
+    {
+      "basename": "salient",
+      "path": "Notes/Companies/salient.md"
     },
     {
       "basename": "2022-06-19",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-06-10",
       "path": "Daily_Notes/2022-06-10.md"
-    },
-    {
-      "basename": "2022-06-15",
-      "path": "Daily_Notes/2022-06-15.md"
     }
   ],
   "omittedPaths": [],

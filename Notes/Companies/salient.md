@@ -18,3 +18,4 @@
 - Jennifer Shelp
 	- Math Major, became more into scripting
 - They really liked me, the company also wants to get more into the AI/ML stuff so they like my experience there.
+- Second interview set up 

@@ -2,3 +2,19 @@
 - Max pay of $70,000 for this position
 - Applications Specialist Position
 - First [[interview]] on [[2022-06-17]]
+	- Rescheduled to [[2022-06-20]]
+- Levi Schmieg
+	- Work with healthcare and commercial  distribution clients
+	- A lot of business to business work
+	- 17-18 years
+- Daning Ebel
+	- 6 years or so
+	- Primarily focused on DDI of healthcare solutions
+	- Work with state medicaid databases
+		- Over 10 million recipients
+		- Complicated data
+	- Pursuing MS of Information Science with a focus on Data Analytics
+- Data Engineer/Science is getting started
+- Jennifer Shelp
+	- Math Major, became more into scripting
+- They really liked me, the company also wants to get more into the AI/ML stuff so they like my experience there.

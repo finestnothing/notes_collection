@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-06-20.md",
+            "file": "Notes/Companies/salient.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-06-20.md",
+                "file": "Notes/Companies/salient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-06-20.md",
+                "file": "Notes/Companies/salient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-06-20.md"
+                "file": "Notes/Companies/salient.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "06d499ebba68169d",
   "lastOpenFiles": [
+    "Notes/Companies/salient.md",
     "Daily_Notes/2022-06-20.md",
     "Daily_Notes/2022-06-19.md",
     "Daily_Notes/2022-06-18.md",
@@ -172,7 +173,6 @@
     "Notes/Companies/SRG.md",
     "Zettelkasten/Content_maps/algorithms_to_live_by.md",
     "Zettelkasten/Fleeting_Notes/202206121422.md",
-    "Zettelkasten/Fleeting_Notes/202206160649.md",
-    "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch6.md"
+    "Zettelkasten/Fleeting_Notes/202206160649.md"
   ]
 }

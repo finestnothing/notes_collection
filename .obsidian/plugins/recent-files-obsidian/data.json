@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "salient",
+      "path": "Notes/Companies/salient.md"
+    },
+    {
       "basename": "2022-06-20",
       "path": "Daily_Notes/2022-06-20.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-06-15",
       "path": "Daily_Notes/2022-06-15.md"
-    },
-    {
-      "basename": "2022-06-13",
-      "path": "Daily_Notes/2022-06-13.md"
     }
   ],
   "omittedPaths": [],

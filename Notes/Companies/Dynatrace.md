@@ -17,19 +17,6 @@
 	- novena.petracaj@dynatrace.com
 	- Start date wouldn't be until July 25
 - Technical [[interview]] scheduled for [[2022-06-14]]
-	- 5 pillars of OOP (Just in case they're needed)
-		- Encapsulation
-			- Use a class without viewing code
-		- Data Hiding
-			- Cannot access internal data from outside the class
-		- Specialization
-			- Create advanced subclasses from existing classes
-		- Polymorphism
-			- Parent class references child class values
-			- E.G. Animals: Make noise, each animal makes a different noise but the call can be the same
-		- Division of Responsibility
-			- Lets multiple people develop a program together
-			- Set just the inputs and outputs so they can work together
 	- Interview Notes
 	- Molly
 		- Team lead 
@@ -116,3 +103,72 @@
 			- Real User Monitoring - Able to visually replay a users experience in the platform leading up to the crash or error step by step, and monitor what was changing at each point in time to narrow down the issue
 				- Don't need to rely on the user reporting the issue and giving false information about what happened leading up to the bug
 			- Know if, when, and why network issues occur
+- Multiple Interviews [[2022-06-21]]
+	- 11:00 AM : Molly Mintz
+		- Technical portion
+			- DHCP
+			- Tracert
+			- Googles DNS is 8.8.8.8
+	- 11:30 AM: Michael Stadtler
+		- About the company
+		- Questions to ask
+		- Dynatrace is a Software Company
+		- Licensing
+			- Perpetual Licensing - 2%
+			- SAAS - 90%
+			- Services - 8%
+		- Three organizations
+			- Build
+				- Dev, Prod Owner, testing, engineering, data science, research, managers, operations
+			- Sell
+				- Sales, sales engineers
+				- Marketing
+				- Lawyers, bankers, etc
+			- Delivery/CSO - Customer support operations
+				- PDP: Customer support, Product specialist
+				- Leads, principles, SME, architects
+				- Renewals/contracts
+			- 3-3.5 years from PDP to Return on Investment from company
+			- How to move through organizations
+				- Lead, managerial, building, etc
+				- Core skills
+					- What gets me hired, technical knowledge, time management, communication, learning
+				- Customer Satisfaction
+					- Give them info on what they can or can't do and why, working with peers, A
+				- Customer renewal
+					- Keep people returning, help customers grow their use of the product, new services
+				- Collaboration
+					- Working with my peers well, sharing knowledge, training others, mentoring others
+			- Keep growth in mind
+	- 12:00 PM - Michael Oxendine
+		- Everyone calls them Ox
+		- Team lead
+			- Help run the training PDP portion
+		- Culture is their favorite
+		- Least favorite part is growing pains and hiring
+			- Busy workload
+	- 12:30 - John Wilson
+		- Cognitive reasoning
+		- Favorite thing - was asked to go to NY stock exchange to ring opening bell
+			- Brought back to ring closing bell
+		- Running PDP for about 5 years, 350 jobs given
+- Presentation Notes
+	- Three main problem areas
+		- Scaling and diversity of systems
+			- Dynatrace is lightweight, can connect to your entire tech stack and multiple websites, and is platform agnostic.
+			- To track the scaling of your websites, Dynatrace also keeps track of all sorts of performance and usage information, so you can easily find what areas will most need to be scaled up and improved, and evaluate it after you have scaled as well
+		- Information Gathering
+			- Your main problem areas for Information Gathering are for telling how your user experience is, both in their usage and their response times.
+			- The Apdex metric is a great metric for tracking your users experience. You are able to configure different thresholds (so a basic search is fine with a time of 2ms, while some data processing is fine with a time closer to 10ms) to get a more accurate picture of how your website is handling on the users side.
+			- We also track user information, even as far as breaking down what OS and device they're on, so you can track modern systems
+	- Feedback
+		- Getting comfortable talking to people is big, but not overly nervous which was good
+		- Beginning - Thank you, introduce myself, thank them for their time
+		- Final slide  to wrap everything up, thank them, logo, etc
+		- Plain slides
+			- Screenshots
+			- Make sure to use all of the screen realestate
+		- Synthetic monitoring - We do have it for connecting from elsewhere
+		- Installations
+			- One-agent
+- I think the presentation went pretty well, not a lot of bad feedback. Also not a lot of great feedback other than I seemed comfortable, so we'll see if I get an offer or not

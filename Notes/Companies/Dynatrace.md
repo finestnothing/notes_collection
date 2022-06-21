@@ -111,9 +111,8 @@
 				- Apdex - insight into user experience
 			- Proactively resolve issues/potential issues
 				- Keeps track of slowest 10%
-			- Finding cause of issues faster
-				- Can monitor user use, and can follow an issue up or down the tech stack to find the cause
-				- Real User Monitoring - Able to visually replay a users experience in the platform leading up to the crash or error step by step, and monitor what was changing at each point in time to narrow down the issue
-					- Don't need to rely on the user reporting the issue and giving false information about what happened leading up to the bug
+		- Finding cause of issues faster
+			- Can monitor user use, and can follow an issue up or down the tech stack to find the cause
+			- Real User Monitoring - Able to visually replay a users experience in the platform leading up to the crash or error step by step, and monitor what was changing at each point in time to narrow down the issue
+				- Don't need to rely on the user reporting the issue and giving false information about what happened leading up to the bug
 			- Know if, when, and why network issues occur
-				- 

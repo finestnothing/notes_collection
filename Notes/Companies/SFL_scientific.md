@@ -25,3 +25,9 @@ Created: 2022-06-09 07:47
 		- Take home exercise
 		- 1 hour presentation about myself and the exercise
 - Second [[interview]] scheduled for [[2022-06-21]]
+	- Day in the job
+		- Varies a lot
+			- Sometimes a lot of meetings, sometimes a lot of meeting with clients, sometimes a lot of coding
+	- Want to go back to in person clients
+		- Not doing relocation, would be only travel
+	- Will be getting the take home exercise soon

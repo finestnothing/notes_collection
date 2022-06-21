@@ -5,6 +5,10 @@
       "path": "Daily_Notes/2022-06-20.md"
     },
     {
+      "basename": "home_care_pulse",
+      "path": "Notes/Companies/home_care_pulse.md"
+    },
+    {
       "basename": "tyler_technologies",
       "path": "Notes/Companies/tyler_technologies.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-06-09",
       "path": "Daily_Notes/2022-06-09.md"
-    },
-    {
-      "basename": "2022-06-10",
-      "path": "Daily_Notes/2022-06-10.md"
     }
   ],
   "omittedPaths": [],

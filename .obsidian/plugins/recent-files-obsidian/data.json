@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-06-20",
-      "path": "Daily_Notes/2022-06-20.md"
+      "basename": "2022-06-21",
+      "path": "Daily_Notes/2022-06-21.md"
+    },
+    {
+      "basename": "Dynatrace",
+      "path": "Notes/Companies/Dynatrace.md"
+    },
+    {
+      "basename": "SFL_scientific",
+      "path": "Notes/Companies/SFL_scientific.md"
+    },
+    {
+      "basename": "salient",
+      "path": "Notes/Companies/salient.md"
     },
     {
       "basename": "home_care_pulse",
       "path": "Notes/Companies/home_care_pulse.md"
     },
     {
-      "basename": "tyler_technologies",
-      "path": "Notes/Companies/tyler_technologies.md"
+      "basename": "2022-06-20",
+      "path": "Daily_Notes/2022-06-20.md"
     },
     {
-      "basename": "salient",
-      "path": "Notes/Companies/salient.md"
+      "basename": "tyler_technologies",
+      "path": "Notes/Companies/tyler_technologies.md"
     },
     {
       "basename": "2022-06-19",
@@ -27,10 +39,6 @@
     {
       "basename": "2022-06-16",
       "path": "Daily_Notes/2022-06-16.md"
-    },
-    {
-      "basename": "SFL_scientific",
-      "path": "Notes/Companies/SFL_scientific.md"
     },
     {
       "basename": "SRG",
@@ -191,14 +199,6 @@
     {
       "basename": "using_zettelkasten",
       "path": "Zettelkasten/Permanent_Notes/using_zettelkasten.md"
-    },
-    {
-      "basename": "SOP",
-      "path": "Daily_Notes/SOP.md"
-    },
-    {
-      "basename": "2022-06-09",
-      "path": "Daily_Notes/2022-06-09.md"
     }
   ],
   "omittedPaths": [],

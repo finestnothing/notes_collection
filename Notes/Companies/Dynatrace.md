@@ -50,3 +50,70 @@
 	- Potential Offer
 - Followup from Kara for scheduling final interview - [[2022-06-21]]
 	- Everything happens on one day
+- Live Session notes - Maybe helpful for exercise
+	- Dynatrace is very good at monitoring where it's used/where the agents are deployed
+		- Agents are great at tracking Front, middle, and back end. Both for monitoring and helping development
+	- Acts as a quality gate for pipelines
+	- Can be used to compare updates
+		- Uses rules for it to determine good or bad
+	- Databases
+		- Keeps track of what and how many statements run on the databases
+			- Keeps total time, response time, slowest 10%
+		- Does individual traces all the way back down to code for each request
+			- Can even show what application triggered it
+			- Super useful for finding bugs, able to go up or downstream to find issues and causes
+			- Can monitor user use (based on their connections to the backend)
+	- Unique because it can monitor/traverse up and down your tech stack easily
+		- Don't need log files or manual connections, Dynatrace shows all relevant info for you
+		- Can easily find any part of your tech stack, not just front or backend etc
+	- Can monitor performance
+	- Doesn't just monitor response time or performance rating
+		- Monitors how users feel about the app
+			- Called the Apdex
+				- If it drops, can look into reason why it may drop immediately
+			- Standard mechanism for displaying and interpreting end user experience
+	- Can break down desktop vs mobile, types of browsers, app, etc
+		- Can also monitor based on specific browsers, etc (in case you need to check if it works on a specific browser, etc)
+- Technical presentation
+	- Will be working on the Medium Sized University prompt
+	- Info
+		- 794 faculty, 1099 support staff, 24,000 students
+		- 5 campuses
+		- Needs to see if when and where network problems occur
+		- Manages ERP system for admin tasks and university website (heavy traffic)
+		- Departmental websites are connected, but separated
+		- Doesn't have inside into what the User experience is on the websites
+			- Troubleshooting is very difficult since they're unlikely to hear about it
+				- Finding root cause can take days
+		- Major grievances include: ERP system not working properly
+		- Planning to expand to a new campus with  5,000 more students
+			- Needs response time data, user experience, and ability to proactively resolve issues
+		- ERP handles business functions
+			- Purchase orders
+			- Financial Aid
+			- Student Registration
+			- Grades
+			- HR
+			- Other Admin tasks related to offices
+	- Boiling it down
+		- Large user base
+			- 2000 faculty, 24,000 students, numerous alumni, potential students, other web traffic, etc
+			- Planning to expand, adding 5,000 students and another campus
+		- Systems
+			- ERP System - Admin tasks
+			- Main website
+			- Connected department websites
+		- Required info
+			- Response Time Data
+				- Keeps track of what and how many statements run
+				- Keeps track of slowest 10%
+			- User Experience
+				- Apdex - insight into user experience
+			- Proactively resolve issues/potential issues
+				- Keeps track of slowest 10%
+			- Finding cause of issues faster
+				- Can monitor user use, and can follow an issue up or down the tech stack to find the cause
+				- Real User Monitoring - Able to visually replay a users experience in the platform leading up to the crash or error step by step, and monitor what was changing at each point in time to narrow down the issue
+					- Don't need to rely on the user reporting the issue and giving false information about what happened leading up to the bug
+			- Know if, when, and why network issues occur
+				- 

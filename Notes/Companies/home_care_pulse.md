@@ -43,3 +43,8 @@
 		- May in the future look into being bought out, but it would not dissolve my position
 	- No discounted stock buying
 	- No tuition reimbursement
+- Technical challenge - started [[2022-06-20]]
+	- Planning
+		- Separate view for each table and each person?
+			- Not copying the data, just a data view filtered by season/person
+			- Will result in a lot of views/tables

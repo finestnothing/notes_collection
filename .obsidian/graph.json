@@ -8,31 +8,52 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Zettelkasten/Fleeting_notes",
+      "query": "path:DnD",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:Zettelkasten/Literature_Notes",
+      "query": "path:Daily_Notes",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 1304346
       }
     },
     {
-      "query": "path:Zettelkasten/Permanent_Notes",
+      "query": "path:Media",
       "color": {
         "a": 1,
-        "rgb": 6684927
+        "rgb": 16777215
       }
     },
     {
-      "query": "path:Zettelkasten/Content_maps",
+      "query": "path:Food",
       "color": {
         "a": 1,
-        "rgb": 65280
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Projects",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Templates",
+      "color": {
+        "a": 1,
+        "rgb": 12394194
+      }
+    },
+    {
+      "query": "path:Media/Books",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
       }
     }
   ],
@@ -42,10 +63,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.03972602739726,
   "collapse-forces": false,
-  "centerStrength": 0.557142857142857,
-  "repelStrength": 16.9714285714286,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.38230109687701774,
+  "centerStrength": 0.443820224719101,
+  "repelStrength": 20,
+  "linkStrength": 0.960674157303371,
+  "linkDistance": 323,
+  "scale": 1.0534979423868756,
   "close": true
 }

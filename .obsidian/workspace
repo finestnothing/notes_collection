@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -166,6 +165,7 @@
   "active": "d4ba73cee12d3468",
   "lastOpenFiles": [
     "Daily_Notes/2022-06-22.md",
+    "Notes/Companies/servicecore.md",
     "Daily_Notes/2022-06-21.md",
     "Notes/Companies/Dynatrace.md",
     "Notes/Companies/lumicity_recruiting.md",
@@ -173,7 +173,6 @@
     "Notes/Companies/salient.md",
     "Notes/Companies/home_care_pulse.md",
     "Notes/Companies/tyler_technologies.md",
-    "Notes/Companies/SRG.md",
-    "Daily_Notes/2022-06-20.md"
+    "Notes/Companies/SRG.md"
   ]
 }

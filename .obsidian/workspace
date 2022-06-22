@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-06-21.md",
+            "file": "Daily_Notes/2022-06-22.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-06-21.md",
+                "file": "Daily_Notes/2022-06-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-06-21.md",
+                "file": "Daily_Notes/2022-06-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-06-21.md"
+                "file": "Daily_Notes/2022-06-22.md"
               }
             }
           },
@@ -164,6 +165,7 @@
   },
   "active": "d4ba73cee12d3468",
   "lastOpenFiles": [
+    "Daily_Notes/2022-06-22.md",
     "Daily_Notes/2022-06-21.md",
     "Notes/Companies/Dynatrace.md",
     "Notes/Companies/lumicity_recruiting.md",
@@ -172,7 +174,6 @@
     "Notes/Companies/home_care_pulse.md",
     "Notes/Companies/tyler_technologies.md",
     "Notes/Companies/SRG.md",
-    "Daily_Notes/2022-06-20.md",
-    "Daily_Notes/2022-06-19.md"
+    "Daily_Notes/2022-06-20.md"
   ]
 }

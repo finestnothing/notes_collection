@@ -19,3 +19,32 @@
 	- Math Major, became more into scripting
 - They really liked me, the company also wants to get more into the AI/ML stuff so they like my experience there.
 - Second interview set up 
+- Second [[interview]] [[2022-06-24]]
+	- Jon Dunphy
+		- New on healthcare team for New York State
+		- At Salient for 4 years, transferred weeks ago
+		- Organization
+			- Commercial side
+			- Healthcare side
+				- Big NY DOH branch
+			- ACO
+	- About the job
+		- Regular day w/ NY state project
+			- Have their own project management structure that is now standard in the company
+			- Some logic to develop for a metric
+			- SMEZ - Suite of polished data that apps and dashboards pull from
+				- A lot of projects bring in more data from metrics
+				- Data discovery for it
+				- Limiting future data per metric, could take days or weeks
+			- Maps in Salients custom ETL tool
+				- Pull data from warehouse, pump into SMEZ
+				- Data cubes are specific data context
+			- Half on billable projects
+				- Salient Interactive Miner
+					- Also for reporting
+					- Good for showing data to clients
+			- Half on working with data analytics people, working on requirements, data research, review, etc
+			- A lot of troubleshooting
+			- No longer do data analysis, just the data setup
+- Sent follow up regarding offer letter timeline of EOD Friday - [[2022-06-27]]
+	- Nope, no offer

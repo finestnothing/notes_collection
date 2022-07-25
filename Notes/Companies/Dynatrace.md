@@ -172,3 +172,12 @@
 		- Installations
 			- One-agent
 - I think the presentation went pretty well, not a lot of bad feedback. Also not a lot of great feedback other than I seemed comfortable, so we'll see if I get an offer or not
+- Call from Novena
+	- Details about offer
+	- Starting July 25th start date
+	- Start as PDP member, 65,000
+	- 14 week training
+	- Product Specialist
+	- 70,000, hybrid
+	- Getting address from Novena
+	- [ ] Follow up by [[2022-07-01]]

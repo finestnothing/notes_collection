@@ -4,3 +4,11 @@
 	- Majority of their roles start 90,000, told them 70,000-80,000 is minimum
 	- Most clients work pretty fast for interview process
 	- Seemed to like me and should hear back by [[2022-06-22]]
+- Follow up voicemail sent [[2022-06-23]]
+	- Got followup appointment for today
+- 2 Opportunities
+- Data engineer with Cerebra
+	- Develop computing systems, deep learning w/data centers
+	- Building data analytics infrastructure
+- Remote - Arcadis
+	- Work with clients, creating SOP's and documentation and such

@@ -83,3 +83,4 @@
 - Final [[interview]] [[2022-06-20]]
 	- Next couple of weeks - Offer, another interview, etc
 	- So this maybe wasn't the final interview - blehg
+- Reached out to see if it's possible to receive an offer by the end of the week - [[2022-06-27]]

@@ -1,44 +1,136 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-06-22",
-      "path": "Daily_Notes/2022-06-22.md"
+      "basename": "TBR",
+      "path": "Media/TBR.md"
     },
     {
-      "basename": "servicecore",
-      "path": "Notes/Companies/servicecore.md"
-    },
-    {
-      "basename": "2022-06-21",
-      "path": "Daily_Notes/2022-06-21.md"
-    },
-    {
-      "basename": "Dynatrace",
-      "path": "Notes/Companies/Dynatrace.md"
-    },
-    {
-      "basename": "lumicity_recruiting",
-      "path": "Notes/Companies/lumicity_recruiting.md"
+      "basename": "SRG",
+      "path": "Notes/Companies/SRG.md"
     },
     {
       "basename": "SFL_scientific",
       "path": "Notes/Companies/SFL_scientific.md"
     },
     {
-      "basename": "salient",
-      "path": "Notes/Companies/salient.md"
+      "basename": "modernizing_medicine",
+      "path": "Notes/Companies/modernizing_medicine.md"
     },
     {
-      "basename": "home_care_pulse",
-      "path": "Notes/Companies/home_care_pulse.md"
+      "basename": "Dynatrace",
+      "path": "Notes/Companies/Dynatrace.md"
+    },
+    {
+      "basename": "salient",
+      "path": "Notes/Companies/salient.md"
     },
     {
       "basename": "tyler_technologies",
       "path": "Notes/Companies/tyler_technologies.md"
     },
     {
-      "basename": "SRG",
-      "path": "Notes/Companies/SRG.md"
+      "basename": "lumicity_recruiting",
+      "path": "Notes/Companies/lumicity_recruiting.md"
+    },
+    {
+      "basename": "home_care_pulse",
+      "path": "Notes/Companies/home_care_pulse.md"
+    },
+    {
+      "basename": "adventure_jar",
+      "path": "Notes/adventure_jar.md"
+    },
+    {
+      "basename": "2022-07-05",
+      "path": "Daily_Notes/2022-07-05.md"
+    },
+    {
+      "basename": "2022-07-04",
+      "path": "Daily_Notes/2022-07-04.md"
+    },
+    {
+      "basename": "compu_automation",
+      "path": "Projects/compu_automation.md"
+    },
+    {
+      "basename": "2022-06-24",
+      "path": "Daily_Notes/2022-06-24.md"
+    },
+    {
+      "basename": "2022-07-02",
+      "path": "Daily_Notes/2022-07-02.md"
+    },
+    {
+      "basename": "2022-07-01",
+      "path": "Daily_Notes/2022-07-01.md"
+    },
+    {
+      "basename": "2022-06-30",
+      "path": "Daily_Notes/2022-06-30.md"
+    },
+    {
+      "basename": "Tattoo_ideas",
+      "path": "Notes/Tattoo_ideas.md"
+    },
+    {
+      "basename": "6bwx202eku891",
+      "path": "Attachments/6bwx202eku891.jpg"
+    },
+    {
+      "basename": "202206230812",
+      "path": "Zettelkasten/Fleeting_Notes/202206230812.md"
+    },
+    {
+      "basename": "202206230755",
+      "path": "Zettelkasten/Fleeting_Notes/202206230755.md"
+    },
+    {
+      "basename": "202206121422",
+      "path": "Zettelkasten/Fleeting_Notes/202206121422.md"
+    },
+    {
+      "basename": "2022-06-09",
+      "path": "Daily_Notes/2022-06-09.md"
+    },
+    {
+      "basename": "using_zettelkasten",
+      "path": "Zettelkasten/Permanent_Notes/mapped/using_zettelkasten.md"
+    },
+    {
+      "basename": "how_zettelkasten_grows",
+      "path": "Zettelkasten/Permanent_Notes/mapped/how_zettelkasten_grows.md"
+    },
+    {
+      "basename": "zettelkasten",
+      "path": "Zettelkasten/Content_maps/zettelkasten.md"
+    },
+    {
+      "basename": "2022-06-29",
+      "path": "Daily_Notes/2022-06-29.md"
+    },
+    {
+      "basename": "2022-06-28",
+      "path": "Daily_Notes/2022-06-28.md"
+    },
+    {
+      "basename": "blog_topic_ideas",
+      "path": "Notes/blog_topic_ideas.md"
+    },
+    {
+      "basename": "2022-06-27",
+      "path": "Daily_Notes/2022-06-27.md"
+    },
+    {
+      "basename": "2022-06-26",
+      "path": "Daily_Notes/2022-06-26.md"
+    },
+    {
+      "basename": "2022-06-22",
+      "path": "Daily_Notes/2022-06-22.md"
+    },
+    {
+      "basename": "2022-06-21",
+      "path": "Daily_Notes/2022-06-21.md"
     },
     {
       "basename": "2022-06-20",
@@ -59,26 +151,6 @@
     {
       "basename": "algorithms_to_live_by",
       "path": "Zettelkasten/Content_maps/algorithms_to_live_by.md"
-    },
-    {
-      "basename": "202206121422",
-      "path": "Zettelkasten/Fleeting_Notes/202206121422.md"
-    },
-    {
-      "basename": "202206160649",
-      "path": "Zettelkasten/Fleeting_Notes/202206160649.md"
-    },
-    {
-      "basename": "algorithms_to_live_by_ch6",
-      "path": "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch6.md"
-    },
-    {
-      "basename": "algorithms_to_live_by_ch5",
-      "path": "Zettelkasten/Literature_Notes/algorithms_to_live_by_ch5.md"
-    },
-    {
-      "basename": "fast_efficient_organization",
-      "path": "Zettelkasten/Permanent_Notes/fast_efficient_organization.md"
     },
     {
       "basename": "algorithms_to_live_by_ch4",
@@ -113,38 +185,6 @@
       "path": "Zettelkasten/Fleeting_Notes/archive/202206100707.md"
     },
     {
-      "basename": "what_is_the_37_percent_rule",
-      "path": "Zettelkasten/Permanent_Notes/what_is_the_37_percent_rule.md"
-    },
-    {
-      "basename": "what_is_an_explore_exploit_problem",
-      "path": "Zettelkasten/Permanent_Notes/what_is_an_explore_exploit_problem.md"
-    },
-    {
-      "basename": "benefits_of_gittins_index",
-      "path": "Zettelkasten/Permanent_Notes/benefits_of_gittins_index.md"
-    },
-    {
-      "basename": "gittins_index",
-      "path": "Zettelkasten/Permanent_Notes/gittins_index.md"
-    },
-    {
-      "basename": "how_to_decide_explore_or_exploit",
-      "path": "Zettelkasten/Permanent_Notes/how_to_decide_explore_or_exploit.md"
-    },
-    {
-      "basename": "gittins_index_table",
-      "path": "Zettelkasten/Permanent_Notes/gittins_index_table.md"
-    },
-    {
-      "basename": "explore_exploit_interval",
-      "path": "Zettelkasten/Permanent_Notes/explore_exploit_interval.md"
-    },
-    {
-      "basename": "examples_of_explore_exploit_problems",
-      "path": "Zettelkasten/Permanent_Notes/examples_of_explore_exploit_problems.md"
-    },
-    {
       "basename": "bootstrapping_a_startup",
       "path": "Zettelkasten/Content_maps/bootstrapping_a_startup.md"
     },
@@ -155,50 +195,6 @@
     {
       "basename": "202206150654",
       "path": "Zettelkasten/Fleeting_Notes/archive/202206150654.md"
-    },
-    {
-      "basename": "202206141754",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206141754.md"
-    },
-    {
-      "basename": "202206151246",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206151246.md"
-    },
-    {
-      "basename": "202206111251",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206111251.md"
-    },
-    {
-      "basename": "how_to_apply_37_percent_rule",
-      "path": "Zettelkasten/Permanent_Notes/how_to_apply_37_percent_rule.md"
-    },
-    {
-      "basename": "what_is_the_threshold_rule",
-      "path": "Zettelkasten/Permanent_Notes/what_is_the_threshold_rule.md"
-    },
-    {
-      "basename": "benefits_of_37_percent_rule",
-      "path": "Zettelkasten/Permanent_Notes/benefits_of_37_percent_rule.md"
-    },
-    {
-      "basename": "benefits_of_bootstrapping",
-      "path": "Zettelkasten/Permanent_Notes/benefits_of_bootstrapping.md"
-    },
-    {
-      "basename": "what_is_bootstrapping",
-      "path": "Zettelkasten/Permanent_Notes/what_is_bootstrapping.md"
-    },
-    {
-      "basename": "skills_required_for_bootstrapping",
-      "path": "Zettelkasten/Permanent_Notes/skills_required_for_bootstrapping.md"
-    },
-    {
-      "basename": "how_zettelkasten_grows",
-      "path": "Zettelkasten/Permanent_Notes/how_zettelkasten_grows.md"
-    },
-    {
-      "basename": "goals_for_bootstrapping",
-      "path": "Zettelkasten/Permanent_Notes/goals_for_bootstrapping.md"
     }
   ],
   "omittedPaths": [],

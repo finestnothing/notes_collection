@@ -1,9 +1,9 @@
 # Owned
-- [ ] [[the_stars_are_legion]]
+- [x] [[the_stars_are_legion]]
 - [ ] [[Media/Books/in-progress/algorithms_to_live_by]]
 - [ ] [[the_kubernetes_book]]
 - [ ] [[the_shining]]
-- [ ] [[the_iliad]]
+- [ ] [[the_iliad]] 
 - [ ] [[the_odyssey]]
 - [ ] [[the_song_of_achilles]]
 - [ ] [[circe]]
@@ -147,3 +147,4 @@
 - [ ] [[the_book_thief]] by Markus Zusak
 - [ ] [[the_ultimate_hitchhikers_guide_to_the_galaxy]] by Douglas Adams
 - [ ] [[1984]] by George Orwell
+- [ ] Skyward series by Brandon Sanderson

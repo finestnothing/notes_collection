@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d4ba73cee12d3468",
+        "id": "e8304734fb1698c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/2022-06-22.md",
+            "file": "Media/TBR.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "birthday",
+                "query": "servicec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2022-06-22.md",
+                "file": "Media/TBR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2022-06-22.md",
+                "file": "Media/TBR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2022-06-22.md"
+                "file": "Media/TBR.md"
               }
             }
           },
@@ -155,24 +155,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 316,
     "collapsed": true
   },
-  "active": "d4ba73cee12d3468",
+  "active": "e8304734fb1698c8",
   "lastOpenFiles": [
-    "Daily_Notes/2022-06-22.md",
-    "Notes/Companies/servicecore.md",
-    "Daily_Notes/2022-06-21.md",
-    "Notes/Companies/Dynatrace.md",
-    "Notes/Companies/lumicity_recruiting.md",
+    "Notes/Companies/SRG.md",
     "Notes/Companies/SFL_scientific.md",
+    "Notes/Companies/modernizing_medicine.md",
+    "Notes/Companies/Dynatrace.md",
     "Notes/Companies/salient.md",
-    "Notes/Companies/home_care_pulse.md",
     "Notes/Companies/tyler_technologies.md",
-    "Notes/Companies/SRG.md"
+    "Notes/Companies/lumicity_recruiting.md",
+    "Notes/Companies/home_care_pulse.md",
+    "Notes/Companies/servicecore.md",
+    "Notes/adventure_jar.md"
   ]
 }

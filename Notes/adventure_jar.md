@@ -1,75 +1,59 @@
 ## Fill jar with scraps of paper
 
 - Full day adventures - Yellow
-	- [ ] Day trip
-	- [ ] Long hike
-	- [ ] Explore a park or area
-	- [ ] Paddle boarding
-	- [ ] Kayaking
-	- [ ] Try something entirely new (meetup, etc)
-	- [ ] New hobby or class (cooking, craft of some sort, etc) (library may have classes)
-	- [ ] Zoo or botanical garden
+	- [x] Day trip
+	- [x] Long hike
+	- [x] Paddle boarding
+	- [x] Kayaking
 	- [x] Lake/river day
 	- [x] Geocaching
 	- [x] Visit a national park
-	- [ ] Spa day
-	- [ ] Find and hike to a waterfall or cave
-	- [ ] Photographic scavenger hunt
-		- In nature
-		- Around town
-	- [ ] Explore a forest
-	- [ ] Buy plane ticket to new City or place for a single day
+	- [x] Explore a forest
+	- [x] White water rafting
 - Half day adventures - Green
-	- [ ] Hiking
-	- [ ] Bird watching
+	- [x] Find and hike to a waterfall or cave
+	- [x] Spa day
+	- [x] Hiking
+	- [x] Zoo or botanical garden
 	- [x] picnic
-	- [ ] Museum
-		- [ ] History
-		- [ ] Art
-		- [ ] Science
-		- [ ] Nature
-	- [ ] New hobby or class
+	- [x] New hobby or class
 		- [x] cooking class
-		- Some sort of craft
-			- Knife making, origami, etc 
-		- [ ] Lectures
-		- [ ] Nature class
-	- [ ] Nature walk or tour
-	- [ ] Visit local historical landmark(s)
-	- [ ] Visit a park
-	- [ ] Look into a specific piece of history
+		- [x] Bonsai Class
+	- [x] Visit local historical landmark(s)
 	- [x] Early morning hike, eat while watching sunrise
-	- [ ] Kite flying
-	- [ ] Planetarium
-	- [ ] Local music
-	- [ ] Food tour
-	- [ ] Flea market/thrift store/consignment store
-	- [ ] Escape room
-	- [ ] Explore and take photos of eachother
-	- [ ] Make cheese
-	- [ ] Local festival
-	- [ ] Make an herb garden
-	- [ ] Virtual visit somewhere (chapels, towns, etc)
-	- [ ] Make random Internet friends
-	- [ ] Learn/play chess
-	- [ ] Learn/play mahjong
-	- [ ] Learn/play Go
+	- [x] Kite flying
+	- [x] Food tour
+	- [x] Flea market/thrift store/consignment store
+	- [x] Escape room
+	- [x] Learn/play chess
+	- [x] Hang gliding/paragliding
+	- [x] Get and build a lego set together
+	- [x] Picnic and reading in a park
 - Evenings - blue
-	- [ ] Dinner at {{restaurant}}
-	- [ ] New recipe
-	- [ ] Walk and homemade dinner
-	- [ ] Try new restaurant
-	- [ ] Try making a new dish from a different country
-	- [ ] Movie night
+	- [x] New recipe
+	- [x] Try new restaurant
+	- [x] Movie night
 	- [x] Star gazing
-	- [ ] Movie/game All-nighter
-	- [ ] Evening show of some sort
-	- [ ] New kind of sushi
+	- [x] Movie/game All-nighter
 	- [x] Movie and Dinner night out
+	- [x] Rollerblading
 - Personal - red
+	- Hearts
 	- [x] Butt stuff
 	- [x] Bondage
-	- [ ] Pegging
-	- [ ] Dildos
-	- [ ] Threesome
-	- [ ] Double penetration
+	- [x] Pegging
+	- [x] Couch
+	- [x] Standing
+	- [x] 69, reader on bottom
+	- Diamonds
+	- [x] Threesome
+	- [x] Cum dump for a day
+	- [x] Cum dump for a week
+	- [x] Free use
+	- [x] Butt plug in public (on a date, etc)
+	- [x] Mutual butt plugs
+	- [x] Outdoor blowjob/sex (on a hike, etc)
+	- [x] Her choice
+	- [x] Lingerie
+	- [x] Something to surprise me
+	- [x] Mutual butt plugs, reader picks positions

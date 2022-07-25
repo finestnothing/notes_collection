@@ -2,6 +2,8 @@
 - Van Gogh Painting
 - Bee
 - Terrarium
+- Yin yang cats
+	- ![[6bwx202eku891.jpg]]
 
 - Camera/photography
 - Keyboard

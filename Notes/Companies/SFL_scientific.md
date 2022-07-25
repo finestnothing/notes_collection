@@ -31,3 +31,13 @@ Created: 2022-06-09 07:47
 	- Want to go back to in person clients
 		- Not doing relocation, would be only travel
 	- Will be getting the take home exercise soon
+		- Followed up [[2022-06-27]] since I haven't received it yet
+- Let them know that I need an offer by EOD [[2022-07-01]]
+- Presentation
+	- Break down technical challenge, walk through the technical process
+	- Provide technical prowess
+	- 1 hour long presentation
+	- Quick intro on myself
+	- 2 slides on past experience
+	- 15 minutes of work on technical challenge
+	- Q&A slide

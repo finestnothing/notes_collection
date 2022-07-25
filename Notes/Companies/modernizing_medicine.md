@@ -1,0 +1,54 @@
+- Initial phone [[screening]] [[2022-06-23]]
+- https://www.linkedin.com/jobs/view/data-conversion-consultant-level-1-at-modmed-3119724906/
+	- Data Conversion Consultant Level 1
+	- Manage and execute data conversion
+	- Manages project from planning to post-launch support
+- Name
+	- 6 1/2 years for recruiting
+- Culture is awesome
+- Looking for
+	- More entry level position
+		- Max of 65,000
+	- G-Gastro side
+		- Most software run off apple products and g suite
+		- New software is on windows
+	- MySQL and Windows a lot
+- May be some late nights or weekends in the event of emergencies
+- Working closely with frontend staff of process
+	- 90% is client facing, 10% is technical
+- Coordinator will reach out soon
+- Lot of internal communities
+	- LGBTQ
+	- BIPOC
+	- Book Clubs
+	- Mentorships
+- Seems like it went well, but we'll see how it goes. Should get something on the schedule for early to mid next week, check back [[2022-06-29]]
+- Second [[interview]] scheduled for [[2022-06-30]], said pending the results of this interview they may be willing to offer me a job!
+	- With Sean
+		- Technical team lead for data conversion
+		- 3 1/2 years
+	- Standard project timeline is ~90 days for first phase, 12-16 weeks afterwards
+	- 50% client facing (sitting with clients in meetings, emails)
+	- 20%-30% technical actually setting everything up
+	- Rest is other projects
+	- Few weeks of learning, 5 more months of training wheels essentially
+	- Hours/flexibility
+		- Need to adjust hours to match clients to be able to meet with them and such
+		- Schedule around most other people in the company, but mainly have to be available 9AM - 4PM
+	- HQ in Boca Raton Florida
+		- Bring in 1 to 2 times per year
+		- Week long kickoff
+			- Results of past year, plans/goals for next year
+			- Department talks
+	- Favorite part of company
+		- Culture is great
+		- Very open, management is transparent
+		- Pre-covid office was full and got to talk to people a lot
+		- DnD chatroom
+		- Data literature group
+		- A lot of different charities
+			- 5K's
+			- Annual fundraising for LGBTQ
+	- Least favorite part
+		- Within the role, we are very secluded to data
+		- Don't interact with entire company

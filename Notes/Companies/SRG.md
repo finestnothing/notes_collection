@@ -1,5 +1,4 @@
 - First [[interview]] [[2022-06-16]]
-- https://www.linkedin.com/jobs/search/?currentJobId=3114064396&geoId=103644278&keywords=insights%20analyst%20srg&location=United%20States
 - Hybrid in Boulder, CO
 - They are mainly looking for someone with a degree in Marketing, Psychology, Advertising, or Mathematics
 	- Minor in math will likely be big
@@ -10,3 +9,37 @@
 		- Understanding data, telling story with data
 	- Dan and Shad are both hiring managers
 	- Will hear back in the next few days
+- [[interview]] [[2022-06-23]]
+	- Really about insights
+	- Project Manager
+		- Execution of research design
+		- E.G. Sales have decreased, want to know why
+			- Have to generate some hypotheses
+			- Put them into questionnaire, get real world answers
+		- This position would be questionnaire creation to reporting
+	- Very involved in food and CPG
+		- Consumer Packaged Good
+	- To make SRG want to hire me
+		- Absolute willingness to work
+			- If something needs to get done, make it important
+		- Collaboration
+		- Attention to detail
+		- Desire to want to explore
+			- Look at a problem, say "Wouldn't be cool if..."
+			- Don't want "it can't be done"
+		- Desire to connect with team, not just work together and not touch
+	- Also looking to develop tools specific to SRG
+		- There is a strong desire for tools that allow clients to interact directly with consumers
+		- tools to measure ROI
+		- Tool to generate ideas
+	- SPSS - what is that?
+	- 7 people, 1 went on maternity leave, 1 got a new job
+		- Opened up a lot of options for growth
+		- Wants someone to fill PM role
+	- 70% PM, developing 30%
+	- Each PM ad-hocs their projects, wouldn't be upset
+	- Each PM has varying amounts of projects
+- Next step is 1 more interview (next week)
+- Second round of interviews after that
+- Reached out and let them know that I need an offer by [[2022-07-01]]
+	- Said no, but to keep in touch if I'm job searching again.

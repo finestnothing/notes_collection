@@ -23,5 +23,11 @@ status: inprogress
 - [x] Move to next video
 - [x] Create tutorial for new users
 
+- Changes
+	- Having Freestone remove all of the courses
+	- [x] Will be getting new product codes to add for each course
+	- [x] Have to make a new script that doesn't include uploading videos
+	- [x] Make script to integrate with wordpress for creating posts
+	- [x] Change the expiration date to 3 years rather than indefinite
+
 ## Notes
-- Currently waiting on others to verify that the first course was fully created successfully, but it looks good [[2022-05-14]]

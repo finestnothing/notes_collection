@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Media/TBR.md",
+            "file": "Notes/Companies/lumicity_recruiting.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/TBR.md",
+                "file": "Notes/Companies/lumicity_recruiting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/TBR.md",
+                "file": "Notes/Companies/lumicity_recruiting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/TBR.md"
+                "file": "Notes/Companies/lumicity_recruiting.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "e8304734fb1698c8",
   "lastOpenFiles": [
+    "Media/TBR.md",
     "Notes/Companies/SRG.md",
     "Notes/Companies/SFL_scientific.md",
     "Notes/Companies/modernizing_medicine.md",
@@ -172,7 +173,6 @@
     "Notes/Companies/tyler_technologies.md",
     "Notes/Companies/lumicity_recruiting.md",
     "Notes/Companies/home_care_pulse.md",
-    "Notes/Companies/servicecore.md",
-    "Notes/adventure_jar.md"
+    "Notes/Companies/servicecore.md"
   ]
 }

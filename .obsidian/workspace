@@ -7,13 +7,8 @@
         "id": "e8304734fb1698c8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Companies/lumicity_recruiting.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Companies/lumicity_recruiting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Companies/lumicity_recruiting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Companies/lumicity_recruiting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,8 +153,9 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "e8304734fb1698c8",
+  "active": "cd65a8532dd028d6",
   "lastOpenFiles": [
+    "Notes/Companies/lumicity_recruiting.md",
     "Media/TBR.md",
     "Notes/Companies/SRG.md",
     "Notes/Companies/SFL_scientific.md",
@@ -171,7 +163,6 @@
     "Notes/Companies/Dynatrace.md",
     "Notes/Companies/salient.md",
     "Notes/Companies/tyler_technologies.md",
-    "Notes/Companies/lumicity_recruiting.md",
     "Notes/Companies/home_care_pulse.md",
     "Notes/Companies/servicecore.md"
   ]

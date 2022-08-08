@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e8304734fb1698c8",
+        "id": "72a0a791dcab90e5",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -153,17 +153,17 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "cd65a8532dd028d6",
+  "active": "72a0a791dcab90e5",
   "lastOpenFiles": [
+    "README.md",
+    "logseq/journals/2022_08_06.md",
+    "Notes/blog_topic_ideas.md",
     "Notes/Companies/lumicity_recruiting.md",
     "Media/TBR.md",
     "Notes/Companies/SRG.md",
     "Notes/Companies/SFL_scientific.md",
     "Notes/Companies/modernizing_medicine.md",
     "Notes/Companies/Dynatrace.md",
-    "Notes/Companies/salient.md",
-    "Notes/Companies/tyler_technologies.md",
-    "Notes/Companies/home_care_pulse.md",
-    "Notes/Companies/servicecore.md"
+    "Notes/Companies/salient.md"
   ]
 }

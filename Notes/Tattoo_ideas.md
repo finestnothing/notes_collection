@@ -4,7 +4,8 @@
 - Terrarium
 - Yin yang cats
 	- ![[6bwx202eku891.jpg]]
-- Pinup
+- Pinup ghost
+
 - Camera/photography
 - Keyboard
 - Computery thing

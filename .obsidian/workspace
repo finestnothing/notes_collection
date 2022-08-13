@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4850cd7c40b09b27",
+        "id": "9f9a315b7b0dddc6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DnD/homebrew/Cave_of_Doom.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DnD/homebrew/Cave_of_Doom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DnD/homebrew/Cave_of_Doom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DnD/homebrew/Cave_of_Doom.md"
+              }
             }
           },
           {
@@ -152,8 +161,10 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "4850cd7c40b09b27",
+  "active": "9f9a315b7b0dddc6",
   "lastOpenFiles": [
+    "DnD/homebrew/Cursed_book.md",
+    "DnD/homebrew/Staff_of_horse.md",
     "Daily_Notes/20220812.md",
     "Media/Videogames/overwatch_2_beta.md",
     "Media/Videogames/old_world.md",
@@ -161,8 +172,6 @@
     "Misc/Companies/Dynatrace.md",
     "Zettelkasten/mature/cause_of_mars_rover_scheduling_bug.md",
     "Daily_Notes/2022-06-10.md",
-    "DnD/shattered_gates_campaign/session_notes/session_1_20220724.md",
-    "Templates/dnd_session_notes.md",
-    "DnD/shattered_gates_campaign/players/mistra.md"
+    "DnD/shattered_gates_campaign/session_notes/session_1_20220724.md"
   ]
 }

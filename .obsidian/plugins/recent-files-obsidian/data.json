@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Cave_of_Doom",
+      "path": "DnD/homebrew/Cave_of_Doom.md"
+    },
+    {
+      "basename": "Cursed_book",
+      "path": "DnD/homebrew/Cursed_book.md"
+    },
+    {
+      "basename": "Staff_of_horse",
+      "path": "DnD/homebrew/Staff_of_horse.md"
+    },
+    {
       "basename": "20220812",
       "path": "Daily_Notes/20220812.md"
     },
@@ -125,10 +137,6 @@
       "path": "Media/Books/read/dune.md"
     },
     {
-      "basename": "Cursed_book",
-      "path": "DnD/homebrew/Cursed_book.md"
-    },
-    {
       "basename": "the_blacktongue_thief",
       "path": "Media/Books/read/the_blacktongue_thief.md"
     },
@@ -181,10 +189,6 @@
       "path": "Ideas/tattoos.md"
     },
     {
-      "basename": "Cave_of_Doom",
-      "path": "DnD/homebrew/Cave_of_Doom.md"
-    },
-    {
       "basename": "yellow",
       "path": "Misc/adventure_jar/yellow.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "green",
       "path": "Misc/adventure_jar/green.md"
-    },
-    {
-      "basename": "red",
-      "path": "Misc/adventure_jar/red.md"
     }
   ],
   "omittedPaths": [],

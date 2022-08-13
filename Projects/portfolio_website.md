@@ -1,13 +1,5 @@
----
-name: portfolio_website
-category: professional
-start_date: 2022-03-31
-finish_date:
-status: inprogress
----
 # Portfolio Website
-## `= this.start_date` - `= this.finish_date`
-## Status: `= this.status`
+## Status: #project/active 
 ## Description
 Building a portfolio on github pages for sharing with recruiters, etc.
 Include academic and professional information, code examples
@@ -22,6 +14,3 @@ Include academic and professional information, code examples
 	- Future: Add live demo of code/notebook maybe?
 - [2022-05-07](2022-05-07.md) - Added projects page and a nice cards layout
 - [2022-05-08](2022-05-08.md) - Moved to self hosting and using docker
-
-
-   

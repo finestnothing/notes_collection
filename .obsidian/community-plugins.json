@@ -3,12 +3,14 @@
   "obsidian-mind-map",
   "find-unlinked-files",
   "table-editor-obsidian",
-  "obsidian-checklist-plugin",
   "dataview",
   "tag-wrangler",
   "obsidian-dictionary-plugin",
   "obsidian-admonition",
   "calendar",
   "recent-files-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "tag-page-preview",
+  "nldates-obsidian",
+  "obsidian-outliner"
 ]

@@ -1,0 +1,38 @@
+- Chaotic neutral
+- Male
+- Red eyes
+- 40 lbs
+- 3' tall
+- Bald
+- Burnt Orange skin
+- Age 12 (adult)
+- Ugly
+- Often dressed in loose black clothes with a hood, a lighter gray mask that I pull over my face in public
+- What would your character be willing to do for a cat stuck in a tree?
+	- Say "Hey, cat! Get down here!", shrug, and walk away
+	- Defensively justify to the cat why you can't save it right now as it watches you with anxious disinterest
+	- Sit and watch the cat until it gets down on it's own, feel relieved that it all worked out
+- People I would like
+	- Gnome Bard
+		- What up witches? If you want to party with me you have to dance - no exception!
+		- I might seem picky but I'm actually very open-minded.
+		- I may have grown up in the country, but I live for the city.
+		- I do lutes, flutes, drums, violins, trumpets, but NEVER trombones (don't ask)
+	- My ideal part is an eclectic group of surrogate family members who insist that they work alone while welcoming me into their lives
+	- Halfling Rogue
+		- I gotta find a party that understands boundaries.
+		- If something goes missing in camp, maybe don't immediately go looking through my stuff? This should not be hard to do.
+		- Everyone wants a swift blade in the dark and a careful ear at the fire, but no one wants to trust a halfling around their packs.
+		- Message me if you're willing to trust
+	- Human Warlock
+		- Yes, I made a part with a dark god for untold power.
+		- I was young. I was dumb. I get it.
+		- There is more to me than that.
+		- I'm looking for a party that will accept me for who I am and not wase everyone's time by trying to convert me or separate me from my dark master.
+		- I want to be around people who aren't afraid of the grisly fates suffered by those who used to travel with me.
+		- I'm pretty sure that was just a very specific series of coincidences.
+		- Pure of heart only
+- What keeps me fighting
+	- "You are at deaths door. Your breath is shallow and ragged. Your joints cry and ache. Every physical part of you longs to lie down and rest, come what may."
+	- I see my parents, desperately helping me out the back of our house even though they couldn't follow, saving my life, driven.
+	- I reach for my stone when I need comfort or to figure out a difficult problem.

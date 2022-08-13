@@ -1,20 +1,7 @@
----
-title: dune
-author: Frank Hebert
-genre:
-rating:
-started: 
-finished: 
-status: 
----
-# `= this.title`
-## By `= this.author`
-### Rating: `= this.rating`/10
-### `= this.started` - `= this.finished`
-
+# Dune
+## By Frank Hebert
 #### Review:
-
-#### Quotes: 
+Great book, took a while to get going but then it went very fast. One of my favorite books, but the sequel isn't as good apparently.
 
 [[dune_messiah]]
-[[scifi]] [[classic]]
+#book/scifi #book/classic

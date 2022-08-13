@@ -2,7 +2,6 @@
 [[book_template]]
 [[daily_note_template]]
 [[recipe_template]]
-[[restaurant_template]]
 [[review_template]]
 [[project_template]]
 [[dnd_letter]]

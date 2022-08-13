@@ -1,6 +1,6 @@
 # Algorithms to Live By
 ## By Brian Christian and Tom Griffiths
-
+#book/active #book/nonfiction
 - Started reading it more in depth 2022-06-10
 	- 202206100707
 	- 202206100727

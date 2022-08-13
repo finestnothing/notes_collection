@@ -1,13 +1,5 @@
----
-name: clothes_manager
-category: tech
-start_date: 2022-04-01
-finish_date:
-status: idea
----
-# Project Title
-## `= this.start_date` - `= this.finish_date`
-## Status: `= this.status`
+# Clothes Manager
+## Status: #project/idea
 ## Description
 - Add Clothes
 	- Extract details about clothes from picture
@@ -29,6 +21,4 @@ status: idea
 	- Once worn, add to dirty list
 		- Keep jeans in rotation based on user preference
 	- Can do "laundry" to add clothes back to wardrobe
-
 ## Notes
-

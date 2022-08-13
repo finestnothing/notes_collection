@@ -1,0 +1,7 @@
+- [ ] New recipe
+- [ ] Try new restaurant
+- [ ] Movie night
+- [ ] #adventure/pending Star gazing
+- [ ] Movie/game All-nighter
+- [ ] Movie and Dinner night out
+- [ ] Rollerblading

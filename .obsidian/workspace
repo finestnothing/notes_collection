@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "72a0a791dcab90e5",
+        "id": "4850cd7c40b09b27",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -21,7 +21,7 @@
       {
         "id": "f169828df0192753",
         "type": "tabs",
-        "dimension": 76.4,
+        "dimension": 75.2,
         "children": [
           {
             "id": "cd65a8532dd028d6",
@@ -37,10 +37,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "servicec",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -57,9 +57,9 @@
         ]
       },
       {
-        "id": "1550c08ec8668a65",
+        "id": "cf3716fa6ef66749",
         "type": "tabs",
-        "dimension": 23.6,
+        "dimension": 24.8,
         "children": [
           {
             "id": "a924f77a45c6cb03",
@@ -145,25 +145,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 316,
     "collapsed": true
   },
-  "active": "72a0a791dcab90e5",
+  "active": "4850cd7c40b09b27",
   "lastOpenFiles": [
-    "README.md",
-    "logseq/journals/2022_08_06.md",
-    "Notes/blog_topic_ideas.md",
-    "Notes/Companies/lumicity_recruiting.md",
-    "Media/TBR.md",
-    "Notes/Companies/SRG.md",
-    "Notes/Companies/SFL_scientific.md",
-    "Notes/Companies/modernizing_medicine.md",
-    "Notes/Companies/Dynatrace.md",
-    "Notes/Companies/salient.md"
+    "Daily_Notes/20220812.md",
+    "Media/Videogames/overwatch_2_beta.md",
+    "Media/Videogames/old_world.md",
+    "Zettelkasten/seedlings/archive/202206131529.md",
+    "Misc/Companies/Dynatrace.md",
+    "Zettelkasten/mature/cause_of_mars_rover_scheduling_bug.md",
+    "Daily_Notes/2022-06-10.md",
+    "DnD/shattered_gates_campaign/session_notes/session_1_20220724.md",
+    "Templates/dnd_session_notes.md",
+    "DnD/shattered_gates_campaign/players/mistra.md"
   ]
 }

@@ -1,15 +1,9 @@
----
-name: learning_steno
-category: personal hobby
-start_date: 2022-04-15
-status: idea
----
-# Project Title
-## `= this.start_date` - `= this.finish_date`
-## Status: `= this.status`
+# Learning Steno
+## Status: #project/idea
 ## Description
-- Progress for learning steno and typing faster with it
-
+- Learning Steno for faster typing
+	- Delayed due to time needed for it
+- Related to [[charachorder]]
 
 ## Resources
 - ### Books
@@ -28,7 +22,3 @@ status: idea
 		- https://didoesdigital.com/typey-type/
 	- #### Practice Plover
 		- https://practiceplover.com/
-## Notes
-- [2022-04-15](2022-04-15.md)
-	- Getting started with learning it again with Learn Plover!
-

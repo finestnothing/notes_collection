@@ -17,5 +17,6 @@
   "unresolvedLinksTagsToIgnore": [],
   "withoutTagsDirectoriesToIgnore": [],
   "withoutTagsFilesToIgnore": [],
-  "withoutTagsOutputFileName": "files without tags"
+  "withoutTagsOutputFileName": "files without tags",
+  "openOutputFile": true
 }

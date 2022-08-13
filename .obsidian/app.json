@@ -44,5 +44,6 @@
   ],
   "trashOption": "local",
   "strictLineBreaks": false,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "promptDelete": false
 }

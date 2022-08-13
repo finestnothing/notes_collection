@@ -1,0 +1,147 @@
+# Owned
+- [ ] [[Media/Books/in-progress/algorithms_to_live_by]]
+- [ ] [[the_kubernetes_book]]
+- [ ] [[the_shining]]
+- [ ] [[the_iliad]] 
+- [ ] [[the_odyssey]]
+- [ ] [[the_song_of_achilles]]
+- [ ] [[circe]]
+- [ ] [[the_art_of_war]]
+- [x] [[soulkeeper]]
+- [ ] [[the_science_of_murder]]
+- [ ] [[the_left_hand_of_darkness]]
+- [ ] [[2001_a_space_odyssey]]
+- [ ] LOTR
+	- [ ] [[the_hobbit]]
+	- [ ] [[the_fellowship_of_the_ring]]
+	- [ ] [[the_two_towers]]
+	- [ ] [[the_return_of_the_king]]
+- [ ] [[brave_new_world]]
+- [ ] The Wheel of Time
+	- [ ] new_spring
+	- [ ] [[the_eye_of_the_world]]
+	- [ ] [[the_great_hunt]]
+	- [ ] [[the_dragon_reborn]]
+	- [ ] the_shadow_rising
+	- [ ] lord_of_chaos
+- [ ] [[frankenstein]]
+- [ ] [[i_robot]]
+- [ ] [[foundation]]
+- [ ] [[american_gods]]
+- [ ] [[good_omens]]
+- [ ] [[leviathan_wakes]]
+- [ ] [[project_hail_mary]]
+- [ ] [[the_long_price_quartet]]
+- [ ] V.E. Schwab Light
+	- [ ] [[a_conjuring_of_light]]
+	- [ ] [[a_gathering_of_shadows]]
+	- [ ] [[a_darker_shade_of_magic]]
+- [ ] V.E. Schwab Vengeful
+	- [ ] [[vengeful]]
+	- [ ] [[vicious]]
+- [ ] [[i_am_legend]]
+- [ ] [[hyperion]]
+- [ ] [[fire_of_the_dark_triad]]
+- [ ] [[the_history_of_the_computer]]
+- [ ] [[the_complete_works_of_william_shakespeare]]
+- [ ] [[greatest_works_of_edgar_allan_poe]]
+- [ ] [[tales_of_horror]] by H. P. Lovecraft
+
+# To-Buy
+- [ ] Dune Series
+	- [ ] [[dune]]
+	- [ ] [[dune_messiah]]
+	- [ ] [[children_of_dune]]
+	- [ ] [[god_emperor_of_dune]]
+	- [ ] [[heretics_of_dune]]
+	- [ ] [[chapterhouse_dune]]
+	- [ ] [[hunters_of_dune]]
+	- [ ] [[sandworms_of_dune]]
+- [ ] Stephen Hawking Books
+	- [ ] [[a_brief_history_of_time]]
+	- [ ] [[a_briefer_history_of_time]]
+	- [ ] [[black_holes_and_baby_universes_and_other_essays]]
+	- [ ] [[my_brief_history]]
+	- [ ] [[the_grand_design]]
+	- [ ] [[the_universe_in_a_nutshell]]
+- [ ] [[the_martian]]
+- [ ] [[shadow_and_bone]] series
+- [ ] [[sandstorm]] series
+- [ ] [[ruin_and_rising]]
+- [ ] [[map_of_bones]]
+- [ ] [[how_to_make_a_spaceship]]
+- [ ] The Atlas Trilogy by Olivie Blake
+	- [ ] [[the_atlas_six]]
+	- [ ] [[the_atlas_paradox]]
+	- [ ] In-Progress
+- [ ] Books by Michael J Sullivan https://www.bookseriesinorder.com/michael-j-sullivan/
+- [ ] Sigma Force Series by James Rollins
+	- [ ] [[sandstorm]]
+	- [ ] [[map_of_bones]]
+	- [ ] Kowalski's in Love
+	- [ ] Black Order
+	- [ ] The Judas Strain
+	- [ ] The Last Oracle
+	- [ ] The Doomsday Key
+	- [ ] The Skeleton Key
+	- [ ] The Devil Colony
+	- [ ] Tracker
+	- [ ] Bloodline
+	- [ ] The Eye of God
+	- [ ] The Sixth Extinction
+	- [ ] The Midnight Watch
+	- [ ] The Bone Labyrinth
+	- [ ] Crash and Burn
+	- [ ] The Seventh Plague
+	- [ ] Ghost Ship
+	- [ ] The Demon Crown
+	- [ ] Crucible
+	- [ ] The Last Odyssey
+	- [ ] Kingdom of Bones
+- [ ] Astra Black Series by Maurice Broaddus
+	- [ ] [[sweep_of_stars]]
+	- [ ] In-Progress
+- [ ] [[book_of_night]] by Holly Black
+- [ ] Glass Immortals series by Brian McClellan
+	- [ ] [[in_the_shadow_of_lightning]]
+	- [ ] In-Progress
+- [ ] The Redwinter Chronicles by Ed McDonald
+	- [ ] [[daughter_of_redwinter]]
+	- [ ] In-Progress
+- [ ] Tales of Tremaine series by R. R. Virdi
+	- [ ] [[the_first_binding]]
+	- [ ] In-Progress
+- [ ] Ancillary Justice series by Ann Leckie
+- [ ] [[a_long_way_to_a_small_angry_planet]] by Becky Chambers
+- [ ] [[the_three_body_problem]] by Cixin Liu
+- [ ] [[neverwhere]] by Neil Gaiman
+- [ ] Altered Carbon series
+	- [x] [[altered_carbon]]
+	- [ ] [[broken_angels]]
+	- [ ] [[woken_furies]]
+- [ ] [[void_star]] by Zachary Mason
+- [ ] [[the_water_knife]] by Paolo Bacigalupi
+- [ ] [[semiosis]] by Sue Burke
+- [ ] [[the_peripheral_e]] by William Gibson
+- [ ] [[the_monsters_of_elendhaven]] by Jennifer Giesbrecht
+- [ ] [[rosewater]] by Tade Thompson
+- [ ] [[too_like_the_lightning]] by Ada Palmer
+- [ ] [[seveneves]] by Neal Stephenson
+- [ ] [[we_are_legion]] by Dennis B. Taylor
+- [ ] [[station_eleven]] by Emily St. John Mandel
+- [ ] [[luna_new_moon]] by Ian McDonald
+- [ ] [[shogun]] by James Cavell
+- [ ] [[adventures_grimm]]
+- [ ] [[the_count_of_monte_cristo]]
+- [ ] [[the_chaser]] by John Colliert
+- [ ] The Shannara Chronicles by Terry Brooks
+	- [ ] [[the_sword_of_shannara]]
+	- [ ] [[the_elfstones_of_shannara]]
+	- [ ] [[the_wishsong_of_shannara]]
+- [ ] [[enders_game]] by Orson Scott Card
+- [ ] [[price_and_prejudice]] by Jane Austen
+- [ ] [[animal_farm]] by George Orwell
+- [ ] [[the_book_thief]] by Markus Zusak
+- [ ] [[the_ultimate_hitchhikers_guide_to_the_galaxy]] by Douglas Adams
+- [ ] [[1984]] by George Orwell
+- [ ] Skyward series by Brandon Sanderson

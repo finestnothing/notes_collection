@@ -1,7 +1,6 @@
 # What to Read
+- https://github.com/facundoolano/software-papers
 - https://github.com/papers-we-love/papers-we-love
-- Algorithms to Live By. 
-    - https://www.amazon.com/Algorithms-Live-By-Computer-Decisions/dp/1627790365/ref=as_li_ss_tl?ie=UTF8&keywords=algorithms%20to%20live%20by&qid=1459981978&ref_=sr_1_1&sr=8-1&linkCode=sl1&tag=brianchristian-20&linkId=79436149867892433e09bd7d984630d6&dplnkId=23887221-e785-48d3-90cc-99ddef5a6c6d
 - Borg, Omega, and Kubernetes by Brendan Burns, Brian Grant, and David Oppenheimer
 	- [[borg_omega_kubernetes.pdf]]
 - ‘NO SILVER BULLET – ESSENCE AND ACCIDENT IN SOFTWARE ENGINEERING’ BY FRED BROOKS

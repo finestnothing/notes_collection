@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "20220812",
+      "path": "Daily_Notes/20220812.md"
     },
     {
-      "basename": "2022_08_06",
-      "path": "logseq/journals/2022_08_06.md"
+      "basename": "overwatch_2_beta",
+      "path": "Media/Videogames/overwatch_2_beta.md"
     },
     {
-      "basename": "blog_topic_ideas",
-      "path": "Notes/blog_topic_ideas.md"
+      "basename": "202206131529",
+      "path": "Zettelkasten/seedlings/archive/202206131529.md"
     },
     {
-      "basename": "lumicity_recruiting",
-      "path": "Notes/Companies/lumicity_recruiting.md"
+      "basename": "cause_of_mars_rover_scheduling_bug",
+      "path": "Zettelkasten/mature/cause_of_mars_rover_scheduling_bug.md"
+    },
+    {
+      "basename": "session_1_20220724",
+      "path": "DnD/shattered_gates_campaign/session_notes/session_1_20220724.md"
+    },
+    {
+      "basename": "dnd_session_notes",
+      "path": "Templates/dnd_session_notes.md"
+    },
+    {
+      "basename": "mistra",
+      "path": "DnD/shattered_gates_campaign/players/mistra.md"
+    },
+    {
+      "basename": "marak",
+      "path": "DnD/shattered_gates_campaign/players/marak.md"
+    },
+    {
+      "basename": "Lucas(need_char_name)",
+      "path": "DnD/shattered_gates_campaign/players/Lucas(need_char_name).md"
+    },
+    {
+      "basename": "port",
+      "path": "DnD/shattered_gates_campaign/players/port.md"
+    },
+    {
+      "basename": "house_demu",
+      "path": "DnD/shattered_gates_campaign/npcs/house_demu.md"
+    },
+    {
+      "basename": "demu",
+      "path": "DnD/shattered_gates_campaign/npcs/demu.md"
+    },
+    {
+      "basename": "to_read",
+      "path": "Zettelkasten/to_read.md"
     },
     {
       "basename": "TBR",
       "path": "Media/TBR.md"
     },
     {
-      "basename": "SRG",
-      "path": "Notes/Companies/SRG.md"
+      "basename": "TBR_old",
+      "path": "Media/TBR_old.md"
     },
     {
-      "basename": "SFL_scientific",
-      "path": "Notes/Companies/SFL_scientific.md"
-    },
-    {
-      "basename": "modernizing_medicine",
-      "path": "Notes/Companies/modernizing_medicine.md"
-    },
-    {
-      "basename": "Dynatrace",
-      "path": "Notes/Companies/Dynatrace.md"
-    },
-    {
-      "basename": "salient",
-      "path": "Notes/Companies/salient.md"
-    },
-    {
-      "basename": "tyler_technologies",
-      "path": "Notes/Companies/tyler_technologies.md"
-    },
-    {
-      "basename": "home_care_pulse",
-      "path": "Notes/Companies/home_care_pulse.md"
-    },
-    {
-      "basename": "2022-07-05",
-      "path": "Daily_Notes/2022-07-05.md"
-    },
-    {
-      "basename": "2022-07-04",
-      "path": "Daily_Notes/2022-07-04.md"
-    },
-    {
-      "basename": "compu_automation",
-      "path": "Projects/compu_automation.md"
-    },
-    {
-      "basename": "2022-06-24",
-      "path": "Daily_Notes/2022-06-24.md"
-    },
-    {
-      "basename": "2022-07-02",
-      "path": "Daily_Notes/2022-07-02.md"
-    },
-    {
-      "basename": "2022-07-01",
-      "path": "Daily_Notes/2022-07-01.md"
-    },
-    {
-      "basename": "2022-06-30",
-      "path": "Daily_Notes/2022-06-30.md"
-    },
-    {
-      "basename": "Tattoo_ideas",
-      "path": "Notes/Tattoo_ideas.md"
-    },
-    {
-      "basename": "6bwx202eku891",
-      "path": "Attachments/6bwx202eku891.jpg"
-    },
-    {
-      "basename": "202206230812",
-      "path": "Zettelkasten/Fleeting_Notes/202206230812.md"
-    },
-    {
-      "basename": "202206230755",
-      "path": "Zettelkasten/Fleeting_Notes/202206230755.md"
-    },
-    {
-      "basename": "202206121422",
-      "path": "Zettelkasten/Fleeting_Notes/202206121422.md"
-    },
-    {
-      "basename": "2022-06-09",
-      "path": "Daily_Notes/2022-06-09.md"
-    },
-    {
-      "basename": "using_zettelkasten",
-      "path": "Zettelkasten/Permanent_Notes/mapped/using_zettelkasten.md"
-    },
-    {
-      "basename": "how_zettelkasten_grows",
-      "path": "Zettelkasten/Permanent_Notes/mapped/how_zettelkasten_grows.md"
-    },
-    {
-      "basename": "zettelkasten",
-      "path": "Zettelkasten/Content_maps/zettelkasten.md"
-    },
-    {
-      "basename": "2022-06-29",
-      "path": "Daily_Notes/2022-06-29.md"
-    },
-    {
-      "basename": "2022-06-28",
-      "path": "Daily_Notes/2022-06-28.md"
-    },
-    {
-      "basename": "2022-06-27",
-      "path": "Daily_Notes/2022-06-27.md"
-    },
-    {
-      "basename": "2022-06-26",
-      "path": "Daily_Notes/2022-06-26.md"
-    },
-    {
-      "basename": "2022-06-22",
-      "path": "Daily_Notes/2022-06-22.md"
-    },
-    {
-      "basename": "2022-06-21",
-      "path": "Daily_Notes/2022-06-21.md"
-    },
-    {
-      "basename": "2022-06-20",
-      "path": "Daily_Notes/2022-06-20.md"
-    },
-    {
-      "basename": "2022-06-19",
-      "path": "Daily_Notes/2022-06-19.md"
-    },
-    {
-      "basename": "2022-06-18",
-      "path": "Daily_Notes/2022-06-18.md"
-    },
-    {
-      "basename": "2022-06-16",
-      "path": "Daily_Notes/2022-06-16.md"
-    },
-    {
-      "basename": "algorithms_to_live_by",
-      "path": "Zettelkasten/Content_maps/algorithms_to_live_by.md"
-    },
-    {
-      "basename": "algorithms_to_live_by_ch4",
-      "path": "Zettelkasten/Literature_Notes/archive/algorithms_to_live_by_ch4.md"
-    },
-    {
-      "basename": "202206141748",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206141748.md"
-    },
-    {
-      "basename": "202206131529",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206131529.md"
+      "basename": "the_andromeda_strain",
+      "path": "Media/Books/in-progress/the_andromeda_strain.md"
     },
     {
       "basename": "algorithms_to_live_by",
       "path": "Media/Books/in-progress/algorithms_to_live_by.md"
     },
     {
-      "basename": "algorithms_to_live_by_ch2",
-      "path": "Zettelkasten/Literature_Notes/archive/algorithms_to_live_by_ch2.md"
+      "basename": "movies",
+      "path": "Media/movies.md"
     },
     {
-      "basename": "algorithms_to_live_by_ch1",
-      "path": "Zettelkasten/Literature_Notes/archive/algorithms_to_live_by_ch1.md"
+      "basename": "the_stars_are_legion",
+      "path": "Media/Books/read/the_stars_are_legion.md"
     },
     {
-      "basename": "202206100727",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206100727.md"
+      "basename": "ready_player_two",
+      "path": "Media/Books/read/ready_player_two.md"
     },
     {
-      "basename": "202206100707",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206100707.md"
+      "basename": "ready_player_one",
+      "path": "Media/Books/read/ready_player_one.md"
     },
     {
-      "basename": "bootstrapping_a_startup",
-      "path": "Zettelkasten/Content_maps/bootstrapping_a_startup.md"
+      "basename": "altered_carbon",
+      "path": "Media/Books/read/altered_carbon.md"
     },
     {
-      "basename": "202206111224",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206111224.md"
+      "basename": "gideon_the_ninth",
+      "path": "Media/Books/read/gideon_the_ninth.md"
     },
     {
-      "basename": "202206150654",
-      "path": "Zettelkasten/Fleeting_Notes/archive/202206150654.md"
+      "basename": "neuromancer",
+      "path": "Media/Books/read/neuromancer.md"
+    },
+    {
+      "basename": "the_starless_crown",
+      "path": "Media/Books/read/the_starless_crown.md"
+    },
+    {
+      "basename": "the_city_of_brass",
+      "path": "Media/Books/read/the_city_of_brass.md"
+    },
+    {
+      "basename": "rise_of_the_mages",
+      "path": "Media/Books/read/rise_of_the_mages.md"
+    },
+    {
+      "basename": "red_rising",
+      "path": "Media/Books/read/red_rising.md"
+    },
+    {
+      "basename": "soulkeeper",
+      "path": "Media/Books/read/soulkeeper.md"
+    },
+    {
+      "basename": "magic_for_liars",
+      "path": "Media/Books/read/magic_for_liars.md"
+    },
+    {
+      "basename": "dune",
+      "path": "Media/Books/read/dune.md"
+    },
+    {
+      "basename": "Cursed_book",
+      "path": "DnD/homebrew/Cursed_book.md"
+    },
+    {
+      "basename": "the_blacktongue_thief",
+      "path": "Media/Books/read/the_blacktongue_thief.md"
+    },
+    {
+      "basename": "the_black_company",
+      "path": "Media/Books/read/the_black_company.md"
+    },
+    {
+      "basename": "about",
+      "path": "DnD/shattered_gates_campaign/port/about.md"
+    },
+    {
+      "basename": "failed_theft_gabur",
+      "path": "DnD/shattered_gates_campaign/port/failed_theft_gabur.md"
+    },
+    {
+      "basename": "history",
+      "path": "DnD/shattered_gates_campaign/port/history.md"
+    },
+    {
+      "basename": "parents",
+      "path": "DnD/shattered_gates_campaign/port/parents.md"
+    },
+    {
+      "basename": "gabur_strongjaw",
+      "path": "DnD/shattered_gates_campaign/port/gabur_strongjaw.md"
+    },
+    {
+      "basename": "idioms",
+      "path": "DnD/shattered_gates_campaign/port/idioms.md"
+    },
+    {
+      "basename": "holidays",
+      "path": "DnD/shattered_gates_campaign/port/holidays.md"
+    },
+    {
+      "basename": "ideals",
+      "path": "DnD/shattered_gates_campaign/port/ideals.md"
+    },
+    {
+      "basename": "memento",
+      "path": "DnD/shattered_gates_campaign/port/memento.md"
+    },
+    {
+      "basename": "blog_topic_ideas",
+      "path": "Ideas/blog_topic_ideas.md"
+    },
+    {
+      "basename": "tattoos",
+      "path": "Ideas/tattoos.md"
+    },
+    {
+      "basename": "Cave_of_Doom",
+      "path": "DnD/homebrew/Cave_of_Doom.md"
+    },
+    {
+      "basename": "yellow",
+      "path": "Misc/adventure_jar/yellow.md"
+    },
+    {
+      "basename": "blue",
+      "path": "Misc/adventure_jar/blue.md"
+    },
+    {
+      "basename": "green",
+      "path": "Misc/adventure_jar/green.md"
+    },
+    {
+      "basename": "red",
+      "path": "Misc/adventure_jar/red.md"
     }
   ],
   "omittedPaths": [],

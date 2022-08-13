@@ -15,4 +15,4 @@ status: complete
 #### Review:
 Pretty good book, some parts were really slow but overall it was good. 
 
-[[classic]] [[scifi]]
+#book/classic #book/scifi 

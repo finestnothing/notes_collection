@@ -7,4 +7,4 @@ but overall it was a very good book.
 A lot of things were different from the tv show adaptation, for better or for worse
 
 #book/pending_sequel 
-#book/futuristic #book/scifi 
+#book/futuristic #book/scifi #book/series 

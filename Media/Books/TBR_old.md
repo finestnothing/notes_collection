@@ -1,0 +1,53 @@
+# To-Buy
+- [ ] Books by Michael J Sullivan https://www.bookseriesinorder.com/michael-j-sullivan/
+- [ ] Sigma Force Series by James Rollins
+	- [ ] sandstorm
+	- [ ] map_of_bones
+	- [ ] Kowalski's in Love
+	- [ ] Black Order
+	- [ ] The Judas Strain
+	- [ ] The Last Oracle
+	- [ ] The Doomsday Key
+	- [ ] The Skeleton Key
+	- [ ] The Devil Colony
+	- [ ] Tracker
+	- [ ] Bloodline
+	- [ ] The Eye of God
+	- [ ] The Sixth Extinction
+	- [ ] The Midnight Watch
+	- [ ] The Bone Labyrinth
+	- [ ] Crash and Burn
+	- [ ] The Seventh Plague
+	- [ ] Ghost Ship
+	- [ ] The Demon Crown
+	- [ ] Crucible
+	- [ ] The Last Odyssey
+	- [ ] Kingdom of Bones
+- [ ] Astra Black Series by Maurice Broaddus
+	- [ ] sweep_of_stars
+	- [ ] In-Progress
+- [ ] Glass Immortals series by Brian McClellan
+	- [ ] in_the_shadow_of_lightning
+	- [ ] In-Progress
+- [ ] The Redwinter Chronicles by Ed McDonald
+	- [ ] daughter_of_redwinter
+	- [ ] In-Progress
+- [ ] Tales of Tremaine series by R. R. Virdi
+	- [ ] the_first_binding
+	- [ ] In-Progress
+- [ ] the_three_body_problem by Cixin Liu
+- [ ] semiosis by Sue Burke
+- [ ] too_like_the_lightning by Ada Palmer
+- [ ] station_eleven by Emily St. John Mandel
+- [ ] luna_new_moon by Ian McDonald
+- [ ] shogun by James Cavell
+- [ ] adventures_grimm
+- [ ] the_count_of_monte_cristo
+- [ ] the_chaser by John Colliert
+- [ ] The Shannara Chronicles by Terry Brooks
+	- [ ] the_sword_of_shannara
+	- [ ] the_elfstones_of_shannara
+	- [ ] the_wishsong_of_shannara
+- [ ] the_book_thief by Markus Zusak
+- [ ] the_ultimate_hitchhikers_guide_to_the_galaxy by Douglas Adams
+- [ ] Skyward series by Brandon Sanderson

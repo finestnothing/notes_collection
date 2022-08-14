@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "20220814",
+      "path": "Daily_Notes/20220814.md"
+    },
+    {
+      "basename": "TBR",
+      "path": "Media/Books/TBR.md"
+    },
+    {
+      "basename": "TBR_old",
+      "path": "Media/Books/TBR_old.md"
+    },
+    {
+      "basename": "stephen_hawking_books",
+      "path": "Media/Books/stephen_hawking_books.md"
+    },
+    {
+      "basename": "foundation_series",
+      "path": "Media/Books/foundation_series.md"
+    },
+    {
+      "basename": "dune_series",
+      "path": "Media/Books/dune_series.md"
+    },
+    {
+      "basename": "foundation",
+      "path": "Media/Books/in-progress/foundation.md"
+    },
+    {
+      "basename": "the_starless_crown",
+      "path": "Media/Books/read/the_starless_crown.md"
+    },
+    {
+      "basename": "the_city_of_brass",
+      "path": "Media/Books/read/the_city_of_brass.md"
+    },
+    {
+      "basename": "red_rising",
+      "path": "Media/Books/read/red_rising.md"
+    },
+    {
+      "basename": "the_black_company",
+      "path": "Media/Books/read/the_black_company.md"
+    },
+    {
+      "basename": "soulkeeper",
+      "path": "Media/Books/read/soulkeeper.md"
+    },
+    {
+      "basename": "the_blacktongue_thief",
+      "path": "Media/Books/read/the_blacktongue_thief.md"
+    },
+    {
+      "basename": "magic_for_liars",
+      "path": "Media/Books/read/magic_for_liars.md"
+    },
+    {
+      "basename": "dune",
+      "path": "Media/Books/read/dune.md"
+    },
+    {
+      "basename": "rise_of_the_mages",
+      "path": "Media/Books/read/rise_of_the_mages.md"
+    },
+    {
+      "basename": "ready_player_one",
+      "path": "Media/Books/read/ready_player_one.md"
+    },
+    {
+      "basename": "ready_player_two",
+      "path": "Media/Books/read/ready_player_two.md"
+    },
+    {
+      "basename": "neuromancer",
+      "path": "Media/Books/read/neuromancer.md"
+    },
+    {
+      "basename": "gideon_the_ninth",
+      "path": "Media/Books/read/gideon_the_ninth.md"
+    },
+    {
+      "basename": "altered_carbon",
+      "path": "Media/Books/read/altered_carbon.md"
+    },
+    {
+      "basename": "the_andromeda_strain",
+      "path": "Media/Books/read/the_andromeda_strain.md"
+    },
+    {
+      "basename": "the_stars_are_legion",
+      "path": "Media/Books/read/the_stars_are_legion.md"
+    },
+    {
       "basename": "Cave_of_Doom",
       "path": "DnD/homebrew/Cave_of_Doom.md"
     },
@@ -65,84 +157,12 @@
       "path": "Zettelkasten/to_read.md"
     },
     {
-      "basename": "TBR",
-      "path": "Media/TBR.md"
-    },
-    {
-      "basename": "TBR_old",
-      "path": "Media/TBR_old.md"
-    },
-    {
-      "basename": "the_andromeda_strain",
-      "path": "Media/Books/in-progress/the_andromeda_strain.md"
-    },
-    {
       "basename": "algorithms_to_live_by",
       "path": "Media/Books/in-progress/algorithms_to_live_by.md"
     },
     {
       "basename": "movies",
       "path": "Media/movies.md"
-    },
-    {
-      "basename": "the_stars_are_legion",
-      "path": "Media/Books/read/the_stars_are_legion.md"
-    },
-    {
-      "basename": "ready_player_two",
-      "path": "Media/Books/read/ready_player_two.md"
-    },
-    {
-      "basename": "ready_player_one",
-      "path": "Media/Books/read/ready_player_one.md"
-    },
-    {
-      "basename": "altered_carbon",
-      "path": "Media/Books/read/altered_carbon.md"
-    },
-    {
-      "basename": "gideon_the_ninth",
-      "path": "Media/Books/read/gideon_the_ninth.md"
-    },
-    {
-      "basename": "neuromancer",
-      "path": "Media/Books/read/neuromancer.md"
-    },
-    {
-      "basename": "the_starless_crown",
-      "path": "Media/Books/read/the_starless_crown.md"
-    },
-    {
-      "basename": "the_city_of_brass",
-      "path": "Media/Books/read/the_city_of_brass.md"
-    },
-    {
-      "basename": "rise_of_the_mages",
-      "path": "Media/Books/read/rise_of_the_mages.md"
-    },
-    {
-      "basename": "red_rising",
-      "path": "Media/Books/read/red_rising.md"
-    },
-    {
-      "basename": "soulkeeper",
-      "path": "Media/Books/read/soulkeeper.md"
-    },
-    {
-      "basename": "magic_for_liars",
-      "path": "Media/Books/read/magic_for_liars.md"
-    },
-    {
-      "basename": "dune",
-      "path": "Media/Books/read/dune.md"
-    },
-    {
-      "basename": "the_blacktongue_thief",
-      "path": "Media/Books/read/the_blacktongue_thief.md"
-    },
-    {
-      "basename": "the_black_company",
-      "path": "Media/Books/read/the_black_company.md"
     },
     {
       "basename": "about",
@@ -179,26 +199,6 @@
     {
       "basename": "memento",
       "path": "DnD/shattered_gates_campaign/port/memento.md"
-    },
-    {
-      "basename": "blog_topic_ideas",
-      "path": "Ideas/blog_topic_ideas.md"
-    },
-    {
-      "basename": "tattoos",
-      "path": "Ideas/tattoos.md"
-    },
-    {
-      "basename": "yellow",
-      "path": "Misc/adventure_jar/yellow.md"
-    },
-    {
-      "basename": "blue",
-      "path": "Misc/adventure_jar/blue.md"
-    },
-    {
-      "basename": "green",
-      "path": "Misc/adventure_jar/green.md"
     }
   ],
   "omittedPaths": [],

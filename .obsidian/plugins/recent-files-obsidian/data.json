@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "20220815",
+      "path": "Daily_Notes/20220815.md"
+    },
+    {
       "basename": "20220814",
       "path": "Daily_Notes/20220814.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ideals",
       "path": "DnD/shattered_gates_campaign/port/ideals.md"
-    },
-    {
-      "basename": "memento",
-      "path": "DnD/shattered_gates_campaign/port/memento.md"
     }
   ],
   "omittedPaths": [],

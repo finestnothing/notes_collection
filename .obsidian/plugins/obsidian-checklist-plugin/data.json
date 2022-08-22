@@ -1,0 +1,20 @@
+{
+  "todoPageName": "",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Misc/adventure_jar/red.md",
+    "Misc/adventure_jar/green.md",
+    "Misc/adventure_jar/yellow.md",
+    "Misc/adventure_jar/blue.md"
+  ],
+  "_hiddenTags": []
+}

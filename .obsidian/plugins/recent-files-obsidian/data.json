@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "20220822",
+      "path": "Daily_Notes/20220822.md"
+    },
+    {
+      "basename": "20220818",
+      "path": "Daily_Notes/20220818.md"
+    },
+    {
+      "basename": "20220817",
+      "path": "Daily_Notes/20220817.md"
+    },
+    {
+      "basename": "20220816",
+      "path": "Daily_Notes/20220816.md"
+    },
+    {
+      "basename": "daily_note_template",
+      "path": "Templates/daily_note_template.md"
+    },
+    {
       "basename": "20220815",
       "path": "Daily_Notes/20220815.md"
     },
@@ -9,12 +29,40 @@
       "path": "Daily_Notes/20220814.md"
     },
     {
-      "basename": "TBR",
-      "path": "Media/Books/TBR.md"
-    },
-    {
       "basename": "TBR_old",
       "path": "Media/Books/TBR_old.md"
+    },
+    {
+      "basename": "green",
+      "path": "Misc/adventure_jar/green.md"
+    },
+    {
+      "basename": "blue",
+      "path": "Misc/adventure_jar/blue.md"
+    },
+    {
+      "basename": "yellow",
+      "path": "Misc/adventure_jar/yellow.md"
+    },
+    {
+      "basename": "red",
+      "path": "Misc/adventure_jar/red.md"
+    },
+    {
+      "basename": "20220812",
+      "path": "Daily_Notes/20220812.md"
+    },
+    {
+      "basename": "2001_a_space_odyssey",
+      "path": "Media/Books/in-progress/2001_a_space_odyssey.md"
+    },
+    {
+      "basename": "a_long_way_to_a_small_angry_planet",
+      "path": "Media/Books/read/a_long_way_to_a_small_angry_planet.md"
+    },
+    {
+      "basename": "TBR",
+      "path": "Media/Books/TBR.md"
     },
     {
       "basename": "stephen_hawking_books",
@@ -27,10 +75,6 @@
     {
       "basename": "dune_series",
       "path": "Media/Books/dune_series.md"
-    },
-    {
-      "basename": "foundation",
-      "path": "Media/Books/in-progress/foundation.md"
     },
     {
       "basename": "the_starless_crown",
@@ -109,10 +153,6 @@
       "path": "DnD/homebrew/Staff_of_horse.md"
     },
     {
-      "basename": "20220812",
-      "path": "Daily_Notes/20220812.md"
-    },
-    {
       "basename": "overwatch_2_beta",
       "path": "Media/Videogames/overwatch_2_beta.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "to_read",
       "path": "Zettelkasten/to_read.md"
-    },
-    {
-      "basename": "algorithms_to_live_by",
-      "path": "Media/Books/in-progress/algorithms_to_live_by.md"
-    },
-    {
-      "basename": "movies",
-      "path": "Media/movies.md"
-    },
-    {
-      "basename": "about",
-      "path": "DnD/shattered_gates_campaign/port/about.md"
-    },
-    {
-      "basename": "failed_theft_gabur",
-      "path": "DnD/shattered_gates_campaign/port/failed_theft_gabur.md"
-    },
-    {
-      "basename": "history",
-      "path": "DnD/shattered_gates_campaign/port/history.md"
-    },
-    {
-      "basename": "parents",
-      "path": "DnD/shattered_gates_campaign/port/parents.md"
-    },
-    {
-      "basename": "gabur_strongjaw",
-      "path": "DnD/shattered_gates_campaign/port/gabur_strongjaw.md"
-    },
-    {
-      "basename": "idioms",
-      "path": "DnD/shattered_gates_campaign/port/idioms.md"
-    },
-    {
-      "basename": "holidays",
-      "path": "DnD/shattered_gates_campaign/port/holidays.md"
-    },
-    {
-      "basename": "ideals",
-      "path": "DnD/shattered_gates_campaign/port/ideals.md"
     }
   ],
   "omittedPaths": [],

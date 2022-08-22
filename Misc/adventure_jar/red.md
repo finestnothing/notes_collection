@@ -1,16 +1,14 @@
-- [x] Bondage
-- [ ] Pegging
-- [ ] Couch
-- [x] Standing
-- [ ] 69, reader on bottom
-- [ ] Butt stuff
-- [ ] Threesome
-- [ ] Cum dump for a day
-- [ ] Free use
-- [ ] Butt plug in public (on a date, etc)
-- [ ] Mutual butt plugs
-- [ ] Outdoor blowjob/sex (on a hike, etc)
-- [ ] Her choice
-- [ ] Lingerie
-- [ ] Something to surprise me
-- [ ] Mutual butt plugs, reader picks positions
+- Pegging
+- Couch
+- 69, reader on bottom
+- Butt stuff
+- Threesome
+- Cum dump for a day
+- Free use
+- Butt plug in public (on a date, etc)
+- Mutual butt plugs
+- Outdoor blowjob/sex (on a hike, etc)
+- Her choice
+- Lingerie
+- Something to surprise me
+- Mutual butt plugs, reader picks positions

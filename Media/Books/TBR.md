@@ -1,5 +1,4 @@
 - Owned
-	- [[foundation]] by Isaac Asimov #book/scifi #book/classic 
 	- [[a_long_way_to_a_small_angry_planet]] by Becky Chambers #book/scifi #book/classic #book/space
 	- [[2001_a_space_odyssey]] by Arthur C. Clarke #book/scifi #book/classic #book/space 
 	- [[the_song_of_achilles]] by Madeline Miller #book/mythology

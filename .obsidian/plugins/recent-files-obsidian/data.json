@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "mcu_watch_order",
+      "path": "Media/mcu_watch_order.md"
+    },
+    {
+      "basename": "movies",
+      "path": "Media/movies.md"
+    },
+    {
+      "basename": "20220823",
+      "path": "Daily_Notes/20220823.md"
+    },
+    {
       "basename": "20220822",
       "path": "Daily_Notes/20220822.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "port",
       "path": "DnD/shattered_gates_campaign/players/port.md"
-    },
-    {
-      "basename": "house_demu",
-      "path": "DnD/shattered_gates_campaign/npcs/house_demu.md"
-    },
-    {
-      "basename": "demu",
-      "path": "DnD/shattered_gates_campaign/npcs/demu.md"
-    },
-    {
-      "basename": "to_read",
-      "path": "Zettelkasten/to_read.md"
     }
   ],
   "omittedPaths": [],

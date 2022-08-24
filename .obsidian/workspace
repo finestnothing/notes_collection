@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Media/mcu_watch_order.md",
+            "file": "Daily_Notes/20220823.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/mcu_watch_order.md",
+                "file": "Daily_Notes/20220823.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/mcu_watch_order.md",
+                "file": "Daily_Notes/20220823.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/mcu_watch_order.md"
+                "file": "Daily_Notes/20220823.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "e80054cbbe0c191c",
   "lastOpenFiles": [
+    "Media/mcu_watch_order.md",
     "Media/movies.md",
     "Daily_Notes/20220823.md",
     "Daily_Notes/20220822.md",
@@ -181,7 +182,6 @@
     "Daily_Notes/20220816.md",
     "Templates/daily_note_template.md",
     "Daily_Notes/20220815.md",
-    "Daily_Notes/20220814.md",
-    "Media/Books/TBR_old.md"
+    "Daily_Notes/20220814.md"
   ]
 }

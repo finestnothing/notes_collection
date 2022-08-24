@@ -1,13 +1,13 @@
 # MCU Watch Order
 - [x] Captain America: The First Avenger
 - [x] Agent Carter one shot
-- [ ] Captain Marvel
-- [ ] Iron Man
-- [ ] Iron Man 2
-- [ ] The Incredible Hulk
-- [ ] The Consultant one shot
-- [ ] A Funny Thing Happened on the Way to Thor's Hammer
-- [ ] Thor
+- [x] Captain Marvel
+- [x] Iron Man
+- [x] Iron Man 2
+- [x] The Incredible Hulk
+- [x] The Consultant one shot
+- [x] A Funny Thing Happened on the Way to Thor's Hammer
+- [x] Thor
 - [ ] The Avengers
 - [ ] Item 47 one shot
 - [ ] Iron Man 3

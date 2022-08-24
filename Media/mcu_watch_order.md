@@ -8,15 +8,15 @@
 - [x] The Consultant one shot
 - [x] A Funny Thing Happened on the Way to Thor's Hammer
 - [x] Thor
-- [ ] The Avengers
-- [ ] Item 47 one shot
-- [ ] Iron Man 3
-- [ ] All Hail the King one shot
-- [ ] Agents of SHIELD season 1 episodes 1- [ ]7
+- [x] The Avengers
+- [x] Item 47 one shot
+- [x] Iron Man 3
+- [x] All Hail the King one shot
+- [ ] Agents of SHIELD season 1 episodes 1-7
 - [ ] Thor: The Dark World
-- [ ] Agents of SHIELD season 1 episodes 8- [ ]16
+- [ ] Agents of SHIELD season 1 episodes 8-16
 - [ ] Captain America: The Winter Soldier
-- [ ] Agents of SHIELD season 1 episodes 17- [ ]22
+- [ ] Agents of SHIELD season 1 episodes 17-22
 - [ ] Guardians of the Galaxy
 - [ ] Guardians of the Galaxy Vol 2
 - [ ] I am groot season 1

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily_Notes/20220823.md",
+            "file": "Media/mcu_watch_order.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#work/todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,22 +92,12 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "9afca41f69d6e82f",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -118,12 +108,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9afca41f69d6e82f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
             "id": "7774fd6ff8dbeb08",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/20220823.md",
+                "file": "Media/mcu_watch_order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/20220823.md",
+                "file": "Media/mcu_watch_order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/20220823.md"
+                "file": "Media/mcu_watch_order.md"
               }
             }
           },
@@ -168,11 +166,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316,
-    "collapsed": true
+    "width": 316
   },
   "active": "e80054cbbe0c191c",
   "lastOpenFiles": [
+    "Daily_Notes/20220824.md",
     "Media/mcu_watch_order.md",
     "Media/movies.md",
     "Daily_Notes/20220823.md",
@@ -181,7 +179,6 @@
     "Daily_Notes/20220817.md",
     "Daily_Notes/20220816.md",
     "Templates/daily_note_template.md",
-    "Daily_Notes/20220815.md",
-    "Daily_Notes/20220814.md"
+    "Daily_Notes/20220815.md"
   ]
 }

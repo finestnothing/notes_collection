@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "20220823",
-      "path": "Daily_Notes/20220823.md"
-    },
-    {
       "basename": "mcu_watch_order",
       "path": "Media/mcu_watch_order.md"
     },
     {
+      "basename": "20220824",
+      "path": "Daily_Notes/20220824.md"
+    },
+    {
       "basename": "movies",
       "path": "Media/movies.md"
+    },
+    {
+      "basename": "20220823",
+      "path": "Daily_Notes/20220823.md"
     },
     {
       "basename": "20220822",
@@ -195,10 +199,6 @@
     {
       "basename": "Lucas(need_char_name)",
       "path": "DnD/shattered_gates_campaign/players/Lucas(need_char_name).md"
-    },
-    {
-      "basename": "port",
-      "path": "DnD/shattered_gates_campaign/players/port.md"
     }
   ],
   "omittedPaths": [],

@@ -12,7 +12,7 @@
 - [x] Item 47 one shot
 - [x] Iron Man 3
 - [x] All Hail the King one shot
-- [ ] Agents of SHIELD season 1 episodes 1-7
+- [x] Agents of SHIELD season 1 episodes 1-7
 - [ ] Thor: The Dark World
 - [ ] Agents of SHIELD season 1 episodes 8-16
 - [ ] Captain America: The Winter Soldier

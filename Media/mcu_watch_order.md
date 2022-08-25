@@ -13,7 +13,7 @@
 - [x] Iron Man 3
 - [x] All Hail the King one shot
 - [x] Agents of SHIELD season 1 episodes 1-7
-- [ ] Thor: The Dark World
+- [x] Thor: The Dark World
 - [ ] Agents of SHIELD season 1 episodes 8-16
 - [ ] Captain America: The Winter Soldier
 - [ ] Agents of SHIELD season 1 episodes 17-22

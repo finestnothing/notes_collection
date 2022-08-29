@@ -14,10 +14,10 @@
 - [x] All Hail the King one shot
 - [x] Agents of SHIELD season 1 episodes 1-7
 - [x] Thor: The Dark World
-- [ ] Agents of SHIELD season 1 episodes 8-16
+- [x] Agents of SHIELD season 1 episodes 8-16
 - [ ] Captain America: The Winter Soldier
 - [ ] Agents of SHIELD season 1 episodes 17-22
-- [ ] Guardians of the Galaxy
+- [x] Guardians of the Galaxy
 - [ ] Guardians of the Galaxy Vol 2
 - [ ] I am groot season 1
 - [ ] Daredevil season 1

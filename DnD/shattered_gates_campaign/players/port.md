@@ -1,4 +1,4 @@
-#dnd/shatted/pc
+#dnd/shattered/pc
 - Character for Shattered Gates Campaign
 - Lives and works in [[Eltania]]
 - Part of the shattered gates campaign

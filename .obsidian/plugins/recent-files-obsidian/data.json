@@ -5,6 +5,106 @@
       "path": "Media/mcu_watch_order.md"
     },
     {
+      "basename": "evergreen",
+      "path": "Projects/evergreen.md"
+    },
+    {
+      "basename": "clothes_manager",
+      "path": "Projects/Ideas/clothes_manager.md"
+    },
+    {
+      "basename": "kubernetes_server",
+      "path": "Projects/Ideas/kubernetes_server.md"
+    },
+    {
+      "basename": "learning_steno",
+      "path": "Projects/Ideas/learning_steno.md"
+    },
+    {
+      "basename": "charachorder",
+      "path": "Projects/charachorder.md"
+    },
+    {
+      "basename": "portfolio_website",
+      "path": "Projects/portfolio_website.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "202208301018",
+      "path": "Zettelkasten/seedlings/202208301018.md"
+    },
+    {
+      "basename": "khon_thai",
+      "path": "Food/Restaurants/khon_thai.md"
+    },
+    {
+      "basename": "good_eats_the_final_years",
+      "path": "Food/good_eats_the_final_years.md"
+    },
+    {
+      "basename": "Food_ideas",
+      "path": "Food/Food_ideas.md"
+    },
+    {
+      "basename": "breakfast_recipes",
+      "path": "Food/breakfast_recipes.md"
+    },
+    {
+      "basename": "sourdough_dough_pizza_crust",
+      "path": "Food/Recipes/sourdough_dough_pizza_crust.md"
+    },
+    {
+      "basename": "alfredo_sauce",
+      "path": "Food/Recipes/alfredo_sauce.md"
+    },
+    {
+      "basename": "chicken_fettucini_alfredo",
+      "path": "Food/Recipes/chicken_fettucini_alfredo.md"
+    },
+    {
+      "basename": "blog_topic_ideas",
+      "path": "Ideas/blog_topic_ideas.md"
+    },
+    {
+      "basename": "tattoos",
+      "path": "Ideas/tattoos.md"
+    },
+    {
+      "basename": "202208301002",
+      "path": "Zettelkasten/seedlings/202208301002.md"
+    },
+    {
+      "basename": "202208300931",
+      "path": "Zettelkasten/seedlings/202208300931.md"
+    },
+    {
+      "basename": "202208151627",
+      "path": "Zettelkasten/seedlings/202208151627.md"
+    },
+    {
+      "basename": "202208151641",
+      "path": "Zettelkasten/seedlings/202208151641.md"
+    },
+    {
+      "basename": "zettelkasten_note",
+      "path": "Templates/zettelkasten_note.md"
+    },
+    {
+      "basename": "202206230755",
+      "path": "Zettelkasten/seedlings/202206230755.md"
+    },
+    {
+      "basename": "202206230812",
+      "path": "Zettelkasten/seedlings/202206230812.md"
+    },
+    {
+      "basename": "202208151619",
+      "path": "Zettelkasten/seedlings/202208151619.md"
+    },
+    {
       "basename": "20220824",
       "path": "Daily_Notes/20220824.md"
     },
@@ -99,106 +199,6 @@
     {
       "basename": "the_city_of_brass",
       "path": "Media/Books/read/the_city_of_brass.md"
-    },
-    {
-      "basename": "red_rising",
-      "path": "Media/Books/read/red_rising.md"
-    },
-    {
-      "basename": "the_black_company",
-      "path": "Media/Books/read/the_black_company.md"
-    },
-    {
-      "basename": "soulkeeper",
-      "path": "Media/Books/read/soulkeeper.md"
-    },
-    {
-      "basename": "the_blacktongue_thief",
-      "path": "Media/Books/read/the_blacktongue_thief.md"
-    },
-    {
-      "basename": "magic_for_liars",
-      "path": "Media/Books/read/magic_for_liars.md"
-    },
-    {
-      "basename": "dune",
-      "path": "Media/Books/read/dune.md"
-    },
-    {
-      "basename": "rise_of_the_mages",
-      "path": "Media/Books/read/rise_of_the_mages.md"
-    },
-    {
-      "basename": "ready_player_one",
-      "path": "Media/Books/read/ready_player_one.md"
-    },
-    {
-      "basename": "ready_player_two",
-      "path": "Media/Books/read/ready_player_two.md"
-    },
-    {
-      "basename": "neuromancer",
-      "path": "Media/Books/read/neuromancer.md"
-    },
-    {
-      "basename": "gideon_the_ninth",
-      "path": "Media/Books/read/gideon_the_ninth.md"
-    },
-    {
-      "basename": "altered_carbon",
-      "path": "Media/Books/read/altered_carbon.md"
-    },
-    {
-      "basename": "the_andromeda_strain",
-      "path": "Media/Books/read/the_andromeda_strain.md"
-    },
-    {
-      "basename": "the_stars_are_legion",
-      "path": "Media/Books/read/the_stars_are_legion.md"
-    },
-    {
-      "basename": "Cave_of_Doom",
-      "path": "DnD/homebrew/Cave_of_Doom.md"
-    },
-    {
-      "basename": "Cursed_book",
-      "path": "DnD/homebrew/Cursed_book.md"
-    },
-    {
-      "basename": "Staff_of_horse",
-      "path": "DnD/homebrew/Staff_of_horse.md"
-    },
-    {
-      "basename": "overwatch_2_beta",
-      "path": "Media/Videogames/overwatch_2_beta.md"
-    },
-    {
-      "basename": "202206131529",
-      "path": "Zettelkasten/seedlings/archive/202206131529.md"
-    },
-    {
-      "basename": "cause_of_mars_rover_scheduling_bug",
-      "path": "Zettelkasten/mature/cause_of_mars_rover_scheduling_bug.md"
-    },
-    {
-      "basename": "session_1_20220724",
-      "path": "DnD/shattered_gates_campaign/session_notes/session_1_20220724.md"
-    },
-    {
-      "basename": "dnd_session_notes",
-      "path": "Templates/dnd_session_notes.md"
-    },
-    {
-      "basename": "mistra",
-      "path": "DnD/shattered_gates_campaign/players/mistra.md"
-    },
-    {
-      "basename": "marak",
-      "path": "DnD/shattered_gates_campaign/players/marak.md"
-    },
-    {
-      "basename": "Lucas(need_char_name)",
-      "path": "DnD/shattered_gates_campaign/players/Lucas(need_char_name).md"
     }
   ],
   "omittedPaths": [],

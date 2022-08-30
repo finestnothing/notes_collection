@@ -16,7 +16,7 @@
 - [x] Thor: The Dark World
 - [x] Agents of SHIELD season 1 episodes 8-16
 - [x] Captain America: The Winter Soldier
-- [ ] Agents of SHIELD season 1 episodes 17-22
+- [x] Agents of SHIELD season 1 episodes 17-22
 - [x] Guardians of the Galaxy
 - [ ] Guardians of the Galaxy Vol 2
 - [ ] I am groot season 1

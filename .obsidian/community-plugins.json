@@ -1,5 +1,4 @@
 [
-  "sliding-panes-obsidian",
   "obsidian-mind-map",
   "find-unlinked-files",
   "table-editor-obsidian",
@@ -13,5 +12,6 @@
   "tag-page-preview",
   "obsidian-outliner",
   "obsidian-checklist-plugin",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "sliding-panes-obsidian"
 ]

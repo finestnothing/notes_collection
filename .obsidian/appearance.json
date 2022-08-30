@@ -1,5 +1,7 @@
 {
   "baseFontSize": 18,
-  "translucency": true,
-  "cssTheme": "Things"
+  "translucency": false,
+  "cssTheme": "80s Neon",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Liberation Mono"
 }

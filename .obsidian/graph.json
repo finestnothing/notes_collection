@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
-  "search": "",
-  "showTags": true,
+  "collapse-filter": false,
+  "search": "path:Zettelkasten",
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Zettelkasten/Fleeting_notes",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Zettelkasten/Literature_Notes",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Zettelkasten/Permanent_Notes",
+      "color": {
+        "a": 1,
+        "rgb": 6684927
+      }
+    },
+    {
+      "query": "path:Zettelkasten/Content_maps",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.03972602739726,
   "collapse-forces": false,
-  "centerStrength": 0.443820224719101,
-  "repelStrength": 20,
-  "linkStrength": 0.960674157303371,
-  "linkDistance": 323,
-  "scale": 0.19450022690617094,
-  "close": false
+  "centerStrength": 0.557142857142857,
+  "repelStrength": 16.9714285714286,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.6542239853676307,
+  "close": true
 }

@@ -4,14 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d9f9ab3064d697af",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Attachments/call_of_cthulu/Character Sheets/Nevada Jones - Character Sheet.pdf"
+        "id": "01d5354919f0582d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "310f720554822eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/mcu_watch_order.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -23,7 +32,7 @@
       {
         "id": "f169828df0192753",
         "type": "tabs",
-        "dimension": 66.03585657370517,
+        "dimension": 70.73643410852713,
         "children": [
           {
             "id": "cd65a8532dd028d6",
@@ -39,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#work/todo",
+                "query": "tag:#charachorder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +81,7 @@
       {
         "id": "cf3716fa6ef66749",
         "type": "tabs",
-        "dimension": 33.96414342629482,
+        "dimension": 29.26356589147287,
         "children": [
           {
             "id": "a924f77a45c6cb03",
@@ -90,11 +99,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -118,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/call_of_cthulu/Character Sheets/Nevada Jones - Character Sheet.pdf",
+                "file": "Media/mcu_watch_order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/call_of_cthulu/Character Sheets/Nevada Jones - Character Sheet.pdf",
+                "file": "Media/mcu_watch_order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/call_of_cthulu/Character Sheets/Nevada Jones - Character Sheet.pdf"
+                "file": "Media/mcu_watch_order.md"
               }
             }
           },
@@ -166,17 +177,17 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "d9f9ab3064d697af",
+  "active": "310f720554822eeb",
   "lastOpenFiles": [
-    "Attachments/call_of_cthulu/Character Sheets/Lois Russo - Character Sheet.pdf",
-    "Attachments/call_of_cthulu/Character Sheets/CoC Character Sheet 2021 Print.pdf",
-    "Attachments/call_of_cthulu/Character Sheets/Nevada Jones - Character Sheet.pdf",
-    "Attachments/call_of_cthulu/Auto-Calc Character Sheets/Lois Russo - Editable Character Sheet.pdf",
+    "Projects/evergreen.md",
+    "Projects/Ideas/clothes_manager.md",
+    "Projects/Ideas/kubernetes_server.md",
+    "Projects/Ideas/learning_steno.md",
+    "Projects/charachorder.md",
+    "Projects/portfolio_website.md",
+    "README.md",
     "Zettelkasten/seedlings/202208301018.md",
-    "Zettelkasten/seedlings/202208301002.md",
-    "Zettelkasten/seedlings/202208300931.md",
-    "Zettelkasten/seedlings/202208151627.md",
-    "Zettelkasten/seedlings/202208151641.md",
-    "Templates/zettelkasten_note.md"
+    "Media/mcu_watch_order.md",
+    "Food/Restaurants/khon_thai.md"
   ]
 }

@@ -45,5 +45,10 @@
   "trashOption": "local",
   "strictLineBreaks": false,
   "fileSortOrder": "byModifiedTime",
-  "promptDelete": false
+  "promptDelete": false,
+  "accentColor": "",
+  "communityThemeSortOrder": "download",
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "communityPluginSortOrder": "download"
 }

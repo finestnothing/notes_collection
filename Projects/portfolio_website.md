@@ -1,5 +1,5 @@
 # Portfolio Website
-## Status: #project/active 
+## Status: #project/inactive
 ## Description
 Building a portfolio on github pages for sharing with recruiters, etc.
 Include academic and professional information, code examples

@@ -1,12 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "mcu_watch_order",
-      "path": "Media/mcu_watch_order.md"
+      "basename": "20220831",
+      "path": "Daily_Notes/20220831.md"
+    },
+    {
+      "basename": "starting_a_blog",
+      "path": "Zettelkasten/sprouts/starting_a_blog.md"
+    },
+    {
+      "basename": "data_storage_systems",
+      "path": "Zettelkasten/sprouts/data_storage_systems.md"
+    },
+    {
+      "basename": "202208311348",
+      "path": "Zettelkasten/seedlings/202208311348.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "extract_template",
+      "path": "Templates/extract_template.md"
+    },
+    {
+      "basename": "blog_topic_ideas",
+      "path": "Ideas/blog_topic_ideas.md"
+    },
+    {
+      "basename": "Danny Bradford",
+      "path": "Misc/People/Danny Bradford.md"
+    },
+    {
+      "basename": "alfredo_sauce",
+      "path": "Food/alfredo_sauce.md"
+    },
+    {
+      "basename": "homemade_pasta",
+      "path": "Food/homemade_pasta.md"
+    },
+    {
+      "basename": "sourdough_dough_pizza_crust",
+      "path": "Food/sourdough_dough_pizza_crust.md"
     },
     {
       "basename": "evergreen",
-      "path": "Projects/evergreen.md"
+      "path": "Projects/archive/evergreen.md"
+    },
+    {
+      "basename": "20220824",
+      "path": "Daily_Notes/20220824.md"
+    },
+    {
+      "basename": "algorithms_to_live_by",
+      "path": "Zettelkasten/gardens/algorithms_to_live_by.md"
+    },
+    {
+      "basename": "20220822",
+      "path": "Daily_Notes/20220822.md"
+    },
+    {
+      "basename": "zettelkasten",
+      "path": "Zettelkasten/gardens/zettelkasten.md"
+    },
+    {
+      "basename": "bootstrapping_a_startup",
+      "path": "Zettelkasten/gardens/bootstrapping_a_startup.md"
+    },
+    {
+      "basename": "fun_facts",
+      "path": "Zettelkasten/gardens/fun_facts.md"
+    },
+    {
+      "basename": "mars_scheduling_issue",
+      "path": "Zettelkasten/mature/mapped/mars_scheduling_issue.md"
+    },
+    {
+      "basename": "what_was_the_mars_rover_scheduling_bug",
+      "path": "Zettelkasten/mature/mapped/what_was_the_mars_rover_scheduling_bug.md"
+    },
+    {
+      "basename": "cause_of_mars_rover_scheduling_bug",
+      "path": "Zettelkasten/mature/mapped/cause_of_mars_rover_scheduling_bug.md"
+    },
+    {
+      "basename": "how_mars_rover_scheduling_bug_was_fixed",
+      "path": "Zettelkasten/mature/mapped/how_mars_rover_scheduling_bug_was_fixed.md"
+    },
+    {
+      "basename": "202206230755",
+      "path": "Zettelkasten/seedlings/archive/202206230755.md"
+    },
+    {
+      "basename": "202206230812",
+      "path": "Zettelkasten/seedlings/archive/202206230812.md"
+    },
+    {
+      "basename": "202206071704",
+      "path": "Zettelkasten/seedlings/archive/202206071704.md"
+    },
+    {
+      "basename": "202208151627",
+      "path": "Zettelkasten/seedlings/archive/202208151627.md"
+    },
+    {
+      "basename": "202208151619",
+      "path": "Zettelkasten/seedlings/archive/202208151619.md"
+    },
+    {
+      "basename": "202208301002",
+      "path": "Zettelkasten/seedlings/archive/202208301002.md"
+    },
+    {
+      "basename": "202208300931",
+      "path": "Zettelkasten/seedlings/archive/202208300931.md"
+    },
+    {
+      "basename": "to_read",
+      "path": "Zettelkasten/to_read.md"
+    },
+    {
+      "basename": "mcu_watch_order",
+      "path": "Media/mcu_watch_order.md"
     },
     {
       "basename": "clothes_manager",
@@ -29,84 +145,12 @@
       "path": "Projects/portfolio_website.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "202208301018",
-      "path": "Zettelkasten/seedlings/202208301018.md"
-    },
-    {
-      "basename": "khon_thai",
-      "path": "Food/Restaurants/khon_thai.md"
-    },
-    {
-      "basename": "good_eats_the_final_years",
-      "path": "Food/good_eats_the_final_years.md"
-    },
-    {
-      "basename": "Food_ideas",
-      "path": "Food/Food_ideas.md"
-    },
-    {
-      "basename": "breakfast_recipes",
-      "path": "Food/breakfast_recipes.md"
-    },
-    {
-      "basename": "sourdough_dough_pizza_crust",
-      "path": "Food/Recipes/sourdough_dough_pizza_crust.md"
-    },
-    {
-      "basename": "alfredo_sauce",
-      "path": "Food/Recipes/alfredo_sauce.md"
-    },
-    {
-      "basename": "chicken_fettucini_alfredo",
-      "path": "Food/Recipes/chicken_fettucini_alfredo.md"
-    },
-    {
-      "basename": "blog_topic_ideas",
-      "path": "Ideas/blog_topic_ideas.md"
-    },
-    {
       "basename": "tattoos",
       "path": "Ideas/tattoos.md"
     },
     {
-      "basename": "202208301002",
-      "path": "Zettelkasten/seedlings/202208301002.md"
-    },
-    {
-      "basename": "202208300931",
-      "path": "Zettelkasten/seedlings/202208300931.md"
-    },
-    {
-      "basename": "202208151627",
-      "path": "Zettelkasten/seedlings/202208151627.md"
-    },
-    {
-      "basename": "202208151641",
-      "path": "Zettelkasten/seedlings/202208151641.md"
-    },
-    {
       "basename": "zettelkasten_note",
       "path": "Templates/zettelkasten_note.md"
-    },
-    {
-      "basename": "202206230755",
-      "path": "Zettelkasten/seedlings/202206230755.md"
-    },
-    {
-      "basename": "202206230812",
-      "path": "Zettelkasten/seedlings/202206230812.md"
-    },
-    {
-      "basename": "202208151619",
-      "path": "Zettelkasten/seedlings/202208151619.md"
-    },
-    {
-      "basename": "20220824",
-      "path": "Daily_Notes/20220824.md"
     },
     {
       "basename": "movies",
@@ -115,10 +159,6 @@
     {
       "basename": "20220823",
       "path": "Daily_Notes/20220823.md"
-    },
-    {
-      "basename": "20220822",
-      "path": "Daily_Notes/20220822.md"
     },
     {
       "basename": "20220818",
@@ -147,58 +187,6 @@
     {
       "basename": "TBR_old",
       "path": "Media/Books/TBR_old.md"
-    },
-    {
-      "basename": "green",
-      "path": "Misc/adventure_jar/green.md"
-    },
-    {
-      "basename": "blue",
-      "path": "Misc/adventure_jar/blue.md"
-    },
-    {
-      "basename": "yellow",
-      "path": "Misc/adventure_jar/yellow.md"
-    },
-    {
-      "basename": "red",
-      "path": "Misc/adventure_jar/red.md"
-    },
-    {
-      "basename": "20220812",
-      "path": "Daily_Notes/20220812.md"
-    },
-    {
-      "basename": "2001_a_space_odyssey",
-      "path": "Media/Books/in-progress/2001_a_space_odyssey.md"
-    },
-    {
-      "basename": "a_long_way_to_a_small_angry_planet",
-      "path": "Media/Books/read/a_long_way_to_a_small_angry_planet.md"
-    },
-    {
-      "basename": "TBR",
-      "path": "Media/Books/TBR.md"
-    },
-    {
-      "basename": "stephen_hawking_books",
-      "path": "Media/Books/stephen_hawking_books.md"
-    },
-    {
-      "basename": "foundation_series",
-      "path": "Media/Books/foundation_series.md"
-    },
-    {
-      "basename": "dune_series",
-      "path": "Media/Books/dune_series.md"
-    },
-    {
-      "basename": "the_starless_crown",
-      "path": "Media/Books/read/the_starless_crown.md"
-    },
-    {
-      "basename": "the_city_of_brass",
-      "path": "Media/Books/read/the_city_of_brass.md"
     }
   ],
   "omittedPaths": [],

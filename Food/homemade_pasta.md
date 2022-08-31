@@ -9,4 +9,4 @@ Rating: 10/10
 - Roll out with pasta maker until desired thickness (~2-3 steps from thinnest), flouring on occasion
 - Cook in boiling water 2-4 minutes
 
-[[pasta]]
+#recipe/pasta

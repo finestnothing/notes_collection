@@ -1,5 +1,6 @@
 # First Read of Research Paper
 Created: 2022-06-09 08:26
+#zettel/mature
 
 - First Pass: High-level overview
 - 5-10 minutes total

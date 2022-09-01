@@ -1,5 +1,6 @@
 # What is the 37 Percent Rule
 Created: 2022-06-16 08:49
+#zettel/mature
 
 - In this rule, you should spend 37% of your time or options just exploring, then pick the next best option
 - It is derived from the value of 1/e

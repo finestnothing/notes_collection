@@ -1,5 +1,7 @@
-# cause_of_mars_rover_scheduling_bug
+# cause of mars rover scheduling bug
 Created: 2022-06-23 08:46
+#zettel/mature 
+
 - The issue was a single low-priority process that used the database
 - The scheduling algorithm would interrupt the low-priority process in order to work on other higher-priority tasks, but the database was still tied up by the process since it still had to eventually run
 - The high priority process (writing data to the database) was unable to be completed because the database was still tied up from the low-priority process

@@ -1,88 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "charachorder",
-      "path": "Projects/charachorder.md"
-    },
-    {
       "basename": "20220901",
       "path": "Daily_Notes/20220901.md"
     },
     {
-      "basename": "zettelkasten_note",
-      "path": "Templates/zettelkasten_note.md"
+      "basename": "obsidian_publish",
+      "path": "Projects/obsidian_publish.md"
     },
     {
-      "basename": "starting_a_blog",
-      "path": "Zettelkasten/sprouts/starting_a_blog.md"
+      "basename": "how_zettelkasten_grows",
+      "path": "Zettelkasten/mature/mapped/how_zettelkasten_grows.md"
     },
     {
-      "basename": "data_storage_systems",
-      "path": "Zettelkasten/sprouts/data_storage_systems.md"
-    },
-    {
-      "basename": "202208311348",
-      "path": "Zettelkasten/seedlings/202208311348.md"
-    },
-    {
-      "basename": "20220831",
-      "path": "Daily_Notes/20220831.md"
-    },
-    {
-      "basename": "Danny Bradford",
-      "path": "Misc/People/Danny Bradford.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "extract_template",
-      "path": "Templates/extract_template.md"
-    },
-    {
-      "basename": "blog_topic_ideas",
-      "path": "Ideas/blog_topic_ideas.md"
-    },
-    {
-      "basename": "alfredo_sauce",
-      "path": "Food/alfredo_sauce.md"
-    },
-    {
-      "basename": "homemade_pasta",
-      "path": "Food/homemade_pasta.md"
-    },
-    {
-      "basename": "sourdough_dough_pizza_crust",
-      "path": "Food/sourdough_dough_pizza_crust.md"
-    },
-    {
-      "basename": "evergreen",
-      "path": "Projects/archive/evergreen.md"
-    },
-    {
-      "basename": "20220824",
-      "path": "Daily_Notes/20220824.md"
-    },
-    {
-      "basename": "algorithms_to_live_by",
-      "path": "Zettelkasten/gardens/algorithms_to_live_by.md"
-    },
-    {
-      "basename": "20220822",
-      "path": "Daily_Notes/20220822.md"
+      "basename": "using_zettelkasten",
+      "path": "Zettelkasten/mature/mapped/using_zettelkasten.md"
     },
     {
       "basename": "zettelkasten",
       "path": "Zettelkasten/gardens/zettelkasten.md"
     },
     {
-      "basename": "bootstrapping_a_startup",
-      "path": "Zettelkasten/gardens/bootstrapping_a_startup.md"
+      "basename": "benefits_of_37_percent_rule",
+      "path": "Zettelkasten/mature/mapped/benefits_of_37_percent_rule.md"
     },
     {
-      "basename": "fun_facts",
-      "path": "Zettelkasten/gardens/fun_facts.md"
+      "basename": "how_to_apply_37_percent_rule",
+      "path": "Zettelkasten/mature/mapped/how_to_apply_37_percent_rule.md"
+    },
+    {
+      "basename": "what_is_the_threshold_rule",
+      "path": "Zettelkasten/mature/mapped/what_is_the_threshold_rule.md"
+    },
+    {
+      "basename": "what_is_the_37_percent_rule",
+      "path": "Zettelkasten/mature/mapped/what_is_the_37_percent_rule.md"
+    },
+    {
+      "basename": "how_mars_rover_scheduling_bug_was_fixed",
+      "path": "Zettelkasten/mature/mapped/how_mars_rover_scheduling_bug_was_fixed.md"
+    },
+    {
+      "basename": "cause_of_mars_rover_scheduling_bug",
+      "path": "Zettelkasten/mature/mapped/cause_of_mars_rover_scheduling_bug.md"
     },
     {
       "basename": "mars_scheduling_issue",
@@ -93,104 +53,152 @@
       "path": "Zettelkasten/mature/mapped/what_was_the_mars_rover_scheduling_bug.md"
     },
     {
-      "basename": "cause_of_mars_rover_scheduling_bug",
-      "path": "Zettelkasten/mature/mapped/cause_of_mars_rover_scheduling_bug.md"
+      "basename": "what_is_task_grouping",
+      "path": "Zettelkasten/mature/mapped/what_is_task_grouping.md"
     },
     {
-      "basename": "how_mars_rover_scheduling_bug_was_fixed",
-      "path": "Zettelkasten/mature/mapped/how_mars_rover_scheduling_bug_was_fixed.md"
+      "basename": "examples_of_task_grouping",
+      "path": "Zettelkasten/mature/mapped/examples_of_task_grouping.md"
     },
     {
-      "basename": "202206230755",
-      "path": "Zettelkasten/seedlings/archive/202206230755.md"
+      "basename": "benefits_of_task_grouping",
+      "path": "Zettelkasten/mature/mapped/benefits_of_task_grouping.md"
     },
     {
-      "basename": "202206230812",
-      "path": "Zettelkasten/seedlings/archive/202206230812.md"
+      "basename": "sum_of_completion_time_minimization",
+      "path": "Zettelkasten/mature/mapped/sum_of_completion_time_minimization.md"
     },
     {
-      "basename": "202206071704",
-      "path": "Zettelkasten/seedlings/archive/202206071704.md"
+      "basename": "where_did_2_machine_scheduling_come_from",
+      "path": "Zettelkasten/mature/mapped/where_did_2_machine_scheduling_come_from.md"
     },
     {
-      "basename": "202208151627",
-      "path": "Zettelkasten/seedlings/archive/202208151627.md"
+      "basename": "what_is_the_2_machine_scheduling_process",
+      "path": "Zettelkasten/mature/mapped/what_is_the_2_machine_scheduling_process.md"
     },
     {
-      "basename": "202208151619",
-      "path": "Zettelkasten/seedlings/archive/202208151619.md"
+      "basename": "benefits_of_2_machine_scheduling_process",
+      "path": "Zettelkasten/mature/mapped/benefits_of_2_machine_scheduling_process.md"
     },
     {
-      "basename": "202208301002",
-      "path": "Zettelkasten/seedlings/archive/202208301002.md"
+      "basename": "stop_doing_list_benefits",
+      "path": "Zettelkasten/mature/mapped/stop_doing_list_benefits.md"
     },
     {
-      "basename": "202208300931",
-      "path": "Zettelkasten/seedlings/archive/202208300931.md"
+      "basename": "what_is_a_stop_doing_list",
+      "path": "Zettelkasten/mature/mapped/what_is_a_stop_doing_list.md"
     },
     {
-      "basename": "to_read",
-      "path": "Zettelkasten/to_read.md"
+      "basename": "benefits_of_bootstrapping",
+      "path": "Zettelkasten/mature/mapped/benefits_of_bootstrapping.md"
     },
     {
-      "basename": "mcu_watch_order",
-      "path": "Media/mcu_watch_order.md"
+      "basename": "benefits_of_gittins_index",
+      "path": "Zettelkasten/mature/mapped/benefits_of_gittins_index.md"
     },
     {
-      "basename": "clothes_manager",
-      "path": "Projects/Ideas/clothes_manager.md"
+      "basename": "examples_of_explore_exploit_problems",
+      "path": "Zettelkasten/mature/mapped/examples_of_explore_exploit_problems.md"
     },
     {
-      "basename": "kubernetes_server",
-      "path": "Projects/Ideas/kubernetes_server.md"
+      "basename": "explore_exploit_interval",
+      "path": "Zettelkasten/mature/mapped/explore_exploit_interval.md"
     },
     {
-      "basename": "learning_steno",
-      "path": "Projects/Ideas/learning_steno.md"
+      "basename": "fast_efficient_organization",
+      "path": "Zettelkasten/mature/mapped/fast_efficient_organization.md"
     },
     {
-      "basename": "portfolio_website",
-      "path": "Projects/portfolio_website.md"
+      "basename": "first_read_of_research_paper",
+      "path": "Zettelkasten/mature/mapped/first_read_of_research_paper.md"
     },
     {
-      "basename": "tattoos",
-      "path": "Ideas/tattoos.md"
+      "basename": "gittins_index",
+      "path": "Zettelkasten/mature/mapped/gittins_index.md"
     },
     {
-      "basename": "movies",
-      "path": "Media/movies.md"
+      "basename": "how_to_decide_explore_or_exploit",
+      "path": "Zettelkasten/mature/mapped/how_to_decide_explore_or_exploit.md"
     },
     {
-      "basename": "20220823",
-      "path": "Daily_Notes/20220823.md"
+      "basename": "gittins_index_table",
+      "path": "Zettelkasten/mature/mapped/gittins_index_table.md"
     },
     {
-      "basename": "20220818",
-      "path": "Daily_Notes/20220818.md"
+      "basename": "goals_for_bootstrapping",
+      "path": "Zettelkasten/mature/mapped/goals_for_bootstrapping.md"
     },
     {
-      "basename": "20220817",
-      "path": "Daily_Notes/20220817.md"
+      "basename": "second_read_of_research_paper",
+      "path": "Zettelkasten/mature/mapped/second_read_of_research_paper.md"
     },
     {
-      "basename": "20220816",
-      "path": "Daily_Notes/20220816.md"
+      "basename": "skills_required_for_bootstrapping",
+      "path": "Zettelkasten/mature/mapped/skills_required_for_bootstrapping.md"
     },
     {
-      "basename": "daily_note_template",
-      "path": "Templates/daily_note_template.md"
+      "basename": "third_read_of_research_paper",
+      "path": "Zettelkasten/mature/mapped/third_read_of_research_paper.md"
     },
     {
-      "basename": "20220815",
-      "path": "Daily_Notes/20220815.md"
+      "basename": "what_is_an_explore_exploit_problem",
+      "path": "Zettelkasten/mature/mapped/what_is_an_explore_exploit_problem.md"
     },
     {
-      "basename": "20220814",
-      "path": "Daily_Notes/20220814.md"
+      "basename": "what_is_bootstrapping",
+      "path": "Zettelkasten/mature/mapped/what_is_bootstrapping.md"
     },
     {
-      "basename": "TBR_old",
-      "path": "Media/Books/TBR_old.md"
+      "basename": "what_is_the_three_pass_process",
+      "path": "Zettelkasten/mature/mapped/what_is_the_three_pass_process.md"
+    },
+    {
+      "basename": "why_categories_are_bad",
+      "path": "Zettelkasten/mature/mapped/why_categories_are_bad.md"
+    },
+    {
+      "basename": "writing_reasearch_papers",
+      "path": "Zettelkasten/mature/mapped/writing_reasearch_papers.md"
+    },
+    {
+      "basename": "algorithms_to_live_by_ch1",
+      "path": "Zettelkasten/sprouts/archive/algorithms_to_live_by_ch1.md"
+    },
+    {
+      "basename": "algorithms_to_live_by",
+      "path": "Zettelkasten/gardens/algorithms_to_live_by.md"
+    },
+    {
+      "basename": "Cave_of_Doom",
+      "path": "Games/homebrew/Cave_of_Doom.md"
+    },
+    {
+      "basename": "algorithms_to_live_by_ch2",
+      "path": "Zettelkasten/sprouts/archive/algorithms_to_live_by_ch2.md"
+    },
+    {
+      "basename": "fun_facts",
+      "path": "Zettelkasten/gardens/fun_facts.md"
+    },
+    {
+      "basename": "Cursed_book",
+      "path": "Games/homebrew/Cursed_book.md"
+    },
+    {
+      "basename": "Staff_of_horse",
+      "path": "Games/homebrew/Staff_of_horse.md"
+    },
+    {
+      "basename": "Danny Bradford",
+      "path": "Misc/People/Danny Bradford.md"
+    },
+    {
+      "basename": "charachorder",
+      "path": "Projects/charachorder.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],

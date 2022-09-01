@@ -6,3 +6,5 @@
 - The first human to be eaten alive by (worm boss?)
 - Some say he's still being digested to this day
 	- Have the worm boss cough up the skeleton
+
+#dnd/homebrew/location

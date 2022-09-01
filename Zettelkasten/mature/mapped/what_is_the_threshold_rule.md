@@ -1,5 +1,6 @@
 #  What is the Threshold Rule
 Created: 2022-06-16 09:03
+#zettel/mature
 
 - Using the table below, immediately hire someone/pick an option (even in exploratory phase) if they exceed the percentile threshold. As you get to fewer and fewer options, the threshold decreases because you are less and less likely to get someone that exceeds it.
 	- Remaining: 25, pick from 98th percentile
@@ -10,6 +11,4 @@ Created: 2022-06-16 09:03
 	- Remaining 2: Pick from 50th percentile
 
 ## References
-
-## Source(s)
-1. [[algorithms_to_live_by_ch1]]
+1. [[how_to_apply_37_percent_rule]]

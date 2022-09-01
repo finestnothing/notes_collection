@@ -1,5 +1,6 @@
 # why_categories_are_bad
 Created: 2022-06-09 08:15
+#zettel/mature
 
 - If you make categories for your notes, it ultimately slows you down. 
 - You have to know where to drop information, and if you are researching a topic that goes across multiple categories you will either have way too much information, or miss information that is related, but in a different category.

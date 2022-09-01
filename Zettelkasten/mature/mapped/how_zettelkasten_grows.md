@@ -1,5 +1,6 @@
 # how_zettelkasten_grows
 Created: 2022-06-09 08:14
+#zettel/mature
 
 To work on Zettelkasten, there will be a lot of growing pains at first - just like a newborn learning, or learning a new language. This is fine, because it grows and morphs according to you, if you let it.
 

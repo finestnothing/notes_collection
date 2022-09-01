@@ -1,5 +1,6 @@
 # sum_of_completion_time_minimization
 Created: 2022-06-23 08:39
+#zettel/mature
 
 - If all tasks are weighted the same/equal, you should do shorter tasks first
 	- Tasks being weighted the same means same due date, no pressing concerns on any of them, etc

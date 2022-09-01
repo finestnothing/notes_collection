@@ -1,5 +1,6 @@
 # What is the 2 machine scheduling process
 Created: 2022-06-23 08:24
+#zettel/mature
 
 - This sorting process is applied when you have 2 "machine" or processes to achieve for each item.
 - Example include laundry (washing then drying), book making (binding and sealing), etc

@@ -1,5 +1,6 @@
 # Benefits of Bootstrapping
 Created: 2022-06-07 17:36
+#zettel/mature
 
 1. No/less pressure to do things fast since you work at your own pace
 2. Can break the project down into smaller parts to get them done

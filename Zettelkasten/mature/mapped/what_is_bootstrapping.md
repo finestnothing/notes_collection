@@ -1,5 +1,6 @@
 # What is Bootstrapping
 Created: 2022-06-07 17:35
+#zettel/mature 
 
 Bootstrapping is where you create a startup business without taking external funding.
 It can (and often does) mean slower growth of the business, but does not have outside influence.

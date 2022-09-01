@@ -1,5 +1,6 @@
 # Skills Required for Bootstrapping
 Created: 2022-06-07 17:43
+#zettel/mature
 
 Some of the major skills needed for bootstrapping:
 

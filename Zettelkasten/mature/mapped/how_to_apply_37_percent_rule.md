@@ -1,5 +1,6 @@
 # how_to_apply_37_percent_rule
 Created: 2022-06-16 08:56
+#zettel/mature
 
 - The 37% rule can be applied to a wide range of scenarios, but it is particular to a specific kind
 - It is best for problems where you have to immediately accept an option, or have it be lost
@@ -10,6 +11,7 @@ Created: 2022-06-16 08:56
 
 ## References
 1. [[what_is_the_threshold_rule]]
+2. [[what_is_the_37_percent_rule]]
 
 ## Source(s)
 1. [[algorithms_to_live_by_ch1]]

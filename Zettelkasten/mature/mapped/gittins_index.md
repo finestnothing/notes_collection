@@ -1,5 +1,6 @@
 # gittins_index
 Created: 2022-06-16 09:41
+#zettel/mature
 
 - Gittins Index is used to tell the probability of a payoff or win
 - It ranks choices based on past performance, both wins and losses (or good experiences and bad, etc) on a table

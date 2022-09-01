@@ -47,5 +47,6 @@
   "fileSortOrder": "byModifiedTime",
   "promptDelete": false,
   "communityThemeSortOrder": "download",
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "showInlineTitle": true
 }

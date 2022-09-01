@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "20220831",
-      "path": "Daily_Notes/20220831.md"
+      "basename": "charachorder",
+      "path": "Projects/charachorder.md"
+    },
+    {
+      "basename": "20220901",
+      "path": "Daily_Notes/20220901.md"
+    },
+    {
+      "basename": "zettelkasten_note",
+      "path": "Templates/zettelkasten_note.md"
     },
     {
       "basename": "starting_a_blog",
@@ -17,6 +25,14 @@
       "path": "Zettelkasten/seedlings/202208311348.md"
     },
     {
+      "basename": "20220831",
+      "path": "Daily_Notes/20220831.md"
+    },
+    {
+      "basename": "Danny Bradford",
+      "path": "Misc/People/Danny Bradford.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "blog_topic_ideas",
       "path": "Ideas/blog_topic_ideas.md"
-    },
-    {
-      "basename": "Danny Bradford",
-      "path": "Misc/People/Danny Bradford.md"
     },
     {
       "basename": "alfredo_sauce",
@@ -137,20 +149,12 @@
       "path": "Projects/Ideas/learning_steno.md"
     },
     {
-      "basename": "charachorder",
-      "path": "Projects/charachorder.md"
-    },
-    {
       "basename": "portfolio_website",
       "path": "Projects/portfolio_website.md"
     },
     {
       "basename": "tattoos",
       "path": "Ideas/tattoos.md"
-    },
-    {
-      "basename": "zettelkasten_note",
-      "path": "Templates/zettelkasten_note.md"
     },
     {
       "basename": "movies",

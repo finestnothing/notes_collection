@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "425ade663a21a144",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "0.16.1"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +188,7 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "4f8aaad0e537f427",
+  "active": "425ade663a21a144",
   "lastOpenFiles": [
     "Zettelkasten/sprouts/starting_a_blog.md",
     "Zettelkasten/sprouts/data_storage_systems.md",

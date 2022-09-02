@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "20220902",
+      "path": "Daily_Notes/20220902.md"
+    },
+    {
       "basename": "mcu_watch_order",
       "path": "Media/mcu_watch_order.md"
     },
     {
       "basename": "call_of_cthulu",
       "path": "Games/call_of_cthulu.md"
-    },
-    {
-      "basename": "20220901",
-      "path": "Daily_Notes/20220901.md"
     },
     {
       "basename": "obsidian_publish",
@@ -195,10 +195,6 @@
     {
       "basename": "Staff_of_horse",
       "path": "Games/homebrew/Staff_of_horse.md"
-    },
-    {
-      "basename": "Danny Bradford",
-      "path": "Misc/People/Danny Bradford.md"
     }
   ],
   "omittedPaths": [],

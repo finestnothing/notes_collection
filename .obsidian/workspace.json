@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1352a4311c5edbe6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "0.16.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +189,7 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "667ead481f410334",
+  "active": "1352a4311c5edbe6",
   "lastOpenFiles": [
     "Daily_Notes/20220901.md",
     "Daily_Notes/20220902.md",

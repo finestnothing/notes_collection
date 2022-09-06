@@ -1,15 +1,9 @@
 [
-  "find-unlinked-files",
-  "table-editor-obsidian",
-  "dataview",
-  "tag-wrangler",
-  "obsidian-dictionary-plugin",
   "obsidian-admonition",
+  "table-editor-obsidian",
   "calendar",
-  "recent-files-obsidian",
-  "obsidian-git",
-  "tag-page-preview",
-  "obsidian-outliner",
   "obsidian-checklist-plugin",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "obsidian-outliner",
+  "tag-page-preview"
 ]

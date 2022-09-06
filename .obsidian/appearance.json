@@ -1,10 +1,10 @@
 {
+  "accentColor": "",
   "baseFontSize": 16,
   "translucency": false,
   "cssTheme": "80s Neon",
   "theme": "obsidian",
   "interfaceFontFamily": "Liberation Mono",
-  "accentColor": "",
   "showViewHeader": false,
   "nativeMenus": false
 }

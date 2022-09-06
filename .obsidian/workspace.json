@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/20220902.md",
+                "file": "Daily_Notes/20220906.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "1352a4311c5edbe6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "0.16.2"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/20220902.md",
+                "file": "Daily_Notes/20220906.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/20220902.md",
+                "file": "Daily_Notes/20220906.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/20220902.md"
+                "file": "Daily_Notes/20220906.md"
               }
             }
           },
@@ -189,10 +177,10 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "1352a4311c5edbe6",
+  "active": "667ead481f410334",
   "lastOpenFiles": [
-    "Daily_Notes/20220901.md",
     "Daily_Notes/20220902.md",
+    "Daily_Notes/20220901.md",
     "Media/mcu_watch_order.md",
     "Games/call_of_cthulu.md",
     "Projects/obsidian_publish.md",

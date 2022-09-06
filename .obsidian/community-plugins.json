@@ -1,9 +1,12 @@
 [
   "obsidian-admonition",
   "table-editor-obsidian",
-  "calendar",
   "obsidian-checklist-plugin",
   "nldates-obsidian",
   "obsidian-outliner",
-  "tag-page-preview"
+  "tag-page-preview",
+  "dataview",
+  "obsidian-dictionary-plugin",
+  "recent-files-obsidian",
+  "tag-wrangler"
 ]

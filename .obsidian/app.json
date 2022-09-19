@@ -1,5 +1,4 @@
 {
-  "communityThemeSortOrder": "download",
   "legacyEditor": false,
   "livePreview": true,
   "foldHeading": true,
@@ -46,7 +45,6 @@
   "trashOption": "local",
   "strictLineBreaks": false,
   "fileSortOrder": "byModifiedTime",
-  "promptDelete": false,
   "communityPluginSortOrder": "download",
-  "showInlineTitle": true
+  "communityThemeSortOrder": "download"
 }

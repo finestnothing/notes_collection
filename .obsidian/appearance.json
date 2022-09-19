@@ -1,10 +1,6 @@
 {
-  "accentColor": "",
-  "baseFontSize": 16,
-  "translucency": false,
+  "baseFontSize": 18,
+  "translucency": true,
   "cssTheme": "80s Neon",
-  "theme": "obsidian",
-  "interfaceFontFamily": "Liberation Mono",
-  "showViewHeader": false,
-  "nativeMenus": false
+  "accentColor": ""
 }

@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "mcu_watch_order",
+      "path": "Media/mcu_watch_order.md"
+    },
+    {
+      "basename": "tattoos",
+      "path": "Ideas/tattoos.md"
+    },
+    {
+      "basename": "homemade_pasta",
+      "path": "Food/homemade_pasta.md"
+    },
+    {
+      "basename": "202209111250",
+      "path": "Zettelkasten/seedlings/202209111250.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "call_of_cthulu",
+      "path": "Games/call_of_cthulu.md"
+    },
+    {
+      "basename": "coc_small_sarcophagus",
+      "path": "Games/homebrew/coc_small_sarcophagus.md"
+    },
+    {
       "basename": "20220906",
       "path": "Daily_Notes/20220906.md"
     },
     {
       "basename": "20220902",
       "path": "Daily_Notes/20220902.md"
-    },
-    {
-      "basename": "mcu_watch_order",
-      "path": "Media/mcu_watch_order.md"
-    },
-    {
-      "basename": "call_of_cthulu",
-      "path": "Games/call_of_cthulu.md"
     },
     {
       "basename": "obsidian_publish",
@@ -179,26 +199,6 @@
     {
       "basename": "algorithms_to_live_by",
       "path": "Zettelkasten/gardens/algorithms_to_live_by.md"
-    },
-    {
-      "basename": "Cave_of_Doom",
-      "path": "Games/homebrew/Cave_of_Doom.md"
-    },
-    {
-      "basename": "algorithms_to_live_by_ch2",
-      "path": "Zettelkasten/sprouts/archive/algorithms_to_live_by_ch2.md"
-    },
-    {
-      "basename": "fun_facts",
-      "path": "Zettelkasten/gardens/fun_facts.md"
-    },
-    {
-      "basename": "Cursed_book",
-      "path": "Games/homebrew/Cursed_book.md"
-    },
-    {
-      "basename": "Staff_of_horse",
-      "path": "Games/homebrew/Staff_of_horse.md"
     }
   ],
   "omittedPaths": [],

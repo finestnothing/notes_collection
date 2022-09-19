@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/20220906.md",
+                "file": "Media/mcu_watch_order.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/20220906.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/20220906.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily_Notes/20220906.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,17 +173,17 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "667ead481f410334",
+  "active": "eb15e6c8aafc322c",
   "lastOpenFiles": [
+    "Media/mcu_watch_order.md",
+    "Daily_Notes/20220909.md",
+    "Daily_Notes/20220907.md",
+    "Daily_Notes/20220906.md",
     "Daily_Notes/20220902.md",
     "Daily_Notes/20220901.md",
-    "Media/mcu_watch_order.md",
     "Games/call_of_cthulu.md",
     "Projects/obsidian_publish.md",
     "Zettelkasten/mature/mapped/how_zettelkasten_grows.md",
-    "Zettelkasten/mature/mapped/using_zettelkasten.md",
-    "Zettelkasten/gardens/zettelkasten.md",
-    "Zettelkasten/mature/mapped/benefits_of_37_percent_rule.md",
-    "Zettelkasten/mature/mapped/how_to_apply_37_percent_rule.md"
+    "Zettelkasten/mature/mapped/using_zettelkasten.md"
   ]
 }

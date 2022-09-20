@@ -31,7 +31,7 @@
 - [x] Daredevil season 2 episodes 5-11
 - [ ] Jessica Jones season 1
 - [x] Luke Cage season 1 episodes 5-8
-- [ ] Daredevil season 2 episodes 12-13
+- [x] Daredevil season 2 episodes 12-13
 - [ ] Luke Cage season 1 episodes 9-13
 - [ ] Ant-Man
 - [ ] Agents of SHIELD season 3 episodes 1-19

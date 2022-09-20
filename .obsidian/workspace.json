@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -128,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Media/mcu_watch_order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Media/mcu_watch_order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Media/mcu_watch_order.md"
+              }
             }
           },
           {
@@ -173,7 +178,7 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "eb15e6c8aafc322c",
+  "active": "cd65a8532dd028d6",
   "lastOpenFiles": [
     "Media/mcu_watch_order.md",
     "Daily_Notes/20220909.md",

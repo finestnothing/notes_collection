@@ -32,8 +32,8 @@
 - [ ] Jessica Jones season 1
 - [x] Luke Cage season 1 episodes 5-8
 - [x] Daredevil season 2 episodes 12-13
-- [ ] Luke Cage season 1 episodes 9-13
-- [ ] Ant-Man
+- [x] Luke Cage season 1 episodes 9-13
+- [x] Ant-Man
 - [ ] Agents of SHIELD season 3 episodes 1-19
 - [ ] Iron Fist season 1
 - [ ] Captain America: Civil War

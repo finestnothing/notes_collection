@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52a8d74b72abf09f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "0.16.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
             }
           },
           {
@@ -178,7 +191,7 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "cd65a8532dd028d6",
+  "active": "52a8d74b72abf09f",
   "lastOpenFiles": [
     "Media/mcu_watch_order.md",
     "Daily_Notes/20220909.md",

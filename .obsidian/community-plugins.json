@@ -10,5 +10,7 @@
   "recent-files-obsidian",
   "tag-wrangler",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "find-unlinked-files",
+  "obsidian-plugin-toc"
 ]

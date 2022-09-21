@@ -34,9 +34,9 @@
 - [x] Daredevil season 2 episodes 12-13
 - [x] Luke Cage season 1 episodes 9-13
 - [x] Ant-Man
-- [ ] Agents of SHIELD season 3 episodes 1-19
 - [ ] Iron Fist season 1
 - [ ] Captain America: Civil War
+- [ ] Agents of SHIELD season 3 episodes 1-19
 - [ ] Team Thor one shot
 - [ ] Team Thor: Part 2 one shot
 - [ ] Black Widow

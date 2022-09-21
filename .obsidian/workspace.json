@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52a8d74b72abf09f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "0.16.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +180,10 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "52a8d74b72abf09f",
+  "active": "667ead481f410334",
   "lastOpenFiles": [
+    "README.md",
+    "Games/homebrew/dnd_Cave_of_Doom.md",
     "Media/mcu_watch_order.md",
     "Daily_Notes/20220909.md",
     "Daily_Notes/20220907.md",
@@ -200,8 +191,6 @@
     "Daily_Notes/20220902.md",
     "Daily_Notes/20220901.md",
     "Games/call_of_cthulu.md",
-    "Projects/obsidian_publish.md",
-    "Zettelkasten/mature/mapped/how_zettelkasten_grows.md",
-    "Zettelkasten/mature/mapped/using_zettelkasten.md"
+    "Projects/obsidian_publish.md"
   ]
 }

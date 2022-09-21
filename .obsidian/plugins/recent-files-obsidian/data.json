@@ -5,6 +5,14 @@
       "path": "Media/mcu_watch_order.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "dnd_Cave_of_Doom",
+      "path": "Games/homebrew/dnd_Cave_of_Doom.md"
+    },
+    {
       "basename": "tattoos",
       "path": "Ideas/tattoos.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "202209111250",
       "path": "Zettelkasten/seedlings/202209111250.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "call_of_cthulu",
@@ -195,10 +199,6 @@
     {
       "basename": "algorithms_to_live_by_ch1",
       "path": "Zettelkasten/sprouts/archive/algorithms_to_live_by_ch1.md"
-    },
-    {
-      "basename": "algorithms_to_live_by",
-      "path": "Zettelkasten/gardens/algorithms_to_live_by.md"
     }
   ],
   "omittedPaths": [],

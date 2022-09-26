@@ -35,19 +35,19 @@
 - [x] Luke Cage season 1 episodes 9-13
 - [x] Ant-Man
 - [x] Iron Fist season 1
-- [ ] Captain America: Civil War
-- [ ] Agents of SHIELD season 3 episodes 1-19
-- [ ] Team Thor one shot
-- [ ] Team Thor: Part 2 one shot
+- [x] Captain America: Civil War
+- [x] Agents of SHIELD season 3 episodes 1-19
+- [x] Team Thor one shot
+- [x] Team Thor: Part 2 one shot
 - [ ] Black Widow
-- [ ] Agents of SHIELD season 3 episodes 20-22
+- [x] Agents of SHIELD season 3 episodes 20-22
 - [ ] The Defenders season 1
-- [ ] Agents of SHIELD season 4 episodes 1-6
+- [x] Agents of SHIELD season 4 episodes 1-6
 - [ ] Doctor Strange
 - [ ] Black Panther
-- [ ] Agents of SHIELD season 4 episodes 7-8
-- [ ] Agents of SHIELD: Slingshot season 1 episodes 1-6
-- [ ] Agents of SHIELD season 4 episodes 9-22
+- [x] Agents of SHIELD season 4 episodes 7-8
+- [x] Agents of SHIELD: Slingshot season 1 episodes 1-6
+- [x] Agents of SHIELD season 4 episodes 9-22
 - [ ] Spider-Man: Homecoming
 - [ ] Thor: Ragnarok
 - [ ] Team Darryl one shot

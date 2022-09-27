@@ -39,7 +39,7 @@
 - [x] Agents of SHIELD season 3 episodes 1-19
 - [x] Team Thor one shot
 - [x] Team Thor: Part 2 one shot
-- [ ] Black Widow
+- [x] Black Widow
 - [x] Agents of SHIELD season 3 episodes 20-22
 - [ ] The Defenders season 1
 - [x] Agents of SHIELD season 4 episodes 1-6

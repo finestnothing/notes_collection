@@ -1,6 +1,5 @@
 # writing_reasearch_papers
 Created: 2022-06-09 08:36
-#zettel/mature 
 
 - While using the three-pass process is great, most people will only read research papers once.
 - Making sure you answer the 5 C's (see First Read of Research Paper) is very helpful anyway
@@ -8,8 +7,5 @@ Created: 2022-06-09 08:36
 - Organization in the paper is key
 
 ## References
-1. [[how_to_research]]
+1. [[research_garden]]
 2. [[first_read_of_research_paper]]
-
-## Source(s)
-1. [[three_pass_process]]

@@ -4,23 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "0b272e9bf1624acc",
+        "id": "a56e7b052c3be544",
         "type": "tabs",
         "children": [
           {
-            "id": "667ead481f410334",
+            "id": "656d50429ee1f929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/mcu_watch_order.md",
+                "file": "Zettelkasten/gardens/bootstrapping_a_startup_garden.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8113a1766fb2dd96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Books/TBR.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d7f99b3ca2b9d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Books/read/circe.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "190dba080756dbf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Books/in-progress/left_hand_of_darkness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd7099a6d1804dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Books/in-progress/neverwhere.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -32,7 +85,7 @@
       {
         "id": "f169828df0192753",
         "type": "tabs",
-        "dimension": 67.53875968992247,
+        "dimension": 70.19374068554396,
         "children": [
           {
             "id": "cd65a8532dd028d6",
@@ -50,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mars",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -83,7 +136,7 @@
       {
         "id": "cf3716fa6ef66749",
         "type": "tabs",
-        "dimension": 32.46124031007752,
+        "dimension": 29.806259314456035,
         "children": [
           {
             "id": "a924f77a45c6cb03",
@@ -106,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -131,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/mcu_watch_order.md",
+                "file": "Media/Books/in-progress/neverwhere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/mcu_watch_order.md",
+                "file": "Media/Books/in-progress/neverwhere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/mcu_watch_order.md"
+                "file": "Media/Books/in-progress/neverwhere.md"
               }
             }
           },
@@ -180,17 +232,17 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "667ead481f410334",
+  "active": "bd7099a6d1804dda",
   "lastOpenFiles": [
-    "README.md",
-    "Games/homebrew/dnd_Cave_of_Doom.md",
-    "Media/mcu_watch_order.md",
-    "Daily_Notes/20220909.md",
-    "Daily_Notes/20220907.md",
-    "Daily_Notes/20220906.md",
-    "Daily_Notes/20220902.md",
-    "Daily_Notes/20220901.md",
-    "Games/call_of_cthulu.md",
-    "Projects/obsidian_publish.md"
+    "Media/Books/read/the_black_company.md",
+    "Media/Books/read/red_rising.md",
+    "Media/Books/read/the_city_of_brass.md",
+    "Media/Books/read/the_stars_are_legion.md",
+    "Media/Books/read/altered_carbon.md",
+    "Media/Books/read/the_andromeda_strain.md",
+    "Media/Books/read/neuromancer.md",
+    "Media/Books/read/gideon_the_ninth.md",
+    "Media/Books/read/soulkeeper.md",
+    "Media/Books/read/the_blacktongue_thief.md"
   ]
 }

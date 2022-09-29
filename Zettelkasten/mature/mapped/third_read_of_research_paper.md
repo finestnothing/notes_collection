@@ -1,6 +1,5 @@
 # third_read_of_research_paper
 Created: 2022-06-09 08:52
-#zettel/mature
 
 - Approximately 4-5 hours for a beginner (depending on length and complexity of paper), but can be as short as 1 hour with enough experience
 - Extremely in-depth
@@ -16,6 +15,3 @@ Created: 2022-06-09 08:52
 
 ## References
 1. [[second_read_of_research_paper]]
-
-## Source(s)
-1. [[three_pass_process]]

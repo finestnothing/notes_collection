@@ -1,6 +1,5 @@
 # examples_of_task_grouping
 Created: 2022-06-23 08:53
-#zettel/mature
 
 - Examples include paying CC bills, responding to emails, etc
 - If you have 30 days to pay bills, pick one day a month to pay all your bills

@@ -1,6 +1,5 @@
 # what_is_task_grouping
 Created: 2022-06-23 08:53
-#zettel/mature
 
 - Task grouping is where you do all instances of a certain task at once, rather than as they come up
 - You should determine how to group the tasks by the timeline required
@@ -9,6 +8,5 @@ Created: 2022-06-23 08:53
 - It is perfectly okay to not perfectly follow, as there are exceptions that come up that need to be handled sooner
 
 ## References
-1. [[algorithms_to_live_by_ch5]]
 2. [[benefits_of_task_grouping]]
 3. [[examples_of_task_grouping]]

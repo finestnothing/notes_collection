@@ -1,6 +1,5 @@
 # First Read of Research Paper
 Created: 2022-06-09 08:26
-#zettel/mature
 
 - First Pass: High-level overview
 - 5-10 minutes total
@@ -22,6 +21,3 @@ Created: 2022-06-09 08:26
 ## References
 1. [[what_is_the_three_pass_process]]
 2. [[second_read_of_research_paper]]
-
-## Source(s)
-1. [[three_pass_process]]

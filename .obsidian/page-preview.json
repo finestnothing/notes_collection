@@ -2,5 +2,8 @@
   "tag-wrangler:tag-pane": false,
   "git-view": false,
   "recent-files": false,
-  "preview": true
+  "search": false,
+  "editor": false,
+  "graph": false,
+  "starred": false
 }

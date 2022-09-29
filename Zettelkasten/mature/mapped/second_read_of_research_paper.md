@@ -1,6 +1,5 @@
 # second_read_of_research_paper
 Created: 2022-06-09 08:42
-#zettel/mature
 
 - This pass will take significantly longer than the first pass, up to about an hour
 - Meant to get you to understand the content and be able to summarize it, even if you wouldn't be able to write a paper on the same topic.
@@ -22,6 +21,3 @@ Created: 2022-06-09 08:42
 ## References
 1. [[first_read_of_research_paper]]
 3. [[third_read_of_research_paper]]
-
-## Source(s)
-1. [[three_pass_process]]

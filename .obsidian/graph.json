@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "data_",
+  "search": "path:Zettelkasten",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 0.960674157303371,
   "linkDistance": 323,
-  "scale": 0.19450022690617305,
-  "close": false
+  "scale": 0.3823010968770243,
+  "close": true
 }

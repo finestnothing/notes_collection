@@ -2,12 +2,11 @@
 Created: 2022-08-31 12:37
 #zettel/pending 
 
-- Usage Tracking [[starting_a_blog#^afeebf|Reference 1]]
+- Usage Tracking
 	- Want to track basic user info
 		- Location, activity on my site, etc
 		- No data selling or targeted ads, just for fun statistics if I can
-	- See [[starting_a_blog#^26cfd2|Reference 2]] for Plausible Analytics which can be used for this
-- Blog Content [[starting_a_blog#^54ae37|Reference 3]]
+- Blog Content
 	- Outline of steps
 		- [[starting_a_blog#^585e26|Name]]
 		- [[starting_a_blog#^0539a1|Hosting]]
@@ -57,6 +56,7 @@ Created: 2022-08-31 12:37
 
 
 ## References
-1. [[202206230812]] ^afeebf
+1. https://www.theminimalists.com/blog/
+3. https://plausible.io/self-hosted-web-analytics
 2. https://plausible.io/self-hosted-web-analytics ^26cfd2
-3. [[202206230755]] ^54ae37
+3. https://www.theblogstarter.com/

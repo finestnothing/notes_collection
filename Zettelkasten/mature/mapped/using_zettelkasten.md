@@ -1,5 +1,4 @@
 # Using Zettelkasten
-#zettel/mature
 
 1. Take notes on something in fleeting notes (seedlings)
 	- These should not be in-depth notes, just the overall ideas that I think I want to explore more later

@@ -41,7 +41,7 @@
 - [x] Team Thor: Part 2 one shot
 - [x] Black Widow
 - [x] Agents of SHIELD season 3 episodes 20-22
-- [ ] The Defenders season 1
+- [x] The Defenders season 1
 - [x] Agents of SHIELD season 4 episodes 1-6
 - [ ] Doctor Strange
 - [ ] Black Panther

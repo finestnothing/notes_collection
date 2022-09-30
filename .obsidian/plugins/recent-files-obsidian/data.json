@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "mcu_watch_order",
+      "path": "Media/mcu_watch_order.md"
+    },
+    {
+      "basename": "keymap_efficiency",
+      "path": "Projects/Ideas/keymap_efficiency.md"
+    },
+    {
+      "basename": "ideals",
+      "path": "Games/shattered_gates_campaign/port/ideals.md"
+    },
+    {
+      "basename": "gabur_strongjaw",
+      "path": "Games/shattered_gates_campaign/port/gabur_strongjaw.md"
+    },
+    {
+      "basename": "recipe_garden",
+      "path": "Zettelkasten/gardens/recipe_garden.md"
+    },
+    {
+      "basename": "project_template",
+      "path": "Templates/project_template.md"
+    },
+    {
+      "basename": "garden",
+      "path": "Zettelkasten/mature/mapped/garden.md"
+    },
+    {
+      "basename": "session_1_20220724",
+      "path": "Games/shattered_gates_campaign/session_notes/session_1_20220724.md"
+    },
+    {
+      "basename": "zettelkasten_garden",
+      "path": "Templates/zettelkasten_garden.md"
+    },
+    {
+      "basename": "data_lake_house",
+      "path": "Zettelkasten/mature/mapped/data_lake_house.md"
+    },
+    {
       "basename": "20220929",
       "path": "Daily_Notes/20220929.md"
     },
@@ -109,10 +149,6 @@
       "path": "README.md"
     },
     {
-      "basename": "data_lake_house",
-      "path": "Zettelkasten/mature/mapped/data_lake_house.md"
-    },
-    {
       "basename": "data_lake",
       "path": "Zettelkasten/mature/mapped/data_lake.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "drawbacks_of_data_warehouse",
       "path": "Zettelkasten/mature/mapped/drawbacks_of_data_warehouse.md"
-    },
-    {
-      "basename": "benefits_of_data_warehouse",
-      "path": "Zettelkasten/mature/mapped/benefits_of_data_warehouse.md"
-    },
-    {
-      "basename": "zettelkasten_mature_note",
-      "path": "Templates/zettelkasten_mature_note.md"
-    },
-    {
-      "basename": "template_list",
-      "path": "Templates/template_list.md"
-    },
-    {
-      "basename": "zettelkasten_sprout",
-      "path": "Templates/zettelkasten_sprout.md"
-    },
-    {
-      "basename": "zettelkasten_seedling",
-      "path": "Templates/zettelkasten_seedling.md"
-    },
-    {
-      "basename": "zettelkasten_garden",
-      "path": "Templates/zettelkasten_garden.md"
-    },
-    {
-      "basename": "sourdough_bread_process",
-      "path": "Zettelkasten/sprouts/sourdough_bread_process.md"
-    },
-    {
-      "basename": "alfredo_sauce",
-      "path": "Zettelkasten/mature/mapped/alfredo_sauce.md"
-    },
-    {
-      "basename": "sourdough_pizza_crust",
-      "path": "Zettelkasten/mature/mapped/sourdough_pizza_crust.md"
     }
   ],
   "omittedPaths": [],

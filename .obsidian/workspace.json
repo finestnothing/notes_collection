@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1a6c92826f98ae",
+        "id": "f6fc7bbab3300e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "fce73e1c7050d8c2",
+            "id": "8c43dc282d5c6975",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/20220929.md",
+                "file": "Media/mcu_watch_order.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/20220929.md",
+                "file": "Media/mcu_watch_order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/20220929.md",
+                "file": "Media/mcu_watch_order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/20220929.md"
+                "file": "Media/mcu_watch_order.md"
               }
             }
           },
@@ -179,17 +179,17 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "fce73e1c7050d8c2",
+  "active": "cd65a8532dd028d6",
   "lastOpenFiles": [
-    "Projects/obsidian_publish.md",
-    "Projects/charachorder.md",
-    "Projects/portfolio_website.md",
-    "Zettelkasten/seedlings/202209291917.md",
-    "Zettelkasten/harvest/bootstrapping_a_startup_blog.md",
-    "Zettelkasten/seedlings/202209291850.md",
-    "Zettelkasten/mature/mapped/benefits_of_having_a_blog.md",
-    "Zettelkasten/mature/my_product_is_my_garden.md",
-    "Zettelkasten/mature/mapped/blog_content_guidelines.md",
-    "Zettelkasten/mature/mapped/goals_of_blog_content.md"
+    "Projects/Ideas/keymap_efficiency.md",
+    "Games/shattered_gates_campaign/port/ideals.md",
+    "Games/shattered_gates_campaign/port/gabur_strongjaw.md",
+    "Zettelkasten/gardens/recipe_garden.md",
+    "Templates/project_template.md",
+    "Zettelkasten/mature/mapped/garden.md",
+    "Games/shattered_gates_campaign/session_notes/session_1_20220724.md",
+    "Templates/zettelkasten_garden.md",
+    "Zettelkasten/mature/mapped/data_lake_house.md",
+    "Daily_Notes/20220929.md"
   ]
 }

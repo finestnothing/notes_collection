@@ -1,5 +1,5 @@
 # Notes Collection
-Made in [https://obsidian.md/](https://obsidian.md/). Links are primarily wikilinks. Better formatting and linking is in progress.
+Made in [[obsidian]]. Links are primarily [[wikilinks]]. Better formatting and linking is in progress.
 
 - [[#Zettelkasten|Zettelkasten]]
 	- [[#Zettelkasten#Seedlings|Seedlings]]

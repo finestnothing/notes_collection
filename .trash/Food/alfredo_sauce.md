@@ -1,5 +1,4 @@
 # Alfredo Sauce
-### Rating: 9/10
 
 #### Instructions:
 - Combine, let simmer for 5 minutes

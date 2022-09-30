@@ -8,5 +8,5 @@
 [[dnd_location]]
 [[dnd_character]]
 [[dnd_session_notes]]
-[[zettelkasten_note]]
-[[zettelkasten_map_of_content]]
+[[zettelkasten_seedling]]
+[[Templates/zettelkasten_garden]]

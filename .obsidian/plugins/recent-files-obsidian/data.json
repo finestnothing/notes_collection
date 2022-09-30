@@ -1,96 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "neverwhere",
-      "path": "Media/Books/in-progress/neverwhere.md"
+      "basename": "20220929",
+      "path": "Daily_Notes/20220929.md"
     },
     {
-      "basename": "the_black_company",
-      "path": "Media/Books/read/the_black_company.md"
+      "basename": "obsidian_publish",
+      "path": "Projects/obsidian_publish.md"
     },
     {
-      "basename": "red_rising",
-      "path": "Media/Books/read/red_rising.md"
+      "basename": "charachorder",
+      "path": "Projects/charachorder.md"
     },
     {
-      "basename": "the_city_of_brass",
-      "path": "Media/Books/read/the_city_of_brass.md"
+      "basename": "portfolio_website",
+      "path": "Projects/portfolio_website.md"
     },
     {
-      "basename": "the_stars_are_legion",
-      "path": "Media/Books/read/the_stars_are_legion.md"
+      "basename": "202209291917",
+      "path": "Zettelkasten/seedlings/202209291917.md"
     },
     {
-      "basename": "altered_carbon",
-      "path": "Media/Books/read/altered_carbon.md"
+      "basename": "bootstrapping_a_startup_blog",
+      "path": "Zettelkasten/harvest/bootstrapping_a_startup_blog.md"
     },
     {
-      "basename": "the_andromeda_strain",
-      "path": "Media/Books/read/the_andromeda_strain.md"
+      "basename": "202209291850",
+      "path": "Zettelkasten/seedlings/202209291850.md"
     },
     {
-      "basename": "neuromancer",
-      "path": "Media/Books/read/neuromancer.md"
+      "basename": "benefits_of_having_a_blog",
+      "path": "Zettelkasten/mature/mapped/benefits_of_having_a_blog.md"
     },
     {
-      "basename": "gideon_the_ninth",
-      "path": "Media/Books/read/gideon_the_ninth.md"
+      "basename": "blog_content_guidelines",
+      "path": "Zettelkasten/mature/mapped/blog_content_guidelines.md"
     },
     {
-      "basename": "soulkeeper",
-      "path": "Media/Books/read/soulkeeper.md"
+      "basename": "goals_of_blog_content",
+      "path": "Zettelkasten/mature/mapped/goals_of_blog_content.md"
     },
     {
-      "basename": "the_blacktongue_thief",
-      "path": "Media/Books/read/the_blacktongue_thief.md"
+      "basename": "blog_content",
+      "path": "Zettelkasten/mature/mapped/blog_content.md"
     },
     {
-      "basename": "rise_of_the_mages",
-      "path": "Media/Books/read/rise_of_the_mages.md"
+      "basename": "creating_a_blog",
+      "path": "Zettelkasten/mature/mapped/creating_a_blog.md"
     },
     {
-      "basename": "ready_player_one",
-      "path": "Media/Books/read/ready_player_one.md"
+      "basename": "affiliate_products",
+      "path": "Zettelkasten/mature/mapped/affiliate_products.md"
     },
     {
-      "basename": "circe",
-      "path": "Media/Books/read/circe.md"
+      "basename": "blog_revenue",
+      "path": "Zettelkasten/mature/mapped/blog_revenue.md"
     },
     {
-      "basename": "dune",
-      "path": "Media/Books/read/dune.md"
+      "basename": "customizing_a_blog",
+      "path": "Zettelkasten/mature/mapped/customizing_a_blog.md"
     },
     {
-      "basename": "foundation",
-      "path": "Media/Books/read/foundation.md"
+      "basename": "how_to_pick_a_title",
+      "path": "Zettelkasten/mature/mapped/how_to_pick_a_title.md"
     },
     {
-      "basename": "2001_a_space_odyssey",
-      "path": "Media/Books/read/2001_a_space_odyssey.md"
-    },
-    {
-      "basename": "a_long_way_to_a_small_angry_planet",
-      "path": "Media/Books/read/a_long_way_to_a_small_angry_planet.md"
-    },
-    {
-      "basename": "magic_for_liars",
-      "path": "Media/Books/read/magic_for_liars.md"
-    },
-    {
-      "basename": "left_hand_of_darkness",
-      "path": "Media/Books/in-progress/left_hand_of_darkness.md"
-    },
-    {
-      "basename": "TBR",
-      "path": "Media/Books/TBR.md"
-    },
-    {
-      "basename": "cause_of_mars_rover_scheduling_bug",
-      "path": "Zettelkasten/mature/mapped/cause_of_mars_rover_scheduling_bug.md"
-    },
-    {
-      "basename": "product_creation_garden",
-      "path": "Zettelkasten/gardens/product_creation_garden.md"
+      "basename": "post_titles_are_imporant",
+      "path": "Zettelkasten/mature/mapped/post_titles_are_imporant.md"
     },
     {
       "basename": "bootstrapping_a_startup_garden",
@@ -101,104 +77,128 @@
       "path": "Zettelkasten/gardens/zettelkasten_garden.md"
     },
     {
-      "basename": "algorithms_to_live_by",
-      "path": "Zettelkasten/mature/mapped/algorithms_to_live_by.md"
+      "basename": "lifestyle_improvements",
+      "path": "Zettelkasten/gardens/lifestyle_improvements.md"
     },
     {
-      "basename": "historical_events_garden",
-      "path": "Zettelkasten/gardens/historical_events_garden.md"
+      "basename": "product_creation_garden",
+      "path": "Zettelkasten/gardens/product_creation_garden.md"
     },
     {
-      "basename": "research_garden",
-      "path": "Zettelkasten/gardens/research_garden.md"
+      "basename": "databricks_sql",
+      "path": "Zettelkasten/mature/mapped/databricks_sql.md"
     },
     {
-      "basename": "starting_a_blog",
-      "path": "Zettelkasten/sprouts/starting_a_blog.md"
+      "basename": "databricks_dashboard",
+      "path": "Zettelkasten/mature/mapped/databricks_dashboard.md"
     },
     {
-      "basename": "data_storage_systems",
-      "path": "Zettelkasten/sprouts/data_storage_systems.md"
+      "basename": "markdown",
+      "path": "Zettelkasten/mature/mapped/markdown.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "Zettelkasten/mature/mapped/obsidian.md"
+    },
+    {
+      "basename": "FOSS",
+      "path": "Zettelkasten/mature/mapped/FOSS.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "data_lake_house",
+      "path": "Zettelkasten/mature/mapped/data_lake_house.md"
+    },
+    {
+      "basename": "data_lake",
+      "path": "Zettelkasten/mature/mapped/data_lake.md"
+    },
+    {
+      "basename": "data_engineering_garden",
+      "path": "Zettelkasten/gardens/data_engineering_garden.md"
+    },
+    {
+      "basename": "databricks_pipeline",
+      "path": "Zettelkasten/mature/mapped/databricks_pipeline.md"
+    },
+    {
+      "basename": "delta_live_table",
+      "path": "Zettelkasten/mature/mapped/delta_live_table.md"
+    },
+    {
+      "basename": "data_lake_house_gold_layer",
+      "path": "Zettelkasten/mature/mapped/data_lake_house_gold_layer.md"
+    },
+    {
+      "basename": "data_lake_house_silver_layer",
+      "path": "Zettelkasten/mature/mapped/data_lake_house_silver_layer.md"
+    },
+    {
+      "basename": "data_lake_house_bronze_layer",
+      "path": "Zettelkasten/mature/mapped/data_lake_house_bronze_layer.md"
+    },
+    {
+      "basename": "drawbacks_of_data_lake_house",
+      "path": "Zettelkasten/mature/mapped/drawbacks_of_data_lake_house.md"
+    },
+    {
+      "basename": "benefits_of_data_lake_house",
+      "path": "Zettelkasten/mature/mapped/benefits_of_data_lake_house.md"
+    },
+    {
+      "basename": "drawbacks_of_data_lake",
+      "path": "Zettelkasten/mature/mapped/drawbacks_of_data_lake.md"
+    },
+    {
+      "basename": "data_warehouse",
+      "path": "Zettelkasten/mature/mapped/data_warehouse.md"
+    },
+    {
+      "basename": "benefits_of_data_lake",
+      "path": "Zettelkasten/mature/mapped/benefits_of_data_lake.md"
+    },
+    {
+      "basename": "drawbacks_of_data_warehouse",
+      "path": "Zettelkasten/mature/mapped/drawbacks_of_data_warehouse.md"
+    },
+    {
+      "basename": "benefits_of_data_warehouse",
+      "path": "Zettelkasten/mature/mapped/benefits_of_data_warehouse.md"
+    },
+    {
+      "basename": "zettelkasten_mature_note",
+      "path": "Templates/zettelkasten_mature_note.md"
+    },
+    {
+      "basename": "template_list",
+      "path": "Templates/template_list.md"
+    },
+    {
+      "basename": "zettelkasten_sprout",
+      "path": "Templates/zettelkasten_sprout.md"
+    },
+    {
+      "basename": "zettelkasten_seedling",
+      "path": "Templates/zettelkasten_seedling.md"
+    },
+    {
+      "basename": "zettelkasten_garden",
+      "path": "Templates/zettelkasten_garden.md"
     },
     {
       "basename": "sourdough_bread_process",
       "path": "Zettelkasten/sprouts/sourdough_bread_process.md"
     },
     {
-      "basename": "lifestyle_improvements",
-      "path": "Zettelkasten/gardens/lifestyle_improvements.md"
+      "basename": "alfredo_sauce",
+      "path": "Zettelkasten/mature/mapped/alfredo_sauce.md"
     },
     {
-      "basename": "what_was_the_mars_rover_scheduling_bug",
-      "path": "Zettelkasten/mature/mapped/what_was_the_mars_rover_scheduling_bug.md"
-    },
-    {
-      "basename": "how_mars_rover_scheduling_bug_was_fixed",
-      "path": "Zettelkasten/mature/mapped/how_mars_rover_scheduling_bug_was_fixed.md"
-    },
-    {
-      "basename": "zettelkasten_note",
-      "path": "Templates/zettelkasten_note.md"
-    },
-    {
-      "basename": "benefits_of_bootstrapping",
-      "path": "Zettelkasten/mature/mapped/benefits_of_bootstrapping.md"
-    },
-    {
-      "basename": "why_categories_are_bad",
-      "path": "Zettelkasten/mature/mapped/why_categories_are_bad.md"
-    },
-    {
-      "basename": "how_zettelkasten_grows",
-      "path": "Zettelkasten/mature/mapped/how_zettelkasten_grows.md"
-    },
-    {
-      "basename": "mature",
-      "path": "Zettelkasten/mature/mapped/mature.md"
-    },
-    {
-      "basename": "garden",
-      "path": "Zettelkasten/mature/mapped/garden.md"
-    },
-    {
-      "basename": "sprouts",
-      "path": "Zettelkasten/mature/mapped/sprouts.md"
-    },
-    {
-      "basename": "seedlings",
-      "path": "Zettelkasten/mature/mapped/seedlings.md"
-    },
-    {
-      "basename": "sum_of_completion_time_minimization",
-      "path": "Zettelkasten/mature/mapped/sum_of_completion_time_minimization.md"
-    },
-    {
-      "basename": "goals_for_bootstrapping",
-      "path": "Zettelkasten/mature/mapped/goals_for_bootstrapping.md"
-    },
-    {
-      "basename": "skills_required_for_bootstrapping",
-      "path": "Zettelkasten/mature/mapped/skills_required_for_bootstrapping.md"
-    },
-    {
-      "basename": "what_is_bootstrapping",
-      "path": "Zettelkasten/mature/mapped/what_is_bootstrapping.md"
-    },
-    {
-      "basename": "first_read_of_research_paper",
-      "path": "Zettelkasten/mature/mapped/first_read_of_research_paper.md"
-    },
-    {
-      "basename": "second_read_of_research_paper",
-      "path": "Zettelkasten/mature/mapped/second_read_of_research_paper.md"
-    },
-    {
-      "basename": "third_read_of_research_paper",
-      "path": "Zettelkasten/mature/mapped/third_read_of_research_paper.md"
-    },
-    {
-      "basename": "what_is_the_three_pass_process",
-      "path": "Zettelkasten/mature/mapped/what_is_the_three_pass_process.md"
+      "basename": "sourdough_pizza_crust",
+      "path": "Zettelkasten/mature/mapped/sourdough_pizza_crust.md"
     }
   ],
   "omittedPaths": [],

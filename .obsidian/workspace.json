@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/mcu_watch_order.md",
+                "file": "Zettelkasten/seedlings/202209291850.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "f169828df0192753",
         "type": "tabs",
-        "dimension": 70.19374068554397,
+        "dimension": 66.82879377431907,
         "children": [
           {
             "id": "cd65a8532dd028d6",
@@ -83,7 +83,7 @@
       {
         "id": "cf3716fa6ef66749",
         "type": "tabs",
-        "dimension": 29.80625931445604,
+        "dimension": 33.17120622568093,
         "children": [
           {
             "id": "a924f77a45c6cb03",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/mcu_watch_order.md",
+                "file": "Zettelkasten/seedlings/202209291850.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/mcu_watch_order.md",
+                "file": "Zettelkasten/seedlings/202209291850.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/mcu_watch_order.md"
+                "file": "Zettelkasten/seedlings/202209291850.md"
               }
             }
           },
@@ -179,17 +179,17 @@
     "width": 316,
     "collapsed": true
   },
-  "active": "cd65a8532dd028d6",
+  "active": "8c43dc282d5c6975",
   "lastOpenFiles": [
+    "Zettelkasten/seedlings/202209291917.md",
+    "Zettelkasten/seedlings/202209291850.md",
+    "Zettelkasten/seedlings/202210011054.md",
+    "Media/mcu_watch_order.md",
     "Projects/Ideas/keymap_efficiency.md",
     "Games/shattered_gates_campaign/port/ideals.md",
     "Games/shattered_gates_campaign/port/gabur_strongjaw.md",
     "Zettelkasten/gardens/recipe_garden.md",
     "Templates/project_template.md",
-    "Zettelkasten/mature/mapped/garden.md",
-    "Games/shattered_gates_campaign/session_notes/session_1_20220724.md",
-    "Templates/zettelkasten_garden.md",
-    "Zettelkasten/mature/mapped/data_lake_house.md",
-    "Daily_Notes/20220929.md"
+    "Zettelkasten/mature/mapped/garden.md"
   ]
 }

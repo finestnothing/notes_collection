@@ -29,7 +29,7 @@
 - [x] Daredevil season 2 episodes 1-4
 - [x] Luke Cage season 1 episodes 1-4
 - [x] Daredevil season 2 episodes 5-11
-- [ ] Jessica Jones season 1
+- [x] Jessica Jones season 1
 - [x] Luke Cage season 1 episodes 5-8
 - [x] Daredevil season 2 episodes 12-13
 - [x] Luke Cage season 1 episodes 9-13
@@ -54,20 +54,20 @@
 - [ ] The Inhumans season 1
 - [ ] The Punisher season 1
 - [ ] Runaways season 1
-- [ ] Agents of SHIELD season 5 episodes 1-10
-- [ ] Jessica Jones season 2
-- [ ] Agents of SHIELD season 5 episodes 11-18
+- [x] Agents of SHIELD season 5 episodes 1-10
+- [x] Jessica Jones season 2
+- [x] Agents of SHIELD season 5 episodes 11-18
 - [ ] Cloak and Dagger season 1
 - [ ] Cloak and Dagger season 2
 - [ ] Luke Cage season 2
 - [ ] Iron Fist season 2
 - [ ] Daredevil season 3
 - [ ] The Punisher season 2
-- [ ] Jessica Jones season 3
+- [x] Jessica Jones season 3
 - [ ] Ant-Man and the Wasp
 - [ ] Avengers: Infinity War
-- [ ] Agents of Shield season 5 episodes 19-22
-- [ ] Agents of Shield season 6
+- [x] Agents of Shield season 5 episodes 19-22
+- [x] Agents of Shield season 6
 - [ ] Agents of Shield season 7
 - [ ] Avengers: Endgame
 - [ ] Loki

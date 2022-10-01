@@ -1,204 +1,192 @@
 {
   "recentFiles": [
     {
+      "basename": "202210011054",
+      "path": "Zettelkasten/seedlings/202210011054.md"
+    },
+    {
+      "basename": "20220823",
+      "path": "Daily_Notes/20220823.md"
+    },
+    {
+      "basename": "tattoos",
+      "path": "Ideas/tattoos.md"
+    },
+    {
       "basename": "mcu_watch_order",
       "path": "Media/mcu_watch_order.md"
-    },
-    {
-      "basename": "keymap_efficiency",
-      "path": "Projects/Ideas/keymap_efficiency.md"
-    },
-    {
-      "basename": "ideals",
-      "path": "Games/shattered_gates_campaign/port/ideals.md"
-    },
-    {
-      "basename": "gabur_strongjaw",
-      "path": "Games/shattered_gates_campaign/port/gabur_strongjaw.md"
-    },
-    {
-      "basename": "recipe_garden",
-      "path": "Zettelkasten/gardens/recipe_garden.md"
-    },
-    {
-      "basename": "project_template",
-      "path": "Templates/project_template.md"
-    },
-    {
-      "basename": "garden",
-      "path": "Zettelkasten/mature/mapped/garden.md"
-    },
-    {
-      "basename": "session_1_20220724",
-      "path": "Games/shattered_gates_campaign/session_notes/session_1_20220724.md"
-    },
-    {
-      "basename": "zettelkasten_garden",
-      "path": "Templates/zettelkasten_garden.md"
-    },
-    {
-      "basename": "data_lake_house",
-      "path": "Zettelkasten/mature/mapped/data_lake_house.md"
-    },
-    {
-      "basename": "20220929",
-      "path": "Daily_Notes/20220929.md"
-    },
-    {
-      "basename": "obsidian_publish",
-      "path": "Projects/obsidian_publish.md"
-    },
-    {
-      "basename": "charachorder",
-      "path": "Projects/charachorder.md"
-    },
-    {
-      "basename": "portfolio_website",
-      "path": "Projects/portfolio_website.md"
-    },
-    {
-      "basename": "202209291917",
-      "path": "Zettelkasten/seedlings/202209291917.md"
-    },
-    {
-      "basename": "bootstrapping_a_startup_blog",
-      "path": "Zettelkasten/harvest/bootstrapping_a_startup_blog.md"
-    },
-    {
-      "basename": "202209291850",
-      "path": "Zettelkasten/seedlings/202209291850.md"
-    },
-    {
-      "basename": "benefits_of_having_a_blog",
-      "path": "Zettelkasten/mature/mapped/benefits_of_having_a_blog.md"
-    },
-    {
-      "basename": "blog_content_guidelines",
-      "path": "Zettelkasten/mature/mapped/blog_content_guidelines.md"
-    },
-    {
-      "basename": "goals_of_blog_content",
-      "path": "Zettelkasten/mature/mapped/goals_of_blog_content.md"
-    },
-    {
-      "basename": "blog_content",
-      "path": "Zettelkasten/mature/mapped/blog_content.md"
-    },
-    {
-      "basename": "creating_a_blog",
-      "path": "Zettelkasten/mature/mapped/creating_a_blog.md"
-    },
-    {
-      "basename": "affiliate_products",
-      "path": "Zettelkasten/mature/mapped/affiliate_products.md"
-    },
-    {
-      "basename": "blog_revenue",
-      "path": "Zettelkasten/mature/mapped/blog_revenue.md"
-    },
-    {
-      "basename": "customizing_a_blog",
-      "path": "Zettelkasten/mature/mapped/customizing_a_blog.md"
-    },
-    {
-      "basename": "how_to_pick_a_title",
-      "path": "Zettelkasten/mature/mapped/how_to_pick_a_title.md"
-    },
-    {
-      "basename": "post_titles_are_imporant",
-      "path": "Zettelkasten/mature/mapped/post_titles_are_imporant.md"
-    },
-    {
-      "basename": "bootstrapping_a_startup_garden",
-      "path": "Zettelkasten/gardens/bootstrapping_a_startup_garden.md"
-    },
-    {
-      "basename": "zettelkasten_garden",
-      "path": "Zettelkasten/gardens/zettelkasten_garden.md"
-    },
-    {
-      "basename": "lifestyle_improvements",
-      "path": "Zettelkasten/gardens/lifestyle_improvements.md"
-    },
-    {
-      "basename": "product_creation_garden",
-      "path": "Zettelkasten/gardens/product_creation_garden.md"
-    },
-    {
-      "basename": "databricks_sql",
-      "path": "Zettelkasten/mature/mapped/databricks_sql.md"
-    },
-    {
-      "basename": "databricks_dashboard",
-      "path": "Zettelkasten/mature/mapped/databricks_dashboard.md"
-    },
-    {
-      "basename": "markdown",
-      "path": "Zettelkasten/mature/mapped/markdown.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "Zettelkasten/mature/mapped/obsidian.md"
-    },
-    {
-      "basename": "FOSS",
-      "path": "Zettelkasten/mature/mapped/FOSS.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "data_lake",
-      "path": "Zettelkasten/mature/mapped/data_lake.md"
+      "basename": "dnd_Cave_of_Doom",
+      "path": "Games/homebrew/dnd_Cave_of_Doom.md"
     },
     {
-      "basename": "data_engineering_garden",
-      "path": "Zettelkasten/gardens/data_engineering_garden.md"
+      "basename": "call_of_cthulu",
+      "path": "Games/call_of_cthulu.md"
     },
     {
-      "basename": "databricks_pipeline",
-      "path": "Zettelkasten/mature/mapped/databricks_pipeline.md"
+      "basename": "coc_small_sarcophagus",
+      "path": "Games/homebrew/coc_small_sarcophagus.md"
     },
     {
-      "basename": "delta_live_table",
-      "path": "Zettelkasten/mature/mapped/delta_live_table.md"
+      "basename": "20220906",
+      "path": "Daily_Notes/20220906.md"
     },
     {
-      "basename": "data_lake_house_gold_layer",
-      "path": "Zettelkasten/mature/mapped/data_lake_house_gold_layer.md"
+      "basename": "20220902",
+      "path": "Daily_Notes/20220902.md"
     },
     {
-      "basename": "data_lake_house_silver_layer",
-      "path": "Zettelkasten/mature/mapped/data_lake_house_silver_layer.md"
+      "basename": "obsidian_publish",
+      "path": "Projects/obsidian_publish.md"
     },
     {
-      "basename": "data_lake_house_bronze_layer",
-      "path": "Zettelkasten/mature/mapped/data_lake_house_bronze_layer.md"
+      "basename": "how_zettelkasten_grows",
+      "path": "Zettelkasten/mature/mapped/how_zettelkasten_grows.md"
     },
     {
-      "basename": "drawbacks_of_data_lake_house",
-      "path": "Zettelkasten/mature/mapped/drawbacks_of_data_lake_house.md"
+      "basename": "using_zettelkasten",
+      "path": "Zettelkasten/mature/mapped/using_zettelkasten.md"
     },
     {
-      "basename": "benefits_of_data_lake_house",
-      "path": "Zettelkasten/mature/mapped/benefits_of_data_lake_house.md"
+      "basename": "benefits_of_37_percent_rule",
+      "path": "Zettelkasten/mature/mapped/benefits_of_37_percent_rule.md"
     },
     {
-      "basename": "drawbacks_of_data_lake",
-      "path": "Zettelkasten/mature/mapped/drawbacks_of_data_lake.md"
+      "basename": "how_to_apply_37_percent_rule",
+      "path": "Zettelkasten/mature/mapped/how_to_apply_37_percent_rule.md"
     },
     {
-      "basename": "data_warehouse",
-      "path": "Zettelkasten/mature/mapped/data_warehouse.md"
+      "basename": "what_is_the_threshold_rule",
+      "path": "Zettelkasten/mature/mapped/what_is_the_threshold_rule.md"
     },
     {
-      "basename": "benefits_of_data_lake",
-      "path": "Zettelkasten/mature/mapped/benefits_of_data_lake.md"
+      "basename": "what_is_the_37_percent_rule",
+      "path": "Zettelkasten/mature/mapped/what_is_the_37_percent_rule.md"
     },
     {
-      "basename": "drawbacks_of_data_warehouse",
-      "path": "Zettelkasten/mature/mapped/drawbacks_of_data_warehouse.md"
+      "basename": "how_mars_rover_scheduling_bug_was_fixed",
+      "path": "Zettelkasten/mature/mapped/how_mars_rover_scheduling_bug_was_fixed.md"
+    },
+    {
+      "basename": "cause_of_mars_rover_scheduling_bug",
+      "path": "Zettelkasten/mature/mapped/cause_of_mars_rover_scheduling_bug.md"
+    },
+    {
+      "basename": "what_was_the_mars_rover_scheduling_bug",
+      "path": "Zettelkasten/mature/mapped/what_was_the_mars_rover_scheduling_bug.md"
+    },
+    {
+      "basename": "what_is_task_grouping",
+      "path": "Zettelkasten/mature/mapped/what_is_task_grouping.md"
+    },
+    {
+      "basename": "examples_of_task_grouping",
+      "path": "Zettelkasten/mature/mapped/examples_of_task_grouping.md"
+    },
+    {
+      "basename": "benefits_of_task_grouping",
+      "path": "Zettelkasten/mature/mapped/benefits_of_task_grouping.md"
+    },
+    {
+      "basename": "sum_of_completion_time_minimization",
+      "path": "Zettelkasten/mature/mapped/sum_of_completion_time_minimization.md"
+    },
+    {
+      "basename": "where_did_2_machine_scheduling_come_from",
+      "path": "Zettelkasten/mature/mapped/where_did_2_machine_scheduling_come_from.md"
+    },
+    {
+      "basename": "what_is_the_2_machine_scheduling_process",
+      "path": "Zettelkasten/mature/mapped/what_is_the_2_machine_scheduling_process.md"
+    },
+    {
+      "basename": "benefits_of_2_machine_scheduling_process",
+      "path": "Zettelkasten/mature/mapped/benefits_of_2_machine_scheduling_process.md"
+    },
+    {
+      "basename": "stop_doing_list_benefits",
+      "path": "Zettelkasten/mature/mapped/stop_doing_list_benefits.md"
+    },
+    {
+      "basename": "what_is_a_stop_doing_list",
+      "path": "Zettelkasten/mature/mapped/what_is_a_stop_doing_list.md"
+    },
+    {
+      "basename": "benefits_of_bootstrapping",
+      "path": "Zettelkasten/mature/mapped/benefits_of_bootstrapping.md"
+    },
+    {
+      "basename": "benefits_of_gittins_index",
+      "path": "Zettelkasten/mature/mapped/benefits_of_gittins_index.md"
+    },
+    {
+      "basename": "examples_of_explore_exploit_problems",
+      "path": "Zettelkasten/mature/mapped/examples_of_explore_exploit_problems.md"
+    },
+    {
+      "basename": "explore_exploit_interval",
+      "path": "Zettelkasten/mature/mapped/explore_exploit_interval.md"
+    },
+    {
+      "basename": "fast_efficient_organization",
+      "path": "Zettelkasten/mature/mapped/fast_efficient_organization.md"
+    },
+    {
+      "basename": "first_read_of_research_paper",
+      "path": "Zettelkasten/mature/mapped/first_read_of_research_paper.md"
+    },
+    {
+      "basename": "gittins_index",
+      "path": "Zettelkasten/mature/mapped/gittins_index.md"
+    },
+    {
+      "basename": "how_to_decide_explore_or_exploit",
+      "path": "Zettelkasten/mature/mapped/how_to_decide_explore_or_exploit.md"
+    },
+    {
+      "basename": "gittins_index_table",
+      "path": "Zettelkasten/mature/mapped/gittins_index_table.md"
+    },
+    {
+      "basename": "goals_for_bootstrapping",
+      "path": "Zettelkasten/mature/mapped/goals_for_bootstrapping.md"
+    },
+    {
+      "basename": "second_read_of_research_paper",
+      "path": "Zettelkasten/mature/mapped/second_read_of_research_paper.md"
+    },
+    {
+      "basename": "skills_required_for_bootstrapping",
+      "path": "Zettelkasten/mature/mapped/skills_required_for_bootstrapping.md"
+    },
+    {
+      "basename": "third_read_of_research_paper",
+      "path": "Zettelkasten/mature/mapped/third_read_of_research_paper.md"
+    },
+    {
+      "basename": "what_is_an_explore_exploit_problem",
+      "path": "Zettelkasten/mature/mapped/what_is_an_explore_exploit_problem.md"
+    },
+    {
+      "basename": "what_is_bootstrapping",
+      "path": "Zettelkasten/mature/mapped/what_is_bootstrapping.md"
+    },
+    {
+      "basename": "what_is_the_three_pass_process",
+      "path": "Zettelkasten/mature/mapped/what_is_the_three_pass_process.md"
+    },
+    {
+      "basename": "why_categories_are_bad",
+      "path": "Zettelkasten/mature/mapped/why_categories_are_bad.md"
+    },
+    {
+      "basename": "writing_reasearch_papers",
+      "path": "Zettelkasten/mature/mapped/writing_reasearch_papers.md"
     }
   ],
   "omittedPaths": [],

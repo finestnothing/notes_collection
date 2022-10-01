@@ -44,7 +44,7 @@
 - [x] The Defenders season 1
 - [x] Agents of SHIELD season 4 episodes 1-6
 - [x] Doctor Strange
-- [ ] Black Panther
+- [x] Black Panther
 - [x] Agents of SHIELD season 4 episodes 7-8
 - [x] Agents of SHIELD: Slingshot season 1 episodes 1-6
 - [x] Agents of SHIELD season 4 episodes 9-22

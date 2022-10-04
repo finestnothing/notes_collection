@@ -8,19 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c43dc282d5c6975",
+            "id": "8cc7d5248ce20a5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/seedlings/202209291850.md",
+                "file": "note_reorg/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ebde7642c0e621b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "0.16.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,17 +103,8 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "eb15e6c8aafc322c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,6 +119,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8b3867d127ade6f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "note_reorg/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "9afca41f69d6e82f",
             "type": "leaf",
             "state": {
@@ -125,12 +139,29 @@
             }
           },
           {
+            "id": "00b6646474bad712",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note_reorg/README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "3988b33d5d22456c",
+        "type": "tabs",
+        "children": [
+          {
             "id": "7774fd6ff8dbeb08",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/seedlings/202209291850.md",
+                "file": "note_reorg/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,25 +173,11 @@
             }
           },
           {
-            "id": "8b3867d127ade6f2",
+            "id": "eb15e6c8aafc322c",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zettelkasten/seedlings/202209291850.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "00b6646474bad712",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Zettelkasten/seedlings/202209291850.md"
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -171,25 +188,26 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316,
-    "collapsed": true
+    "width": 267.5
   },
-  "active": "8c43dc282d5c6975",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6ebde7642c0e621b",
   "lastOpenFiles": [
-    "Zettelkasten/seedlings/202209291917.md",
-    "Zettelkasten/seedlings/202209291850.md",
-    "Zettelkasten/seedlings/202210011054.md",
-    "Media/mcu_watch_order.md",
-    "Projects/Ideas/keymap_efficiency.md",
-    "Games/shattered_gates_campaign/port/ideals.md",
-    "Games/shattered_gates_campaign/port/gabur_strongjaw.md",
-    "Zettelkasten/gardens/recipe_garden.md",
-    "Templates/project_template.md",
-    "Zettelkasten/mature/mapped/garden.md"
+    "note_reorg/Extras/Entrance/+start_here.md",
+    "note_reorg/README.md",
+    "note_reorg/Extras/Entrance/+about_entrance.md",
+    "note_reorg/Extras/pkm_documentation.md",
+    "note_reorg/Extras/queries.md",
+    "note_reorg/Spaces/+about_spaces.md",
+    "note_reorg/Atlas/+about_atlas.md",
+    "note_reorg/Cards/+about_cards.md",
+    "note_reorg/Extras/+about_extras.md",
+    "Media/mcu_watch_order.md"
   ]
 }

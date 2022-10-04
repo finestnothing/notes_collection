@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "202209291850",
-      "path": "Zettelkasten/seedlings/202209291850.md"
+      "basename": "+about_atlas",
+      "path": "note_reorg/Atlas/+about_atlas.md"
     },
     {
       "basename": "mcu_watch_order",
@@ -71,6 +71,10 @@
     {
       "basename": "bootstrapping_a_startup_blog",
       "path": "Zettelkasten/harvest/bootstrapping_a_startup_blog.md"
+    },
+    {
+      "basename": "202209291850",
+      "path": "Zettelkasten/seedlings/202209291850.md"
     },
     {
       "basename": "benefits_of_having_a_blog",
@@ -195,10 +199,6 @@
     {
       "basename": "data_warehouse",
       "path": "Zettelkasten/mature/mapped/data_warehouse.md"
-    },
-    {
-      "basename": "benefits_of_data_lake",
-      "path": "Zettelkasten/mature/mapped/benefits_of_data_lake.md"
     }
   ],
   "omittedPaths": [],

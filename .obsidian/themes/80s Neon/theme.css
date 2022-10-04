@@ -404,7 +404,7 @@ button.mod-warning {
   * simply remove the `/*` below a subsection to enable it **/
 
 /* 6.1. Pentile effect (chunky pixels) */
-/* DELETE THIS LINE TO ENABLE
+/* DELETE THIS LINE TO ENABLE */
 .app-container::before {
   content: " ";
   display: block;
@@ -420,7 +420,7 @@ button.mod-warning {
 }
 
 /* 6.2. Screen flicker */
-/* DELETE THIS LINE TO ENABLE
+/* DELETE THIS LINE TO ENABLE */
 .app-container::after {
   content: " ";
   display: block;

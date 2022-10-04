@@ -1,0 +1,13 @@
+up:: [[pkm_meta]]
+tags:: #on/readme
+
+# Extras
+The extras folder is going to holds all the tools needed to maintain and grow this PKM.
+
+None of the notes here are informative themselves, they are meant to support the overall pkm.
+
+What goes here:
+- Templates
+- Images
+- Attachments (books, pdfs, etc)
+- Documentation

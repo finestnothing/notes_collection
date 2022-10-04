@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "note_reorg/README.md"
+    },
+    {
+      "basename": "+start_here",
+      "path": "note_reorg/Extras/Entrance/+start_here.md"
+    },
+    {
+      "basename": "+about_entrance",
+      "path": "note_reorg/Extras/Entrance/+about_entrance.md"
+    },
+    {
       "basename": "+about_atlas",
       "path": "note_reorg/Atlas/+about_atlas.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "drawbacks_of_data_lake_house",
       "path": "Zettelkasten/mature/mapped/drawbacks_of_data_lake_house.md"
-    },
-    {
-      "basename": "benefits_of_data_lake_house",
-      "path": "Zettelkasten/mature/mapped/benefits_of_data_lake_house.md"
-    },
-    {
-      "basename": "drawbacks_of_data_lake",
-      "path": "Zettelkasten/mature/mapped/drawbacks_of_data_lake.md"
-    },
-    {
-      "basename": "data_warehouse",
-      "path": "Zettelkasten/mature/mapped/data_warehouse.md"
     }
   ],
   "omittedPaths": [],

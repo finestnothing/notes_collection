@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "+about_spaces",
+      "path": "note_reorg/Spaces/+about_spaces.md"
+    },
+    {
       "basename": "README",
       "path": "note_reorg/README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "data_lake_house_bronze_layer",
       "path": "Zettelkasten/mature/mapped/data_lake_house_bronze_layer.md"
-    },
-    {
-      "basename": "drawbacks_of_data_lake_house",
-      "path": "Zettelkasten/mature/mapped/drawbacks_of_data_lake_house.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note_reorg/README.md",
+                "file": "note_reorg/Spaces/+about_spaces.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#to/do",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note_reorg/README.md",
+                "file": "note_reorg/Spaces/+about_spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note_reorg/README.md",
+                "file": "note_reorg/Spaces/+about_spaces.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note_reorg/README.md",
+                "file": "note_reorg/Spaces/+about_spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note_reorg/README.md"
+                "file": "note_reorg/Spaces/+about_spaces.md"
               }
             }
           }
@@ -217,17 +217,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8cc7d5248ce20a5c",
+  "active": "cd65a8532dd028d6",
   "lastOpenFiles": [
+    "note_reorg/README.md",
     "note_reorg/Extras/Entrance/+start_here.md",
     "note_reorg/Extras/Entrance/+about_entrance.md",
-    "note_reorg/README.md",
     "note_reorg/Extras/pkm_documentation.md",
     "note_reorg/Extras/queries.md",
     "note_reorg/Spaces/+about_spaces.md",

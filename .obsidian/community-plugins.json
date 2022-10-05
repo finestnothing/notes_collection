@@ -10,5 +10,9 @@
   "calendar",
   "obsidian-git",
   "find-unlinked-files",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-auto-link-title",
+  "obsidian-hover-editor",
+  "obsidian-outliner",
+  "tag-wrangler"
 ]

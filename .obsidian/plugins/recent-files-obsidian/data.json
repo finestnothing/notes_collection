@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "+about_spaces",
-      "path": "note_reorg/Spaces/+about_spaces.md"
+      "basename": "pkm_meta",
+      "path": "note_reorg/Atlas/pkm_meta.md"
     },
     {
       "basename": "README",
       "path": "note_reorg/README.md"
     },
     {
-      "basename": "+start_here",
-      "path": "note_reorg/Extras/Entrance/+start_here.md"
+      "basename": "pkm_documentation",
+      "path": "note_reorg/Extras/pkm_documentation.md"
+    },
+    {
+      "basename": "pkm_tags",
+      "path": "note_reorg/Cards/pkm_tags.md"
+    },
+    {
+      "basename": "queries",
+      "path": "note_reorg/Extras/queries.md"
+    },
+    {
+      "basename": "what_are_cards",
+      "path": "note_reorg/Cards/what_are_cards.md"
+    },
+    {
+      "basename": "map_of_content",
+      "path": "note_reorg/Cards/map_of_content.md"
+    },
+    {
+      "basename": "folders_moc",
+      "path": "note_reorg/Atlas/folders_moc.md"
+    },
+    {
+      "basename": "+about_atlas",
+      "path": "note_reorg/Atlas/+about_atlas.md"
     },
     {
       "basename": "+about_entrance",
       "path": "note_reorg/Extras/Entrance/+about_entrance.md"
     },
     {
-      "basename": "+about_atlas",
-      "path": "note_reorg/Atlas/+about_atlas.md"
+      "basename": "+about_cards",
+      "path": "note_reorg/Cards/+about_cards.md"
+    },
+    {
+      "basename": "+about_spaces",
+      "path": "note_reorg/Spaces/+about_spaces.md"
+    },
+    {
+      "basename": "+start_here",
+      "path": "note_reorg/Extras/Entrance/+start_here.md"
     },
     {
       "basename": "mcu_watch_order",
@@ -167,38 +199,6 @@
     {
       "basename": "FOSS",
       "path": "Zettelkasten/mature/mapped/FOSS.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "data_lake",
-      "path": "Zettelkasten/mature/mapped/data_lake.md"
-    },
-    {
-      "basename": "data_engineering_garden",
-      "path": "Zettelkasten/gardens/data_engineering_garden.md"
-    },
-    {
-      "basename": "databricks_pipeline",
-      "path": "Zettelkasten/mature/mapped/databricks_pipeline.md"
-    },
-    {
-      "basename": "delta_live_table",
-      "path": "Zettelkasten/mature/mapped/delta_live_table.md"
-    },
-    {
-      "basename": "data_lake_house_gold_layer",
-      "path": "Zettelkasten/mature/mapped/data_lake_house_gold_layer.md"
-    },
-    {
-      "basename": "data_lake_house_silver_layer",
-      "path": "Zettelkasten/mature/mapped/data_lake_house_silver_layer.md"
-    },
-    {
-      "basename": "data_lake_house_bronze_layer",
-      "path": "Zettelkasten/mature/mapped/data_lake_house_bronze_layer.md"
     }
   ],
   "omittedPaths": [],

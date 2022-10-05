@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "+about_cards",
+      "path": "note_reorg/Cards/+about_cards.md"
+    },
+    {
+      "basename": "map_of_content",
+      "path": "note_reorg/Cards/map_of_content.md"
+    },
+    {
       "basename": "pkm_meta",
       "path": "note_reorg/Atlas/pkm_meta.md"
     },
@@ -25,10 +33,6 @@
       "path": "note_reorg/Cards/what_are_cards.md"
     },
     {
-      "basename": "map_of_content",
-      "path": "note_reorg/Cards/map_of_content.md"
-    },
-    {
       "basename": "folders_moc",
       "path": "note_reorg/Atlas/folders_moc.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "+about_entrance",
       "path": "note_reorg/Extras/Entrance/+about_entrance.md"
-    },
-    {
-      "basename": "+about_cards",
-      "path": "note_reorg/Cards/+about_cards.md"
     },
     {
       "basename": "+about_spaces",

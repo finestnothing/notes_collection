@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note_reorg/Atlas/pkm_meta.md",
+                "file": "note_reorg/Cards/+about_cards.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note_reorg/Atlas/pkm_meta.md",
+                "file": "note_reorg/Cards/+about_cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note_reorg/Atlas/pkm_meta.md",
+                "file": "note_reorg/Cards/+about_cards.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note_reorg/Atlas/pkm_meta.md",
+                "file": "note_reorg/Cards/+about_cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note_reorg/Atlas/pkm_meta.md"
+                "file": "note_reorg/Cards/+about_cards.md"
               }
             }
           }
@@ -216,22 +216,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "7fd419535633dc84",
   "lastOpenFiles": [
-    "note_reorg/README.md",
+    "note_reorg/Atlas/folders_moc.md",
+    "note_reorg/Cards/+about_cards.md",
+    "note_reorg/Cards/map_of_content.md",
     "note_reorg/Atlas/pkm_meta.md",
+    "note_reorg/README.md",
     "note_reorg/Extras/Entrance/+start_here.md",
     "note_reorg/Extras/pkm_documentation.md",
     "note_reorg/Cards/pkm_tags.md",
     "note_reorg/Extras/queries.md",
-    "note_reorg/Cards/what_are_cards.md",
-    "note_reorg/Cards/map_of_content.md",
-    "note_reorg/Atlas/folders_moc.md",
-    "note_reorg/Cards/+about_cards.md"
+    "note_reorg/Cards/what_are_cards.md"
   ]
 }

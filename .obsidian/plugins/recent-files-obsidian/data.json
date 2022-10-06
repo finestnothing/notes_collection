@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "+about_dev",
+      "path": "note_reorg/Dev/+about_dev.md"
+    },
+    {
+      "basename": "+about_planning",
+      "path": "note_reorg/Planning/+about_planning.md"
+    },
+    {
       "basename": "+about_cards",
       "path": "note_reorg/Cards/+about_cards.md"
+    },
+    {
+      "basename": "pkm_documentation",
+      "path": "note_reorg/Extras/pkm_documentation.md"
+    },
+    {
+      "basename": "README",
+      "path": "note_reorg/README.md"
     },
     {
       "basename": "map_of_content",
@@ -11,14 +27,6 @@
     {
       "basename": "pkm_meta",
       "path": "note_reorg/Atlas/pkm_meta.md"
-    },
-    {
-      "basename": "README",
-      "path": "note_reorg/README.md"
-    },
-    {
-      "basename": "pkm_documentation",
-      "path": "note_reorg/Extras/pkm_documentation.md"
     },
     {
       "basename": "pkm_tags",
@@ -191,14 +199,6 @@
     {
       "basename": "markdown",
       "path": "Zettelkasten/mature/mapped/markdown.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "Zettelkasten/mature/mapped/obsidian.md"
-    },
-    {
-      "basename": "FOSS",
-      "path": "Zettelkasten/mature/mapped/FOSS.md"
     }
   ],
   "omittedPaths": [],

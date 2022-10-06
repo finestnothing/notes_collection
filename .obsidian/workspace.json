@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note_reorg/Cards/+about_cards.md",
+                "file": "note_reorg/Extras/pkm_documentation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4041d713e21657a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note_reorg/Dev/+about_dev.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b50c0ae3c93a03b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note_reorg/Dev/+about_dev.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note_reorg/Cards/+about_cards.md",
+                "file": "note_reorg/Dev/+about_dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note_reorg/Cards/+about_cards.md",
+                "file": "note_reorg/Dev/+about_dev.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note_reorg/Cards/+about_cards.md",
+                "file": "note_reorg/Dev/+about_dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note_reorg/Cards/+about_cards.md"
+                "file": "note_reorg/Dev/+about_dev.md"
               }
             }
           }
@@ -222,17 +249,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7fd419535633dc84",
+  "active": "6b50c0ae3c93a03b",
   "lastOpenFiles": [
-    "note_reorg/Atlas/folders_moc.md",
+    "note_reorg/Planning/+about_planning.md",
+    "note_reorg/Dev/+about_dev.md",
     "note_reorg/Cards/+about_cards.md",
+    "note_reorg/Extras/pkm_documentation.md",
+    "note_reorg/README.md",
+    "note_reorg/Extras/queries.md",
+    "note_reorg/Atlas/folders_moc.md",
     "note_reorg/Cards/map_of_content.md",
     "note_reorg/Atlas/pkm_meta.md",
-    "note_reorg/README.md",
-    "note_reorg/Extras/Entrance/+start_here.md",
-    "note_reorg/Extras/pkm_documentation.md",
-    "note_reorg/Cards/pkm_tags.md",
-    "note_reorg/Extras/queries.md",
-    "note_reorg/Cards/what_are_cards.md"
+    "note_reorg/Extras/Entrance/+start_here.md"
   ]
 }

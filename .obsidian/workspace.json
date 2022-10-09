@@ -45,19 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3f353e507eae2f89",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "0.16.5"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,7 +249,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3f353e507eae2f89",
+  "active": "6b50c0ae3c93a03b",
   "lastOpenFiles": [
     "note_reorg/Planning/+about_planning.md",
     "note_reorg/Dev/+about_dev.md",

@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "databricks",
-  "showTags": true,
+  "search": "",
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -12,11 +12,11 @@
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.03972602739726,
-  "collapse-forces": true,
-  "centerStrength": 0.443820224719101,
-  "repelStrength": 20,
-  "linkStrength": 0.960674157303371,
-  "linkDistance": 323,
-  "scale": 0.27268599173602953,
+  "collapse-forces": false,
+  "centerStrength": 0.255208333333333,
+  "repelStrength": 13.9583333333333,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.3823010968770307,
   "close": false
 }

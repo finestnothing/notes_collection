@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6553d4355ed66656",
+        "id": "c395a3ddb53a569c",
         "type": "tabs",
         "children": [
           {
-            "id": "0156ff5334ad4007",
+            "id": "c40d252b31ee0b01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Media/Books/TBR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "50b27e26edf54d2a",
+            "id": "b8f0089faa7aff4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Media/mcu_watch_order.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#map",
+                "query": "tag:#zettel/pending",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 329.5
   },
   "right": {
     "id": "91810ddf573f6a0a",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Media/mcu_watch_order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Media/mcu_watch_order.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Media/mcu_watch_order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Spaces/Media/mcu_watch_order.md"
               }
             }
           }
@@ -236,17 +236,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "50b27e26edf54d2a",
+  "active": "b8f0089faa7aff4a",
   "lastOpenFiles": [
-    "Atlas/folders_moc.md",
-    "Atlas/pkm_meta.md",
-    "Atlas/rpg_games_moc.md",
-    "Atlas/databricks_moc.md",
-    "Atlas/data_engineering_moc.md",
-    "Cards/map_of_content.md",
-    "Cards/pkm_tags.md",
-    "Dev/to_rewrite/databricks_sql.md",
-    "Atlas/+about_atlas.md",
-    "Calendar/+about_calendar.md"
+    "Spaces/Media/Books/in-progress/Untitled.md",
+    "Spaces/Media/Books/dune_series.md",
+    "Spaces/Media/Books/TBR.md",
+    "Spaces/Media/Books/stephen_hawking_books.md",
+    "Spaces/Media/Books/foundation_series.md",
+    "Spaces/Media/Books/read/foundation.md",
+    "Spaces/Media/Books/read/circe.md",
+    "Spaces/Media/Books/TBR_old.md",
+    "Spaces/Media/movies.md",
+    "Spaces/Projects/portfolio_website.md"
   ]
 }

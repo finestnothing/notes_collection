@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "mcu_watch_order",
+      "path": "Spaces/Media/mcu_watch_order.md"
     },
     {
-      "basename": "folders_moc",
-      "path": "Atlas/folders_moc.md"
+      "basename": "dune_series",
+      "path": "Spaces/Media/Books/dune_series.md"
     },
     {
-      "basename": "pkm_meta",
-      "path": "Atlas/pkm_meta.md"
+      "basename": "TBR",
+      "path": "Spaces/Media/Books/TBR.md"
     },
     {
-      "basename": "rpg_games_moc",
-      "path": "Atlas/rpg_games_moc.md"
+      "basename": "stephen_hawking_books",
+      "path": "Spaces/Media/Books/stephen_hawking_books.md"
     },
     {
-      "basename": "databricks_moc",
-      "path": "Atlas/databricks_moc.md"
+      "basename": "foundation_series",
+      "path": "Spaces/Media/Books/foundation_series.md"
     },
     {
-      "basename": "data_engineering_moc",
-      "path": "Atlas/data_engineering_moc.md"
-    },
-    {
-      "basename": "map_of_content",
-      "path": "Cards/map_of_content.md"
-    },
-    {
-      "basename": "databricks_sql",
-      "path": "Dev/to_rewrite/databricks_sql.md"
-    },
-    {
-      "basename": "pkm_tags",
-      "path": "Cards/pkm_tags.md"
-    },
-    {
-      "basename": "+about_calendar",
-      "path": "Calendar/+about_calendar.md"
-    },
-    {
-      "basename": "+info_dnd",
-      "path": "Spaces/dnd/+info_dnd.md"
-    },
-    {
-      "basename": "+info_call_of_cthulu",
-      "path": "Spaces/call_of_cthulu/+info_call_of_cthulu.md"
-    },
-    {
-      "basename": "+info_databricks_training",
-      "path": "Spaces/databricks_training/+info_databricks_training.md"
-    },
-    {
-      "basename": "+info_data_engineer_path",
-      "path": "Spaces/databricks_training/data_engineer_path/+info_data_engineer_path.md"
-    },
-    {
-      "basename": "+about_spaces",
-      "path": "Spaces/+about_spaces.md"
-    },
-    {
-      "basename": "+about_sources",
-      "path": "Sources/+about_sources.md"
-    },
-    {
-      "basename": "+about_inbox",
-      "path": "Inbox/+about_inbox.md"
-    },
-    {
-      "basename": "+about_dev",
-      "path": "Dev/+about_dev.md"
-    },
-    {
-      "basename": "data_lake_house",
-      "path": "Dev/to_rewrite/data_lake_house.md"
-    },
-    {
-      "basename": "session_1_20220724",
-      "path": "Spaces/dnd/shattered_gates_campaign/session_notes/session_1_20220724.md"
-    },
-    {
-      "basename": "port",
-      "path": "Spaces/dnd/shattered_gates_campaign/players/port.md"
-    },
-    {
-      "basename": "mistra",
-      "path": "Spaces/dnd/shattered_gates_campaign/players/mistra.md"
-    },
-    {
-      "basename": "marak",
-      "path": "Spaces/dnd/shattered_gates_campaign/players/marak.md"
-    },
-    {
-      "basename": "Lucas(need_char_name)",
-      "path": "Spaces/dnd/shattered_gates_campaign/players/Lucas(need_char_name).md"
-    },
-    {
-      "basename": "demu",
-      "path": "Spaces/dnd/shattered_gates_campaign/npcs/demu.md"
-    },
-    {
-      "basename": "dnd_Cursed_book",
-      "path": "Spaces/dnd/homebrew/dnd_Cursed_book.md"
-    },
-    {
-      "basename": "dnd_Staff_of_horse",
-      "path": "Spaces/dnd/homebrew/dnd_Staff_of_horse.md"
-    },
-    {
-      "basename": "a-mathematical-theory-of-communication",
-      "path": "Sources/a-mathematical-theory-of-communication.pdf"
+      "basename": "portfolio_website",
+      "path": "Spaces/Projects/portfolio_website.md"
     },
     {
       "basename": "+about_atlas",
       "path": "Atlas/+about_atlas.md"
     },
     {
-      "basename": "benefits_of_data_lake",
-      "path": "Dev/to_rewrite/benefits_of_data_lake.md"
+      "basename": "bootstrapping_a_startup_moc",
+      "path": "Atlas/bootstrapping_a_startup_moc.md"
     },
     {
-      "basename": "01_what_is_the_databricks_lakehouse",
-      "path": "Spaces/databricks_training/data_engineer_path/01_what_is_the_databricks_lakehouse.md"
+      "basename": "data_engineering_moc",
+      "path": "Atlas/data_engineering_moc.md"
     },
     {
-      "basename": "benefits_of_data_lake_house",
-      "path": "Dev/to_rewrite/benefits_of_data_lake_house.md"
+      "basename": "databricks_moc",
+      "path": "Atlas/databricks_moc.md"
     },
     {
-      "basename": "data_engineering_garden",
-      "path": "Dev/to_rewrite/data_engineering_garden.md"
+      "basename": "folders_moc",
+      "path": "Atlas/folders_moc.md"
     },
     {
-      "basename": "data_lake",
-      "path": "Dev/to_rewrite/data_lake.md"
+      "basename": "historical_events_moc",
+      "path": "Atlas/historical_events_moc.md"
     },
     {
-      "basename": "benefits_of_bootstrapping",
-      "path": "Inbox/old_notes/Zettelkasten/mature/mapped/benefits_of_bootstrapping.md"
+      "basename": "lifestyle_improvements_moc",
+      "path": "Atlas/lifestyle_improvements_moc.md"
     },
     {
-      "basename": "benefits_of_2_machine_scheduling_process",
-      "path": "Inbox/old_notes/Zettelkasten/mature/mapped/benefits_of_2_machine_scheduling_process.md"
+      "basename": "pkm_meta",
+      "path": "Atlas/pkm_meta.md"
     },
     {
-      "basename": "benefits_of_task_grouping",
-      "path": "Inbox/old_notes/Zettelkasten/mature/mapped/benefits_of_task_grouping.md"
+      "basename": "product_creation_moc",
+      "path": "Atlas/product_creation_moc.md"
+    },
+    {
+      "basename": "recipe_moc",
+      "path": "Atlas/recipe_moc.md"
+    },
+    {
+      "basename": "research_moc",
+      "path": "Atlas/research_moc.md"
+    },
+    {
+      "basename": "why_categories_are_bad",
+      "path": "Dev/why_categories_are_bad.md"
+    },
+    {
+      "basename": "algorithms_to_live_by",
+      "path": "Dev/algorithms_to_live_by.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "+about_extras",
       "path": "Extras/+about_extras.md"
     },
     {
-      "basename": "pkm_documentation",
-      "path": "Extras/pkm_documentation.md"
-    },
-    {
-      "basename": "+about_cards",
-      "path": "Cards/+about_cards.md"
-    },
-    {
-      "basename": "queries",
-      "path": "Extras/queries.md"
-    },
-    {
-      "basename": "what_are_cards",
-      "path": "Cards/what_are_cards.md"
-    },
-    {
-      "basename": "+about_entrance",
-      "path": "Extras/Entrance/+about_entrance.md"
-    },
-    {
-      "basename": "+start_here",
-      "path": "Extras/Entrance/+start_here.md"
-    },
-    {
-      "basename": "mcu_watch_order",
-      "path": "Inbox/old_notes/Media/mcu_watch_order.md"
+      "basename": "zettelkasten_seedling",
+      "path": "Extras/Templates/zettelkasten_seedling.md"
     },
     {
       "basename": "202210011054",
-      "path": "Inbox/old_notes/Zettelkasten/seedlings/202210011054.md"
+      "path": "Inbox/202210011054.md"
     },
     {
-      "basename": "keymap_efficiency",
-      "path": "Inbox/old_notes/Projects/Ideas/keymap_efficiency.md"
+      "basename": "202209291917",
+      "path": "Inbox/202209291917.md"
     },
     {
-      "basename": "ideals",
-      "path": "Spaces/dnd/shattered_gates_campaign/port/ideals.md"
+      "basename": "202209291850",
+      "path": "Inbox/202209291850.md"
     },
     {
-      "basename": "gabur_strongjaw",
-      "path": "Spaces/dnd/shattered_gates_campaign/port/gabur_strongjaw.md"
+      "basename": "blog_topic_ideas",
+      "path": "Spaces/blog_output/blog_topic_ideas.md"
+    },
+    {
+      "basename": "tattoos",
+      "path": "Spaces/misc_ideas/tattoos.md"
+    },
+    {
+      "basename": "daily_note_template",
+      "path": "Extras/Templates/daily_note_template.md"
+    },
+    {
+      "basename": "to_read",
+      "path": "Spaces/to_read.md"
+    },
+    {
+      "basename": "cause_of_mars_rover_scheduling_bug",
+      "path": "Dev/cause_of_mars_rover_scheduling_bug.md"
+    },
+    {
+      "basename": "writing_reasearch_papers",
+      "path": "Dev/writing_reasearch_papers.md"
+    },
+    {
+      "basename": "data_lake_house",
+      "path": "Cards/data_lake_house.md"
+    },
+    {
+      "basename": "drawbacks_of_data_warehouse",
+      "path": "Cards/drawbacks_of_data_warehouse.md"
+    },
+    {
+      "basename": "drawbacks_of_data_lake_house",
+      "path": "Cards/drawbacks_of_data_lake_house.md"
+    },
+    {
+      "basename": "drawbacks_of_data_lake",
+      "path": "Cards/drawbacks_of_data_lake.md"
+    },
+    {
+      "basename": "delta_live_table",
+      "path": "Cards/delta_live_table.md"
+    },
+    {
+      "basename": "databricks_sql",
+      "path": "Cards/databricks_sql.md"
+    },
+    {
+      "basename": "databricks_pipeline",
+      "path": "Cards/databricks_pipeline.md"
+    },
+    {
+      "basename": "databricks_dashboard",
+      "path": "Cards/databricks_dashboard.md"
+    },
+    {
+      "basename": "data_warehouse",
+      "path": "Cards/data_warehouse.md"
+    },
+    {
+      "basename": "data_lake_house_gold_layer",
+      "path": "Cards/data_lake_house_gold_layer.md"
+    },
+    {
+      "basename": "data_lake_house_silver_layer",
+      "path": "Cards/data_lake_house_silver_layer.md"
+    },
+    {
+      "basename": "data_lake_house_bronze_layer",
+      "path": "Cards/data_lake_house_bronze_layer.md"
+    },
+    {
+      "basename": "data_lake",
+      "path": "Cards/data_lake.md"
+    },
+    {
+      "basename": "01_what_is_the_databricks_lakehouse",
+      "path": "Spaces/databricks_training/data_engineer_path/01_what_is_the_databricks_lakehouse.md"
+    },
+    {
+      "basename": "benefits_of_data_warehouse",
+      "path": "Cards/benefits_of_data_warehouse.md"
+    },
+    {
+      "basename": "benefits_of_data_lake_house",
+      "path": "Cards/benefits_of_data_lake_house.md"
+    },
+    {
+      "basename": "benefits_of_data_lake",
+      "path": "Cards/benefits_of_data_lake.md"
+    },
+    {
+      "basename": "rpg_games_moc",
+      "path": "Atlas/rpg_games_moc.md"
+    },
+    {
+      "basename": "map_of_content",
+      "path": "Cards/map_of_content.md"
     }
   ],
   "omittedPaths": [],

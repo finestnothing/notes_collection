@@ -1,4 +1,0 @@
-# {{date:YYYYMMDD}}
-## Notes
-
-## Work

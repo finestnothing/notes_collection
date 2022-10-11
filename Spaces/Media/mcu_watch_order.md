@@ -1,0 +1,112 @@
+# MCU Watch Order
+- [x] Captain America: The First Avenger
+- [x] Agent Carter one shot
+- [x] Captain Marvel
+- [x] Iron Man
+- [x] Iron Man 2
+- [x] The Incredible Hulk
+- [x] The Consultant one shot
+- [x] A Funny Thing Happened on the Way to Thor's Hammer
+- [x] Thor
+- [x] The Avengers
+- [x] Item 47 one shot
+- [x] Iron Man 3
+- [x] All Hail the King one shot
+- [x] Agents of SHIELD season 1 episodes 1-7
+- [x] Thor: The Dark World
+- [x] Agents of SHIELD season 1 episodes 8-16
+- [x] Captain America: The Winter Soldier
+- [x] Agents of SHIELD season 1 episodes 17-22
+- [x] Guardians of the Galaxy
+- [x] Guardians of the Galaxy Vol 2
+- [ ] I am groot season 1
+- [x] Daredevil season 1
+- [x] Agents of Shield season 2 episodes 1-10
+- [x] Jessica Jones season 1
+- [x] Agents of SHIELD season 2 episodes 11-19
+- [x] Avengers: Age of Ultron
+- [x] Agents of SHIELD season 2 episodes 20-22
+- [x] Daredevil season 2 episodes 1-4
+- [x] Luke Cage season 1 episodes 1-4
+- [x] Daredevil season 2 episodes 5-11
+- [x] Jessica Jones season 1
+- [x] Luke Cage season 1 episodes 5-8
+- [x] Daredevil season 2 episodes 12-13
+- [x] Luke Cage season 1 episodes 9-13
+- [x] Ant-Man
+- [x] Iron Fist season 1
+- [x] Captain America: Civil War
+- [x] Agents of SHIELD season 3 episodes 1-19
+- [x] Team Thor one shot
+- [x] Team Thor: Part 2 one shot
+- [x] Black Widow
+- [x] Agents of SHIELD season 3 episodes 20-22
+- [x] The Defenders season 1
+- [x] Agents of SHIELD season 4 episodes 1-6
+- [x] Doctor Strange
+- [x] Black Panther
+- [x] Agents of SHIELD season 4 episodes 7-8
+- [x] Agents of SHIELD: Slingshot season 1 episodes 1-6
+- [x] Agents of SHIELD season 4 episodes 9-22
+- [ ] Spider-Man: Homecoming
+- [x] Thor: Ragnarok
+- [x] Team Darryl one shot
+- [x] The Inhumans season 1
+- [ ] The Punisher season 1
+- [ ] Runaways season 1
+- [x] Agents of SHIELD season 5 episodes 1-10
+- [x] Jessica Jones season 2
+- [x] Agents of SHIELD season 5 episodes 11-18
+- [ ] Cloak and Dagger season 1
+- [ ] Cloak and Dagger season 2
+- [ ] Luke Cage season 2
+- [ ] Iron Fist season 2
+- [ ] Daredevil season 3
+- [ ] The Punisher season 2
+- [x] Jessica Jones season 3
+- [ ] Ant-Man and the Wasp
+- [ ] Avengers: Infinity War
+- [x] Agents of Shield season 5 episodes 19-22
+- [x] Agents of Shield season 6
+- [ ] Agents of Shield season 7
+- [ ] Avengers: Endgame
+- [ ] Loki
+- [ ] What If...?
+- [ ] Wandavision
+- [ ] The Falcon and the Winter Soldier
+- [ ] Shang-Chi and the Legend of the Ten Rings
+- [ ] She-Hulk: Attorney at Law
+- [ ] Eternals
+- [ ] Spider-Man: Far From Home
+- [ ] Spider-Man: No Way Home
+- [ ] Doctor Strange in the Multiverse of Madness
+- [ ] Hawkeye
+- [ ] Moon Knight
+- [ ] Ms Marvel
+- [ ] Thor: Love and Thunder
+
+# Upcoming Marvel movies and TV
+- [ ] Black Panther: Wakanda Forever November 11, 2022 
+- [ ] The Guardians of the Galaxy Holiday Special - December 2022
+- [ ] Ant-Man and the Wasp: Quantumania - Feb 17, 2023
+- [ ] Secret Invasion - Spring 2023
+- [ ] Guardians of the Galaxy Vol 3 - May 5, 2023
+- [ ] [Echo](https://www.digitalspy.com/tv/ustv/a38330762/hawkeye- [ ]echo- [ ]explained- [ ]episode- [ ]2/) – Summer 2023  
+- [ ] [Loki](https://www.digitalspy.com/loki/) season 2 – Summer 2023  
+- [ ] [The Marvels](https://www.digitalspy.com/movies/a26410103/captain- [ ]marvel- [ ]2- [ ]movie- [ ]cast- [ ]release- [ ]date- [ ]plot- [ ]ms- [ ]marvel/) – July 28, 2023  
+- [ ] [Blade](https://www.digitalspy.com/movies/a28465275/marvel- [ ]blade- [ ]reboot- [ ]complicated- [ ]history/) – November 3, 2023  
+- [ ] [Ironheart](https://www.digitalspy.com/tv/ustv/a34935018/marvel- [ ]loki- [ ]falcon- [ ]ms- [ ]marvel- [ ]teasers/) – Autumn 2023  
+- [ ] [X-Men '97](https://www.digitalspy.com/tv/ustv/a38241880/x- [ ]men- [ ]97- [ ]animated- [ ]series- [ ]disney- [ ]plus/) – Autumn 2023  
+- [ ] [Agatha: Coven of Chaos](https://www.digitalspy.com/tv/ustv/a37896068/wandavision- [ ]spin- [ ]off- [ ]kathryn- [ ]hahn- [ ]agatha- [ ]harkness/) – Winter 2023  
+- [ ] [What If...? season 2](https://www.digitalspy.com/tv/ustv/a37878780/marvel- [ ]what- [ ]if- [ ]season- [ ]2- [ ]ending- [ ]credits/) – 2023  
+- [ ] [Daredevil: Born Again](https://www.digitalspy.com/tv/ustv/a40704403/daredevil- [ ]born- [ ]again- [ ]series- [ ]marvel/) – Spring 2024  
+- [ ] [Captain America: New World Order](https://www.digitalspy.com/movies/a36230525/captain- [ ]america- [ ]4- [ ]release- [ ]date/) – May 3, 2024  
+- [ ] [Thunderbolts](https://www.digitalspy.com/movies/a40254589/thunderbolts- [ ]release- [ ]date/) – July 26, 2024  
+- [ ] [Fantastic Four](https://www.digitalspy.com/fantastic- [ ]four/) – November 8, 2024  
+- [ ] [Spider-Man: Freshman Year](https://www.digitalspy.com/spider- [ ]man/) – 2024  
+- [ ] [Avengers: The Kang Dynasty](https://www.digitalspy.com/movies/a25845422/avengers- [ ]5- [ ]release- [ ]date- [ ]cast- [ ]title- [ ]endgame- [ ]sequel/) – May 2, 2025  
+- [ ] [Avengers: Secret Wars](https://www.digitalspy.com/movies/a40697238/avengers- [ ]5- [ ]6- [ ]phase- [ ]6- [ ]mcu- [ ]secret- [ ]wars/) – November 7, 2025  
+- [ ] [X-Men](https://www.digitalspy.com/x- [ ]men/) – TBA  
+- [ ] [Deadpool 3](https://www.digitalspy.com/movies/a862002/deadpool- [ ]3- [ ]release- [ ]date- [ ]cast- [ ]plot- [ ]trailer- [ ]ryan- [ ]reynolds/) – TBA  
+- [ ] [Armor Wars](https://www.digitalspy.com/tv/ustv/a34935018/marvel- [ ]loki- [ ]falcon- [ ]ms- [ ]marvel- [ ]teasers/) – TBA  
+- [ ] [Marvel Zombies](https://www.digitalspy.com/tv/ustv/a37508768/marvel- [ ]what- [ ]if- [ ]episode- [ ]5- [ ]uncle- [ ]ben/) – TBA

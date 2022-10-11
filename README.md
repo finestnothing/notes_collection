@@ -45,7 +45,6 @@ Here are some helpful links for understand what the heck is going on across the 
 - Maintenance and Building Resources
 	- [[+about_extras]]
 	- [[pkm_meta]]
-	- [[queries]]
 
 ## PKM Meta Access
 

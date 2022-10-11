@@ -11,3 +11,4 @@ What goes here:
 - Images
 - Attachments (books, pdfs, etc)
 - Documentation
+- [[queries]]

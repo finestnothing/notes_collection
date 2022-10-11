@@ -4,12 +4,13 @@ on:: #on/technology #databricks
 # What is Databricks Lakehouse
 
 ## Goals
-- Describe the lakehouse platform
+- Describe the [[data_lake_house]] platform
 	- Ingest, process, and process massive quantities of data
 	- Bronze -> silver -> gold layers
-- Origin of lakehouse
+- Origin of [[data_lake_house]]
 - Challenges around managing and using data
 - Security features of lakehouse
 - Organizations that have benefitted
 
-[[data_engineering_garden]] has all of the info for this.
+[[data_lake]]
+[[data_warehouse]]

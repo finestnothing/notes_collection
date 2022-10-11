@@ -6,7 +6,10 @@ This is a map of content to give more information about all of the folders going
 They are in roughly descending order of importance, but only an improvised order.
 
 - [[+about_cards]]
+- [[+about_dev]]
+- [[+about_dev]]
 - [[+about_atlas]]
 - [[+about_extras]]
 - [[+about_spaces]]
 - [[+about_entrance]]
+- [[+about_calendar]]

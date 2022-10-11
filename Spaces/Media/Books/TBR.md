@@ -1,0 +1,62 @@
+- Owned
+	- [[the_left_hand_of_darkness]] by Ursula K. Le Guin #book/classic
+	- [[the_shining]] by Steven King #book/classic #book/horror 
+	- [[i_robot]] by Isaac Asimov #book/scifi 
+	- [[good_omens]] by Terry Pratchett #book/fantasy 
+	- [[american_gods]] by Terry Pratchett #book/fantasy 
+	- [[the_history_of_the_computer]] by Rachel Ignotofsky #book/nonfiction 
+	- [[the_hobbit]] by J. R. R. Tolkein #book/fantasy 
+	- [[the_fellowship_of_the_ring]] by J. R. R. Tolkein #book/fantasy 
+	- [[the_two_towers]] by J. R. R. Tolkein #book/fantasy 
+	- [[the_return_of_the_king]] by J. R. R. Tolkein #book/fantasy 
+	- [[the_science_of_murder]] by Carla Valentine #book/nonfiction 
+	- [[frankenstein]] by Mary Shelley #book/classic 
+	- [[hyperion]] by Dan Simmons #book/scifi 
+	- [[fire_of_the_dark_triad]] by Asya Semenovich #book/scifi 
+	- [[i_am_legend]] by Richard Matheson #book/scifi #book/horror
+	- [[the_iliad]] by Homer #book/classic 
+	- [[the_odyssey]] by Homer #book/classic 
+	- [[project_hail_mary]] by Andy Weir #book/scifi 
+	- [[brave_new_world]] by Aldous Huxley #book/classic #book/dystopia 
+	- [[the_long_price_quartet]] by Daniel Abraham #book/series #book/fantasy 
+	- [[leviathan_wakes]] by Daniel Abraham #book/series #book/fantasy 
+	- [[new_spring]] by Robert Jordan #book/series #book/fantasy 
+	- [[the_eye_of_the_world]] by Robert Jordan #book/series #book/fantasy 
+	- [[the_great_hunt]] by Robert Jordan #book/series #book/fantasy 
+	- [[the_dragon_reborn]] by Robert Jordan #book/series #book/fantasy 
+	- [[the_shadow_rising]] by Robert Jordan #book/series #book/fantasy 
+	- [[lord_of_chaos]] by Robert Jordan #book/series #book/fantasy 
+	- [[vengeful]] by V. E. Schwab #book/series #book/fantasy 
+	- [[vicious]] by V. E. Schwab #book/series #book/fantasy 
+	- [[the_art_of_war]] by Sun Tzu #book/classic 
+	- [[a_conjuring_of_light]] by V. E. Schwab #book/series #book/fantasy 
+	- [[a_gathering_of_shadows]] by V. E. Schwab #book/series #book/fantasy 
+	- [[a_darker_shade_of_magic]] by V. E. Schwab #book/series #book/fantasy 
+- Not Owned
+	- Books under the #book/pending_sequel tag
+	- [[broken_angels]]
+	- [[woken_furies]]
+	- [[neverwhere]] by Neil Gaiman #book/fantasy 
+	- [[the_colour_of_magic]] by Terry Pratchett #book/fantasy #book/magic  
+	- [[enders_game]] by Orson Scott Card #book/scifi #book/space 
+	- [[ancillary_justice]] by Ann Leckie #book/space #book/scifi 
+	- [[the_name_of_the_wind]] by Patrick Rothfuss #book/fantasy #book/magic  
+	- [[pride_and_prejudice]] by Jane Austen #book/classic 
+	- [[jonathan_strange_and_mr_norrel]] by Susanna Clarke #book/fantasy #book/magic  
+	- [[we_are_legion]] by Dennis E. Taylor #book/scifi 
+	- [[the_handmaids_tale]] by Margaret Atwood #book/dystopia 
+	- [[1984]] by George Orwell #book/dystopia 
+	- [[dune_series]] #book/series #book/fantasy 
+	- [[the_martian]] by Andy Weir #book/scifi 
+	- [[stephen_hawking_books]] #book/nonfiction 
+	- [[animal_farm]] by George Orwell #book/classic 
+	- [[sandstorm]] by T. W. Piperbrook #book/fantasy #book/series 
+	- [[windswept]] by T. W. Piperbrook #book/fantasy #book/series 
+	- [[dustborn]] by T.W. Piperbrook #book/fantasy #book/series 
+	- [[war_torn]] by T.W. Piperbrook #book/fantasy #book/series 
+	- [[the_peripheral_e]] by William Gibson #book/classic 
+	- [[the_monsters_of_elendhaven]] by Jennifer Giesbrecht #book/fantasy 
+	- [[void_star]] by Zachary Mason #book/scifi
+	- [[the_atlas_six]] by Olivie Blake #book/fantasy #book/series #book/magic 
+	- [[the_atlas_paradox]] by Olivie Blake #book/fantasy #book/series #book/magic 
+	- [[seveneves]] by Neal Stephenson #book/apocalypse #book/scifi 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67e13a9051da9f82",
+        "id": "6553d4355ed66656",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd419535633dc84",
+            "id": "0156ff5334ad4007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note_reorg/Extras/pkm_documentation.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "b4041d713e21657a",
+            "id": "50b27e26edf54d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note_reorg/Dev/+about_dev.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b50c0ae3c93a03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note_reorg/Dev/+about_dev.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +46,7 @@
       {
         "id": "f169828df0192753",
         "type": "tabs",
-        "dimension": 66.82879377431907,
+        "dimension": 74.5136186770428,
         "children": [
           {
             "id": "cd65a8532dd028d6",
@@ -77,10 +64,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#extras",
-                "matchingCase": true,
+                "query": "tag:#map",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -110,7 +97,7 @@
       {
         "id": "cf3716fa6ef66749",
         "type": "tabs",
-        "dimension": 33.17120622568093,
+        "dimension": 25.486381322957197,
         "children": [
           {
             "id": "a924f77a45c6cb03",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note_reorg/Dev/+about_dev.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note_reorg/Dev/+about_dev.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note_reorg/Dev/+about_dev.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note_reorg/Dev/+about_dev.md"
+                "file": "README.md"
               }
             }
           }
@@ -249,17 +236,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6b50c0ae3c93a03b",
+  "active": "50b27e26edf54d2a",
   "lastOpenFiles": [
-    "note_reorg/Cards/pkm_tags.md",
-    "note_reorg/Dev/+about_dev.md",
-    "note_reorg/Planning/+about_planning.md",
-    "note_reorg/Cards/+about_cards.md",
-    "note_reorg/Extras/pkm_documentation.md",
-    "note_reorg/README.md",
-    "note_reorg/Extras/queries.md",
-    "note_reorg/Atlas/folders_moc.md",
-    "note_reorg/Cards/map_of_content.md",
-    "note_reorg/Atlas/pkm_meta.md"
+    "Atlas/folders_moc.md",
+    "Atlas/pkm_meta.md",
+    "Atlas/rpg_games_moc.md",
+    "Atlas/databricks_moc.md",
+    "Atlas/data_engineering_moc.md",
+    "Cards/map_of_content.md",
+    "Cards/pkm_tags.md",
+    "Dev/to_rewrite/databricks_sql.md",
+    "Atlas/+about_atlas.md",
+    "Calendar/+about_calendar.md"
   ]
 }

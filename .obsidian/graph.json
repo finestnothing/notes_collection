@@ -1,22 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "path:Zettelkasten",
+  "search": "databricks",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.03972602739726,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.443820224719101,
   "repelStrength": 20,
   "linkStrength": 0.960674157303371,
   "linkDistance": 323,
-  "scale": 0.3823010968770251,
-  "close": true
+  "scale": 0.27268599173602953,
+  "close": false
 }

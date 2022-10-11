@@ -16,7 +16,7 @@
   },
   "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Attachments",
+  "attachmentFolderPath": "note_reorg/Sources",
   "showFrontmatter": false,
   "newFileLocation": "current",
   "mobileToolbarCommands": [

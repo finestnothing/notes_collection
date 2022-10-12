@@ -16,7 +16,7 @@ They're all right here waiting for you.
 
 >[!INFO]
 >This is a dataview query
->The results only show up if the files are downloaded locally, queries like this don't work in [[obsidian_publish]]
+>The results only show up if the files are downloaded locally, queries like this don't work in obsidian publish.
 ``` dataview
 TABLE WITHOUT ID
 	file.link as "Map of Content",

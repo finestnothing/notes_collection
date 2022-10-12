@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Media/mcu_watch_order.md",
+                "file": "Inbox/202210111615.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Media/mcu_watch_order.md",
+                "file": "Inbox/202210111615.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Media/mcu_watch_order.md",
+                "file": "Inbox/202210111615.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Media/mcu_watch_order.md",
+                "file": "Inbox/202210111615.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Media/mcu_watch_order.md"
+                "file": "Inbox/202210111615.md"
               }
             }
           }
@@ -238,15 +238,15 @@
   },
   "active": "b8f0089faa7aff4a",
   "lastOpenFiles": [
-    "Spaces/Media/Books/in-progress/Untitled.md",
-    "Spaces/Media/Books/dune_series.md",
-    "Spaces/Media/Books/TBR.md",
-    "Spaces/Media/Books/stephen_hawking_books.md",
-    "Spaces/Media/Books/foundation_series.md",
-    "Spaces/Media/Books/read/foundation.md",
-    "Spaces/Media/Books/read/circe.md",
-    "Spaces/Media/Books/TBR_old.md",
-    "Spaces/Media/movies.md",
-    "Spaces/Projects/portfolio_website.md"
+    "Sources/fundamentals_of_the_databricks_lakehouse_platform_accreditation.pdf",
+    "Inbox/202210111615.md",
+    "Sources/Papers/a-mathematical-theory-of-communication.pdf",
+    "Inbox/202210111603.md",
+    "Inbox/202210111545.md",
+    "Inbox/202210011054.md",
+    "Inbox/202210111635.md",
+    "Inbox/+about_inbox.md",
+    "Inbox/202209291850.md",
+    "Cards/databricks_sql.md"
   ]
 }

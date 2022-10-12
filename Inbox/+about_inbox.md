@@ -21,5 +21,3 @@ SORT file.cday asc
 
 LIMIT 20
 ```
-
-#to/do - Sort through old_notes, integrate with new PKM

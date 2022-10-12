@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "202210111615",
+      "path": "Inbox/202210111615.md"
+    },
+    {
+      "basename": "a-mathematical-theory-of-communication",
+      "path": "Sources/Papers/a-mathematical-theory-of-communication.pdf"
+    },
+    {
+      "basename": "202210111603",
+      "path": "Inbox/202210111603.md"
+    },
+    {
+      "basename": "202210111545",
+      "path": "Inbox/202210111545.md"
+    },
+    {
+      "basename": "202210011054",
+      "path": "Inbox/202210011054.md"
+    },
+    {
+      "basename": "+about_inbox",
+      "path": "Inbox/+about_inbox.md"
+    },
+    {
+      "basename": "202209291850",
+      "path": "Inbox/202209291850.md"
+    },
+    {
+      "basename": "databricks_sql",
+      "path": "Cards/databricks_sql.md"
+    },
+    {
+      "basename": "databricks_moc",
+      "path": "Atlas/databricks_moc.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "ready_player_two",
+      "path": "Spaces/Media/Books/read/ready_player_two.md"
+    },
+    {
+      "basename": "ready_player_one",
+      "path": "Spaces/Media/Books/read/ready_player_one.md"
+    },
+    {
+      "basename": "data_engineering_moc",
+      "path": "Atlas/data_engineering_moc.md"
+    },
+    {
       "basename": "mcu_watch_order",
       "path": "Spaces/Media/mcu_watch_order.md"
     },
@@ -31,14 +83,6 @@
     {
       "basename": "bootstrapping_a_startup_moc",
       "path": "Atlas/bootstrapping_a_startup_moc.md"
-    },
-    {
-      "basename": "data_engineering_moc",
-      "path": "Atlas/data_engineering_moc.md"
-    },
-    {
-      "basename": "databricks_moc",
-      "path": "Atlas/databricks_moc.md"
     },
     {
       "basename": "folders_moc",
@@ -77,10 +121,6 @@
       "path": "Dev/algorithms_to_live_by.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "+about_extras",
       "path": "Extras/+about_extras.md"
     },
@@ -89,16 +129,8 @@
       "path": "Extras/Templates/zettelkasten_seedling.md"
     },
     {
-      "basename": "202210011054",
-      "path": "Inbox/202210011054.md"
-    },
-    {
       "basename": "202209291917",
       "path": "Inbox/202209291917.md"
-    },
-    {
-      "basename": "202209291850",
-      "path": "Inbox/202209291850.md"
     },
     {
       "basename": "blog_topic_ideas",
@@ -145,10 +177,6 @@
       "path": "Cards/delta_live_table.md"
     },
     {
-      "basename": "databricks_sql",
-      "path": "Cards/databricks_sql.md"
-    },
-    {
       "basename": "databricks_pipeline",
       "path": "Cards/databricks_pipeline.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "data_lake_house_bronze_layer",
       "path": "Cards/data_lake_house_bronze_layer.md"
-    },
-    {
-      "basename": "data_lake",
-      "path": "Cards/data_lake.md"
-    },
-    {
-      "basename": "01_what_is_the_databricks_lakehouse",
-      "path": "Spaces/databricks_training/data_engineer_path/01_what_is_the_databricks_lakehouse.md"
-    },
-    {
-      "basename": "benefits_of_data_warehouse",
-      "path": "Cards/benefits_of_data_warehouse.md"
-    },
-    {
-      "basename": "benefits_of_data_lake_house",
-      "path": "Cards/benefits_of_data_lake_house.md"
-    },
-    {
-      "basename": "benefits_of_data_lake",
-      "path": "Cards/benefits_of_data_lake.md"
-    },
-    {
-      "basename": "rpg_games_moc",
-      "path": "Atlas/rpg_games_moc.md"
-    },
-    {
-      "basename": "map_of_content",
-      "path": "Cards/map_of_content.md"
     }
   ],
   "omittedPaths": [],

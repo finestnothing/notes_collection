@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/202210111615.md",
+                "file": "Inbox/202209291850.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/202210111615.md",
+                "file": "Inbox/202209291850.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/202210111615.md",
+                "file": "Inbox/202209291850.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/202210111615.md",
+                "file": "Inbox/202209291850.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/202210111615.md"
+                "file": "Inbox/202209291850.md"
               }
             }
           }
@@ -238,8 +238,8 @@
   },
   "active": "b8f0089faa7aff4a",
   "lastOpenFiles": [
-    "Sources/fundamentals_of_the_databricks_lakehouse_platform_accreditation.pdf",
     "Inbox/202210111615.md",
+    "Sources/fundamentals_of_the_databricks_lakehouse_platform_accreditation.pdf",
     "Sources/Papers/a-mathematical-theory-of-communication.pdf",
     "Inbox/202210111603.md",
     "Inbox/202210111545.md",

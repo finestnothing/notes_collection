@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "mcu_watch_order",
+      "path": "Spaces/Media/mcu_watch_order.md"
+    },
+    {
       "basename": "sourdough_bread",
       "path": "Cards/sourdough_bread.md"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "data_engineering_moc",
       "path": "Atlas/data_engineering_moc.md"
-    },
-    {
-      "basename": "mcu_watch_order",
-      "path": "Spaces/Media/mcu_watch_order.md"
     },
     {
       "basename": "dune_series",

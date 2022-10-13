@@ -52,13 +52,13 @@
 - [x] Thor: Ragnarok
 - [x] Team Darryl one shot
 - [x] The Inhumans season 1
-- [ ] The Punisher season 1
-- [ ] Runaways season 1
+- [x] The Punisher season 1
+- [x] Runaways season 1
 - [x] Agents of SHIELD season 5 episodes 1-10
 - [x] Jessica Jones season 2
 - [x] Agents of SHIELD season 5 episodes 11-18
-- [ ] Cloak and Dagger season 1
-- [ ] Cloak and Dagger season 2
+- [x] Cloak and Dagger season 1
+- [x] Cloak and Dagger season 2
 - [ ] Luke Cage season 2
 - [ ] Iron Fist season 2
 - [ ] Daredevil season 3

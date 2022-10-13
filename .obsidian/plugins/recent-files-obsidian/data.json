@@ -1,28 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "202209291850",
-      "path": "Inbox/202209291850.md"
+      "basename": "sourdough_bread",
+      "path": "Cards/sourdough_bread.md"
+    },
+    {
+      "basename": "stretch_and_fold",
+      "path": "Cards/stretch_and_fold.md"
+    },
+    {
+      "basename": "dough_rise",
+      "path": "Cards/dough_rise.md"
+    },
+    {
+      "basename": "recipe_moc",
+      "path": "Atlas/recipe_moc.md"
+    },
+    {
+      "basename": "autolyze",
+      "path": "Cards/autolyze.md"
+    },
+    {
+      "basename": "card_template",
+      "path": "Extras/Templates/card_template.md"
+    },
+    {
+      "basename": "alfredo_sauce",
+      "path": "Cards/alfredo_sauce.md"
+    },
+    {
+      "basename": "homemade_pasta",
+      "path": "Cards/homemade_pasta.md"
+    },
+    {
+      "basename": "sourdough_pizza_crust",
+      "path": "Cards/sourdough_pizza_crust.md"
+    },
+    {
+      "basename": "+info_databricks_training_notes",
+      "path": "Spaces/databricks_training_notes/+info_databricks_training_notes.md"
     },
     {
       "basename": "202210111615",
-      "path": "Inbox/202210111615.md"
+      "path": "Spaces/databricks_training_notes/202210111615.md"
+    },
+    {
+      "basename": "202210111545",
+      "path": "Spaces/databricks_training_notes/202210111545.md"
+    },
+    {
+      "basename": "202210111603",
+      "path": "Spaces/databricks_training_notes/202210111603.md"
+    },
+    {
+      "basename": "auction_types",
+      "path": "Dev/auction_types.md"
+    },
+    {
+      "basename": "my_product_is_my_garden",
+      "path": "Dev/my_product_is_my_garden.md"
+    },
+    {
+      "basename": "the_starless_crown",
+      "path": "Spaces/Media/Books/read/the_starless_crown.md"
+    },
+    {
+      "basename": "template_list",
+      "path": "Extras/Templates/template_list.md"
+    },
+    {
+      "basename": "recipe_template",
+      "path": "Extras/Templates/recipe_template.md"
+    },
+    {
+      "basename": "daily_note_template",
+      "path": "Extras/Templates/daily_note_template.md"
+    },
+    {
+      "basename": "book_template",
+      "path": "Extras/Templates/book_template.md"
+    },
+    {
+      "basename": "+about_extras",
+      "path": "Extras/+about_extras.md"
+    },
+    {
+      "basename": "pkm_documentation",
+      "path": "Extras/pkm_documentation.md"
+    },
+    {
+      "basename": "map_of_content_template",
+      "path": "Extras/Templates/map_of_content_template.md"
+    },
+    {
+      "basename": "dev_note_template",
+      "path": "Extras/Templates/dev_note_template.md"
+    },
+    {
+      "basename": "inbox_note_template",
+      "path": "Extras/Templates/inbox_note_template.md"
+    },
+    {
+      "basename": "no_vague_messages",
+      "path": "Dev/no_vague_messages.md"
+    },
+    {
+      "basename": "202210121539",
+      "path": "Spaces/databricks_training_notes/202210121539.md"
     },
     {
       "basename": "a-mathematical-theory-of-communication",
       "path": "Sources/Papers/a-mathematical-theory-of-communication.pdf"
-    },
-    {
-      "basename": "202210111603",
-      "path": "Inbox/202210111603.md"
-    },
-    {
-      "basename": "202210111545",
-      "path": "Inbox/202210111545.md"
-    },
-    {
-      "basename": "202210011054",
-      "path": "Inbox/202210011054.md"
     },
     {
       "basename": "+about_inbox",
@@ -105,100 +193,8 @@
       "path": "Atlas/product_creation_moc.md"
     },
     {
-      "basename": "recipe_moc",
-      "path": "Atlas/recipe_moc.md"
-    },
-    {
       "basename": "research_moc",
       "path": "Atlas/research_moc.md"
-    },
-    {
-      "basename": "why_categories_are_bad",
-      "path": "Dev/why_categories_are_bad.md"
-    },
-    {
-      "basename": "algorithms_to_live_by",
-      "path": "Dev/algorithms_to_live_by.md"
-    },
-    {
-      "basename": "+about_extras",
-      "path": "Extras/+about_extras.md"
-    },
-    {
-      "basename": "zettelkasten_seedling",
-      "path": "Extras/Templates/zettelkasten_seedling.md"
-    },
-    {
-      "basename": "202209291917",
-      "path": "Inbox/202209291917.md"
-    },
-    {
-      "basename": "blog_topic_ideas",
-      "path": "Spaces/blog_output/blog_topic_ideas.md"
-    },
-    {
-      "basename": "tattoos",
-      "path": "Spaces/misc_ideas/tattoos.md"
-    },
-    {
-      "basename": "daily_note_template",
-      "path": "Extras/Templates/daily_note_template.md"
-    },
-    {
-      "basename": "to_read",
-      "path": "Spaces/to_read.md"
-    },
-    {
-      "basename": "cause_of_mars_rover_scheduling_bug",
-      "path": "Dev/cause_of_mars_rover_scheduling_bug.md"
-    },
-    {
-      "basename": "writing_reasearch_papers",
-      "path": "Dev/writing_reasearch_papers.md"
-    },
-    {
-      "basename": "data_lake_house",
-      "path": "Cards/data_lake_house.md"
-    },
-    {
-      "basename": "drawbacks_of_data_warehouse",
-      "path": "Cards/drawbacks_of_data_warehouse.md"
-    },
-    {
-      "basename": "drawbacks_of_data_lake_house",
-      "path": "Cards/drawbacks_of_data_lake_house.md"
-    },
-    {
-      "basename": "drawbacks_of_data_lake",
-      "path": "Cards/drawbacks_of_data_lake.md"
-    },
-    {
-      "basename": "delta_live_table",
-      "path": "Cards/delta_live_table.md"
-    },
-    {
-      "basename": "databricks_pipeline",
-      "path": "Cards/databricks_pipeline.md"
-    },
-    {
-      "basename": "databricks_dashboard",
-      "path": "Cards/databricks_dashboard.md"
-    },
-    {
-      "basename": "data_warehouse",
-      "path": "Cards/data_warehouse.md"
-    },
-    {
-      "basename": "data_lake_house_gold_layer",
-      "path": "Cards/data_lake_house_gold_layer.md"
-    },
-    {
-      "basename": "data_lake_house_silver_layer",
-      "path": "Cards/data_lake_house_silver_layer.md"
-    },
-    {
-      "basename": "data_lake_house_bronze_layer",
-      "path": "Cards/data_lake_house_bronze_layer.md"
     }
   ],
   "omittedPaths": [],

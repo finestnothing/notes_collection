@@ -1,3 +1,8 @@
+up:: [[recipe_moc]]
+tags:: #on/food 
+ingredients:: 1 cup heavy whipping cream, 4 tbsp butter, 1 1/2 cup gruyere and/or parmesan, some chopped parsley, salt
+hardware:: pot, cheese grater
+
 # alfredo_sauce
 Created: 2022-09-29 16:51
 

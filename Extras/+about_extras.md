@@ -7,7 +7,7 @@ The extras folder is going to holds all the tools needed to maintain and grow th
 None of the notes here are informative themselves, they are meant to support the overall pkm.
 
 What goes here:
-- Templates
+- [[template_list]]
 - Images
 - Attachments (books, pdfs, etc)
 - Documentation

@@ -1,5 +1,5 @@
 {
   "askBeforeMerging": true,
-  "template": "Templates/zettelkasten_note",
+  "template": "Extras/Templates/extract_template",
   "replacementText": "embed"
 }

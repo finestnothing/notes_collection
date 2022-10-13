@@ -1,0 +1,4 @@
+- Purpose: Create a csv from the data
+- Inputs: data
+- Outputs: csv file
+- Questions: Where to write it? Workspaces doesn't support non-notebook files.

@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8f0089faa7aff4a",
+            "id": "57b5845e6abe3fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Media/mcu_watch_order.md",
+                "file": "Spaces/Work/integration_project/+info_integration_project.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "506b542ce592f000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Work/+info_work.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Media/mcu_watch_order.md",
+                "file": "Spaces/Work/+info_work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Media/mcu_watch_order.md",
+                "file": "Spaces/Work/+info_work.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Media/mcu_watch_order.md",
+                "file": "Spaces/Work/+info_work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Media/mcu_watch_order.md"
+                "file": "Spaces/Work/+info_work.md"
               }
             }
           }
@@ -222,17 +236,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b8f0089faa7aff4a",
+  "active": "506b542ce592f000",
   "lastOpenFiles": [
-    "Cards/sourdough_bread.md",
-    "Dev/sourdough_bread_process.md",
-    "Cards/stretch_and_fold.md",
-    "Cards/dough_rise.md",
-    "Atlas/recipe_moc.md",
-    "Cards/autolyze.md",
-    "Extras/Templates/card_template.md",
-    "Cards/alfredo_sauce.md",
-    "Cards/homemade_pasta.md",
-    "Cards/sourdough_pizza_crust.md"
+    "README.md",
+    "Spaces/Work/+info_work.md",
+    "Atlas/data_engineering_moc.md",
+    "Sources/+about_sources.md",
+    "Spaces/Work/integration_project/step functions.md",
+    "Extras/Templates/extract_template.md",
+    "Spaces/Work/integration_project/get_df.md",
+    "Spaces/Work/integration_project/+info_integration_project.md",
+    "Spaces/Work/integration_project/jira_proof_of_concept.md",
+    "Spaces/Media/mcu_watch_order.md"
   ]
 }

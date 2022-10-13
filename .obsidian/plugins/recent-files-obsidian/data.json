@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "+info_work",
+      "path": "Spaces/Work/+info_work.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "step functions",
+      "path": "Spaces/Work/integration_project/step functions.md"
+    },
+    {
+      "basename": "extract_template",
+      "path": "Extras/Templates/extract_template.md"
+    },
+    {
+      "basename": "get_df",
+      "path": "Spaces/Work/integration_project/get_df.md"
+    },
+    {
+      "basename": "+info_integration_project",
+      "path": "Spaces/Work/integration_project/+info_integration_project.md"
+    },
+    {
+      "basename": "jira_proof_of_concept",
+      "path": "Spaces/Work/integration_project/jira_proof_of_concept.md"
+    },
+    {
       "basename": "mcu_watch_order",
       "path": "Spaces/Media/mcu_watch_order.md"
     },
@@ -129,10 +157,6 @@
       "path": "Atlas/databricks_moc.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "ready_player_two",
       "path": "Spaces/Media/Books/read/ready_player_two.md"
     },
@@ -175,26 +199,6 @@
     {
       "basename": "folders_moc",
       "path": "Atlas/folders_moc.md"
-    },
-    {
-      "basename": "historical_events_moc",
-      "path": "Atlas/historical_events_moc.md"
-    },
-    {
-      "basename": "lifestyle_improvements_moc",
-      "path": "Atlas/lifestyle_improvements_moc.md"
-    },
-    {
-      "basename": "pkm_meta",
-      "path": "Atlas/pkm_meta.md"
-    },
-    {
-      "basename": "product_creation_moc",
-      "path": "Atlas/product_creation_moc.md"
-    },
-    {
-      "basename": "research_moc",
-      "path": "Atlas/research_moc.md"
     }
   ],
   "omittedPaths": [],

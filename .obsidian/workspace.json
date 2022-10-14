@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c395a3ddb53a569c",
+        "id": "482ddd081ca9fd00",
         "type": "tabs",
         "children": [
           {
-            "id": "57b5845e6abe3fb1",
+            "id": "53b1fff7e953e6b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Work/integration_project/+info_integration_project.md",
+                "file": "Calendar/20221014.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,30 +21,20 @@
             }
           },
           {
-            "id": "506b542ce592f000",
+            "id": "0e001abfa382c1fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Work/+info_work.md",
+                "file": "Spaces/Work/integration_project/odp_more_info.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "14cad6794eea17d7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Work/+info_work.md",
+                "file": "Spaces/Work/integration_project/odp_more_info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Work/+info_work.md",
+                "file": "Spaces/Work/integration_project/odp_more_info.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Work/+info_work.md",
+                "file": "Spaces/Work/integration_project/odp_more_info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Work/+info_work.md"
+                "file": "Spaces/Work/integration_project/odp_more_info.md"
               }
             }
           }
@@ -246,17 +236,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "14cad6794eea17d7",
+  "active": "0e001abfa382c1fe",
   "lastOpenFiles": [
-    "README.md",
-    "Spaces/Work/+info_work.md",
-    "Atlas/data_engineering_moc.md",
-    "Sources/+about_sources.md",
-    "Spaces/Work/integration_project/step functions.md",
-    "Extras/Templates/extract_template.md",
-    "Spaces/Work/integration_project/get_df.md",
     "Spaces/Work/integration_project/+info_integration_project.md",
+    "Spaces/Work/integration_project/odp_more_info.md",
+    "Spaces/Work/+info_work.md",
+    "Extras/Templates/extract_template.md",
+    "Spaces/Work/integration_project/step functions.md",
+    "Spaces/Work/integration_project/write_df.md",
+    "Spaces/Work/integration_project/log_data.md",
     "Spaces/Work/integration_project/jira_proof_of_concept.md",
-    "Spaces/Media/mcu_watch_order.md"
+    "Spaces/Work/work_notes.md",
+    "Calendar/20221014.md"
   ]
 }

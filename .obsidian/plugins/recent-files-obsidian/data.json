@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "+info_work",
-      "path": "Spaces/Work/+info_work.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "step functions",
-      "path": "Spaces/Work/integration_project/step functions.md"
-    },
-    {
-      "basename": "extract_template",
-      "path": "Extras/Templates/extract_template.md"
-    },
-    {
-      "basename": "get_df",
-      "path": "Spaces/Work/integration_project/get_df.md"
+      "basename": "odp_more_info",
+      "path": "Spaces/Work/integration_project/odp_more_info.md"
     },
     {
       "basename": "+info_integration_project",
       "path": "Spaces/Work/integration_project/+info_integration_project.md"
     },
     {
+      "basename": "+info_work",
+      "path": "Spaces/Work/+info_work.md"
+    },
+    {
+      "basename": "extract_template",
+      "path": "Extras/Templates/extract_template.md"
+    },
+    {
+      "basename": "step functions",
+      "path": "Spaces/Work/integration_project/step functions.md"
+    },
+    {
+      "basename": "write_df",
+      "path": "Spaces/Work/integration_project/write_df.md"
+    },
+    {
+      "basename": "log_data",
+      "path": "Spaces/Work/integration_project/log_data.md"
+    },
+    {
       "basename": "jira_proof_of_concept",
       "path": "Spaces/Work/integration_project/jira_proof_of_concept.md"
+    },
+    {
+      "basename": "work_notes",
+      "path": "Spaces/Work/work_notes.md"
+    },
+    {
+      "basename": "202210140825",
+      "path": "Inbox/202210140825.md"
+    },
+    {
+      "basename": "+about_inbox",
+      "path": "Inbox/+about_inbox.md"
+    },
+    {
+      "basename": "20221014",
+      "path": "Calendar/20221014.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "get_df",
+      "path": "Spaces/Work/integration_project/get_df.md"
     },
     {
       "basename": "mcu_watch_order",
@@ -145,10 +173,6 @@
       "path": "Sources/Papers/a-mathematical-theory-of-communication.pdf"
     },
     {
-      "basename": "+about_inbox",
-      "path": "Inbox/+about_inbox.md"
-    },
-    {
       "basename": "databricks_sql",
       "path": "Cards/databricks_sql.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "TBR",
       "path": "Spaces/Media/Books/TBR.md"
-    },
-    {
-      "basename": "stephen_hawking_books",
-      "path": "Spaces/Media/Books/stephen_hawking_books.md"
-    },
-    {
-      "basename": "foundation_series",
-      "path": "Spaces/Media/Books/foundation_series.md"
-    },
-    {
-      "basename": "portfolio_website",
-      "path": "Spaces/Projects/portfolio_website.md"
-    },
-    {
-      "basename": "+about_atlas",
-      "path": "Atlas/+about_atlas.md"
-    },
-    {
-      "basename": "bootstrapping_a_startup_moc",
-      "path": "Atlas/bootstrapping_a_startup_moc.md"
-    },
-    {
-      "basename": "folders_moc",
-      "path": "Atlas/folders_moc.md"
     }
   ],
   "omittedPaths": [],

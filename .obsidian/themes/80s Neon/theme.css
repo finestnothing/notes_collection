@@ -420,7 +420,7 @@ button.mod-warning {
 }
 
 /* 6.2. Screen flicker */
-/* DELETE THIS LINE TO ENABLE */
+/* DELETE THIS LINE TO ENABLE
 .app-container::after {
   content: " ";
   display: block;

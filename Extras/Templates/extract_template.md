@@ -1,4 +1,4 @@
-up:: {{fromTitle}}
+up:: [[{{fromTitle}}]]
 
 # {{newTitle}}
 

@@ -1,4 +1,3 @@
 - Purpose: Log any outgoing data to a table
 - Inputs: data info, date
 - Outputs: None
-- Questions: Will the date always be the current date, or should it support scheduling?

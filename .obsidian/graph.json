@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:Spaces/Work",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 16.3541666666667,
   "linkStrength": 1,
   "linkDistance": 360,
-  "scale": 0.09895430218638074,
-  "close": false
+  "scale": 0.7514342322278295,
+  "close": true
 }

@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14cad6794eea17d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,7 +246,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "506b542ce592f000",
+  "active": "14cad6794eea17d7",
   "lastOpenFiles": [
     "README.md",
     "Spaces/Work/+info_work.md",

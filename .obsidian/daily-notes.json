@@ -1,6 +1,6 @@
 {
   "folder": "Calendar",
   "autorun": false,
-  "template": "Templates/daily_note_template",
+  "template": "Extras/Templates/daily_note_template",
   "format": "YYYYMMDD"
 }

@@ -1,204 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "202210141556",
-      "path": "Spaces/Work/databricks_training_notes/202210141556.md"
-    },
-    {
-      "basename": "202210121539",
-      "path": "Spaces/Work/databricks_training_notes/202210121539.md"
-    },
-    {
-      "basename": "+info_databricks_training_notes",
-      "path": "Spaces/Work/databricks_training_notes/+info_databricks_training_notes.md"
-    },
-    {
-      "basename": "202210111545",
-      "path": "Spaces/Work/databricks_training_notes/202210111545.md"
-    },
-    {
-      "basename": "202210111603",
-      "path": "Spaces/Work/databricks_training_notes/202210111603.md"
-    },
-    {
-      "basename": "202210111615",
-      "path": "Spaces/Work/databricks_training_notes/202210111615.md"
-    },
-    {
-      "basename": "work_notes",
-      "path": "Spaces/Work/work_notes.md"
-    },
-    {
-      "basename": "databricks_moc",
-      "path": "Atlas/databricks_moc.md"
-    },
-    {
-      "basename": "202210140825",
-      "path": "Inbox/202210140825.md"
-    },
-    {
-      "basename": "odp_more_info",
-      "path": "Spaces/Work/integration_project/odp_more_info.md"
-    },
-    {
-      "basename": "+info_integration_project",
-      "path": "Spaces/Work/integration_project/+info_integration_project.md"
-    },
-    {
-      "basename": "+info_work",
-      "path": "Spaces/Work/+info_work.md"
-    },
-    {
-      "basename": "extract_template",
-      "path": "Extras/Templates/extract_template.md"
-    },
-    {
-      "basename": "step functions",
-      "path": "Spaces/Work/integration_project/step functions.md"
-    },
-    {
-      "basename": "write_df",
-      "path": "Spaces/Work/integration_project/write_df.md"
-    },
-    {
-      "basename": "log_data",
-      "path": "Spaces/Work/integration_project/log_data.md"
-    },
-    {
-      "basename": "jira_proof_of_concept",
-      "path": "Spaces/Work/integration_project/jira_proof_of_concept.md"
-    },
-    {
-      "basename": "+about_inbox",
-      "path": "Inbox/+about_inbox.md"
-    },
-    {
-      "basename": "20221014",
-      "path": "Calendar/20221014.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "get_df",
-      "path": "Spaces/Work/integration_project/get_df.md"
-    },
-    {
-      "basename": "mcu_watch_order",
-      "path": "Spaces/Media/mcu_watch_order.md"
-    },
-    {
       "basename": "sourdough_bread",
       "path": "Cards/sourdough_bread.md"
-    },
-    {
-      "basename": "stretch_and_fold",
-      "path": "Cards/stretch_and_fold.md"
-    },
-    {
-      "basename": "dough_rise",
-      "path": "Cards/dough_rise.md"
     },
     {
       "basename": "recipe_moc",
       "path": "Atlas/recipe_moc.md"
     },
     {
-      "basename": "autolyze",
-      "path": "Cards/autolyze.md"
+      "basename": "202210150917",
+      "path": "Inbox/202210150917.md"
     },
     {
-      "basename": "card_template",
-      "path": "Extras/Templates/card_template.md"
-    },
-    {
-      "basename": "alfredo_sauce",
-      "path": "Cards/alfredo_sauce.md"
-    },
-    {
-      "basename": "homemade_pasta",
-      "path": "Cards/homemade_pasta.md"
-    },
-    {
-      "basename": "sourdough_pizza_crust",
-      "path": "Cards/sourdough_pizza_crust.md"
-    },
-    {
-      "basename": "auction_types",
-      "path": "Dev/auction_types.md"
-    },
-    {
-      "basename": "my_product_is_my_garden",
-      "path": "Dev/my_product_is_my_garden.md"
-    },
-    {
-      "basename": "the_starless_crown",
-      "path": "Spaces/Media/Books/read/the_starless_crown.md"
-    },
-    {
-      "basename": "template_list",
-      "path": "Extras/Templates/template_list.md"
-    },
-    {
-      "basename": "recipe_template",
-      "path": "Extras/Templates/recipe_template.md"
-    },
-    {
-      "basename": "daily_note_template",
-      "path": "Extras/Templates/daily_note_template.md"
-    },
-    {
-      "basename": "book_template",
-      "path": "Extras/Templates/book_template.md"
-    },
-    {
-      "basename": "+about_extras",
-      "path": "Extras/+about_extras.md"
-    },
-    {
-      "basename": "pkm_documentation",
-      "path": "Extras/pkm_documentation.md"
-    },
-    {
-      "basename": "map_of_content_template",
-      "path": "Extras/Templates/map_of_content_template.md"
-    },
-    {
-      "basename": "dev_note_template",
-      "path": "Extras/Templates/dev_note_template.md"
-    },
-    {
-      "basename": "inbox_note_template",
-      "path": "Extras/Templates/inbox_note_template.md"
-    },
-    {
-      "basename": "no_vague_messages",
-      "path": "Dev/no_vague_messages.md"
-    },
-    {
-      "basename": "a-mathematical-theory-of-communication",
-      "path": "Sources/Papers/a-mathematical-theory-of-communication.pdf"
-    },
-    {
-      "basename": "databricks_sql",
-      "path": "Cards/databricks_sql.md"
-    },
-    {
-      "basename": "ready_player_two",
-      "path": "Spaces/Media/Books/read/ready_player_two.md"
-    },
-    {
-      "basename": "ready_player_one",
-      "path": "Spaces/Media/Books/read/ready_player_one.md"
-    },
-    {
-      "basename": "data_engineering_moc",
-      "path": "Atlas/data_engineering_moc.md"
-    },
-    {
-      "basename": "dune_series",
-      "path": "Spaces/Media/Books/dune_series.md"
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],

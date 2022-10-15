@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "482ddd081ca9fd00",
+        "id": "4db28275ddbc6302",
         "type": "tabs",
         "children": [
           {
-            "id": "53b1fff7e953e6b5",
+            "id": "1ae2856ba4e032d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/20221014.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e001abfa382c1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Work/integration_project/odp_more_info.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Work/integration_project/odp_more_info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Work/integration_project/odp_more_info.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Work/integration_project/odp_more_info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Work/integration_project/odp_more_info.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -236,17 +212,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0e001abfa382c1fe",
+  "active": "1ae2856ba4e032d7",
   "lastOpenFiles": [
-    "Spaces/Work/integration_project/+info_integration_project.md",
-    "Spaces/Work/integration_project/odp_more_info.md",
-    "Spaces/Work/+info_work.md",
-    "Extras/Templates/extract_template.md",
-    "Spaces/Work/integration_project/step functions.md",
-    "Spaces/Work/integration_project/write_df.md",
-    "Spaces/Work/integration_project/log_data.md",
-    "Spaces/Work/integration_project/jira_proof_of_concept.md",
+    "Spaces/Work/databricks_training_notes/202210141556.md",
+    "Spaces/Work/databricks_training_notes/202210121539.md",
+    "Spaces/Work/databricks_training_notes/+info_databricks_training_notes.md",
+    "Spaces/Work/databricks_training_notes/202210111545.md",
+    "Spaces/Work/databricks_training_notes/202210111603.md",
+    "Spaces/Work/databricks_training_notes/202210111615.md",
     "Spaces/Work/work_notes.md",
-    "Calendar/20221014.md"
+    "Atlas/databricks_moc.md",
+    "Cards/data_lake_house.md",
+    "Inbox/202210140825.md"
   ]
 }

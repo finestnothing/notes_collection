@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "202210141556",
+      "path": "Spaces/Work/databricks_training_notes/202210141556.md"
+    },
+    {
+      "basename": "202210121539",
+      "path": "Spaces/Work/databricks_training_notes/202210121539.md"
+    },
+    {
+      "basename": "+info_databricks_training_notes",
+      "path": "Spaces/Work/databricks_training_notes/+info_databricks_training_notes.md"
+    },
+    {
+      "basename": "202210111545",
+      "path": "Spaces/Work/databricks_training_notes/202210111545.md"
+    },
+    {
+      "basename": "202210111603",
+      "path": "Spaces/Work/databricks_training_notes/202210111603.md"
+    },
+    {
+      "basename": "202210111615",
+      "path": "Spaces/Work/databricks_training_notes/202210111615.md"
+    },
+    {
+      "basename": "work_notes",
+      "path": "Spaces/Work/work_notes.md"
+    },
+    {
+      "basename": "databricks_moc",
+      "path": "Atlas/databricks_moc.md"
+    },
+    {
+      "basename": "202210140825",
+      "path": "Inbox/202210140825.md"
+    },
+    {
       "basename": "odp_more_info",
       "path": "Spaces/Work/integration_project/odp_more_info.md"
     },
@@ -31,14 +67,6 @@
     {
       "basename": "jira_proof_of_concept",
       "path": "Spaces/Work/integration_project/jira_proof_of_concept.md"
-    },
-    {
-      "basename": "work_notes",
-      "path": "Spaces/Work/work_notes.md"
-    },
-    {
-      "basename": "202210140825",
-      "path": "Inbox/202210140825.md"
     },
     {
       "basename": "+about_inbox",
@@ -97,22 +125,6 @@
       "path": "Cards/sourdough_pizza_crust.md"
     },
     {
-      "basename": "+info_databricks_training_notes",
-      "path": "Spaces/databricks_training_notes/+info_databricks_training_notes.md"
-    },
-    {
-      "basename": "202210111615",
-      "path": "Spaces/databricks_training_notes/202210111615.md"
-    },
-    {
-      "basename": "202210111545",
-      "path": "Spaces/databricks_training_notes/202210111545.md"
-    },
-    {
-      "basename": "202210111603",
-      "path": "Spaces/databricks_training_notes/202210111603.md"
-    },
-    {
       "basename": "auction_types",
       "path": "Dev/auction_types.md"
     },
@@ -165,20 +177,12 @@
       "path": "Dev/no_vague_messages.md"
     },
     {
-      "basename": "202210121539",
-      "path": "Spaces/databricks_training_notes/202210121539.md"
-    },
-    {
       "basename": "a-mathematical-theory-of-communication",
       "path": "Sources/Papers/a-mathematical-theory-of-communication.pdf"
     },
     {
       "basename": "databricks_sql",
       "path": "Cards/databricks_sql.md"
-    },
-    {
-      "basename": "databricks_moc",
-      "path": "Atlas/databricks_moc.md"
     },
     {
       "basename": "ready_player_two",
@@ -195,10 +199,6 @@
     {
       "basename": "dune_series",
       "path": "Spaces/Media/Books/dune_series.md"
-    },
-    {
-      "basename": "TBR",
-      "path": "Spaces/Media/Books/TBR.md"
     }
   ],
   "omittedPaths": [],

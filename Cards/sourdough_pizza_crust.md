@@ -1,5 +1,5 @@
 up:: [[recipe_moc]]
-tags:: #on/food 
+tags:: #food #pizza #sourdough
 ingredients:: 227g sourdough starter, 141g water, 300g flour, 1 tsp salt, 1/2 teaspoon yeast, cornmeal
 hardware:: mixer, pizza stone
 

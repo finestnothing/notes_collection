@@ -1,5 +1,5 @@
 up:: [[recipe_moc]]
-tags:: #on/food 
+tags:: #food #pasta #sauce
 ingredients:: 1 cup heavy whipping cream, 4 tbsp butter, 1 1/2 cup gruyere and/or parmesan, some chopped parsley, salt
 hardware:: pot, cheese grater
 

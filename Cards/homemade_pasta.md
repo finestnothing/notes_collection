@@ -1,5 +1,5 @@
 up:: [[recipe_moc]]
-tags:: #on/food 
+tags:: #food #pasta
 ingredients:: 2 eggs, olive oil, 180g flour
 hardware:: pasta machine, pot
 

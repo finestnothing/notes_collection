@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4db28275ddbc6302",
+        "id": "9fc8629f8a05161d",
         "type": "tabs",
         "children": [
           {
-            "id": "1ae2856ba4e032d7",
+            "id": "60eb0eccd46338e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Work/integration_project/+info_integration_project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f67dd3a5c269c56d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Work/integration_project/+info_integration_project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Work/integration_project/+info_integration_project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Work/integration_project/+info_integration_project.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Work/integration_project/+info_integration_project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Work/integration_project/+info_integration_project.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -236,15 +212,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f67dd3a5c269c56d",
+  "active": "60eb0eccd46338e1",
   "lastOpenFiles": [
+    "Spaces/Work/integration_project/+info_integration_project.md",
     "Atlas/recipe_moc.md",
     "Cards/alfredo_sauce.md",
     "Cards/peanut_butter_banana_overnight_oats.md",
     "Cards/sourdough_bread.md",
     "Cards/sourdough_pizza_crust.md",
     "Cards/homemade_pasta.md",
-    "Spaces/Work/integration_project/+info_integration_project.md",
     "Spaces/Work/integration_project/step_parameters.md",
     "Inbox/202210140825.md",
     "Inbox/202210150917.md"

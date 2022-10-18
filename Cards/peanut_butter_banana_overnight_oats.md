@@ -6,13 +6,14 @@ ingredients:: rolled oats, milk, banana, peanut butter, maple syrup, chia seeds,
 Mix all ingredients together, refrigerate for 4+ hours
 
 ## Ingredients
-- 1 cup rolled oats
-- 1 cup milk
+- 1 cup rolled oats (106 g)
+- 1 cup milk (230 g)
 	- Can substitute half w/ yogurt
+	- 1/2 cup yogurt = 120 g
 - 1 banana, mashed
-- 2-3 tbsp peanut butter
-- 1 tbsp maple syrup
-- 1 tbsp chia seeds
+- 2-3 tbsp peanut butter (16g per tbsp)
+- 1 tbsp maple syrup (25 g)
+- 1 tbsp chia seeds (10 g)
 - 1/2 tsp vanilla extract
 - pinch of salt
 

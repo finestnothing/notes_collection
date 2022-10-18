@@ -9,22 +9,6 @@
       "path": "Atlas/recipe_moc.md"
     },
     {
-      "basename": "+about_cards",
-      "path": "Cards/+about_cards.md"
-    },
-    {
-      "basename": "folders_moc",
-      "path": "Atlas/folders_moc.md"
-    },
-    {
-      "basename": "+about_atlas",
-      "path": "Atlas/+about_atlas.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "+info_integration_project",
       "path": "Spaces/Work/integration_project/+info_integration_project.md"
     },
@@ -55,6 +39,10 @@
     {
       "basename": "202210160928",
       "path": "Inbox/202210160928.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],

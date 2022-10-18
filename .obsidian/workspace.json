@@ -11,8 +11,13 @@
             "id": "60eb0eccd46338e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cards/peanut_butter_banana_overnight_oats.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cards/peanut_butter_banana_overnight_oats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Cards/peanut_butter_banana_overnight_oats.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cards/peanut_butter_banana_overnight_oats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cards/peanut_butter_banana_overnight_oats.md"
+              }
             }
           }
         ]
@@ -214,10 +224,10 @@
   },
   "active": "60eb0eccd46338e1",
   "lastOpenFiles": [
-    "Spaces/Work/integration_project/+info_integration_project.md",
     "Atlas/recipe_moc.md",
-    "Cards/alfredo_sauce.md",
     "Cards/peanut_butter_banana_overnight_oats.md",
+    "Spaces/Work/integration_project/+info_integration_project.md",
+    "Cards/alfredo_sauce.md",
     "Cards/sourdough_bread.md",
     "Cards/sourdough_pizza_crust.md",
     "Cards/homemade_pasta.md",

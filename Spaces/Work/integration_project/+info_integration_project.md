@@ -42,8 +42,10 @@ The goal is to send data to clients through a series of step functions with logg
 		- parameter_value
 		- parameter_type
 - [x] Orchestrator
-- [ ] Queue Processor
+- [x] Queue Processor
 - [ ] Runner notebooks
+	- [x] Parent runner notebooks
+	- [ ] Child runner notebook
 - [ ] Create Step Functions
 
 [[odp_more_info]]

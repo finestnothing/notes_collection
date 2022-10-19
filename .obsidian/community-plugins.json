@@ -4,7 +4,6 @@
   "obsidian-checklist-plugin",
   "nldates-obsidian",
   "tag-page-preview",
-  "dataview",
   "obsidian-dictionary-plugin",
   "recent-files-obsidian",
   "calendar",
@@ -14,5 +13,6 @@
   "obsidian-auto-link-title",
   "obsidian-hover-editor",
   "obsidian-outliner",
-  "tag-wrangler"
+  "tag-wrangler",
+  "dataview"
 ]

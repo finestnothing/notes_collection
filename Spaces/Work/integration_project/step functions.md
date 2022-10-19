@@ -22,6 +22,8 @@ Option to reuse step_parameters somehow
 Each function should have logging
 	Start, end for each function
 
+Also will want a step function to encrypt files if S3 doesn't
+
 ## Functions:
 The functions below are subject to change.
 ![[get_df]]

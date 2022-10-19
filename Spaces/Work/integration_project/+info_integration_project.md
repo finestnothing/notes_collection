@@ -6,6 +6,8 @@ tags:: #work
 Project home for integration project.
 The goal is to send data to clients through a series of step functions with logging along the way.
 
+Technically [[solutions_engineering]], not data engineering
+
 - [x] Create Tables
 	- [x] integration_queue
 		- integration_id

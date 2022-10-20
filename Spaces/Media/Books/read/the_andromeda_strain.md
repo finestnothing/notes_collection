@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # The Andromeda Strain
 ## By Michael #Crichton
 ### Final Thoughts

@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Ready Player One
 ## By Ernest Cline
 #### Review:

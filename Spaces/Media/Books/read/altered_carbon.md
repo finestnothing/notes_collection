@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Altered Carbon
 ## By Richard K. #Morgan
 #### Review:

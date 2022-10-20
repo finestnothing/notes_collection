@@ -33,6 +33,7 @@ sort length(file.outlinks) desc, length(file.inlinks) desc
 ## Understanding this PKM
 It can be daunting to jump right in to this repository of knowledge - and even more so maintaining it as it gets large.
 Here are some helpful links for understand what the heck is going on across the PKM, and my own maintenance guidelines.
+Everything here is made in [[obsidian]] with [[markdown]] files
 
 - Overview of how this all works
 	- [[+about_atlas]]

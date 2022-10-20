@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # 2001: A Space Odyssey
 ## By Arthur C. Clarke
 ### Notes

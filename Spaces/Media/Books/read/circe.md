@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Circe
 ## By Madeline Miller
 ### Final Thoughts

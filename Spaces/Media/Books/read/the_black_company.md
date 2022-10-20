@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # The Black Company
 ## By Glen Cook
 ### Final Thoughts

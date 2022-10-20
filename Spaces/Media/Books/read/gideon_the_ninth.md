@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Gideon the Ninth
 ## By Tamsyn Muir
 

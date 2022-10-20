@@ -1,60 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "step functions",
-      "path": "Spaces/Work/integration_project/step functions.md"
-    },
-    {
-      "basename": "+info_integration_project",
-      "path": "Spaces/Work/integration_project/+info_integration_project.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "odp_more_info",
-      "path": "Spaces/Work/integration_project/odp_more_info.md"
+      "basename": "read_books",
+      "path": "Spaces/Media/Books/read_books.md"
     },
     {
-      "basename": "work_notes",
-      "path": "Spaces/Work/work_notes.md"
+      "basename": "TBR",
+      "path": "Spaces/Media/Books/TBR.md"
     },
     {
-      "basename": "peanut_butter_banana_overnight_oats",
-      "path": "Cards/peanut_butter_banana_overnight_oats.md"
+      "basename": "red_rising",
+      "path": "Spaces/Media/Books/read/red_rising.md"
     },
     {
-      "basename": "recipe_moc",
-      "path": "Atlas/recipe_moc.md"
+      "basename": "the_black_company",
+      "path": "Spaces/Media/Books/read/the_black_company.md"
     },
     {
-      "basename": "sourdough_bread",
-      "path": "Cards/sourdough_bread.md"
+      "basename": "ready_player_two",
+      "path": "Spaces/Media/Books/read/ready_player_two.md"
     },
     {
-      "basename": "sourdough_pizza_crust",
-      "path": "Cards/sourdough_pizza_crust.md"
+      "basename": "the_starless_crown",
+      "path": "Spaces/Media/Books/read/the_starless_crown.md"
     },
     {
-      "basename": "alfredo_sauce",
-      "path": "Cards/alfredo_sauce.md"
+      "basename": "ready_player_one",
+      "path": "Spaces/Media/Books/read/ready_player_one.md"
     },
     {
-      "basename": "homemade_pasta",
-      "path": "Cards/homemade_pasta.md"
+      "basename": "altered_carbon",
+      "path": "Spaces/Media/Books/read/altered_carbon.md"
     },
     {
-      "basename": "202210140825",
-      "path": "Inbox/202210140825.md"
+      "basename": "the_andromeda_strain",
+      "path": "Spaces/Media/Books/read/the_andromeda_strain.md"
     },
     {
-      "basename": "202210150917",
-      "path": "Inbox/202210150917.md"
+      "basename": "dune",
+      "path": "Spaces/Media/Books/read/dune.md"
+    },
+    {
+      "basename": "foundation",
+      "path": "Spaces/Media/Books/read/foundation.md"
+    },
+    {
+      "basename": "circe",
+      "path": "Spaces/Media/Books/read/circe.md"
+    },
+    {
+      "basename": "magic_for_liars",
+      "path": "Spaces/Media/Books/read/magic_for_liars.md"
+    },
+    {
+      "basename": "a_long_way_to_a_small_angry_planet",
+      "path": "Spaces/Media/Books/read/a_long_way_to_a_small_angry_planet.md"
+    },
+    {
+      "basename": "2001_a_space_odyssey",
+      "path": "Spaces/Media/Books/read/2001_a_space_odyssey.md"
+    },
+    {
+      "basename": "soulkeeper",
+      "path": "Spaces/Media/Books/read/soulkeeper.md"
+    },
+    {
+      "basename": "the_blacktongue_thief",
+      "path": "Spaces/Media/Books/read/the_blacktongue_thief.md"
+    },
+    {
+      "basename": "rise_of_the_mages",
+      "path": "Spaces/Media/Books/read/rise_of_the_mages.md"
+    },
+    {
+      "basename": "neuromancer",
+      "path": "Spaces/Media/Books/read/neuromancer.md"
+    },
+    {
+      "basename": "gideon_the_ninth",
+      "path": "Spaces/Media/Books/read/gideon_the_ninth.md"
+    },
+    {
+      "basename": "the_stars_are_legion",
+      "path": "Spaces/Media/Books/read/the_stars_are_legion.md"
+    },
+    {
+      "basename": "the_city_of_brass",
+      "path": "Spaces/Media/Books/read/the_city_of_brass.md"
     },
     {
       "basename": "202210160928",
       "path": "Inbox/202210160928.md"
+    },
+    {
+      "basename": "202210140825",
+      "path": "Spaces/Work/databricks_training_notes/202210140825.md"
+    },
+    {
+      "basename": "my_product_is_my_garden",
+      "path": "Cards/my_product_is_my_garden.md"
+    },
+    {
+      "basename": "what_is_bootstrapping",
+      "path": "Cards/what_is_bootstrapping.md"
+    },
+    {
+      "basename": "benefits_of_bootstrapping",
+      "path": "Cards/benefits_of_bootstrapping.md"
+    },
+    {
+      "basename": "what_bootstrapping_isnt",
+      "path": "Cards/what_bootstrapping_isnt.md"
+    },
+    {
+      "basename": "indiehackers_movement",
+      "path": "Cards/indiehackers_movement.md"
+    },
+    {
+      "basename": "startup",
+      "path": "Cards/startup.md"
+    },
+    {
+      "basename": "startup_types",
+      "path": "Cards/startup_types.md"
+    },
+    {
+      "basename": "bootstrapping_a_startup_moc",
+      "path": "Atlas/bootstrapping_a_startup_moc.md"
+    },
+    {
+      "basename": "examples_of_task_grouping",
+      "path": "Cards/examples_of_task_grouping.md"
+    },
+    {
+      "basename": "what_is_the_threshold_rule",
+      "path": "Cards/what_is_the_threshold_rule.md"
+    },
+    {
+      "basename": "what_is_a_stop_doing_list",
+      "path": "Cards/what_is_a_stop_doing_list.md"
+    },
+    {
+      "basename": "how_to_decide_explore_or_exploit",
+      "path": "Cards/how_to_decide_explore_or_exploit.md"
+    },
+    {
+      "basename": "examples_of_explore_exploit_problems",
+      "path": "Cards/examples_of_explore_exploit_problems.md"
+    },
+    {
+      "basename": "stop_doing_list_benefits",
+      "path": "Cards/stop_doing_list_benefits.md"
+    },
+    {
+      "basename": "benefits_of_2_machine_scheduling_process",
+      "path": "Cards/benefits_of_2_machine_scheduling_process.md"
+    },
+    {
+      "basename": "benefits_of_task_grouping",
+      "path": "Cards/benefits_of_task_grouping.md"
+    },
+    {
+      "basename": "sum_of_completion_time_minimization",
+      "path": "Cards/sum_of_completion_time_minimization.md"
+    },
+    {
+      "basename": "what_is_task_grouping",
+      "path": "Cards/what_is_task_grouping.md"
+    },
+    {
+      "basename": "what_is_the_2_machine_scheduling_process",
+      "path": "Cards/what_is_the_2_machine_scheduling_process.md"
+    },
+    {
+      "basename": "where_did_2_machine_scheduling_come_from",
+      "path": "Cards/where_did_2_machine_scheduling_come_from.md"
+    },
+    {
+      "basename": "what_is_an_explore_exploit_problem",
+      "path": "Cards/what_is_an_explore_exploit_problem.md"
+    },
+    {
+      "basename": "gittins_index_table",
+      "path": "Cards/gittins_index_table.md"
+    },
+    {
+      "basename": "gittins_index",
+      "path": "Cards/gittins_index.md"
+    },
+    {
+      "basename": "explore_exploit_interval",
+      "path": "Cards/explore_exploit_interval.md"
+    },
+    {
+      "basename": "benefits_of_gittins_index",
+      "path": "Cards/benefits_of_gittins_index.md"
     }
   ],
   "omittedPaths": [],

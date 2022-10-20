@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Dune
 ## By Frank #Hebert
 #### Review:

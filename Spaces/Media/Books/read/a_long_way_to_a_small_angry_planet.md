@@ -1,7 +1,8 @@
+up:: [[read_books]]
+
 # A Long Way to a Small Angry Planet
 ## By Becky Chambers
 ### Notes
-Starting [[20220816]]
 > [!QUOTE]
 > From the ground, we stand;
 > From our ships, we live;

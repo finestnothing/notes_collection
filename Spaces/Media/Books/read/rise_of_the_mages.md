@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Rise of the Mages
 ## By Scott Drakeford
 #### Review:

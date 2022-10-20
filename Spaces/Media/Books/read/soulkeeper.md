@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Soulkeeper
 ## By David Dalglish
 ### Final Thoughts

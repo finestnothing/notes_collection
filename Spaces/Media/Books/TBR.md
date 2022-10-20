@@ -33,7 +33,6 @@
 	- [[a_gathering_of_shadows]] by V. E. Schwab #book/series #book/fantasy 
 	- [[a_darker_shade_of_magic]] by V. E. Schwab #book/series #book/fantasy 
 - Not Owned
-	- Books under the #book/pending_sequel tag
 	- [[broken_angels]]
 	- [[woken_furies]]
 	- [[neverwhere]] by Neil Gaiman #book/fantasy 

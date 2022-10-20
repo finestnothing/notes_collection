@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # The Blacktongue Thief
 ## By Christopher Buehlman
 ### Final Thoughts

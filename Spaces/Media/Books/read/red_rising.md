@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Red Rising 
 ## By Pierce Brown
 ### Final Thoughts

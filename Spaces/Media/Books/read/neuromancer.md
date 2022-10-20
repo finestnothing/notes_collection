@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Neuromancer
 ## By William Gibson
 #### Review:

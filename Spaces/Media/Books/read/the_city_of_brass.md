@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # The City of Brass
 ## By S.A. Chakraborty
 ### Final Thoughts

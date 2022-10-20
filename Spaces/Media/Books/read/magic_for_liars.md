@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Magic for Liars
 ## By Sarah Galley
 ### Final Thoughts

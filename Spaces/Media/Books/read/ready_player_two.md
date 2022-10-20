@@ -1,3 +1,5 @@
+up:: [[read_books]]
+
 # Ready Player Two
 ## By Ernest Cline
 #### Review:

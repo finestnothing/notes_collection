@@ -23,6 +23,8 @@ Each function should have logging
 	Start, end for each function
 
 Also will want a step function to encrypt files if S3 doesn't
+- Uses PGP encryption with a public key
+- Happens after TEAMS file move
 
 ## Functions:
 The functions below are subject to change.

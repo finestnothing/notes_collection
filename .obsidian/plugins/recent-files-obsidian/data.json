@@ -5,6 +5,10 @@
       "path": "README.md"
     },
     {
+      "basename": "step functions",
+      "path": "Spaces/Work/integration_project/step functions.md"
+    },
+    {
       "basename": "read_books",
       "path": "Spaces/Media/Books/read_books.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "explore_exploit_interval",
       "path": "Cards/explore_exploit_interval.md"
-    },
-    {
-      "basename": "benefits_of_gittins_index",
-      "path": "Cards/benefits_of_gittins_index.md"
     }
   ],
   "omittedPaths": [],

@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ecd677506b679161",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.2"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +219,7 @@
     "width": 298.5,
     "collapsed": true
   },
-  "active": "ecd677506b679161",
+  "active": "9138c83789a0c2ee",
   "lastOpenFiles": [
     "Spaces/Work/integration_project/step functions.md",
     "README.md",

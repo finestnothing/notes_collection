@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Work/databricks_training_notes/202210140825.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Work/databricks_training_notes/202210140825.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Work/databricks_training_notes/202210140825.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Work/databricks_training_notes/202210140825.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Spaces/Work/databricks_training_notes/202210140825.md"
               }
             }
           }
@@ -221,15 +221,15 @@
   },
   "active": "9138c83789a0c2ee",
   "lastOpenFiles": [
+    "Spaces/Work/databricks_training_notes/202210191507.md",
+    "Spaces/Work/databricks_training_notes/202210121539.md",
+    "Inbox/202210160928.md",
     "Spaces/Work/integration_project/step functions.md",
     "README.md",
     "Spaces/Media/Books/read_books.md",
     "Spaces/Media/Books/read/2001_a_space_odyssey.md",
     "Spaces/Media/Books/TBR.md",
     "Spaces/Media/Books/read/the_blacktongue_thief.md",
-    "Spaces/Media/Books/read/the_starless_crown.md",
-    "Spaces/Media/Books/read/the_city_of_brass.md",
-    "Spaces/Media/Books/read/red_rising.md",
-    "Spaces/Media/Books/read/rise_of_the_mages.md"
+    "Spaces/Media/Books/read/the_starless_crown.md"
   ]
 }

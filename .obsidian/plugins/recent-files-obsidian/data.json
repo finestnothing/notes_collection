@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "202210140825",
+      "path": "Spaces/Work/databricks_training_notes/202210140825.md"
+    },
+    {
+      "basename": "202210191507",
+      "path": "Spaces/Work/databricks_training_notes/202210191507.md"
+    },
+    {
+      "basename": "202210121539",
+      "path": "Spaces/Work/databricks_training_notes/202210121539.md"
+    },
+    {
+      "basename": "202210160928",
+      "path": "Inbox/202210160928.md"
     },
     {
       "basename": "step functions",
       "path": "Spaces/Work/integration_project/step functions.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "read_books",
@@ -97,14 +113,6 @@
       "path": "Spaces/Media/Books/read/the_city_of_brass.md"
     },
     {
-      "basename": "202210160928",
-      "path": "Inbox/202210160928.md"
-    },
-    {
-      "basename": "202210140825",
-      "path": "Spaces/Work/databricks_training_notes/202210140825.md"
-    },
-    {
       "basename": "my_product_is_my_garden",
       "path": "Cards/my_product_is_my_garden.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "gittins_index_table",
       "path": "Cards/gittins_index_table.md"
-    },
-    {
-      "basename": "gittins_index",
-      "path": "Cards/gittins_index.md"
-    },
-    {
-      "basename": "explore_exploit_interval",
-      "path": "Cards/explore_exploit_interval.md"
     }
   ],
   "omittedPaths": [],

@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "202210140825",
-      "path": "Spaces/Work/databricks_training_notes/202210140825.md"
+      "basename": "sql_transactions",
+      "path": "Dev/sql_transactions.md"
     },
     {
       "basename": "202210191507",
-      "path": "Spaces/Work/databricks_training_notes/202210191507.md"
+      "path": "Inbox/202210191507.md"
     },
     {
-      "basename": "202210121539",
-      "path": "Spaces/Work/databricks_training_notes/202210121539.md"
+      "basename": "202210261443",
+      "path": "Inbox/202210261443.md"
+    },
+    {
+      "basename": "202210260847",
+      "path": "Inbox/202210260847.md"
     },
     {
       "basename": "202210160928",
       "path": "Inbox/202210160928.md"
     },
     {
-      "basename": "step functions",
-      "path": "Spaces/Work/integration_project/step functions.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "first_read_of_research_paper",
+      "path": "Cards/first_read_of_research_paper.md"
+    },
+    {
+      "basename": "what_is_the_three_pass_process",
+      "path": "Cards/what_is_the_three_pass_process.md"
+    },
+    {
+      "basename": "research_moc",
+      "path": "Atlas/research_moc.md"
+    },
+    {
+      "basename": "peanut_butter_banana_overnight_oats",
+      "path": "Cards/peanut_butter_banana_overnight_oats.md"
+    },
+    {
+      "basename": "step functions",
+      "path": "Spaces/Work/integration_project/step functions.md"
     },
     {
       "basename": "read_books",
@@ -113,6 +133,10 @@
       "path": "Spaces/Media/Books/read/the_city_of_brass.md"
     },
     {
+      "basename": "202210140825",
+      "path": "Spaces/Work/databricks_training_notes/202210140825.md"
+    },
+    {
       "basename": "my_product_is_my_garden",
       "path": "Cards/my_product_is_my_garden.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "benefits_of_task_grouping",
       "path": "Cards/benefits_of_task_grouping.md"
-    },
-    {
-      "basename": "sum_of_completion_time_minimization",
-      "path": "Cards/sum_of_completion_time_minimization.md"
-    },
-    {
-      "basename": "what_is_task_grouping",
-      "path": "Cards/what_is_task_grouping.md"
-    },
-    {
-      "basename": "what_is_the_2_machine_scheduling_process",
-      "path": "Cards/what_is_the_2_machine_scheduling_process.md"
-    },
-    {
-      "basename": "where_did_2_machine_scheduling_come_from",
-      "path": "Cards/where_did_2_machine_scheduling_come_from.md"
-    },
-    {
-      "basename": "what_is_an_explore_exploit_problem",
-      "path": "Cards/what_is_an_explore_exploit_problem.md"
-    },
-    {
-      "basename": "gittins_index_table",
-      "path": "Cards/gittins_index_table.md"
     }
   ],
   "omittedPaths": [],

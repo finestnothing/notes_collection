@@ -1,6 +1,7 @@
-source::
+up:: [[README]]
+tags:: #on/technology #windows #software
 
-# 202210260847
+# Essential Software to Download on Windows
 Created: 2022-10-26 08:47
 
 What to download on new computer:
@@ -11,36 +12,18 @@ What to download on new computer:
 - discord
 - vscode
 - steam
-	- deep rock galactic
-	- destiny 2
-	- factorio
-	- no mans sky
-	- path of exile
-	- rimworld
-	- starbound
-	- stellaris
-	- terraria
-	- star wars jedi: fallen order
-	- horizon zero dawn
-	- cyberpunk 2077
-	- dead cells
-	- vampire survivors
-	- disco elysium
 - gog galaxy
 - battle.net
 - yt music (or link there)
 - powertoys
 - nvidia broadcast
 - logitech g hub
-- logitech options
 - google drive
 - git
 - github desktop
 - adobe apps
 - docker
-- foundry virtual tabletop
 - gimp
 - python
 - sumatra pdf
-- twitch (if I can?)
 - bonsai browser

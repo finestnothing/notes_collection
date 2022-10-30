@@ -12,3 +12,6 @@ Many notes will also be related to [[Atlas/databricks_moc|databricks]] while wor
 - [[data_lake]]
 - [[data_warehouse]]
 - [[data_lake_house]]
+
+## Best Practices
+- [[sql_transactions]]

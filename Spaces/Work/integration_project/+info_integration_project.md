@@ -8,6 +8,10 @@ The goal is to send data to clients through a series of step functions with logg
 
 Technically [[solutions_engineering]], not data engineering
 
+Need to make it more modular
+- Each step function can be run or not in any order specific to each integration_id
+- Stick them together like legoes instead of single linear path
+
 - [x] Create Tables
 	- [x] integration_queue
 		- integration_id

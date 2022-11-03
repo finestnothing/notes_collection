@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202211011523",
+      "path": "Spaces/Work/databricks_training_notes/202211011523.md"
+    },
+    {
+      "basename": "+info_integration_project",
+      "path": "Spaces/Work/integration_project/+info_integration_project.md"
+    },
+    {
       "basename": "202210271455",
       "path": "Spaces/Work/databricks_training_notes/202210271455.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "self_describing_data_sources",
       "path": "Cards/self_describing_data_sources.md"
-    },
-    {
-      "basename": "202211011523",
-      "path": "Spaces/Work/databricks_training_notes/202211011523.md"
     },
     {
       "basename": "+info_databricks_training_notes",
@@ -151,10 +155,6 @@
     {
       "basename": "career_knowledge_moc",
       "path": "Atlas/career_knowledge_moc.md"
-    },
-    {
-      "basename": "+info_integration_project",
-      "path": "Spaces/Work/integration_project/+info_integration_project.md"
     },
     {
       "basename": "step functions",

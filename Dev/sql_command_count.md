@@ -1,16 +1,9 @@
-source:: Data Engineering with Databricks - Module 2
+up:: [[sql_commands]]
 
-# 202210191507
-Created: 2022-10-19 15:07
+# sql_command_count
+Created: 20221101 18:01
+Modified: 20221101 18:01
 
-Starting with DE 2.4 - Cleaning Data
-
-Many basic SQL query commands are in spark sql
-- DISTINCT
-- WHERE
-- GROUP BY
-
-## Count
 count(col) does *not* count null values, only non-null
 count(\*) *does* count null values. It counts the number of rows, including ones that are entirely null
 ```sql
@@ -20,5 +13,3 @@ FROM users_dirty
 ```
 The above command returns 986, 983, 138
 This means there are 3 nulls in user_id and ~800 nulls in email
-
-Stopped here due to course undergoing maintenance

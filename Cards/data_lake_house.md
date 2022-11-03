@@ -11,7 +11,8 @@ tags:: #databricks
 	- [[data_lake_house_silver_layer]] - Processed
 	- [[data_lake_house_gold_layer]] - Specialized
 - Going between the layers uses a [[databricks_pipeline]] that uses [[delta_live_table]]s
+- Databricks is data native so all the data is in one place, no need to move it between servers
 
-See also: 
+## See also: 
 - [[benefits_of_data_lake_house]]
 - [[drawbacks_of_data_lake_house]]

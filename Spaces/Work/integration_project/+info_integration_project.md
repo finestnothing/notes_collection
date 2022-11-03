@@ -45,10 +45,10 @@ Technically [[solutions_engineering]], not data engineering
 		- parameter_type
 - [x] Orchestrator
 - [x] Queue Processor
-- [ ] Runner notebooks
+- [x] Runner notebooks
 	- [x] Parent runner notebooks
-	- [ ] Child runner notebook
-- [ ] Create Step Functions
+	- [x] Child runner notebook
+- [x] Create Step Functions
 
 [[odp_more_info]]
 [[jira_proof_of_concept]]

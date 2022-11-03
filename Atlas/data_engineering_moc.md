@@ -7,6 +7,7 @@ Many notes will also be related to [[Atlas/databricks_moc|databricks]] while wor
 
 ## Database Platforms
 - [[databricks_moc]]
+- [[sql]]
 
 ## Major Database Types
 - [[data_lake]]

@@ -1,17 +1,22 @@
-source:: Data Engineering with Databricks - Module 2
+up:: [[databricks_sql]], [[spark]]
 
-# 202210141556
-Created: 2022-10-14 15:56
+# databricks_sql_query_files
+Created: 20221101 17:54
+Modified: 20221101 17:54
 
-Starting module 2 - Transform Data with spark
+- [[#Self Describing Formats|Self Describing Formats]]
+	- [[#Self Describing Formats#Querying from JSON|Querying from JSON]]
+	- [[#Self Describing Formats#Creating Views|Creating Views]]
+	- [[#Self Describing Formats#Creating CTEs|Creating CTEs]]
+	- [[#Self Describing Formats#Text Files|Text Files]]
+	- [[#Self Describing Formats#Raw Bytes and Metadata|Raw Bytes and Metadata]]
+- [[#Other File Formats|Other File Formats]]
+	- [[#Other File Formats#Problem|Problem]]
+	- [[#Other File Formats#Solution|Solution]]
+- [[#SQL Databases as data source|SQL Databases as data source]]
 
-Goals:
-	Spark SQL to query data files
-	Use txt and binary file methods to review raw files
 
-## Querying self-describing data sources
-Self describing means that each field is specified in the file, such as JSON. CSV's are not self-describing
-
+## Self Describing Formats
 ### Querying from JSON
 ```sql
 -- SQL cmd block
@@ -23,15 +28,6 @@ SELECT * FROM json.'${path_to_json.json}'
 	- Like how parquet files are written and read
 
 ### Creating Views
-```sql
--- SQL cmd block
-CREATE OR REPLACE VIEW tmp AS (
-	SELECT * FROM json.'${path_to_json.json}'
-)
-
-SELECT * FROM tmp
-```
-
 ```sql
 -- SQL cmd block
 CREATE OR REPLACE TEMP VIEW tmp AS (
@@ -77,7 +73,9 @@ SELECT * FROM binaryFile.'${path_to_dir}'
 	- length
 	- content
 
-## Providing Options for External Sources
+
+## Other File Formats
+
 ### Problem
 ```sql
 -- SQL cmd block
@@ -126,7 +124,7 @@ REFRESH TABLE tmp_csv
 	- This happens since spark tries to speed up repeated queries rather than refetching every time
 - Running the command above will refresh the data and get the newest version of it
 
-### SQL Databases as data source
+## SQL Databases as data source
 ```sql
 CREATE TABLE {table_name}
 USING JDBC
@@ -142,6 +140,3 @@ OPTIONS(
 - There are two ways to access these
 	- Cache the entire source file to databricks
 	- Push the query to the SQL database and only get the result of the query back
-
-Next Module:: Module 2 - Transform Data with Spark
-Next Video:: DE2.4 - Cleaning Data

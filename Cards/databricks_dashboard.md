@@ -2,7 +2,7 @@ up:: [[databricks_moc]]
 
 # databricks_dashboard
 
-- Able to be built and populated directly from [[databricks_sql]] queries
+- Able to be built and populated directly from [[Cards/databricks_sql]] queries
 - Can add:
 	- Textboxes 
 		- Add labels, make it look nicer, explain graphs

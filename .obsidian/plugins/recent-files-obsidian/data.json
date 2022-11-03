@@ -5,44 +5,176 @@
       "path": "Spaces/Work/databricks_training_notes/202210271455.md"
     },
     {
-      "basename": "first_read_of_research_paper",
-      "path": "Cards/first_read_of_research_paper.md"
+      "basename": "202210261443",
+      "path": "Spaces/Work/databricks_training_notes/202210261443.md"
+    },
+    {
+      "basename": "databricks_sql",
+      "path": "Cards/databricks_sql.md"
+    },
+    {
+      "basename": "databricks_sql_query_files",
+      "path": "Cards/databricks_sql_query_files.md"
+    },
+    {
+      "basename": "databricks_moc",
+      "path": "Atlas/databricks_moc.md"
+    },
+    {
+      "basename": "spark",
+      "path": "Dev/spark.md"
+    },
+    {
+      "basename": "202210141556",
+      "path": "Spaces/Work/databricks_training_notes/Converted/202210141556.md"
     },
     {
       "basename": "202210191507",
-      "path": "Spaces/Work/databricks_training_notes/202210191507.md"
+      "path": "Spaces/Work/databricks_training_notes/Converted/202210191507.md"
     },
     {
-      "basename": "step functions",
-      "path": "Spaces/Work/integration_project/step functions.md"
+      "basename": "202210121539",
+      "path": "Spaces/Work/databricks_training_notes/Converted/202210121539.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "202210111615",
+      "path": "Spaces/Work/databricks_training_notes/Converted/202210111615.md"
     },
     {
-      "basename": "+about_inbox",
-      "path": "Inbox/+about_inbox.md"
+      "basename": "202210111603",
+      "path": "Spaces/Work/databricks_training_notes/Converted/202210111603.md"
     },
     {
-      "basename": "202210261443",
-      "path": "Inbox/202210261443.md"
+      "basename": "202210111545",
+      "path": "Spaces/Work/databricks_training_notes/Converted/202210111545.md"
     },
     {
-      "basename": "essential_software",
-      "path": "Cards/essential_software.md"
+      "basename": "sql",
+      "path": "Cards/sql.md"
+    },
+    {
+      "basename": "self_describing_data_sources",
+      "path": "Cards/self_describing_data_sources.md"
+    },
+    {
+      "basename": "202211011523",
+      "path": "Spaces/Work/databricks_training_notes/202211011523.md"
+    },
+    {
+      "basename": "+info_databricks_training_notes",
+      "path": "Spaces/Work/databricks_training_notes/+info_databricks_training_notes.md"
+    },
+    {
+      "basename": "sql_command_count",
+      "path": "Dev/sql_command_count.md"
+    },
+    {
+      "basename": "sql_commands",
+      "path": "Dev/sql_commands.md"
+    },
+    {
+      "basename": "data_engineering_moc",
+      "path": "Atlas/data_engineering_moc.md"
+    },
+    {
+      "basename": "databricks_auto_ml",
+      "path": "Cards/databricks_auto_ml.md"
+    },
+    {
+      "basename": "databricks_how_to_create_a_cluster",
+      "path": "Cards/databricks_how_to_create_a_cluster.md"
+    },
+    {
+      "basename": "databricks_clusters",
+      "path": "Cards/databricks_clusters.md"
+    },
+    {
+      "basename": "databricks_workspaces",
+      "path": "Cards/databricks_workspaces.md"
+    },
+    {
+      "basename": "databricks_machine_learning",
+      "path": "Cards/databricks_machine_learning.md"
+    },
+    {
+      "basename": "databricks_ml_flow",
+      "path": "Cards/databricks_ml_flow.md"
+    },
+    {
+      "basename": "databricks_feature_store",
+      "path": "dev/databricks_feature_store.md"
+    },
+    {
+      "basename": "data_lake_house",
+      "path": "Cards/data_lake_house.md"
+    },
+    {
+      "basename": "databricks_data_science_and_engineering",
+      "path": "Cards/databricks_data_science_and_engineering.md"
+    },
+    {
+      "basename": "whats_in_the_databricks_data_science_and_engineering_workspace",
+      "path": "Cards/whats_in_the_databricks_data_science_and_engineering_workspace.md"
+    },
+    {
+      "basename": "databricks_unity_catalog",
+      "path": "Cards/databricks_unity_catalog.md"
+    },
+    {
+      "basename": "unity_catalog_vs_hive_metastore",
+      "path": "dev/unity_catalog_vs_hive_metastore.md"
+    },
+    {
+      "basename": "sql_endpoints",
+      "path": "Cards/sql_endpoints.md"
+    },
+    {
+      "basename": "photon",
+      "path": "Cards/photon.md"
+    },
+    {
+      "basename": "delta_live_table",
+      "path": "Cards/delta_live_table.md"
     },
     {
       "basename": "202210160928",
       "path": "Inbox/202210160928.md"
     },
     {
-      "basename": "sql_transactions",
-      "path": "Cards/sql_transactions.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "data_engineering_moc",
-      "path": "Atlas/data_engineering_moc.md"
+      "basename": "+about_atlas",
+      "path": "Atlas/+about_atlas.md"
+    },
+    {
+      "basename": "career_knowledge_moc",
+      "path": "Atlas/career_knowledge_moc.md"
+    },
+    {
+      "basename": "+info_integration_project",
+      "path": "Spaces/Work/integration_project/+info_integration_project.md"
+    },
+    {
+      "basename": "step functions",
+      "path": "Spaces/Work/integration_project/step functions.md"
+    },
+    {
+      "basename": "first_read_of_research_paper",
+      "path": "Cards/first_read_of_research_paper.md"
+    },
+    {
+      "basename": "+about_inbox",
+      "path": "Inbox/+about_inbox.md"
+    },
+    {
+      "basename": "essential_software",
+      "path": "Cards/essential_software.md"
+    },
+    {
+      "basename": "sql_transactions",
+      "path": "Cards/sql_transactions.md"
     },
     {
       "basename": "sql_transaction_code_example",
@@ -51,10 +183,6 @@
     {
       "basename": "sql_transactions_code",
       "path": "Cards/sql_transactions_code.md"
-    },
-    {
-      "basename": "202210141556",
-      "path": "Spaces/Work/databricks_training_notes/202210141556.md"
     },
     {
       "basename": "what_is_the_three_pass_process",
@@ -71,134 +199,6 @@
     {
       "basename": "read_books",
       "path": "Spaces/Media/Books/read_books.md"
-    },
-    {
-      "basename": "TBR",
-      "path": "Spaces/Media/Books/TBR.md"
-    },
-    {
-      "basename": "red_rising",
-      "path": "Spaces/Media/Books/read/red_rising.md"
-    },
-    {
-      "basename": "the_black_company",
-      "path": "Spaces/Media/Books/read/the_black_company.md"
-    },
-    {
-      "basename": "ready_player_two",
-      "path": "Spaces/Media/Books/read/ready_player_two.md"
-    },
-    {
-      "basename": "the_starless_crown",
-      "path": "Spaces/Media/Books/read/the_starless_crown.md"
-    },
-    {
-      "basename": "ready_player_one",
-      "path": "Spaces/Media/Books/read/ready_player_one.md"
-    },
-    {
-      "basename": "altered_carbon",
-      "path": "Spaces/Media/Books/read/altered_carbon.md"
-    },
-    {
-      "basename": "the_andromeda_strain",
-      "path": "Spaces/Media/Books/read/the_andromeda_strain.md"
-    },
-    {
-      "basename": "dune",
-      "path": "Spaces/Media/Books/read/dune.md"
-    },
-    {
-      "basename": "foundation",
-      "path": "Spaces/Media/Books/read/foundation.md"
-    },
-    {
-      "basename": "circe",
-      "path": "Spaces/Media/Books/read/circe.md"
-    },
-    {
-      "basename": "magic_for_liars",
-      "path": "Spaces/Media/Books/read/magic_for_liars.md"
-    },
-    {
-      "basename": "a_long_way_to_a_small_angry_planet",
-      "path": "Spaces/Media/Books/read/a_long_way_to_a_small_angry_planet.md"
-    },
-    {
-      "basename": "2001_a_space_odyssey",
-      "path": "Spaces/Media/Books/read/2001_a_space_odyssey.md"
-    },
-    {
-      "basename": "soulkeeper",
-      "path": "Spaces/Media/Books/read/soulkeeper.md"
-    },
-    {
-      "basename": "the_blacktongue_thief",
-      "path": "Spaces/Media/Books/read/the_blacktongue_thief.md"
-    },
-    {
-      "basename": "rise_of_the_mages",
-      "path": "Spaces/Media/Books/read/rise_of_the_mages.md"
-    },
-    {
-      "basename": "neuromancer",
-      "path": "Spaces/Media/Books/read/neuromancer.md"
-    },
-    {
-      "basename": "gideon_the_ninth",
-      "path": "Spaces/Media/Books/read/gideon_the_ninth.md"
-    },
-    {
-      "basename": "the_stars_are_legion",
-      "path": "Spaces/Media/Books/read/the_stars_are_legion.md"
-    },
-    {
-      "basename": "the_city_of_brass",
-      "path": "Spaces/Media/Books/read/the_city_of_brass.md"
-    },
-    {
-      "basename": "my_product_is_my_garden",
-      "path": "Cards/my_product_is_my_garden.md"
-    },
-    {
-      "basename": "what_is_bootstrapping",
-      "path": "Cards/what_is_bootstrapping.md"
-    },
-    {
-      "basename": "benefits_of_bootstrapping",
-      "path": "Cards/benefits_of_bootstrapping.md"
-    },
-    {
-      "basename": "what_bootstrapping_isnt",
-      "path": "Cards/what_bootstrapping_isnt.md"
-    },
-    {
-      "basename": "indiehackers_movement",
-      "path": "Cards/indiehackers_movement.md"
-    },
-    {
-      "basename": "startup",
-      "path": "Cards/startup.md"
-    },
-    {
-      "basename": "startup_types",
-      "path": "Cards/startup_types.md"
-    },
-    {
-      "basename": "bootstrapping_a_startup_moc",
-      "path": "Atlas/bootstrapping_a_startup_moc.md"
-    },
-    {
-      "basename": "examples_of_task_grouping",
-      "path": "Cards/examples_of_task_grouping.md"
-    },
-    {
-      "basename": "what_is_the_threshold_rule",
-      "path": "Cards/what_is_the_threshold_rule.md"
-    },
-    {
-      "basename": "what_is_a_stop_doing_list",
-      "path": "Cards/what_is_a_stop_doing_list.md"
     }
   ],
   "omittedPaths": [],

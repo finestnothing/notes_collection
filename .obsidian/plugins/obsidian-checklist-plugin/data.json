@@ -1,5 +1,5 @@
 {
-  "todoPageName": "todo\nwork",
+  "todoPageName": "",
   "showChecked": false,
   "showAllTodos": false,
   "autoRefresh": true,
@@ -14,7 +14,8 @@
     "Misc/adventure_jar/red.md",
     "Misc/adventure_jar/green.md",
     "Misc/adventure_jar/yellow.md",
-    "Misc/adventure_jar/blue.md"
+    "Misc/adventure_jar/blue.md",
+    "Spaces/Media/mcu_watch_order.md"
   ],
   "_hiddenTags": []
 }

@@ -1,3 +1,5 @@
+up:: [[+info_dnd]]
+
 - Shamelessly stolen from [[the_blacktongue_thief]]
 - Staff that turns into a horse, turns back as soon as rider dismounts
 - Set total time limit (consumable)

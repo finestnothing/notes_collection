@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "202211031516",
+      "path": "Spaces/Work/databricks_training_notes/202211031516.md"
+    },
+    {
+      "basename": "dnd_boss_joke",
+      "path": "Spaces/dnd/homebrew/dnd_boss_joke.md"
+    },
+    {
+      "basename": "dnd_Staff_of_horse",
+      "path": "Spaces/dnd/homebrew/dnd_Staff_of_horse.md"
+    },
+    {
+      "basename": "dnd_Cursed_book",
+      "path": "Spaces/dnd/homebrew/dnd_Cursed_book.md"
+    },
+    {
+      "basename": "dnd_Cave_of_Doom",
+      "path": "Spaces/dnd/homebrew/dnd_Cave_of_Doom.md"
+    },
+    {
       "basename": "202211011523",
       "path": "Spaces/Work/databricks_training_notes/202211011523.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "sql_transaction_code_example",
       "path": "Cards/sql_transaction_code_example.md"
-    },
-    {
-      "basename": "sql_transactions_code",
-      "path": "Cards/sql_transactions_code.md"
-    },
-    {
-      "basename": "what_is_the_three_pass_process",
-      "path": "Cards/what_is_the_three_pass_process.md"
-    },
-    {
-      "basename": "research_moc",
-      "path": "Atlas/research_moc.md"
-    },
-    {
-      "basename": "peanut_butter_banana_overnight_oats",
-      "path": "Cards/peanut_butter_banana_overnight_oats.md"
-    },
-    {
-      "basename": "read_books",
-      "path": "Spaces/Media/Books/read_books.md"
     }
   ],
   "omittedPaths": [],

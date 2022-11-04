@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ab5072567b93561",
+        "id": "6d9d64f1d7687523",
         "type": "tabs",
         "children": [
           {
-            "id": "1a12625202d902ed",
+            "id": "a4c7ad9b74b3becc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Work/databricks_training_notes/202211011523.md",
+                "file": "Spaces/Work/databricks_training_notes/202211031516.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Work/databricks_training_notes/202211011523.md",
+                "file": "Spaces/Work/databricks_training_notes/202211031516.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Work/databricks_training_notes/202211011523.md",
+                "file": "Spaces/Work/databricks_training_notes/202211031516.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Work/databricks_training_notes/202211011523.md",
+                "file": "Spaces/Work/databricks_training_notes/202211031516.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Work/databricks_training_notes/202211011523.md"
+                "file": "Spaces/Work/databricks_training_notes/202211031516.md"
               }
             }
           }
@@ -205,17 +205,17 @@
     "direction": "horizontal",
     "width": 499.5
   },
-  "active": "1a12625202d902ed",
+  "active": "a4c7ad9b74b3becc",
   "lastOpenFiles": [
-    "Spaces/Work/integration_project/+info_integration_project.md",
+    "Spaces/dnd/homebrew/dnd_boss_joke.md",
+    "Spaces/dnd/homebrew/dnd_Staff_of_horse.md",
+    "Spaces/dnd/homebrew/dnd_Cursed_book.md",
+    "Spaces/dnd/homebrew/dnd_Cave_of_Doom.md",
+    "Spaces/Work/databricks_training_notes/202211031516.md",
     "Spaces/Work/databricks_training_notes/202211011523.md",
+    "Spaces/Work/integration_project/+info_integration_project.md",
     "Spaces/Work/databricks_training_notes/202210271455.md",
     "Spaces/Work/databricks_training_notes/202210261443.md",
-    "Cards/databricks_sql.md",
-    "Cards/databricks_sql_query_files.md",
-    "Cards/self_describing_data_sources.md",
-    "Cards/databricks_unity_catalog.md",
-    "Atlas/databricks_moc.md",
-    "Dev/spark.md"
+    "Cards/databricks_sql.md"
   ]
 }

@@ -1,3 +1,5 @@
+up:: [[+info_dnd]]
+
 - Shamelessly stolen from Futurama
 	- The Cave of Hopelessness
 	- Named after the founder, Sir Reginald Hopelessness

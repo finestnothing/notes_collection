@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Work/databricks_training_notes/202211031516.md",
+                "file": "Inbox/202211060605.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Work/databricks_training_notes/202211031516.md",
+                "file": "Inbox/202211060605.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Work/databricks_training_notes/202211031516.md",
+                "file": "Inbox/202211060605.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Work/databricks_training_notes/202211031516.md",
+                "file": "Inbox/202211060605.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Work/databricks_training_notes/202211031516.md"
+                "file": "Inbox/202211060605.md"
               }
             }
           }
@@ -207,15 +207,15 @@
   },
   "active": "5591f6aeddcaf990",
   "lastOpenFiles": [
+    "Inbox/202211052211.md",
+    "Inbox/202210160928.md",
+    "Spaces/Work/databricks_training_notes/202211031516.md",
     "Cards/unity_catalog_vs_hive_metastore.md",
     "Cards/databricks_unity_catalog.md",
     "Dev/unity_catalog_vs_hive_metastore.md",
     "Atlas/databricks_moc.md",
     "Cards/databricks_clusters.md",
     "Atlas/data_engineering_moc.md",
-    "Spaces/Work/databricks_training_notes/202211031516.md",
-    "Spaces/Work/databricks_training_notes/202211011523.md",
-    "Spaces/+about_spaces.md",
-    "Spaces/dnd/homebrew/dnd_boss_joke.md"
+    "Spaces/Work/databricks_training_notes/202211011523.md"
   ]
 }

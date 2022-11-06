@@ -5,16 +5,16 @@
       "path": "Inbox/202211060605.md"
     },
     {
-      "basename": "202211052211",
-      "path": "Inbox/202211052211.md"
-    },
-    {
-      "basename": "mcu_watch_order",
-      "path": "Spaces/Media/mcu_watch_order.md"
+      "basename": "202210160928",
+      "path": "Inbox/202210160928.md"
     },
     {
       "basename": "202211031516",
       "path": "Spaces/Work/databricks_training_notes/202211031516.md"
+    },
+    {
+      "basename": "mcu_watch_order",
+      "path": "Spaces/Media/mcu_watch_order.md"
     },
     {
       "basename": "unity_catalog_vs_hive_metastore",
@@ -179,10 +179,6 @@
     {
       "basename": "delta_live_table",
       "path": "Cards/delta_live_table.md"
-    },
-    {
-      "basename": "202210160928",
-      "path": "Inbox/202210160928.md"
     },
     {
       "basename": "README",

@@ -64,8 +64,8 @@
 - [ ] Daredevil season 3
 - [ ] The Punisher season 2
 - [x] Jessica Jones season 3
-- [ ] Ant-Man and the Wasp
-- [ ] Avengers: Infinity War
+- [x] Ant-Man and the Wasp
+- [x] Avengers: Infinity War
 - [x] Agents of Shield season 5 episodes 19-22
 - [x] Agents of Shield season 6
 - [ ] Agents of Shield season 7

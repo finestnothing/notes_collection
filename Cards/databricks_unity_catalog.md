@@ -9,4 +9,4 @@ This includes files, tables, machine learning models, and dashboards
 
 It is possible to query the [[databricks_hive_metastore]] from unity catalog, either doing hive_metastore.{db}.{table} or USE hive_metastore
 
-[[dev/unity_catalog_vs_hive_metastore]]
+[[unity_catalog_vs_hive_metastore]]

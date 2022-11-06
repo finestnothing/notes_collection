@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "202211060605",
+      "path": "Inbox/202211060605.md"
+    },
+    {
+      "basename": "202211052211",
+      "path": "Inbox/202211052211.md"
+    },
+    {
+      "basename": "mcu_watch_order",
+      "path": "Spaces/Media/mcu_watch_order.md"
+    },
+    {
       "basename": "202211031516",
       "path": "Spaces/Work/databricks_training_notes/202211031516.md"
+    },
+    {
+      "basename": "unity_catalog_vs_hive_metastore",
+      "path": "Cards/unity_catalog_vs_hive_metastore.md"
+    },
+    {
+      "basename": "databricks_unity_catalog",
+      "path": "Cards/databricks_unity_catalog.md"
+    },
+    {
+      "basename": "databricks_moc",
+      "path": "Atlas/databricks_moc.md"
+    },
+    {
+      "basename": "data_engineering_moc",
+      "path": "Atlas/data_engineering_moc.md"
+    },
+    {
+      "basename": "202211011523",
+      "path": "Spaces/Work/databricks_training_notes/202211011523.md"
+    },
+    {
+      "basename": "+about_spaces",
+      "path": "Spaces/+about_spaces.md"
     },
     {
       "basename": "dnd_boss_joke",
@@ -19,10 +55,6 @@
     {
       "basename": "dnd_Cave_of_Doom",
       "path": "Spaces/dnd/homebrew/dnd_Cave_of_Doom.md"
-    },
-    {
-      "basename": "202211011523",
-      "path": "Spaces/Work/databricks_training_notes/202211011523.md"
     },
     {
       "basename": "+info_integration_project",
@@ -43,10 +75,6 @@
     {
       "basename": "databricks_sql_query_files",
       "path": "Cards/databricks_sql_query_files.md"
-    },
-    {
-      "basename": "databricks_moc",
-      "path": "Atlas/databricks_moc.md"
     },
     {
       "basename": "spark",
@@ -97,10 +125,6 @@
       "path": "Dev/sql_commands.md"
     },
     {
-      "basename": "data_engineering_moc",
-      "path": "Atlas/data_engineering_moc.md"
-    },
-    {
       "basename": "databricks_auto_ml",
       "path": "Cards/databricks_auto_ml.md"
     },
@@ -141,10 +165,6 @@
       "path": "Cards/whats_in_the_databricks_data_science_and_engineering_workspace.md"
     },
     {
-      "basename": "databricks_unity_catalog",
-      "path": "Cards/databricks_unity_catalog.md"
-    },
-    {
       "basename": "unity_catalog_vs_hive_metastore",
       "path": "dev/unity_catalog_vs_hive_metastore.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "step functions",
       "path": "Spaces/Work/integration_project/step functions.md"
-    },
-    {
-      "basename": "first_read_of_research_paper",
-      "path": "Cards/first_read_of_research_paper.md"
-    },
-    {
-      "basename": "+about_inbox",
-      "path": "Inbox/+about_inbox.md"
-    },
-    {
-      "basename": "essential_software",
-      "path": "Cards/essential_software.md"
-    },
-    {
-      "basename": "sql_transactions",
-      "path": "Cards/sql_transactions.md"
-    },
-    {
-      "basename": "sql_transaction_code_example",
-      "path": "Cards/sql_transaction_code_example.md"
     }
   ],
   "omittedPaths": [],

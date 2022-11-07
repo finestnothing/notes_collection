@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5591f6aeddcaf990",
+            "id": "8a383dac6ef8cc6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/202211060605.md",
+                "file": "Inbox/202211070905.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/202211060605.md",
+                "file": "Inbox/202211070905.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/202211060605.md",
+                "file": "Inbox/202211070905.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/202211060605.md",
+                "file": "Inbox/202211070905.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/202211060605.md"
+                "file": "Inbox/202211070905.md"
               }
             }
           }
@@ -203,19 +203,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499.5
+    "width": 499.5,
+    "collapsed": true
   },
-  "active": "5591f6aeddcaf990",
+  "active": "8a383dac6ef8cc6d",
   "lastOpenFiles": [
-    "Inbox/202211052211.md",
-    "Inbox/202210160928.md",
-    "Spaces/Work/databricks_training_notes/202211031516.md",
-    "Cards/unity_catalog_vs_hive_metastore.md",
-    "Cards/databricks_unity_catalog.md",
-    "Dev/unity_catalog_vs_hive_metastore.md",
-    "Atlas/databricks_moc.md",
-    "Cards/databricks_clusters.md",
-    "Atlas/data_engineering_moc.md",
-    "Spaces/Work/databricks_training_notes/202211011523.md"
+    "Extras/Templates/inbox_note_template.md",
+    "Inbox/202211070905.md",
+    "Inbox/202211070850.md",
+    "Inbox/202211060605.md",
+    "Spaces/Course_Notes/udemy_devops_training_notes/+info_udemy_devops_training.md",
+    "Atlas/devops_moc.md",
+    "Cards/creating_a_blog.md",
+    "Atlas/career_knowledge_moc.md",
+    "Spaces/Course_Notes/Untitled.md",
+    "Inbox/202211052211.md"
   ]
 }

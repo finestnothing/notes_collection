@@ -13,5 +13,6 @@
   "obsidian-hover-editor",
   "obsidian-outliner",
   "tag-wrangler",
-  "dataview"
+  "dataview",
+  "obsidian-linter"
 ]

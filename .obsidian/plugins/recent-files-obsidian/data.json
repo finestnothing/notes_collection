@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "202211070905",
+      "path": "Inbox/202211070905.md"
+    },
+    {
+      "basename": "inbox_note_template",
+      "path": "Extras/Templates/inbox_note_template.md"
+    },
+    {
+      "basename": "202211070850",
+      "path": "Inbox/202211070850.md"
+    },
+    {
       "basename": "202211060605",
       "path": "Inbox/202211060605.md"
+    },
+    {
+      "basename": "+info_udemy_devops_training",
+      "path": "Spaces/Course_Notes/udemy_devops_training_notes/+info_udemy_devops_training.md"
+    },
+    {
+      "basename": "devops_moc",
+      "path": "Atlas/devops_moc.md"
+    },
+    {
+      "basename": "creating_a_blog",
+      "path": "Cards/creating_a_blog.md"
+    },
+    {
+      "basename": "career_knowledge_moc",
+      "path": "Atlas/career_knowledge_moc.md"
     },
     {
       "basename": "202210160928",
@@ -10,7 +38,7 @@
     },
     {
       "basename": "202211031516",
-      "path": "Spaces/Work/databricks_training_notes/202211031516.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211031516.md"
     },
     {
       "basename": "mcu_watch_order",
@@ -34,7 +62,7 @@
     },
     {
       "basename": "202211011523",
-      "path": "Spaces/Work/databricks_training_notes/202211011523.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
     },
     {
       "basename": "+about_spaces",
@@ -42,19 +70,19 @@
     },
     {
       "basename": "dnd_boss_joke",
-      "path": "Spaces/dnd/homebrew/dnd_boss_joke.md"
+      "path": "Spaces/Games/dnd/homebrew/dnd_boss_joke.md"
     },
     {
       "basename": "dnd_Staff_of_horse",
-      "path": "Spaces/dnd/homebrew/dnd_Staff_of_horse.md"
+      "path": "Spaces/Games/dnd/homebrew/dnd_Staff_of_horse.md"
     },
     {
       "basename": "dnd_Cursed_book",
-      "path": "Spaces/dnd/homebrew/dnd_Cursed_book.md"
+      "path": "Spaces/Games/dnd/homebrew/dnd_Cursed_book.md"
     },
     {
       "basename": "dnd_Cave_of_Doom",
-      "path": "Spaces/dnd/homebrew/dnd_Cave_of_Doom.md"
+      "path": "Spaces/Games/dnd/homebrew/dnd_Cave_of_Doom.md"
     },
     {
       "basename": "+info_integration_project",
@@ -62,11 +90,11 @@
     },
     {
       "basename": "202210271455",
-      "path": "Spaces/Work/databricks_training_notes/202210271455.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
     },
     {
       "basename": "202210261443",
-      "path": "Spaces/Work/databricks_training_notes/202210261443.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/202210261443.md"
     },
     {
       "basename": "databricks_sql",
@@ -82,27 +110,27 @@
     },
     {
       "basename": "202210141556",
-      "path": "Spaces/Work/databricks_training_notes/Converted/202210141556.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210141556.md"
     },
     {
       "basename": "202210191507",
-      "path": "Spaces/Work/databricks_training_notes/Converted/202210191507.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210191507.md"
     },
     {
       "basename": "202210121539",
-      "path": "Spaces/Work/databricks_training_notes/Converted/202210121539.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210121539.md"
     },
     {
       "basename": "202210111615",
-      "path": "Spaces/Work/databricks_training_notes/Converted/202210111615.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111615.md"
     },
     {
       "basename": "202210111603",
-      "path": "Spaces/Work/databricks_training_notes/Converted/202210111603.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111603.md"
     },
     {
       "basename": "202210111545",
-      "path": "Spaces/Work/databricks_training_notes/Converted/202210111545.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111545.md"
     },
     {
       "basename": "sql",
@@ -114,7 +142,7 @@
     },
     {
       "basename": "+info_databricks_training_notes",
-      "path": "Spaces/Work/databricks_training_notes/+info_databricks_training_notes.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/+info_databricks_training_notes.md"
     },
     {
       "basename": "sql_command_count",
@@ -171,30 +199,6 @@
     {
       "basename": "sql_endpoints",
       "path": "Cards/sql_endpoints.md"
-    },
-    {
-      "basename": "photon",
-      "path": "Cards/photon.md"
-    },
-    {
-      "basename": "delta_live_table",
-      "path": "Cards/delta_live_table.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "+about_atlas",
-      "path": "Atlas/+about_atlas.md"
-    },
-    {
-      "basename": "career_knowledge_moc",
-      "path": "Atlas/career_knowledge_moc.md"
-    },
-    {
-      "basename": "step functions",
-      "path": "Spaces/Work/integration_project/step functions.md"
     }
   ],
   "omittedPaths": [],

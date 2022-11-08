@@ -2,6 +2,7 @@ up:: [[README]]
 tags:: #map #on/pkm
 
 # Meta PKM
+
 This [[map_of_content]] is full of best practices and maintenance notes for the PKM system.
 
 - Managing and Maintaining the PKM system

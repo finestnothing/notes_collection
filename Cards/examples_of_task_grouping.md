@@ -1,6 +1,7 @@
 up:: [[what_is_task_grouping]]
 
 # examples_of_task_grouping
+
 Created: 2022-06-23 08:53
 
 - Examples include paying CC bills, responding to emails, etc

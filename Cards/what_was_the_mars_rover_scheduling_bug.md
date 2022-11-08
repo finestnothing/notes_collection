@@ -1,6 +1,7 @@
 up:: [[historical_events_moc]]
 
-# what was the mars rover scheduling bug
+# What Was the Mars Rover Scheduling Bug
+
 Created: 2022-06-23 08:43
 
 - The mars rover was not writing data to the I/O bus

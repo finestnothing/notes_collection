@@ -1,13 +1,17 @@
 up:: [[read_books]]
-tags:: #book/pending_sequel #book/fantasy #book/magic 
+tags:: #book/pending_sequel #book/fantasy #book/magic
 
 # The Starless Crown
+
 ## By James Rollins
-#### Review:
+
+### Review:
+
 - Started reading - It's pretty good, so far just in back story but it's written well
 - Finished - Really good book, very happy with it and will definitely read the rest of the series
 
-#### Quotes: 
+### Quotes:
+
 ```ad-quote
 title: Page 0
 

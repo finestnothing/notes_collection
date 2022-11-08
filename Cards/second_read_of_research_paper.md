@@ -1,6 +1,7 @@
 up:: [[what_is_the_three_pass_process]]
 
 # second_read_of_research_paper
+
 Created: 2022-06-09 08:42
 
 - This pass will take significantly longer than the [[first_read_of_research_paper]], up to about an hour
@@ -14,7 +15,7 @@ Created: 2022-06-09 08:42
 		- Are they relevant? Skewed?
 	- Make a list of references that you haven't read yet. This makes it easier to go back and read relevant texts if needed (or just for later reading)
 - After this pass:
-	- If you don't understand the topic still, that's alright! It could be due to: 
+	- If you don't understand the topic still, that's alright! It could be due to:
 		- The author (writing the paper badly or incorrectly)
 		- Your knowledge base not being where it needs to be to understand it (required base knowledge, the proofs are important, etc)
 		- You could simply be tired and need to look at it again when you're awake and less distracted

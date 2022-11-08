@@ -1,3 +1,5 @@
+# dnd_Cursed_book
+
 up:: [[+info_dnd]]
 
 - From [[the_blacktongue_thief]]

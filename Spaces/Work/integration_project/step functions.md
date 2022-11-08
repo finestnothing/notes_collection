@@ -1,6 +1,7 @@
 up:: [[jira_proof_of_concept]]
 
 # Step Functions
+
 Each one will execute a specific task and have appropriate logging
 Works for different integrations and destinations
 
@@ -14,7 +15,7 @@ Will have one notebook for running each function, basically just imports functio
 step_parameters table
 	pass in integration id and required data to run the functions
 step function list
-	step_id and step name for getting step_parameters based on 
+	step_id and step name for getting step_parameters based on
 
 Efficient way to go between integration step and step_parameters, specific with step_parameters
 Option to reuse step_parameters somehow
@@ -27,6 +28,7 @@ Also will want a step function to encrypt files if S3 doesn't
 - Happens after TEAMS file move
 
 ## Functions:
+
 The functions below are subject to change.
 ![[get_df]]
 ![[log_data]]

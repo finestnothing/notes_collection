@@ -1,6 +1,7 @@
 up:: [[research_moc]]
 
 # writing_research_papers
+
 Created: 2022-06-09 08:36
 
 - While using the [[what_is_the_three_pass_process|three pass process]] is great, most people will only read research papers once.

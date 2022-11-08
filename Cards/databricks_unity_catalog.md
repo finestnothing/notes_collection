@@ -1,6 +1,7 @@
 up:: [[databricks_moc]]
 
 # Databricks Unity Catalog
+
 Created: 20221101 17:09
 Modified: 20221101 17:09
 

@@ -1,6 +1,7 @@
 up:: [[algorithms_to_live_by_moc]]
 
 # What is the 37 Percent Rule
+
 Created: 2022-06-16 08:49
 
 - In this rule, you should spend 37% of your time or options just exploring, then pick the next best option

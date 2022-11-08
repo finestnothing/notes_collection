@@ -1,6 +1,7 @@
 up:: [[databricks_sql]]
 
 # SQL Endpoints in Databricks
+
 Created: 20221101 17:04
 
 Two Types:

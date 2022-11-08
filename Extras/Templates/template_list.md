@@ -1,6 +1,7 @@
 up:: [[+about_extras]]
 
 # List of Markdown Templates
+
 A collection of templates and their uses for use in the pkm.
 
 - Card workflow

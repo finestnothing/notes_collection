@@ -1,6 +1,7 @@
 up:: [[blog_content]]
 
 # goals_of_blog_content
+
 Created: 2022-09-29 18:29
 
 - The content should be fun for me to make, but also fun and useful for others to read

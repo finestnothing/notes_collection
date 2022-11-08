@@ -6,5 +6,5 @@ up:: [[data_engineering_moc]]
 - Basically a pool of unstructured data that can be easily added to
 
 See also:
-- [[benefits_of_data_lake]] 
+- [[benefits_of_data_lake]]
 - [[drawbacks_of_data_lake]]

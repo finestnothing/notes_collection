@@ -1,6 +1,7 @@
 up:: [[creating_a_blog]]
 
 # customizing_a_blog
+
 Created: 2022-09-29 18:43
 
 - Customization is something I really look forward to when I make a blog

@@ -2,6 +2,7 @@ up:: [[data_engineering_moc]]
 tags:: #sql #best/practice
 
 # sql_transactions
+
 Created: 20221027 08:43
 
 Using transactions is best practice when modifying a [[sql_table]] or [[sql_database]] that is actively being used in [[prod]].

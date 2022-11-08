@@ -1,3 +1,5 @@
+# log_data
+
 - Purpose: Log any outgoing data to a table
 - Inputs: data info, date
 - Outputs: None

@@ -1,5 +1,7 @@
+# +about_entrance
+
 up:: [[pkm_meta]]
-tags:: #on/readme 
+tags:: #on/readme
 
 This folder contains files for getting *into* the vault from the website.
 

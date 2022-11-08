@@ -1,6 +1,7 @@
 [[algorithms_to_live_by_moc]]
 
 # what_is_task_grouping
+
 Created: 2022-06-23 08:53
 
 - Task grouping is where you do all instances of a certain task at once, rather than as they come up

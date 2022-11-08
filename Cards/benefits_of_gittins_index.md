@@ -1,6 +1,7 @@
 up:: [[gittins_index]]
 
 # benefits_of_gittins_index
+
 Created: 2022-06-16 09:44
 
 - It is a good balance of past use and future planning. Eventually experiences drop off (only pick from last 20 occurrences to calculate)

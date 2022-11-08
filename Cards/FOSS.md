@@ -1,6 +1,7 @@
 up:: [[obsidian]]
 
 # FOSS
+
 Created: 2022-09-29 18:14
 
 - Stands for Free And Open Source Software

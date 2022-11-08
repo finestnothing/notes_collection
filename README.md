@@ -3,16 +3,19 @@ alias: ["000"]
 ---
 
 # Home
+
 Your launchpad and home base. That's here. That's home.
 
 This is the starting point for accessing any idea of the PKM efficiently.
 Searching or selecting a specific file works too, but this is better for first access.
 
 ## Atlas
+
 The [[+about_atlas|atlas]] is full of [[map_of_content|maps of content]] so you don't need to try to hunt down a specific file to get started.
 They're all right here waiting for you.
 
-## Understanding this PKM
+## Understanding This PKM
+
 It can be daunting to jump right in to this repository of knowledge - and even more so maintaining it as it gets large.
 Here are some helpful links for understand what the heck is going on across the PKM, and my own maintenance guidelines.
 Everything here is made in [[obsidian]] with [[markdown]] files
@@ -31,6 +34,8 @@ Everything here is made in [[obsidian]] with [[markdown]] files
 
 ## PKM Meta Access
 
+%% This query does not work in obsidian publish%%
+
 ``` dataview
 TABLE WITHOUT ID
 	file.link as "Map of Content",
@@ -40,5 +45,4 @@ TABLE WITHOUT ID
 
 FROM outgoing([[pkm_meta]])
 
-sort length(file.outlinks) + length(file.inlinks) desc
 ```

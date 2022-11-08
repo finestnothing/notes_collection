@@ -1,6 +1,7 @@
 # What to Read
-- https://github.com/facundoolano/software-papers
-- https://github.com/papers-we-love/papers-we-love
+
+- <https://github.com/facundoolano/software-papers>
+- <https://github.com/papers-we-love/papers-we-love>
 - Borg, Omega, and Kubernetes by Brendan Burns, Brian Grant, and David Oppenheimer
 	- [[borg_omega_kubernetes.pdf]]
 - ‘NO SILVER BULLET – ESSENCE AND ACCIDENT IN SOFTWARE ENGINEERING’ BY FRED BROOKS

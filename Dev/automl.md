@@ -1,6 +1,6 @@
 up:: [[202210111615]]
 
-# automl
+# Automl
 
  Automatically apply ML to dataset
 	- Uses open source ML models on a dataset automatically

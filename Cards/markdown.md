@@ -1,6 +1,7 @@
 up:: [[README]]
 
-# markdown
+# Markdown
+
 Created: 2022-09-29 18:09
 
 - Easy hypertext language for writing notes, equations, etc in plain-text

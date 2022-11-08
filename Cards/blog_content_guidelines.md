@@ -1,6 +1,7 @@
 up:: [[blog_content]]
 
 # blog_content_guidelines
+
 Created: 2022-09-29 18:24
 
 - The content and writing can be as formal or informal as I like

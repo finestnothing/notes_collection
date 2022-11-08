@@ -2,6 +2,7 @@ up:: [[README]]
 tags:: #on/technology #windows #software
 
 # Essential Software to Download on Windows
+
 Created: 2022-10-26 08:47
 
 What to download on new computer:

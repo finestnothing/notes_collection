@@ -3,11 +3,13 @@ up:: [[+info_integration_project]]
 # Jira Task - Proof of Concept
 
 ## Intro
+
 As a: member of Data Services
 I need to: be able to send data to clients and see what happens along the process
 So that: it can be reported on and we can tell when something broke
 
 ## Requirements:
+
 - Proof of concept with a few jobs that run one [[step functions]] each
 - Integration Database
 	- Must be source of truth for integrations and step functions

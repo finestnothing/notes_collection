@@ -1,7 +1,8 @@
 up:: [[product_creation_moc]]
-tags:: #on/business 
+tags:: #on/business
 
 # Bootstrapping a Startup
+
 Notes related to bootstrapping a startup.
 
 1. [[what_is_bootstrapping]]

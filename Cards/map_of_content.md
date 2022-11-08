@@ -1,5 +1,7 @@
+# map_of_content
+
 up:: [[pkm_meta]]
-tags:: #on/pkm 
+tags:: #on/pkm
 
 Maps of content are basically a table of contents for certain topics.
 Each one contains links to important related [[+about_cards|cards]].

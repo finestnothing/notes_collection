@@ -1,6 +1,7 @@
 up:: [[databricks_workspaces]]
 
 # databricks_machine_learning
+
 Created: 20221101 17:35
 Modified: 20221101 17:35
 
@@ -29,7 +30,7 @@ Addresses common issues in ML
 	- Access control lists and Unity Catalog work together to restrict access
 - Once they're built, need to be integrated
 	- Store and manage models
-	- Standard model deployment and staging 
+	- Standard model deployment and staging
 	- Streaming serving tools
 
 what's in the workspace?
@@ -43,6 +44,7 @@ what's in the workspace?
 	- Automate running jobs
 
 ## See Also
+
 - [[databricks_ml_flow]]
 - [[databricks_auto_ml]]
 - [[Dev/databricks_feature_store]]

@@ -1,6 +1,7 @@
 up:: [[algorithms_to_live_by_moc]]
 
 # Fast and Efficient Organization
+
 Created: 2022-06-16 09:58
 
 - The optimal way to sort (files, books, clothes, etc) is to put most recently used on the top/left/etc

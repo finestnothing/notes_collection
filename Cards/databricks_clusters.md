@@ -1,6 +1,7 @@
 up:: [[databricks_moc]]
 
 # databricks_clusters
+
 Created: 20221101 17:45
 Modified: 20221101 17:45
 
@@ -16,4 +17,5 @@ Two types of cluster:
 	- Config info retains 30 clusters
 
 ## See Also
+
 - [[databricks_how_to_create_a_cluster]]

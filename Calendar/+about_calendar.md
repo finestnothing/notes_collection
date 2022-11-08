@@ -1,7 +1,8 @@
 up:: [[pkm_meta]]
-tags:: #on/pkm 
+tags:: #on/pkm
 
-# This is where timestamped notes go
+# This is Where Timestamped Notes Go
+
 Think about what notes you might want to sort by date. Here are some common types:
 
 - Daily Notes

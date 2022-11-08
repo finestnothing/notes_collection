@@ -1,3 +1,5 @@
+# failed_theft_gabur
+
 - Gabur was Previously an ally, breaking into houses together
 - Robbed a wealthy merchant, they were tasked with carrying the loot while I secured the way out.
 	- After climbing down from the window, they set the pack down - loudly - to rest, a guard heard and we had to run - the idiot left the pack there

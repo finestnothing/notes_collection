@@ -1,6 +1,7 @@
 up:: [[life_advice_moc]]
 
 # what_is_a_stop_doing_list
+
 Created: 2022-06-22 11:45
 
 - A stop doing list is a list of things you want to remember to not do, just like a normal list is a reminder of things to do

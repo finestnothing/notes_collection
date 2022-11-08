@@ -1,6 +1,7 @@
 [[algorithms_to_live_by_moc]]
 
 # gittins_index
+
 Created: 2022-06-16 09:41
 
 - Gittins Index is used to tell the probability of a payoff or win

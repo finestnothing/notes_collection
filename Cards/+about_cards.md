@@ -1,3 +1,5 @@
+# +about_cards
+
 up:: [[pkm_meta]]
 tags:: #on/pkm
 

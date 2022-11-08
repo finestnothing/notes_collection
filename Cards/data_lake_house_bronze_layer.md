@@ -1,6 +1,7 @@
 up:: [[data_lake_house]]
 
 # data_lake_house_bronze_layer
+
 Created: 2022-09-29 17:32
 
 - Layer that holds the raw ingested data

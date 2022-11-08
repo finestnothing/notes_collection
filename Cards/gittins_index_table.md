@@ -1,6 +1,7 @@
 up:: [[gittins_index]]
 
 # gittins_index_table
+
 Created: 2022-06-16 09:28
 
 |     | 0      | 1      | 2      | 3      | 4     | 5     | 6     | 7     | 8     | 9     |

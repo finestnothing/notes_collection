@@ -1,6 +1,7 @@
 up:: [[creating_a_blog]]
 
 # how_to_pick_a_title
+
 Created: 2022-09-29 18:36
 
 - [[post_titles_are_imporant]]

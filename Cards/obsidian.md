@@ -1,6 +1,7 @@
 up:: [[README]]
 
-# obsidian
+# Obsidian
+
 Created: 2022-09-29 18:11
 
 - [[markdown]] editor with a nice user interface
@@ -10,4 +11,5 @@ Created: 2022-09-29 18:11
 - On windows, linux, MacOS, android, iphone, etc
 
 ## References
-1. https://obsidian.md/
+
+1. <https://obsidian.md/>

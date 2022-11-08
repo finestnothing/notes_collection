@@ -3,9 +3,11 @@ tags:: #recipe #breakfast #overnight_oats
 ingredients:: rolled oats, milk, banana, peanut butter, maple syrup, chia seeds, vanilla extract, salt, yogurt
 
 # Peanut Butter Banana Overnight Oats
+
 Mix all ingredients together, refrigerate for 4+ hours
 
 ## Ingredients
+
 - 1 cup rolled oats (106 g)
 - 1 cup milk (230 g)
 - 1 banana, mashed
@@ -16,6 +18,7 @@ Mix all ingredients together, refrigerate for 4+ hours
 - pinch of salt
 
 ## Optional Toppings
+
 - Sliced banana
 - Peanut butter
 - Chopped nuts

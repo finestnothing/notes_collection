@@ -1,6 +1,7 @@
 up:: [[algorithms_to_live_by_moc]]
 
-# What is the 2 machine scheduling process
+# What is the 2 Machine Scheduling Process
+
 Created: 2022-06-23 08:24
 
 - This sorting process is applied when you have 2 "machine" or processes to achieve for each item.

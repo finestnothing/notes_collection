@@ -1,6 +1,7 @@
 up:: [[what_is_bootstrapping]]
 
 # indiehackers_movement
+
 Created: 20221019 16:13
 Modified: 20221019 16:13
 

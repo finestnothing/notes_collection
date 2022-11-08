@@ -1,6 +1,6 @@
 up:: [[blog_content]]
 
-# Some initial ideas for blog content
+# Some Initial Ideas for Blog Content
 
 - Explaining open-source software
 	- Licenses

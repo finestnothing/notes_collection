@@ -3,6 +3,7 @@ up:: [[game_theory_and_auctions]]
 # dutch_auction
 
 ## Dutch Auction
+
 - Descending auction
 	- Price starts high and goes down bit by bit
 	- First bidder gets it

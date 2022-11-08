@@ -15,5 +15,6 @@ up:: [[databricks_workspaces]]
 - Also doesn't have to use a [[sql_table]] as the source, they can also use [[self_describing_data_sources]] - [[databricks_sql_query_files]]
 
 ## See Also:
+
 - [[sql_endpoints]]
 - [[databricks_unity_catalog]]

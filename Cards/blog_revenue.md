@@ -1,6 +1,7 @@
 up:: [[creating_a_blog]]
 
 # blog_revenue
+
 Created: 2022-09-29 18:39
 
 - Many sources of income for a blog, though it does take a large base to actually make money

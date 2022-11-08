@@ -1,6 +1,7 @@
 up:: [[Cards/databricks_sql]]
 
-# photon
+# Photon
+
 Created: 20221101 17:05
 Modified: 20221101 17:05
 

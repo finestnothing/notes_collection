@@ -1,6 +1,7 @@
 up:: [[how_to_apply_37_percent_rule]]
 
 # What is the Threshold Rule
+
 Created: 2022-06-16 09:03
 
 - Using the table below, immediately hire someone/pick an option (even in exploratory phase) if they exceed the percentile threshold. As you get to fewer and fewer options, the threshold decreases because you are less and less likely to get someone that exceeds it.

@@ -1,6 +1,7 @@
 up:: [[algorithms_to_live_by_moc]]
 
 # sum_of_completion_time_minimization
+
 Created: 2022-06-23 08:39
 
 - If all tasks are weighted the same/equal, you should do shorter tasks first

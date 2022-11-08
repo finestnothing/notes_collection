@@ -1,6 +1,7 @@
 up:: [[what_is_bootstrapping]]
 
 # Benefits of Bootstrapping
+
 Created: 2022-06-07 17:36
 
 1. No/less pressure to do things fast since you work at your own pace

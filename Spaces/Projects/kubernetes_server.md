@@ -1,6 +1,9 @@
 # Project Title
-## Status: #project/idea 
+
+## Status: #project/idea
+
 ## Description
+
 - Assemble Kubernetes cluster
 
 ## Notes

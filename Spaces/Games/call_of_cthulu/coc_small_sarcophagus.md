@@ -1,3 +1,5 @@
+# coc_small_sarcophagus
+
 - Small sarcophagus from Call of Cthulu
 	- Comes from Call of Cthulu starter book 3, Edge of Darkness adventure
 	- From Rupert Merriweather upon his death

@@ -2,6 +2,7 @@ up:: [[README]]
 tags:: #food
 
 # Recipe MoC
+
 A Collection of recipes
 
 1. [[homemade_pasta]]

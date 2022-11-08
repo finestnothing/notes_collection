@@ -1,9 +1,10 @@
 up:: [[recipe_moc]]
-tags:: #baking #bread #food #sourdough 
+tags:: #baking #bread #food #sourdough
 source:: [Sourdough Bread: A Beginner's Guide - The Clever Carrot](https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/#how-to)
 ingredients:: water, sourdough starter, olive oil, bread flour, seas salt
 
 # sourdough_bread
+
 Created: 20221012 17:39
 
 1. Mix together with a fork:

@@ -1,5 +1,5 @@
 up:: [[databricks_moc]]
-tags:: #databricks 
+tags:: #databricks
 
 # data_lake_house
 
@@ -13,6 +13,7 @@ tags:: #databricks
 - Going between the layers uses a [[databricks_pipeline]] that uses [[delta_live_table]]s
 - Databricks is data native so all the data is in one place, no need to move it between servers
 
-## See also: 
+## See Also:
+
 - [[benefits_of_data_lake_house]]
 - [[drawbacks_of_data_lake_house]]

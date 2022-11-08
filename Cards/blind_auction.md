@@ -1,6 +1,7 @@
 up:: [[game_theory_and_auctions]]
 
 # blind_auction
+
 Created: 20221019 15:44
 Modified: 20221019 15:44
 

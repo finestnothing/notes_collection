@@ -1,3 +1,5 @@
+# +info_dnd
+
 up:: [[rpg_games_moc]]
 tags:: #games/rpg #games/dnd
 

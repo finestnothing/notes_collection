@@ -1,3 +1,5 @@
+# ideals
+
 title:: port/ideals
 
 - Poverty needs to be avoided at all costs.

@@ -1,5 +1,5 @@
 source::
 
 # {{title}}
-Created: {{date}} {{time}}
 
+Created: {{date}} {{time}}

@@ -2,6 +2,7 @@ up:: [[pkm_meta]]
 tags:: #on/pkm
 
 # PKM Tags
+
 Confused about what tags to use when? Needing to know what tags some default files should fall under?
 Look no further!
 
@@ -11,8 +12,8 @@ Look no further!
 	- #to/rewrite - Notes to rewrite, such as if I'm not happy with how it sounds, tired of writing and just slap bullet points down, etc
 	- #to/work_on - Good for efforts. Basically giving me stuff to do at a later time that isn't small tasks
 - #on/ - A collection of tags saying what a certain note is about
-	- #on/pkm 
-	- #on/readme 
+	- #on/pkm
+	- #on/readme
 	- #on/habit
 	- #on/technology
 	- etc

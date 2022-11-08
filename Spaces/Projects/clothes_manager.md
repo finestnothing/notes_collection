@@ -1,6 +1,9 @@
 # Clothes Manager
+
 ## Status: #project/idea
+
 ## Description
+
 - Add Clothes
 	- Extract details about clothes from picture
 	- Formality ranking?
@@ -21,4 +24,5 @@
 	- Once worn, add to dirty list
 		- Keep jeans in rotation based on user preference
 	- Can do "laundry" to add clothes back to wardrobe
+
 ## Notes

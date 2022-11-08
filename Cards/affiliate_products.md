@@ -1,6 +1,7 @@
 up:: [[blog_revenue]]
 
 # affiliate_products
+
 Created: 2022-09-29 18:41
 
 - Affiliate products means I get a cut of any proceeds from sales if they use my link

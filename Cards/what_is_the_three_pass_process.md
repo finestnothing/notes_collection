@@ -1,6 +1,7 @@
 up:: [[research_moc]]
 
 # what_is_the_three_pass_process
+
 Created: 2022-06-09 08:22
 
 - A three-stage system of reading research papers to be more efficient and better understand the information
@@ -8,6 +9,7 @@ Created: 2022-06-09 08:22
 - Each step has a specific goal rather than just re-reading the paper three times fully
 
 ## References
+
 1. [[first_read_of_research_paper]]
 2. [[second_read_of_research_paper]]
 3. [[third_read_of_research_paper]]

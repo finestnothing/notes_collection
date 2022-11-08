@@ -19,11 +19,11 @@ Orchestrator job
 Schedule goes in integration_schedule, Integration list
 Integration schedule
 	As many options as possible without being unreasonable
-	String for cron - https://pypi.org/project/cron-converter/
+	String for cron - <https://pypi.org/project/cron-converter/>
 		Cron tab guru
 	Figure something out here
 	Only schedule needs to be machine readable
-	schedule.next().isoformat() - Get ISO format of next 
+	schedule.next().isoformat() - Get ISO format of next
 Once it's queued, no longer cares about specific time of sending. Only in 2 hour windows (for now)
 
 Queue Processor

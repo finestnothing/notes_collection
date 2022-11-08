@@ -1,7 +1,7 @@
 up:: [[recipe_moc]]
-tags:: #on/food 
+tags:: #on/food
 
-# 
-## Ingredients
+#
+# Ingredients
 
-## Instructions:
+# Instructions:

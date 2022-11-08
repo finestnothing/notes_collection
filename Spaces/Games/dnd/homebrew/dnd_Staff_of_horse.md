@@ -1,3 +1,5 @@
+# dnd_Staff_of_horse
+
 up:: [[+info_dnd]]
 
 - Shamelessly stolen from [[the_blacktongue_thief]]

@@ -1,6 +1,7 @@
 up:: [[databricks_data_science_and_engineering]]
 
 # whats_in_the_databricks_data_science_and_engineering_workspace
+
 Created: 20221101 17:30
 Modified: 20221101 17:30
 

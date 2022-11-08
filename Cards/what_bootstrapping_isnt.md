@@ -2,6 +2,7 @@ up:: [[what_is_bootstrapping]]
 tags::
 
 # what_bootstrapping_isnt
+
 Created: 20221019 16:16
 Modified: 20221019 16:16
 

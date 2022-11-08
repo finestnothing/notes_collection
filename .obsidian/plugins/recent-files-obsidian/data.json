@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "202211071456",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "map_of_content",
+      "path": "Cards/map_of_content.md"
+    },
+    {
+      "basename": "+about_atlas",
+      "path": "Atlas/+about_atlas.md"
+    },
+    {
+      "basename": "+info_integration_project",
+      "path": "Spaces/Work/integration_project/+info_integration_project.md"
+    },
+    {
+      "basename": "+info_work",
+      "path": "Spaces/Work/+info_work.md"
+    },
+    {
       "basename": "202211011523",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
     },
@@ -83,10 +107,6 @@
     {
       "basename": "dnd_Cave_of_Doom",
       "path": "Spaces/Games/dnd/homebrew/dnd_Cave_of_Doom.md"
-    },
-    {
-      "basename": "+info_integration_project",
-      "path": "Spaces/Work/integration_project/+info_integration_project.md"
     },
     {
       "basename": "202210271455",
@@ -179,26 +199,6 @@
     {
       "basename": "databricks_feature_store",
       "path": "dev/databricks_feature_store.md"
-    },
-    {
-      "basename": "data_lake_house",
-      "path": "Cards/data_lake_house.md"
-    },
-    {
-      "basename": "databricks_data_science_and_engineering",
-      "path": "Cards/databricks_data_science_and_engineering.md"
-    },
-    {
-      "basename": "whats_in_the_databricks_data_science_and_engineering_workspace",
-      "path": "Cards/whats_in_the_databricks_data_science_and_engineering_workspace.md"
-    },
-    {
-      "basename": "unity_catalog_vs_hive_metastore",
-      "path": "dev/unity_catalog_vs_hive_metastore.md"
-    },
-    {
-      "basename": "sql_endpoints",
-      "path": "Cards/sql_endpoints.md"
     }
   ],
   "omittedPaths": [],

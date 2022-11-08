@@ -1,6 +1,7 @@
 up:: [[what_is_the_37_percent_rule]]
 
-# Benefits of the 37 percent rule
+# Benefits of the 37 Percent Rule
+
 Created: 2022-06-16 08:54
 
 - The 37 percent rule is helpful for balancing gathering data and picking your options

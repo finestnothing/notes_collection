@@ -3,7 +3,8 @@ tags:: #extras
 
 # Queries
 
-## All pages with a specific tag, ranked desc
+## All Pages with a Specific Tag, Ranked Desc
+
 ``` dataview
 TABLE WITHOUT ID
  file.link as Efforts,
@@ -15,7 +16,8 @@ SORT rank desc
 
 ```
 
-## Unsorted notes
+## Unsorted Notes
+
 ``` dataview
 TABLE WITHOUT ID
  file.link as "Encounters and new notes",
@@ -28,7 +30,7 @@ SORT file.cday asc
 LIMIT 20
 ```
 
-## Notes in a folder
+## Notes in a Folder
 
 ``` dataview
 TABLE WITHOUT ID
@@ -42,7 +44,8 @@ SORT file.link desc
 LIMIT 20
 ```
 
-## Notes that point to this file, but this file doesn't point back (unrequited)
+## Notes That Point to This File, but This File Doesn't Point Back (unrequited)
+
 ```dataview
 LIST
 

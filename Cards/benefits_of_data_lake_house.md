@@ -14,5 +14,5 @@ up:: [[data_lake_house]]
 	- Integrates many data types and formats
 	- Data streaming is used
 	- Tracks changes and formatting (ACID)
-	- Large volumes of data 
+	- Large volumes of data
 - [[ACID]] transactions and [[unity_catalog|Unity Catalog]] come built in for security

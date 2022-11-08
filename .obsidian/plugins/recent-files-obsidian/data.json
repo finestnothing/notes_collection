@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "+info_databricks_training_notes",
+      "path": "Spaces/Course_Notes/databricks_training_notes/+info_databricks_training_notes.md"
+    },
+    {
+      "basename": "databricks_moc",
+      "path": "Atlas/databricks_moc.md"
+    },
+    {
       "basename": "202211071456",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
     },
@@ -81,10 +89,6 @@
       "path": "Cards/databricks_unity_catalog.md"
     },
     {
-      "basename": "databricks_moc",
-      "path": "Atlas/databricks_moc.md"
-    },
-    {
       "basename": "data_engineering_moc",
       "path": "Atlas/data_engineering_moc.md"
     },
@@ -159,10 +163,6 @@
     {
       "basename": "self_describing_data_sources",
       "path": "Cards/self_describing_data_sources.md"
-    },
-    {
-      "basename": "+info_databricks_training_notes",
-      "path": "Spaces/Course_Notes/databricks_training_notes/+info_databricks_training_notes.md"
     },
     {
       "basename": "sql_command_count",

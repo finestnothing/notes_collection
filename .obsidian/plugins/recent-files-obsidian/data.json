@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "202211081511",
+      "path": "Inbox/202211081511.md"
+    },
+    {
+      "basename": "202211070905",
+      "path": "Inbox/202211070905.md"
+    },
+    {
+      "basename": "202211070850",
+      "path": "Inbox/202211070850.md"
+    },
+    {
+      "basename": "202211060605",
+      "path": "Inbox/202211060605.md"
+    },
+    {
       "basename": "+info_databricks_training_notes",
       "path": "Spaces/Course_Notes/databricks_training_notes/+info_databricks_training_notes.md"
     },
@@ -37,20 +53,8 @@
       "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
     },
     {
-      "basename": "202211070905",
-      "path": "Inbox/202211070905.md"
-    },
-    {
       "basename": "inbox_note_template",
       "path": "Extras/Templates/inbox_note_template.md"
-    },
-    {
-      "basename": "202211070850",
-      "path": "Inbox/202211070850.md"
-    },
-    {
-      "basename": "202211060605",
-      "path": "Inbox/202211060605.md"
     },
     {
       "basename": "+info_udemy_devops_training",
@@ -195,10 +199,6 @@
     {
       "basename": "databricks_ml_flow",
       "path": "Cards/databricks_ml_flow.md"
-    },
-    {
-      "basename": "databricks_feature_store",
-      "path": "dev/databricks_feature_store.md"
     }
   ],
   "omittedPaths": [],

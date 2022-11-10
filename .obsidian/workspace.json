@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "057e2c00dbcfeef2",
+        "id": "47b3afa7b730aa77",
         "type": "tabs",
         "children": [
           {
-            "id": "c9abcc0e28d64b5d",
+            "id": "743b31e56dc5d0b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea5b5e9bea3ea042",
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
+              }
             }
           },
           {
@@ -204,17 +213,17 @@
     "direction": "horizontal",
     "width": 433.5
   },
-  "active": "ceea7583a54e8570",
+  "active": "743b31e56dc5d0b2",
   "lastOpenFiles": [
-    "Inbox/202211081511.md",
-    "Spaces/Course_Notes/databricks_training_notes/+info_databricks_training_notes.md",
-    "Inbox/202211070905.md",
-    "Inbox/202211070850.md",
-    "Inbox/202211060605.md",
-    "Atlas/databricks_moc.md",
     "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
+    "Inbox/202211070905.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211031516.md",
+    "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
+    "Spaces/Course_Notes/databricks_training_notes/Converted/202210141556.md",
+    "Spaces/Course_Notes/databricks_training_notes/Converted/202210191507.md",
     "Spaces/Course_Notes/databricks_training_notes/Converted/202210111615.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210111545.md",
-    "README.md"
+    "Spaces/Course_Notes/databricks_training_notes/Converted/202210121539.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
   ]
 }

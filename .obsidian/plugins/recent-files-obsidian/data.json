@@ -2,11 +2,51 @@
   "recentFiles": [
     {
       "basename": "202211081511",
-      "path": "Inbox/202211081511.md"
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
+    },
+    {
+      "basename": "202211071456",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
     },
     {
       "basename": "202211070905",
       "path": "Inbox/202211070905.md"
+    },
+    {
+      "basename": "202211031516",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211031516.md"
+    },
+    {
+      "basename": "202210271455",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
+    },
+    {
+      "basename": "202210141556",
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210141556.md"
+    },
+    {
+      "basename": "202210191507",
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210191507.md"
+    },
+    {
+      "basename": "202210111615",
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111615.md"
+    },
+    {
+      "basename": "202210121539",
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210121539.md"
+    },
+    {
+      "basename": "202211011523",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
+    },
+    {
+      "basename": "202210261443",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202210261443.md"
+    },
+    {
+      "basename": "databricks_sql_query_files",
+      "path": "Cards/databricks_sql_query_files.md"
     },
     {
       "basename": "202211070850",
@@ -23,10 +63,6 @@
     {
       "basename": "databricks_moc",
       "path": "Atlas/databricks_moc.md"
-    },
-    {
-      "basename": "202211071456",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
     },
     {
       "basename": "README",
@@ -47,10 +83,6 @@
     {
       "basename": "+info_work",
       "path": "Spaces/Work/+info_work.md"
-    },
-    {
-      "basename": "202211011523",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
     },
     {
       "basename": "inbox_note_template",
@@ -75,10 +107,6 @@
     {
       "basename": "202210160928",
       "path": "Inbox/202210160928.md"
-    },
-    {
-      "basename": "202211031516",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211031516.md"
     },
     {
       "basename": "mcu_watch_order",
@@ -117,40 +145,12 @@
       "path": "Spaces/Games/dnd/homebrew/dnd_Cave_of_Doom.md"
     },
     {
-      "basename": "202210271455",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
-    },
-    {
-      "basename": "202210261443",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202210261443.md"
-    },
-    {
       "basename": "databricks_sql",
       "path": "Cards/databricks_sql.md"
     },
     {
-      "basename": "databricks_sql_query_files",
-      "path": "Cards/databricks_sql_query_files.md"
-    },
-    {
       "basename": "spark",
       "path": "Dev/spark.md"
-    },
-    {
-      "basename": "202210141556",
-      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210141556.md"
-    },
-    {
-      "basename": "202210191507",
-      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210191507.md"
-    },
-    {
-      "basename": "202210121539",
-      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210121539.md"
-    },
-    {
-      "basename": "202210111615",
-      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111615.md"
     },
     {
       "basename": "202210111603",

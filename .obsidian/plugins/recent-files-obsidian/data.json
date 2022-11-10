@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "mcu_watch_order",
+      "path": "Spaces/Media/mcu_watch_order.md"
+    },
+    {
+      "basename": "sourdough_bread",
+      "path": "Cards/sourdough_bread.md"
+    },
+    {
+      "basename": "stretch_and_fold",
+      "path": "Cards/stretch_and_fold.md"
+    },
+    {
       "basename": "202211081511",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
     },
@@ -109,10 +121,6 @@
       "path": "Inbox/202210160928.md"
     },
     {
-      "basename": "mcu_watch_order",
-      "path": "Spaces/Media/mcu_watch_order.md"
-    },
-    {
       "basename": "unity_catalog_vs_hive_metastore",
       "path": "Cards/unity_catalog_vs_hive_metastore.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "databricks_workspaces",
       "path": "Cards/databricks_workspaces.md"
-    },
-    {
-      "basename": "databricks_machine_learning",
-      "path": "Cards/databricks_machine_learning.md"
-    },
-    {
-      "basename": "databricks_ml_flow",
-      "path": "Cards/databricks_ml_flow.md"
     }
   ],
   "omittedPaths": [],

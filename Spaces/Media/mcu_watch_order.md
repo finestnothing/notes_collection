@@ -69,8 +69,8 @@
 - [x] Avengers: Infinity War
 - [x] Agents of Shield season 5 episodes 19-22
 - [x] Agents of Shield season 6
-- [ ] Agents of Shield season 7
-- [ ] Avengers: Endgame
+- [x] Agents of Shield season 7
+- [x] Avengers: Endgame
 - [ ] Loki
 - [ ] What If...?
 - [ ] Wandavision

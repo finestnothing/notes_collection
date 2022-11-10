@@ -22,7 +22,7 @@ Created: 20221012 17:39
 	1. This will take 3 to 12 hours
 	2. Wait until the dough ball has doubled in size
 	3. Keep at 68-70 degrees
-8. Every 30 minutes or so, perform a [[stretch_and_fold]] if possible
+8. After 30 minutes or so, perform a [[stretch_and_fold]] if possible
 9. When rising is done, turn out onto floured work space
 10. Shape into a boule - [[shaping_a_boule]]
 11. Get a dutch oven, put cornmeal liberally in the bottom

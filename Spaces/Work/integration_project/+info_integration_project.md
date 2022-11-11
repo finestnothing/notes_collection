@@ -13,48 +13,6 @@ Need to make it more modular
 - Each step function can be run or not in any order specific to each integration_id
 - Stick them together like legoes instead of single linear path
 
-- [x] Create Tables
-	- [x] integration_queue
-		- integration_id
-		- job_id
-		- queue_timestamp
-	- [x] integration_list
-		- integration_id
-		- integration_name
-		- client_id
-		- cluster_size
-	- [x] integration_schedule
-		- integration_id
-		- schedule
-	- [x] job_log
-		- integration_id
-		- job_id
-		- timestamp
-		- status (queued, running, failed, success)
-	- [x] step_log
-		- job_id
-		- step_id
-		- timestamp
-		- status (queued, running, failed, success)
-	- [x] integration_log
-		- High level log?
-	- [x] step_param_map
-		- Used for mapping integration_id + step_id = parameter_id
-		- integration_id
-		- step_id
-		- parameter_id
-	- [x] step_parameters
-		- parameter_id
-		- parameter_name
-		- parameter_value
-		- parameter_type
-- [x] Orchestrator
-- [x] Queue Processor
-- [x] Runner notebooks
-	- [x] Parent runner notebooks
-	- [x] Child runner notebook
-- [x] Create Step Functions
-
 [[odp_more_info]]
 [[jira_proof_of_concept]]
 [[step functions]]

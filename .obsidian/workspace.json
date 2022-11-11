@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+                "file": "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+                "file": "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+                "file": "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+                "file": "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
+                "file": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
               }
             }
           },
@@ -213,17 +213,17 @@
     "direction": "horizontal",
     "width": 433.5
   },
-  "active": "743b31e56dc5d0b2",
+  "active": "6c6f2c87ec684d7d",
   "lastOpenFiles": [
-    "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
-    "Inbox/202211070905.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211011523.md",
     "Spaces/Course_Notes/databricks_training_notes/202211031516.md",
-    "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210141556.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210191507.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210111615.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210121539.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
+    "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+    "Spaces/Work/integration_project/step functions.md",
+    "Spaces/Work/integration_project/upload_to_s3.md",
+    "Spaces/Work/integration_project/write_df.md",
+    "Spaces/Work/integration_project/get_df.md",
+    "Spaces/Work/integration_project/log_data.md",
+    "Spaces/Work/integration_project/move_file.md"
   ]
 }

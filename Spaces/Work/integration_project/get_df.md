@@ -1,6 +1,11 @@
 # get_df
 
-- Purpose: Get dataframe of spark query based on input query
-- Inputs: string query
-- Outputs: dataframe based on input query
-- Questions: Full sql query as a string?
+## Purpose
+
+Accepts string query, returns dataframe
+
+## inputs
+#string_query - Query of String
+
+## outputs
+#basic_df - Returns to global_param_dict

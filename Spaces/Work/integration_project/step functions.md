@@ -29,10 +29,16 @@ Also will want a step function to encrypt files if S3 doesn't
 
 ## Functions:
 
-The functions below are subject to change.
-![[get_df]]
-![[log_data]]
-![[write_df]]
-![[send_to_teams]]
-![[upload_to_s3]]
-![[move_file]]
+The functions below are subject to change.'
+[[get_df]]
+[[write_df]]
+[[upload_to_s3]]
+[[send_to_teams]]
+[[encrypt_file]]
+[[decrypt_file]]
+[[generate_encryption_key_pair]]
+
+Import libraries on demand, not import all
+Views for integrationid to integration name
+Namespaces for functions
+Programmatically - when adding new integrations, only ask them to fill out fields pertaining to their specific steps

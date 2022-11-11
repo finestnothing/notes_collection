@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "47b3afa7b730aa77",
+        "id": "4c8d8e0a3ba52e29",
         "type": "tabs",
         "children": [
           {
-            "id": "743b31e56dc5d0b2",
+            "id": "78f5d51aaf9fd100",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#book/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +133,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +185,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,19 +201,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 415.5
   },
-  "active": "6c6f2c87ec684d7d",
+  "active": "029d531586176b2b",
   "lastOpenFiles": [
-    "Spaces/Course_Notes/databricks_training_notes/202211011523.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211031516.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
-    "Spaces/Work/integration_project/step functions.md",
-    "Spaces/Work/integration_project/upload_to_s3.md",
-    "Spaces/Work/integration_project/write_df.md",
-    "Spaces/Work/integration_project/get_df.md",
-    "Spaces/Work/integration_project/log_data.md",
-    "Spaces/Work/integration_project/move_file.md"
+    "Spaces/Games/dnd/homebrew/dnd_minotaur_maze.md",
+    "Spaces/Games/dnd/+info_dnd.md",
+    "Extras/Templates/book_template.md",
+    "Calendar/+about_calendar.md",
+    "Spaces/Games/dnd/homebrew/dnd_Cursed_book.md",
+    "Spaces/Games/dnd/homebrew/dnd_boss_joke.md",
+    "Spaces/Games/dnd/homebrew/dnd_Staff_of_horse.md",
+    "Spaces/Games/dnd/homebrew/dnd_Cave_of_Doom.md",
+    "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
   ]
 }

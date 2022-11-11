@@ -1,6 +1,6 @@
-# dnd_Cursed_book
-
 up:: [[+info_dnd]]
+
+# dnd_Cursed_book
 
 - From [[the_blacktongue_thief]]
 - Book with mild poison on the outside, can be handled with gloves/hand armor on

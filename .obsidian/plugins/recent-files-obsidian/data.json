@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "dnd_minotaur_maze",
+      "path": "Spaces/Games/dnd/homebrew/dnd_minotaur_maze.md"
+    },
+    {
+      "basename": "+info_dnd",
+      "path": "Spaces/Games/dnd/+info_dnd.md"
+    },
+    {
+      "basename": "book_template",
+      "path": "Extras/Templates/book_template.md"
+    },
+    {
+      "basename": "dnd_Cursed_book",
+      "path": "Spaces/Games/dnd/homebrew/dnd_Cursed_book.md"
+    },
+    {
+      "basename": "dnd_boss_joke",
+      "path": "Spaces/Games/dnd/homebrew/dnd_boss_joke.md"
+    },
+    {
+      "basename": "dnd_Staff_of_horse",
+      "path": "Spaces/Games/dnd/homebrew/dnd_Staff_of_horse.md"
+    },
+    {
+      "basename": "dnd_Cave_of_Doom",
+      "path": "Spaces/Games/dnd/homebrew/dnd_Cave_of_Doom.md"
+    },
+    {
       "basename": "202210271455",
       "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
     },
@@ -149,22 +177,6 @@
       "path": "Spaces/+about_spaces.md"
     },
     {
-      "basename": "dnd_boss_joke",
-      "path": "Spaces/Games/dnd/homebrew/dnd_boss_joke.md"
-    },
-    {
-      "basename": "dnd_Staff_of_horse",
-      "path": "Spaces/Games/dnd/homebrew/dnd_Staff_of_horse.md"
-    },
-    {
-      "basename": "dnd_Cursed_book",
-      "path": "Spaces/Games/dnd/homebrew/dnd_Cursed_book.md"
-    },
-    {
-      "basename": "dnd_Cave_of_Doom",
-      "path": "Spaces/Games/dnd/homebrew/dnd_Cave_of_Doom.md"
-    },
-    {
       "basename": "databricks_sql",
       "path": "Cards/databricks_sql.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "self_describing_data_sources",
       "path": "Cards/self_describing_data_sources.md"
-    },
-    {
-      "basename": "sql_command_count",
-      "path": "Dev/sql_command_count.md"
-    },
-    {
-      "basename": "sql_commands",
-      "path": "Dev/sql_commands.md"
-    },
-    {
-      "basename": "databricks_auto_ml",
-      "path": "Cards/databricks_auto_ml.md"
     }
   ],
   "omittedPaths": [],

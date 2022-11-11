@@ -1,6 +1,6 @@
-# dnd_Cave_of_Doom
-
 up:: [[+info_dnd]]
+
+# dnd_Cave_of_Doom
 
 - Shamelessly stolen from Futurama
 	- The Cave of Hopelessness

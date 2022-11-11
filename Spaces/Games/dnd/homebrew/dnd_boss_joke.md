@@ -1,6 +1,6 @@
-# dnd_boss_joke
-
 up:: [[+info_dnd]]
+
+# dnd_boss_joke
 
 When an enemy gets hit by a massive attack that kills them/almost kills them:
 Don't act hurt at all, stand there laughing like a maniac

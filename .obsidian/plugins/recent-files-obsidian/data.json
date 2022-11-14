@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202211130802",
+      "path": "Inbox/202211130802.md"
+    },
+    {
+      "basename": "mcu_watch_order",
+      "path": "Spaces/Media/mcu_watch_order.md"
+    },
+    {
       "basename": "dnd_minotaur_maze",
       "path": "Spaces/Games/dnd/homebrew/dnd_minotaur_maze.md"
     },
@@ -157,10 +165,6 @@
       "path": "Inbox/202210160928.md"
     },
     {
-      "basename": "mcu_watch_order",
-      "path": "Spaces/Media/mcu_watch_order.md"
-    },
-    {
       "basename": "unity_catalog_vs_hive_metastore",
       "path": "Cards/unity_catalog_vs_hive_metastore.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sql",
       "path": "Cards/sql.md"
-    },
-    {
-      "basename": "self_describing_data_sources",
-      "path": "Cards/self_describing_data_sources.md"
     }
   ],
   "omittedPaths": [],

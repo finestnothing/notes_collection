@@ -11,8 +11,13 @@
             "id": "78f5d51aaf9fd100",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -201,9 +211,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 415.5,
+    "collapsed": true
   },
-  "active": "029d531586176b2b",
+  "active": "78f5d51aaf9fd100",
   "lastOpenFiles": [
     "Spaces/Games/dnd/homebrew/dnd_minotaur_maze.md",
     "Spaces/Games/dnd/+info_dnd.md",

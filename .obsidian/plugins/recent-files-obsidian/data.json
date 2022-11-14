@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "202211130802",
       "path": "Inbox/202211130802.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "databricks_moc",
       "path": "Atlas/databricks_moc.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "map_of_content",

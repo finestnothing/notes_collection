@@ -7,9 +7,15 @@
 - Yin yang cats
 - Pinup ghost
 - Phases of moon with death star
-- Geish
+- Geisha
 	- Cyberpunk geisha?
-- Camera/photography
 - Keyboard
-- Computery thing
-	- Circuit
+- Something with art coloring
+	- Inspiration: dragon fly with van gogh [[2bu8626vgi1a1.jpg]]
+	- Animal possibilities
+		- Bee
+			- Color in the wings?
+		- Moth
+		- Rocketship
+		- Regular/old timey ship 
+		- Ants? 

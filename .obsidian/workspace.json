@@ -11,8 +11,13 @@
             "id": "a4134d1eeea49726",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/20221122.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calendar/20221122.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Calendar/20221122.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "87c3e153392c9533",
@@ -183,6 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/20221122.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calendar/20221122.md"
+              }
             }
           },
           {
@@ -212,7 +222,7 @@
     "width": 415.5,
     "collapsed": true
   },
-  "active": "a4134d1eeea49726",
+  "active": "d3ddabfee9469c3c",
   "lastOpenFiles": [
     "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
     "Calendar/20221122.md",

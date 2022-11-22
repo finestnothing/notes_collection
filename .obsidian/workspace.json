@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c8d8e0a3ba52e29",
+        "id": "f35fbcdb3a9cc772",
         "type": "tabs",
         "children": [
           {
-            "id": "78f5d51aaf9fd100",
+            "id": "2897f657f461dd49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/databricks_moc.md",
+                "file": "Atlas/+about_atlas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/databricks_moc.md",
+                "file": "Atlas/+about_atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,14 +111,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c867494397ba4e90",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {}
             }
           },
@@ -139,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/databricks_moc.md",
+                "file": "Atlas/+about_atlas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,9 +159,25 @@
                 }
               }
             }
+          },
+          {
+            "id": "758dc52476ee95cb",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f97b7a7f024aeaa",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "87c3e153392c9533",
@@ -182,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/databricks_moc.md",
+                "file": "Atlas/+about_atlas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/databricks_moc.md"
+                "file": "Atlas/+about_atlas.md"
               }
             }
           },
@@ -214,17 +222,17 @@
     "width": 415.5,
     "collapsed": true
   },
-  "active": "78f5d51aaf9fd100",
+  "active": "2897f657f461dd49",
   "lastOpenFiles": [
-    "Cards/databricks_unity_catalog.md",
-    "Atlas/databricks_moc.md",
-    "Atlas/data_engineering_moc.md",
-    "README.md",
-    "Spaces/Games/dnd/homebrew/dnd_minotaur_maze.md",
-    "Spaces/Games/dnd/+info_dnd.md",
-    "Extras/Templates/book_template.md",
-    "Calendar/+about_calendar.md",
-    "Spaces/Games/dnd/homebrew/dnd_Cursed_book.md",
-    "Spaces/Games/dnd/homebrew/dnd_boss_joke.md"
+    "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
+    "Inbox/202211060605.md",
+    "Inbox/202211070850.md",
+    "Inbox/202211070905.md",
+    "Inbox/202211130802.md",
+    "Dev/spark.md",
+    "Dev/databricks_feature_store.md",
+    "Dev/automl.md",
+    "Calendar/20221122.md",
+    "Atlas/databricks_moc.md"
   ]
 }

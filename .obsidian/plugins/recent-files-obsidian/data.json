@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "+about_atlas",
+      "path": "Atlas/+about_atlas.md"
+    },
+    {
+      "basename": "delta_live_tables",
+      "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
+    },
+    {
+      "basename": "202211060605",
+      "path": "Inbox/202211060605.md"
+    },
+    {
+      "basename": "202211070850",
+      "path": "Inbox/202211070850.md"
+    },
+    {
+      "basename": "202211070905",
+      "path": "Inbox/202211070905.md"
+    },
+    {
+      "basename": "202211130802",
+      "path": "Inbox/202211130802.md"
+    },
+    {
+      "basename": "spark",
+      "path": "Dev/spark.md"
+    },
+    {
+      "basename": "databricks_feature_store",
+      "path": "Dev/databricks_feature_store.md"
+    },
+    {
+      "basename": "automl",
+      "path": "Dev/automl.md"
+    },
+    {
       "basename": "databricks_moc",
       "path": "Atlas/databricks_moc.md"
     },
@@ -11,10 +47,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "202211130802",
-      "path": "Inbox/202211130802.md"
     },
     {
       "basename": "mcu_watch_order",
@@ -93,10 +125,6 @@
       "path": "Spaces/Work/integration_project/+info_integration_project.md"
     },
     {
-      "basename": "202211070905",
-      "path": "Inbox/202211070905.md"
-    },
-    {
       "basename": "202210141556",
       "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210141556.md"
     },
@@ -121,24 +149,12 @@
       "path": "Cards/databricks_sql_query_files.md"
     },
     {
-      "basename": "202211070850",
-      "path": "Inbox/202211070850.md"
-    },
-    {
-      "basename": "202211060605",
-      "path": "Inbox/202211060605.md"
-    },
-    {
       "basename": "+info_databricks_training_notes",
       "path": "Spaces/Course_Notes/databricks_training_notes/+info_databricks_training_notes.md"
     },
     {
       "basename": "map_of_content",
       "path": "Cards/map_of_content.md"
-    },
-    {
-      "basename": "+about_atlas",
-      "path": "Atlas/+about_atlas.md"
     },
     {
       "basename": "+info_work",
@@ -183,22 +199,6 @@
     {
       "basename": "databricks_sql",
       "path": "Cards/databricks_sql.md"
-    },
-    {
-      "basename": "spark",
-      "path": "Dev/spark.md"
-    },
-    {
-      "basename": "202210111603",
-      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111603.md"
-    },
-    {
-      "basename": "202210111545",
-      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111545.md"
-    },
-    {
-      "basename": "sql",
-      "path": "Cards/sql.md"
     }
   ],
   "omittedPaths": [],

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f35fbcdb3a9cc772",
+        "id": "894ba237c96e25ca",
         "type": "tabs",
         "children": [
           {
-            "id": "2897f657f461dd49",
+            "id": "a4134d1eeea49726",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/+about_atlas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/+about_atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +125,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/+about_atlas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/+about_atlas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Atlas/+about_atlas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,17 +212,17 @@
     "width": 415.5,
     "collapsed": true
   },
-  "active": "2897f657f461dd49",
+  "active": "a4134d1eeea49726",
   "lastOpenFiles": [
     "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
+    "Calendar/20221122.md",
+    "Atlas/+about_atlas.md",
     "Inbox/202211060605.md",
     "Inbox/202211070850.md",
     "Inbox/202211070905.md",
     "Inbox/202211130802.md",
     "Dev/spark.md",
     "Dev/databricks_feature_store.md",
-    "Dev/automl.md",
-    "Calendar/20221122.md",
-    "Atlas/databricks_moc.md"
+    "Dev/automl.md"
   ]
 }

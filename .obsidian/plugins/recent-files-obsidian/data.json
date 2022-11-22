@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "+about_atlas",
-      "path": "Atlas/+about_atlas.md"
-    },
-    {
       "basename": "delta_live_tables",
       "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
+    },
+    {
+      "basename": "+about_atlas",
+      "path": "Atlas/+about_atlas.md"
     },
     {
       "basename": "202211060605",
@@ -195,10 +195,6 @@
     {
       "basename": "+about_spaces",
       "path": "Spaces/+about_spaces.md"
-    },
-    {
-      "basename": "databricks_sql",
-      "path": "Cards/databricks_sql.md"
     }
   ],
   "omittedPaths": [],

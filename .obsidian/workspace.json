@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Atlas/databricks_moc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Atlas/databricks_moc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Atlas/databricks_moc.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Atlas/databricks_moc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Atlas/databricks_moc.md"
               }
             }
           },
@@ -216,15 +216,15 @@
   },
   "active": "78f5d51aaf9fd100",
   "lastOpenFiles": [
+    "Cards/databricks_unity_catalog.md",
+    "Atlas/databricks_moc.md",
+    "Atlas/data_engineering_moc.md",
+    "README.md",
     "Spaces/Games/dnd/homebrew/dnd_minotaur_maze.md",
     "Spaces/Games/dnd/+info_dnd.md",
     "Extras/Templates/book_template.md",
     "Calendar/+about_calendar.md",
     "Spaces/Games/dnd/homebrew/dnd_Cursed_book.md",
-    "Spaces/Games/dnd/homebrew/dnd_boss_joke.md",
-    "Spaces/Games/dnd/homebrew/dnd_Staff_of_horse.md",
-    "Spaces/Games/dnd/homebrew/dnd_Cave_of_Doom.md",
-    "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
+    "Spaces/Games/dnd/homebrew/dnd_boss_joke.md"
   ]
 }

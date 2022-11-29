@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "20221122",
-      "path": "Calendar/20221122.md"
+      "basename": "202211291525",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
+    },
+    {
+      "basename": "202211081511",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
     },
     {
       "basename": "delta_live_tables",
       "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
+    },
+    {
+      "basename": "202210160928",
+      "path": "Inbox/202210160928.md"
+    },
+    {
+      "basename": "automl",
+      "path": "Dev/automl.md"
+    },
+    {
+      "basename": "databricks_feature_store",
+      "path": "Dev/databricks_feature_store.md"
+    },
+    {
+      "basename": "spark",
+      "path": "Dev/spark.md"
+    },
+    {
+      "basename": "sql_command_count",
+      "path": "Dev/sql_command_count.md"
+    },
+    {
+      "basename": "sql_commands",
+      "path": "Dev/sql_commands.md"
+    },
+    {
+      "basename": "unity_catalog_vs_hive_metastore",
+      "path": "Dev/unity_catalog_vs_hive_metastore.md"
+    },
+    {
+      "basename": "unity_catalog_vs_hive_metastore",
+      "path": "Cards/unity_catalog_vs_hive_metastore.md"
+    },
+    {
+      "basename": "databricks_unity_catalog",
+      "path": "Cards/databricks_unity_catalog.md"
+    },
+    {
+      "basename": "databricks_moc",
+      "path": "Atlas/databricks_moc.md"
+    },
+    {
+      "basename": "20221122",
+      "path": "Calendar/20221122.md"
     },
     {
       "basename": "+about_atlas",
@@ -27,22 +75,6 @@
     {
       "basename": "202211130802",
       "path": "Inbox/202211130802.md"
-    },
-    {
-      "basename": "spark",
-      "path": "Dev/spark.md"
-    },
-    {
-      "basename": "databricks_feature_store",
-      "path": "Dev/databricks_feature_store.md"
-    },
-    {
-      "basename": "automl",
-      "path": "Dev/automl.md"
-    },
-    {
-      "basename": "databricks_moc",
-      "path": "Atlas/databricks_moc.md"
     },
     {
       "basename": "data_engineering_moc",
@@ -99,10 +131,6 @@
     {
       "basename": "202211071456",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
-    },
-    {
-      "basename": "202211081511",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
     },
     {
       "basename": "step functions",
@@ -171,34 +199,6 @@
     {
       "basename": "+info_udemy_devops_training",
       "path": "Spaces/Course_Notes/udemy_devops_training_notes/+info_udemy_devops_training.md"
-    },
-    {
-      "basename": "devops_moc",
-      "path": "Atlas/devops_moc.md"
-    },
-    {
-      "basename": "creating_a_blog",
-      "path": "Cards/creating_a_blog.md"
-    },
-    {
-      "basename": "career_knowledge_moc",
-      "path": "Atlas/career_knowledge_moc.md"
-    },
-    {
-      "basename": "202210160928",
-      "path": "Inbox/202210160928.md"
-    },
-    {
-      "basename": "unity_catalog_vs_hive_metastore",
-      "path": "Cards/unity_catalog_vs_hive_metastore.md"
-    },
-    {
-      "basename": "databricks_unity_catalog",
-      "path": "Cards/databricks_unity_catalog.md"
-    },
-    {
-      "basename": "+about_spaces",
-      "path": "Spaces/+about_spaces.md"
     }
   ],
   "omittedPaths": [],

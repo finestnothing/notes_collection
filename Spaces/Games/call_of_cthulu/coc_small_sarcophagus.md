@@ -1,3 +1,5 @@
+up:: [[+info_call_of_cthulu]]
+
 # coc_small_sarcophagus
 
 - Small sarcophagus from Call of Cthulu

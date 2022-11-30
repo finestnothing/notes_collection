@@ -1,5 +1,5 @@
 up:: [[pkm_meta]]
-tags:: #on/pkm
+tags:: #pkm
 
 # This is Where Timestamped Notes Go
 
@@ -12,4 +12,4 @@ Think about what notes you might want to sort by date. Here are some common type
 - Tracking Notes
 - Outputted Materials: Articles, Speeches, etc
 
-#to/do - Work on this page
+#todo - Work on this page

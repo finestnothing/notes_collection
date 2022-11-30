@@ -1,5 +1,5 @@
 up:: [[data_engineering_moc]]
-tags:: #sql #best/practice
+tags:: #sql #bestpractice
 
 # sql_transactions
 

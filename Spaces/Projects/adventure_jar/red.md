@@ -1,4 +1,4 @@
-# red
+# Red
 
 - Pegging
 - Couch
@@ -14,3 +14,9 @@
 - Lingerie
 - Something to surprise me
 - Mutual butt plugs, reader picks positions
+
+## See Also
+
+- [[green]]
+- [[yellow]]
+- [[blue]]

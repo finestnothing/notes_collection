@@ -1,9 +1,15 @@
-# blue
+# Blue
 
 - New recipe
 - Try new restaurant
 - Movie night
-- #adventure/pending Star gazing
+- Star gazing
 - Movie/game All-nighter
 - Movie and Dinner night out
-- Rollerblading
+- [x] Rollerblading
+
+## See Also
+
+- [[green]]
+- [[red]]
+- [[yellow]]

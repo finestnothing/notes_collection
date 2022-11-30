@@ -1,5 +1,5 @@
 up:: [[pkm_meta]]
-tags:: #on/pkm
+tags:: #pkm
 
 # PKM Tags
 
@@ -7,15 +7,15 @@ Confused about what tags to use when? Needing to know what tags some default fil
 Look no further!
 
 - #to/ - A collection of tags that require an action as followup
-	- #to/do - Tasks to follow up on at a later time
+	- #todo - Tasks to follow up on at a later time
 	- #to/research - Something to look into at a later time. Either add it to the PKM and integrate the link, or ignore it.
 	- #to/rewrite - Notes to rewrite, such as if I'm not happy with how it sounds, tired of writing and just slap bullet points down, etc
 	- #to/work_on - Good for efforts. Basically giving me stuff to do at a later time that isn't small tasks
 - #on/ - A collection of tags saying what a certain note is about
-	- #on/pkm
-	- #on/readme
+	- #pkm
+	- #readme
 	- #on/habit
-	- #on/technology
+	- #technology
 	- etc
 - #map - For all maps of content to hold them all together
 - #source/ - For when I make source files based on some source

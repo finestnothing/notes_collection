@@ -1,5 +1,5 @@
 up:: [[README]]
-tags:: #map #on/pkm
+tags:: #map #pkm
 
 # Meta PKM
 
@@ -10,7 +10,7 @@ This [[map_of_content]] is full of best practices and maintenance notes for the 
 	- [[pkm_tags]]
 	- [[pkm_metadata]]
 	- [[queries]]
-- My workflows for various things #to/do
+- My workflows for various things #todo
 	- Global guidelines
 	- Inputs and adding knowledge
 	- Outputs

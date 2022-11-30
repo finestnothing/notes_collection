@@ -1,4 +1,4 @@
 up:: [[pkm_meta]]
-tags:: #on/pkm 
+tags:: #pkm 
 
-#to/do - Expand on this page
+#todo - Expand on this page

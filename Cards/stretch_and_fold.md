@@ -1,5 +1,5 @@
 up:: [[sourdough_bread]]
-tags:: #on/baking
+tags:: #baking
 
 # stretch_and_fold
 

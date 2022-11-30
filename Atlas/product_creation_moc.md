@@ -1,5 +1,5 @@
 up:: [[README]]
-tags:: #on/technology #on/business #output/blog
+tags:: #technology #business #output/blog
 
 # Product Creation MoC
 

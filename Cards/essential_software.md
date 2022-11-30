@@ -1,5 +1,5 @@
 up:: [[README]]
-tags:: #on/technology #windows #software
+tags:: #technology #windows #software
 
 # Essential Software to Download on Windows
 

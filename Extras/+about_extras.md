@@ -1,5 +1,5 @@
 up:: [[pkm_meta]]
-tags:: #on/readme
+tags:: #readme
 
 # Extras
 

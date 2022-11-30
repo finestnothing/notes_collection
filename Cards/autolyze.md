@@ -1,5 +1,5 @@
 up:: [[sourdough_bread]]
-tags:: #on/baking #on/bread
+tags:: #baking #bread
 
 # Autolyze
 

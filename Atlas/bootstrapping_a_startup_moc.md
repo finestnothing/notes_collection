@@ -1,5 +1,5 @@
 up:: [[product_creation_moc]]
-tags:: #on/business
+tags:: #business
 
 # Bootstrapping a Startup
 

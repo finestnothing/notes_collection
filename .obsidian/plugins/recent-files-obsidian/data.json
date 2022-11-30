@@ -1,20 +1,144 @@
 {
   "recentFiles": [
     {
+      "basename": "delta_live_tables",
+      "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
+    },
+    {
+      "basename": "coc_small_sarcophagus",
+      "path": "Spaces/Games/call_of_cthulu/coc_small_sarcophagus.md"
+    },
+    {
+      "basename": "dnd_boss_joke",
+      "path": "Spaces/Games/dnd/homebrew/dnd_boss_joke.md"
+    },
+    {
+      "basename": "dnd_sending_scam",
+      "path": "Spaces/Games/dnd/homebrew/dnd_sending_scam.md"
+    },
+    {
+      "basename": "yellow",
+      "path": "Spaces/Projects/adventure_jar/yellow.md"
+    },
+    {
+      "basename": "blue",
+      "path": "Spaces/Projects/adventure_jar/blue.md"
+    },
+    {
+      "basename": "green",
+      "path": "Spaces/Projects/adventure_jar/green.md"
+    },
+    {
+      "basename": "red",
+      "path": "Spaces/Projects/adventure_jar/red.md"
+    },
+    {
+      "basename": "tattoos",
+      "path": "Spaces/misc_ideas/tattoos.md"
+    },
+    {
+      "basename": "TBR",
+      "path": "Spaces/Media/Books/TBR.md"
+    },
+    {
+      "basename": "stephen_hawking_books",
+      "path": "Spaces/Media/Books/stephen_hawking_books.md"
+    },
+    {
+      "basename": "neverwhere",
+      "path": "Spaces/Media/Books/in-progress/neverwhere.md"
+    },
+    {
+      "basename": "read_books",
+      "path": "Spaces/Media/Books/read_books.md"
+    },
+    {
+      "basename": "startup",
+      "path": "Cards/startup.md"
+    },
+    {
+      "basename": "startup_types",
+      "path": "Cards/startup_types.md"
+    },
+    {
+      "basename": "historical_events_moc",
+      "path": "Atlas/historical_events_moc.md"
+    },
+    {
+      "basename": "20221122",
+      "path": "Calendar/20221122.md"
+    },
+    {
+      "basename": "sql_transaction_code_example",
+      "path": "Cards/sql_transaction_code_example.md"
+    },
+    {
+      "basename": "+info_work",
+      "path": "Spaces/Work/+info_work.md"
+    },
+    {
+      "basename": "pkm_tags",
+      "path": "Cards/pkm_tags.md"
+    },
+    {
+      "basename": "pkm_meta",
+      "path": "Atlas/pkm_meta.md"
+    },
+    {
+      "basename": "pkm_documentation",
+      "path": "Extras/pkm_documentation.md"
+    },
+    {
+      "basename": "clothes_manager",
+      "path": "Spaces/Projects/clothes_manager.md"
+    },
+    {
+      "basename": "portfolio_website",
+      "path": "Spaces/Projects/portfolio_website.md"
+    },
+    {
+      "basename": "kubernetes_server",
+      "path": "Spaces/Projects/kubernetes_server.md"
+    },
+    {
+      "basename": "202211011523",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
+    },
+    {
+      "basename": "202210271455",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
+    },
+    {
+      "basename": "sql_command_count",
+      "path": "Dev/sql_command_count.md"
+    },
+    {
+      "basename": "202210261443",
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210261443.md"
+    },
+    {
+      "basename": "202211070850",
+      "path": "Spaces/Course_Notes/udemy_devops_training_notes/202211070850.md"
+    },
+    {
+      "basename": "202211130802",
+      "path": "Inbox/202211130802.md"
+    },
+    {
+      "basename": "202211070905",
+      "path": "Spaces/Course_Notes/udemy_devops_training_notes/202211070905.md"
+    },
+    {
+      "basename": "202211060605",
+      "path": "Inbox/202211060605.md"
+    },
+    {
       "basename": "202211291525",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
     },
     {
       "basename": "202211081511",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
-    },
-    {
-      "basename": "delta_live_tables",
-      "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
-    },
-    {
-      "basename": "202210160928",
-      "path": "Inbox/202210160928.md"
     },
     {
       "basename": "automl",
@@ -27,10 +151,6 @@
     {
       "basename": "spark",
       "path": "Dev/spark.md"
-    },
-    {
-      "basename": "sql_command_count",
-      "path": "Dev/sql_command_count.md"
     },
     {
       "basename": "sql_commands",
@@ -53,28 +173,8 @@
       "path": "Atlas/databricks_moc.md"
     },
     {
-      "basename": "20221122",
-      "path": "Calendar/20221122.md"
-    },
-    {
       "basename": "+about_atlas",
       "path": "Atlas/+about_atlas.md"
-    },
-    {
-      "basename": "202211060605",
-      "path": "Inbox/202211060605.md"
-    },
-    {
-      "basename": "202211070850",
-      "path": "Inbox/202211070850.md"
-    },
-    {
-      "basename": "202211070905",
-      "path": "Inbox/202211070905.md"
-    },
-    {
-      "basename": "202211130802",
-      "path": "Inbox/202211130802.md"
     },
     {
       "basename": "data_engineering_moc",
@@ -99,108 +199,9 @@
     {
       "basename": "book_template",
       "path": "Extras/Templates/book_template.md"
-    },
-    {
-      "basename": "dnd_Cursed_book",
-      "path": "Spaces/Games/dnd/homebrew/dnd_Cursed_book.md"
-    },
-    {
-      "basename": "dnd_boss_joke",
-      "path": "Spaces/Games/dnd/homebrew/dnd_boss_joke.md"
-    },
-    {
-      "basename": "dnd_Staff_of_horse",
-      "path": "Spaces/Games/dnd/homebrew/dnd_Staff_of_horse.md"
-    },
-    {
-      "basename": "dnd_Cave_of_Doom",
-      "path": "Spaces/Games/dnd/homebrew/dnd_Cave_of_Doom.md"
-    },
-    {
-      "basename": "202210271455",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
-    },
-    {
-      "basename": "202211011523",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
-    },
-    {
-      "basename": "202211031516",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211031516.md"
-    },
-    {
-      "basename": "202211071456",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
-    },
-    {
-      "basename": "step functions",
-      "path": "Spaces/Work/integration_project/step functions.md"
-    },
-    {
-      "basename": "upload_to_s3",
-      "path": "Spaces/Work/integration_project/upload_to_s3.md"
-    },
-    {
-      "basename": "write_df",
-      "path": "Spaces/Work/integration_project/write_df.md"
-    },
-    {
-      "basename": "get_df",
-      "path": "Spaces/Work/integration_project/get_df.md"
-    },
-    {
-      "basename": "odp_more_info",
-      "path": "Spaces/Work/integration_project/odp_more_info.md"
-    },
-    {
-      "basename": "+info_integration_project",
-      "path": "Spaces/Work/integration_project/+info_integration_project.md"
-    },
-    {
-      "basename": "202210141556",
-      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210141556.md"
-    },
-    {
-      "basename": "202210191507",
-      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210191507.md"
-    },
-    {
-      "basename": "202210111615",
-      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111615.md"
-    },
-    {
-      "basename": "202210121539",
-      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210121539.md"
-    },
-    {
-      "basename": "202210261443",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202210261443.md"
-    },
-    {
-      "basename": "databricks_sql_query_files",
-      "path": "Cards/databricks_sql_query_files.md"
-    },
-    {
-      "basename": "+info_databricks_training_notes",
-      "path": "Spaces/Course_Notes/databricks_training_notes/+info_databricks_training_notes.md"
-    },
-    {
-      "basename": "map_of_content",
-      "path": "Cards/map_of_content.md"
-    },
-    {
-      "basename": "+info_work",
-      "path": "Spaces/Work/+info_work.md"
-    },
-    {
-      "basename": "inbox_note_template",
-      "path": "Extras/Templates/inbox_note_template.md"
-    },
-    {
-      "basename": "+info_udemy_devops_training",
-      "path": "Spaces/Course_Notes/udemy_devops_training_notes/+info_udemy_devops_training.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

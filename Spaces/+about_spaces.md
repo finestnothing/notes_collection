@@ -1,7 +1,7 @@
 # +about_spaces
 
 up:: [[pkm_meta]]
-tags:: #on/readme
+tags:: #readme
 
 Spaces are an important organizational tool. Whenever you run into something big, create a new space here.
 

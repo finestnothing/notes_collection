@@ -1,4 +1,4 @@
-# green
+# Green
 
 - Find and hike to a waterfall or cave
 - Spa day
@@ -7,7 +7,8 @@
 - picnic
 - New hobby or class
 	- cooking class
-	- #adventure/pending Bonsai Class
+	- Bonsai Class
+	- [x] Terrarium Class
 - Visit local historical landmark(s)
 - Early morning hike, eat while watching sunrise
 - Kite flying
@@ -18,3 +19,9 @@
 - Hang gliding/paragliding
 - Get and build a lego set together
 - Picnic and reading in a park
+
+## See Also
+
+- [[blue]]
+- [[red]]
+- [[yellow]]

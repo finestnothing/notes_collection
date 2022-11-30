@@ -1,5 +1,5 @@
 up:: [[README]]
-tags:: #on/technology #on/career #map
+tags:: #technology #career #map
 
 # Data Engineering MoC
 

@@ -1,5 +1,5 @@
 up:: [[data_engineering_moc]]
-tags:: #on/technology #map
+tags:: #technology #map
 
 # Databricks Map of Content
 

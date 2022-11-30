@@ -1,5 +1,5 @@
 up:: [[pkm_meta]]
-tags:: #map #on/pkm
+tags:: #map #pkm
 
 # PKM Folders MoC
 

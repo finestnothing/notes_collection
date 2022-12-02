@@ -21,24 +21,12 @@
       "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
     },
     {
-      "basename": "202212011452",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202212011452.md"
-    },
-    {
       "basename": "202211291525",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
     },
     {
       "basename": "202211081511",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
-    },
-    {
-      "basename": "202212011504",
-      "path": "Inbox/202212011504.md"
-    },
-    {
-      "basename": "202212011528",
-      "path": "Inbox/202212011528.md"
     },
     {
       "basename": "coc_small_sarcophagus",
@@ -195,10 +183,6 @@
     {
       "basename": "+about_atlas",
       "path": "Atlas/+about_atlas.md"
-    },
-    {
-      "basename": "data_engineering_moc",
-      "path": "Atlas/data_engineering_moc.md"
     }
   ],
   "omittedPaths": [],

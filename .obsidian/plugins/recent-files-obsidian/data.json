@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202212021202",
+      "path": "Inbox/202212021202.md"
+    },
+    {
       "basename": "delta_live_tables",
       "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "+info_dnd",
       "path": "Spaces/Games/dnd/+info_dnd.md"
-    },
-    {
-      "basename": "book_template",
-      "path": "Extras/Templates/book_template.md"
     }
   ],
   "omittedPaths": [],

@@ -5,6 +5,42 @@
       "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
     },
     {
+      "basename": "202211031516",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211031516.md"
+    },
+    {
+      "basename": "202211011523",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
+    },
+    {
+      "basename": "202210271455",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
+    },
+    {
+      "basename": "202211071456",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
+    },
+    {
+      "basename": "202212011452",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202212011452.md"
+    },
+    {
+      "basename": "202211291525",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
+    },
+    {
+      "basename": "202211081511",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
+    },
+    {
+      "basename": "202212011504",
+      "path": "Inbox/202212011504.md"
+    },
+    {
+      "basename": "202212011528",
+      "path": "Inbox/202212011528.md"
+    },
+    {
       "basename": "coc_small_sarcophagus",
       "path": "Spaces/Games/call_of_cthulu/coc_small_sarcophagus.md"
     },
@@ -101,14 +137,6 @@
       "path": "Spaces/Projects/kubernetes_server.md"
     },
     {
-      "basename": "202211011523",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
-    },
-    {
-      "basename": "202210271455",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
-    },
-    {
       "basename": "sql_command_count",
       "path": "Dev/sql_command_count.md"
     },
@@ -131,14 +159,6 @@
     {
       "basename": "202211060605",
       "path": "Inbox/202211060605.md"
-    },
-    {
-      "basename": "202211291525",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
-    },
-    {
-      "basename": "202211081511",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
     },
     {
       "basename": "automl",
@@ -179,26 +199,6 @@
     {
       "basename": "data_engineering_moc",
       "path": "Atlas/data_engineering_moc.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "mcu_watch_order",
-      "path": "Spaces/Media/mcu_watch_order.md"
-    },
-    {
-      "basename": "dnd_minotaur_maze",
-      "path": "Spaces/Games/dnd/homebrew/dnd_minotaur_maze.md"
-    },
-    {
-      "basename": "+info_dnd",
-      "path": "Spaces/Games/dnd/+info_dnd.md"
-    },
-    {
-      "basename": "book_template",
-      "path": "Extras/Templates/book_template.md"
     }
   ],
   "omittedPaths": [],

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d595e55a3343d2bd",
+        "id": "b06cfe2591b1e6a1",
         "type": "tabs",
         "children": [
           {
-            "id": "bc3f25b5821340b0",
+            "id": "c8694289a6193558",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,20 +201,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
-  "active": "bc3f25b5821340b0",
+  "active": "c8694289a6193558",
   "lastOpenFiles": [
     "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
-    "Spaces/Games/call_of_cthulu/coc_small_sarcophagus.md",
-    "Spaces/Games/dnd/homebrew/dnd_boss_joke.md",
-    "Spaces/Games/dnd/homebrew/dnd_sending_scam.md",
-    "Spaces/Projects/adventure_jar/yellow.md",
-    "Spaces/Projects/adventure_jar/blue.md",
-    "Spaces/Projects/adventure_jar/green.md",
-    "Spaces/Projects/adventure_jar/red.md",
-    "Spaces/Projects/adventure_jar/Untitled.md",
-    "Spaces/misc_ideas/tattoos.md"
+    "Spaces/Course_Notes/databricks_training_notes/202211031516.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211011523.md",
+    "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
+    "Spaces/Course_Notes/databricks_training_notes/202212011452.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211291525.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+    "Inbox/202212011504.md",
+    "Inbox/202212011528.md"
   ]
 }

@@ -5,6 +5,10 @@
       "path": "Inbox/202212061356.md"
     },
     {
+      "basename": "portfolio_website",
+      "path": "Spaces/Projects/portfolio_website.md"
+    },
+    {
       "basename": "delta_live_tables",
       "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "clothes_manager",
       "path": "Spaces/Projects/clothes_manager.md"
-    },
-    {
-      "basename": "portfolio_website",
-      "path": "Spaces/Projects/portfolio_website.md"
     },
     {
       "basename": "kubernetes_server",

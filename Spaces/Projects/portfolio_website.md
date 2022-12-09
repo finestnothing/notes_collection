@@ -14,3 +14,7 @@ Include academic and professional information, code examples
 
 - Found a good reference website today [ericwadkins portfolio](http://www.ericwadkins.com/)
 - Future: Add live demo of code/notebook maybe?
+
+#todo - Revisit this
+	Make it more about me than just professional
+	Add food to it, reading, projects, resume, etc

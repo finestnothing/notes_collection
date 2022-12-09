@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de9b1c2717c0b681",
+        "id": "24b3b4c298686926",
         "type": "tabs",
         "children": [
           {
-            "id": "51848162f40bd6ac",
+            "id": "5865a00d07ddfc37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/202212061356.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/202212061356.md",
+                "file": "Calendar/20221122.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/202212061356.md",
+                "file": "Calendar/20221122.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/202212061356.md",
+                "file": "Calendar/20221122.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/202212061356.md"
+                "file": "Calendar/20221122.md"
               }
             }
           },
@@ -214,17 +209,17 @@
     "width": 379.5,
     "collapsed": true
   },
-  "active": "51848162f40bd6ac",
+  "active": "6c6f2c87ec684d7d",
   "lastOpenFiles": [
+    "Cards/unity_catalog_vs_hive_metastore 1.md",
+    "Cards/sql_commands.md",
+    "Cards/sql_command_count.md",
+    "Cards/spark.md",
+    "Cards/databricks_feature_store 1.md",
+    "Dev/automl.md",
+    "Spaces/Course_Notes/databricks_training_notes/Converted/202210111615.md",
+    "Sources/2bu8626vgi1a1.jpg",
     "Spaces/Projects/portfolio_website.md",
-    "Inbox/202212061356.md",
-    "conflict-files-obsidian-git.md",
-    "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211031516.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211011523.md",
-    "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
-    "Spaces/Course_Notes/databricks_training_notes/202212011452.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
+    "Spaces/Projects/kubernetes_server.md"
   ]
 }

@@ -47,4 +47,4 @@ what's in the workspace?
 
 - [[databricks_ml_flow]]
 - [[databricks_auto_ml]]
-- [[Dev/databricks_feature_store]]
+- [[databricks_feature_store 1]]

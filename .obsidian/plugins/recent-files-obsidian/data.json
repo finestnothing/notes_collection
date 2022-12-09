@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "202212061356",
-      "path": "Inbox/202212061356.md"
+      "basename": "20221122",
+      "path": "Calendar/20221122.md"
+    },
+    {
+      "basename": "unity_catalog_vs_hive_metastore 1",
+      "path": "Cards/unity_catalog_vs_hive_metastore 1.md"
+    },
+    {
+      "basename": "sql_commands",
+      "path": "Cards/sql_commands.md"
+    },
+    {
+      "basename": "sql_command_count",
+      "path": "Cards/sql_command_count.md"
+    },
+    {
+      "basename": "spark",
+      "path": "Cards/spark.md"
+    },
+    {
+      "basename": "databricks_feature_store 1",
+      "path": "Cards/databricks_feature_store 1.md"
+    },
+    {
+      "basename": "automl",
+      "path": "Dev/automl.md"
+    },
+    {
+      "basename": "202210111615",
+      "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111615.md"
+    },
+    {
+      "basename": "2bu8626vgi1a1",
+      "path": "Sources/2bu8626vgi1a1.jpg"
     },
     {
       "basename": "portfolio_website",
       "path": "Spaces/Projects/portfolio_website.md"
+    },
+    {
+      "basename": "kubernetes_server",
+      "path": "Spaces/Projects/kubernetes_server.md"
+    },
+    {
+      "basename": "clothes_manager",
+      "path": "Spaces/Projects/clothes_manager.md"
+    },
+    {
+      "basename": "+info_work",
+      "path": "Spaces/Work/+info_work.md"
+    },
+    {
+      "basename": "to_read",
+      "path": "Spaces/to_read.md"
+    },
+    {
+      "basename": "202212091209",
+      "path": "Inbox/202212091209.md"
+    },
+    {
+      "basename": "202212061356",
+      "path": "Inbox/202212061356.md"
     },
     {
       "basename": "delta_live_tables",
@@ -38,15 +94,15 @@
     },
     {
       "basename": "coc_small_sarcophagus",
-      "path": "Spaces/Games/call_of_cthulu/coc_small_sarcophagus.md"
+      "path": "Spaces/Media/Games/call_of_cthulu/coc_small_sarcophagus.md"
     },
     {
       "basename": "dnd_boss_joke",
-      "path": "Spaces/Games/dnd/homebrew/dnd_boss_joke.md"
+      "path": "Spaces/Media/Games/dnd/homebrew/dnd_boss_joke.md"
     },
     {
       "basename": "dnd_sending_scam",
-      "path": "Spaces/Games/dnd/homebrew/dnd_sending_scam.md"
+      "path": "Spaces/Media/Games/dnd/homebrew/dnd_sending_scam.md"
     },
     {
       "basename": "yellow",
@@ -97,16 +153,8 @@
       "path": "Atlas/historical_events_moc.md"
     },
     {
-      "basename": "20221122",
-      "path": "Calendar/20221122.md"
-    },
-    {
       "basename": "sql_transaction_code_example",
       "path": "Cards/sql_transaction_code_example.md"
-    },
-    {
-      "basename": "+info_work",
-      "path": "Spaces/Work/+info_work.md"
     },
     {
       "basename": "pkm_tags",
@@ -119,18 +167,6 @@
     {
       "basename": "pkm_documentation",
       "path": "Extras/pkm_documentation.md"
-    },
-    {
-      "basename": "clothes_manager",
-      "path": "Spaces/Projects/clothes_manager.md"
-    },
-    {
-      "basename": "kubernetes_server",
-      "path": "Spaces/Projects/kubernetes_server.md"
-    },
-    {
-      "basename": "sql_command_count",
-      "path": "Dev/sql_command_count.md"
     },
     {
       "basename": "202210261443",
@@ -153,26 +189,6 @@
       "path": "Inbox/202211060605.md"
     },
     {
-      "basename": "automl",
-      "path": "Dev/automl.md"
-    },
-    {
-      "basename": "databricks_feature_store",
-      "path": "Dev/databricks_feature_store.md"
-    },
-    {
-      "basename": "spark",
-      "path": "Dev/spark.md"
-    },
-    {
-      "basename": "sql_commands",
-      "path": "Dev/sql_commands.md"
-    },
-    {
-      "basename": "unity_catalog_vs_hive_metastore",
-      "path": "Dev/unity_catalog_vs_hive_metastore.md"
-    },
-    {
       "basename": "unity_catalog_vs_hive_metastore",
       "path": "Cards/unity_catalog_vs_hive_metastore.md"
     },
@@ -183,10 +199,6 @@
     {
       "basename": "databricks_moc",
       "path": "Atlas/databricks_moc.md"
-    },
-    {
-      "basename": "+about_atlas",
-      "path": "Atlas/+about_atlas.md"
     }
   ],
   "omittedPaths": [],

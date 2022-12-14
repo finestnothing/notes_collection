@@ -77,7 +77,7 @@
 - [ ] The Falcon and the Winter Soldier
 - [x] Shang-Chi and the Legend of the Ten Rings
 - [ ] She-Hulk: Attorney at Law
-- [ ] Eternals
+- [x] Eternals
 - [ ] Spider-Man: Far From Home
 - [ ] Spider-Man: No Way Home
 - [ ] Doctor Strange in the Multiverse of Madness

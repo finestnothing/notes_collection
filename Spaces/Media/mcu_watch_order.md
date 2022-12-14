@@ -75,7 +75,7 @@
 - [x] What If...?
 - [ ] Wandavision
 - [ ] The Falcon and the Winter Soldier
-- [ ] Shang-Chi and the Legend of the Ten Rings
+- [x] Shang-Chi and the Legend of the Ten Rings
 - [ ] She-Hulk: Attorney at Law
 - [ ] Eternals
 - [ ] Spider-Man: Far From Home

@@ -72,7 +72,7 @@
 - [x] Agents of Shield season 7
 - [x] Avengers: Endgame
 - [ ] Loki
-- [ ] What If...?
+- [x] What If...?
 - [ ] Wandavision
 - [ ] The Falcon and the Winter Soldier
 - [ ] Shang-Chi and the Legend of the Ten Rings

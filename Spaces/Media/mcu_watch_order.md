@@ -80,7 +80,7 @@
 - [x] Eternals
 - [ ] Spider-Man: Far From Home
 - [ ] Spider-Man: No Way Home
-- [ ] Doctor Strange in the Multiverse of Madness
+- [x] Doctor Strange in the Multiverse of Madness
 - [ ] Hawkeye
 - [ ] Moon Knight
 - [ ] Ms Marvel

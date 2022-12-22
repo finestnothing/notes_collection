@@ -1,4 +1,6 @@
 {
   "accentColor": "",
+  "baseFontSize": 18,
+  "translucency": true,
   "cssTheme": "Everforest"
 }

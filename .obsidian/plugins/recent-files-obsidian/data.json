@@ -1,24 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "sourdough_bread",
-      "path": "Cards/sourdough_bread.md"
+      "basename": "sourdough_pizza_crust",
+      "path": "Cards/sourdough_pizza_crust.md"
     },
     {
       "basename": "recipe_moc",
       "path": "Atlas/recipe_moc.md"
-    },
-    {
-      "basename": "202211291525",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
-    },
-    {
-      "basename": "delta_live_tables",
-      "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
-    },
-    {
-      "basename": "sourdough_pizza_crust",
-      "path": "Cards/sourdough_pizza_crust.md"
     },
     {
       "basename": "mcu_watch_order",
@@ -65,12 +53,20 @@
       "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
     },
     {
+      "basename": "delta_live_tables",
+      "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
+    },
+    {
       "basename": "202211071456",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
     },
     {
       "basename": "202211081511",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
+    },
+    {
+      "basename": "202211291525",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
     },
     {
       "basename": "20221122",
@@ -199,6 +195,10 @@
     {
       "basename": "pkm_tags",
       "path": "Cards/pkm_tags.md"
+    },
+    {
+      "basename": "pkm_meta",
+      "path": "Atlas/pkm_meta.md"
     }
   ],
   "omittedPaths": [],

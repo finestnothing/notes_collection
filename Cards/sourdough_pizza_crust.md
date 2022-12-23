@@ -12,8 +12,8 @@ Created: 2022-09-29 16:54
 	- 141g lukewarm water
 		- Start with 141g, add 1 tablespoon at a time if too dry
 	- 300g all purpose flour
-	- 1 teaspoon salt
-	- 1/2 teaspoon yeast
+	- 7g salt
+	- 2g yeast
 - Place in greased container until doubled in bulk
 	- 2-4 hours
 - Separate in half, place in pans

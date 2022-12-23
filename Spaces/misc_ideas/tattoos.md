@@ -1,4 +1,4 @@
-# tattoos
+# Tattoos
 
 - Octopus
 - Van Gogh Painting
@@ -17,5 +17,5 @@
 			- Color in the wings?
 		- Moth
 		- Rocketship
-		- Regular/old timey ship 
-		- Ants? 
+		- Regular/old timey ship
+		- Ants?

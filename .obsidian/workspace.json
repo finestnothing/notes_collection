@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e51224fbdaee567",
+        "id": "1633272dd8c28cab",
         "type": "tabs",
         "children": [
           {
-            "id": "54c9415556bf746a",
+            "id": "b60ef4af7d5b836c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/sourdough_bread.md",
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "ccd7306958c845bf",
+            "id": "53a44e70a3f1eb3b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "Cards/sourdough_pizza_crust.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -60,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#to/work_on",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/sourdough_bread.md",
+                "file": "Cards/sourdough_pizza_crust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/sourdough_bread.md",
+                "file": "Cards/sourdough_pizza_crust.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "87c3e153392c9533",
@@ -193,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/sourdough_bread.md",
+                "file": "Cards/sourdough_pizza_crust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/sourdough_bread.md"
+                "file": "Cards/sourdough_pizza_crust.md"
               }
             }
           },
@@ -234,20 +236,21 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "ccd7306958c845bf",
+  "active": "47945a3a2d5ae9d3",
   "lastOpenFiles": [
-    "Atlas/recipe_moc.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211291525.md",
-    "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
+    "Spaces/Projects/updating_pkm/folder_structure.md",
     "Cards/sourdough_pizza_crust.md",
-    "Spaces/Media/mcu_watch_order.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210111545.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210261443.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210191507.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210141556.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210121539.md"
+    "Atlas/recipe_moc.md",
+    "Spaces/Projects/updating_pkm/+about_updating_pkm.md",
+    "Extras/Templates/map_of_content_template.md",
+    "Extras/Templates/recipe_template.md",
+    "Extras/Templates/inbox_note_template.md",
+    "Extras/Templates/extract_template.md",
+    "Extras/Templates/dev_note_template.md",
+    "Extras/Templates/daily_note_template.md"
   ]
 }

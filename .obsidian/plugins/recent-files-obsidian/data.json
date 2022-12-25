@@ -1,12 +1,120 @@
 {
   "recentFiles": [
     {
+      "basename": "202212242025",
+      "path": "Inbox/202212242025.md"
+    },
+    {
       "basename": "sourdough_pizza_crust",
       "path": "Cards/sourdough_pizza_crust.md"
     },
     {
+      "basename": "folder_structure",
+      "path": "Spaces/Projects/updating_pkm/folder_structure.md"
+    },
+    {
       "basename": "recipe_moc",
       "path": "Atlas/recipe_moc.md"
+    },
+    {
+      "basename": "+about_updating_pkm",
+      "path": "Spaces/Projects/updating_pkm/+about_updating_pkm.md"
+    },
+    {
+      "basename": "map_of_content_template",
+      "path": "Extras/Templates/map_of_content_template.md"
+    },
+    {
+      "basename": "recipe_template",
+      "path": "Extras/Templates/recipe_template.md"
+    },
+    {
+      "basename": "inbox_note_template",
+      "path": "Extras/Templates/inbox_note_template.md"
+    },
+    {
+      "basename": "extract_template",
+      "path": "Extras/Templates/extract_template.md"
+    },
+    {
+      "basename": "dev_note_template",
+      "path": "Extras/Templates/dev_note_template.md"
+    },
+    {
+      "basename": "daily_note_template",
+      "path": "Extras/Templates/daily_note_template.md"
+    },
+    {
+      "basename": "card_template",
+      "path": "Extras/Templates/card_template.md"
+    },
+    {
+      "basename": "clothes_manager",
+      "path": "Spaces/Projects/clothes_manager.md"
+    },
+    {
+      "basename": "kubernetes_server",
+      "path": "Spaces/Projects/kubernetes_server.md"
+    },
+    {
+      "basename": "portfolio_website",
+      "path": "Spaces/Projects/portfolio_website.md"
+    },
+    {
+      "basename": "automl",
+      "path": "Dev/automl.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "202211060605",
+      "path": "Inbox/202211060605.md"
+    },
+    {
+      "basename": "2bu8626vgi1a1",
+      "path": "Sources/2bu8626vgi1a1.jpg"
+    },
+    {
+      "basename": "202211130802",
+      "path": "Inbox/202211130802.md"
+    },
+    {
+      "basename": "202212021202",
+      "path": "Inbox/202212021202.md"
+    },
+    {
+      "basename": "202212061356",
+      "path": "Inbox/202212061356.md"
+    },
+    {
+      "basename": "202212091209",
+      "path": "Inbox/202212091209.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Cards/Untitled.canvas"
+    },
+    {
+      "basename": "sourdough_bread",
+      "path": "Cards/sourdough_bread.md"
+    },
+    {
+      "basename": "tattoos",
+      "path": "Spaces/misc_ideas/tattoos.md"
+    },
+    {
+      "basename": "product_creation_moc",
+      "path": "Atlas/product_creation_moc.md"
+    },
+    {
+      "basename": "202211291525",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
+    },
+    {
+      "basename": "delta_live_tables",
+      "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
     },
     {
       "basename": "mcu_watch_order",
@@ -53,20 +161,12 @@
       "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
     },
     {
-      "basename": "delta_live_tables",
-      "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
-    },
-    {
       "basename": "202211071456",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
     },
     {
       "basename": "202211081511",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
-    },
-    {
-      "basename": "202211291525",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
     },
     {
       "basename": "20221122",
@@ -93,112 +193,12 @@
       "path": "Cards/databricks_feature_store 1.md"
     },
     {
-      "basename": "automl",
-      "path": "Dev/automl.md"
-    },
-    {
-      "basename": "2bu8626vgi1a1",
-      "path": "Sources/2bu8626vgi1a1.jpg"
-    },
-    {
-      "basename": "portfolio_website",
-      "path": "Spaces/Projects/portfolio_website.md"
-    },
-    {
-      "basename": "kubernetes_server",
-      "path": "Spaces/Projects/kubernetes_server.md"
-    },
-    {
-      "basename": "clothes_manager",
-      "path": "Spaces/Projects/clothes_manager.md"
-    },
-    {
       "basename": "+info_work",
       "path": "Spaces/Work/+info_work.md"
     },
     {
       "basename": "to_read",
       "path": "Spaces/to_read.md"
-    },
-    {
-      "basename": "202212091209",
-      "path": "Inbox/202212091209.md"
-    },
-    {
-      "basename": "202212061356",
-      "path": "Inbox/202212061356.md"
-    },
-    {
-      "basename": "coc_small_sarcophagus",
-      "path": "Spaces/Media/Games/call_of_cthulu/coc_small_sarcophagus.md"
-    },
-    {
-      "basename": "dnd_boss_joke",
-      "path": "Spaces/Media/Games/dnd/homebrew/dnd_boss_joke.md"
-    },
-    {
-      "basename": "dnd_sending_scam",
-      "path": "Spaces/Media/Games/dnd/homebrew/dnd_sending_scam.md"
-    },
-    {
-      "basename": "yellow",
-      "path": "Spaces/Projects/adventure_jar/yellow.md"
-    },
-    {
-      "basename": "blue",
-      "path": "Spaces/Projects/adventure_jar/blue.md"
-    },
-    {
-      "basename": "green",
-      "path": "Spaces/Projects/adventure_jar/green.md"
-    },
-    {
-      "basename": "red",
-      "path": "Spaces/Projects/adventure_jar/red.md"
-    },
-    {
-      "basename": "tattoos",
-      "path": "Spaces/misc_ideas/tattoos.md"
-    },
-    {
-      "basename": "TBR",
-      "path": "Spaces/Media/Books/TBR.md"
-    },
-    {
-      "basename": "stephen_hawking_books",
-      "path": "Spaces/Media/Books/stephen_hawking_books.md"
-    },
-    {
-      "basename": "neverwhere",
-      "path": "Spaces/Media/Books/in-progress/neverwhere.md"
-    },
-    {
-      "basename": "read_books",
-      "path": "Spaces/Media/Books/read_books.md"
-    },
-    {
-      "basename": "startup",
-      "path": "Cards/startup.md"
-    },
-    {
-      "basename": "startup_types",
-      "path": "Cards/startup_types.md"
-    },
-    {
-      "basename": "historical_events_moc",
-      "path": "Atlas/historical_events_moc.md"
-    },
-    {
-      "basename": "sql_transaction_code_example",
-      "path": "Cards/sql_transaction_code_example.md"
-    },
-    {
-      "basename": "pkm_tags",
-      "path": "Cards/pkm_tags.md"
-    },
-    {
-      "basename": "pkm_meta",
-      "path": "Atlas/pkm_meta.md"
     }
   ],
   "omittedPaths": [],

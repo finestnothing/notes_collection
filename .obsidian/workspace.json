@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/202212242025.md",
+                "file": "Cards/pancakes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sourdough",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/202212242025.md",
+                "file": "Cards/pancakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/202212242025.md",
+                "file": "Cards/pancakes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/202212242025.md",
+                "file": "Cards/pancakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/202212242025.md"
+                "file": "Cards/pancakes.md"
               }
             }
           },
@@ -227,17 +227,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "53a44e70a3f1eb3b",
+  "active": "6c6f2c87ec684d7d",
   "lastOpenFiles": [
+    "Cards/sourdough_bread.md",
     "Cards/sourdough_pizza_crust.md",
-    "Spaces/Projects/updating_pkm/folder_structure.md",
     "Atlas/recipe_moc.md",
+    "Inbox/202212242025.md",
+    "Spaces/Projects/updating_pkm/folder_structure.md",
     "Spaces/Projects/updating_pkm/+about_updating_pkm.md",
     "Extras/Templates/map_of_content_template.md",
     "Extras/Templates/recipe_template.md",
     "Extras/Templates/inbox_note_template.md",
-    "Extras/Templates/extract_template.md",
-    "Extras/Templates/dev_note_template.md",
-    "Extras/Templates/daily_note_template.md"
+    "Extras/Templates/extract_template.md"
   ]
 }

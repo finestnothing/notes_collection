@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "202212242025",
-      "path": "Inbox/202212242025.md"
+      "basename": "pancakes",
+      "path": "Cards/pancakes.md"
+    },
+    {
+      "basename": "sourdough_bread",
+      "path": "Cards/sourdough_bread.md"
     },
     {
       "basename": "sourdough_pizza_crust",
       "path": "Cards/sourdough_pizza_crust.md"
     },
     {
-      "basename": "folder_structure",
-      "path": "Spaces/Projects/updating_pkm/folder_structure.md"
-    },
-    {
       "basename": "recipe_moc",
       "path": "Atlas/recipe_moc.md"
+    },
+    {
+      "basename": "202212242025",
+      "path": "Inbox/202212242025.md"
+    },
+    {
+      "basename": "folder_structure",
+      "path": "Spaces/Projects/updating_pkm/folder_structure.md"
     },
     {
       "basename": "+about_updating_pkm",
@@ -95,10 +103,6 @@
     {
       "basename": "Untitled",
       "path": "Cards/Untitled.canvas"
-    },
-    {
-      "basename": "sourdough_bread",
-      "path": "Cards/sourdough_bread.md"
     },
     {
       "basename": "tattoos",
@@ -195,10 +199,6 @@
     {
       "basename": "+info_work",
       "path": "Spaces/Work/+info_work.md"
-    },
-    {
-      "basename": "to_read",
-      "path": "Spaces/to_read.md"
     }
   ],
   "omittedPaths": [],

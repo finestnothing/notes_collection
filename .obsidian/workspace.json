@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/pancakes.md",
+                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/pancakes.md",
+                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/pancakes.md",
+                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/pancakes.md",
+                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/pancakes.md"
+                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
               }
             }
           },
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,17 +226,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6c6f2c87ec684d7d",
+  "active": "53a44e70a3f1eb3b",
   "lastOpenFiles": [
+    "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211291525.md",
+    "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
+    "Cards/pancakes.md",
     "Cards/sourdough_bread.md",
     "Cards/sourdough_pizza_crust.md",
     "Atlas/recipe_moc.md",
     "Inbox/202212242025.md",
-    "Spaces/Projects/updating_pkm/folder_structure.md",
-    "Spaces/Projects/updating_pkm/+about_updating_pkm.md",
-    "Extras/Templates/map_of_content_template.md",
-    "Extras/Templates/recipe_template.md",
-    "Extras/Templates/inbox_note_template.md",
-    "Extras/Templates/extract_template.md"
+    "Spaces/Projects/updating_pkm/folder_structure.md"
   ]
 }

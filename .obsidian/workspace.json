@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1633272dd8c28cab",
+        "id": "c2f06b8101cf3554",
         "type": "tabs",
         "children": [
           {
-            "id": "53a44e70a3f1eb3b",
+            "id": "465b68f5f7500c14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +125,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
-              }
+              "state": {}
             }
           },
           {
@@ -226,12 +216,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "53a44e70a3f1eb3b",
+  "active": "465b68f5f7500c14",
   "lastOpenFiles": [
+    "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
     "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
     "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
     "Spaces/Course_Notes/databricks_training_notes/202211291525.md",
-    "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
     "Cards/pancakes.md",
     "Cards/sourdough_bread.md",
     "Cards/sourdough_pizza_crust.md",

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c2f06b8101cf3554",
+        "id": "a82af39a6c595b04",
         "type": "tabs",
         "children": [
           {
-            "id": "465b68f5f7500c14",
+            "id": "182fbe4a5e226942",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
+              }
             }
           },
           {
@@ -216,17 +226,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "465b68f5f7500c14",
+  "active": "182fbe4a5e226942",
   "lastOpenFiles": [
+    "Inbox/202301051109.md",
     "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211031516.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211011523.md",
+    "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
     "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
+    "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
     "Spaces/Course_Notes/databricks_training_notes/202211291525.md",
-    "Cards/pancakes.md",
-    "Cards/sourdough_bread.md",
-    "Cards/sourdough_pizza_crust.md",
-    "Atlas/recipe_moc.md",
-    "Inbox/202212242025.md",
-    "Spaces/Projects/updating_pkm/folder_structure.md"
+    "Inbox/202211060605.md",
+    "Cards/pancakes.md"
   ]
 }

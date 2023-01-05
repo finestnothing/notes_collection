@@ -5,16 +5,36 @@
       "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
     },
     {
-      "basename": "202211071456",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
+      "basename": "202301051109",
+      "path": "Inbox/202301051109.md"
+    },
+    {
+      "basename": "202211031516",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211031516.md"
+    },
+    {
+      "basename": "202211011523",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
+    },
+    {
+      "basename": "202210271455",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
     },
     {
       "basename": "202211081511",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
     },
     {
+      "basename": "202211071456",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
+    },
+    {
       "basename": "202211291525",
       "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
+    },
+    {
+      "basename": "202211060605",
+      "path": "Inbox/202211060605.md"
     },
     {
       "basename": "pancakes",
@@ -93,10 +113,6 @@
       "path": "README.md"
     },
     {
-      "basename": "202211060605",
-      "path": "Inbox/202211060605.md"
-    },
-    {
       "basename": "2bu8626vgi1a1",
       "path": "Sources/2bu8626vgi1a1.jpg"
     },
@@ -161,18 +177,6 @@
       "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111603.md"
     },
     {
-      "basename": "202211011523",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211011523.md"
-    },
-    {
-      "basename": "202211031516",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211031516.md"
-    },
-    {
-      "basename": "202210271455",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
-    },
-    {
       "basename": "20221122",
       "path": "Calendar/20221122.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "databricks_feature_store 1",
       "path": "Cards/databricks_feature_store 1.md"
-    },
-    {
-      "basename": "+info_work",
-      "path": "Spaces/Work/+info_work.md"
     }
   ],
   "omittedPaths": [],

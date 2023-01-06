@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "incremental_data",
+      "path": "Spaces/Work/incremental_streaming/incremental_data.canvas"
+    },
+    {
+      "basename": "+info_incremental_streaming",
+      "path": "Spaces/Work/incremental_streaming/+info_incremental_streaming.md"
+    },
+    {
+      "basename": "+info_work",
+      "path": "Spaces/Work/+info_work.md"
+    },
+    {
       "basename": "delta_live_tables",
       "path": "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md"
     },
     {
-      "basename": "202301051109",
-      "path": "Inbox/202301051109.md"
+      "basename": "202211060605",
+      "path": "Inbox/202211060605.md"
+    },
+    {
+      "basename": "202211130802",
+      "path": "Inbox/202211130802.md"
+    },
+    {
+      "basename": "202212091209",
+      "path": "Inbox/202212091209.md"
+    },
+    {
+      "basename": "202211071456",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
+    },
+    {
+      "basename": "202211081511",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
+    },
+    {
+      "basename": "202211291525",
+      "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
     },
     {
       "basename": "202211031516",
@@ -19,22 +51,6 @@
     {
       "basename": "202210271455",
       "path": "Spaces/Course_Notes/databricks_training_notes/202210271455.md"
-    },
-    {
-      "basename": "202211081511",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211081511.md"
-    },
-    {
-      "basename": "202211071456",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
-    },
-    {
-      "basename": "202211291525",
-      "path": "Spaces/Course_Notes/databricks_training_notes/202211291525.md"
-    },
-    {
-      "basename": "202211060605",
-      "path": "Inbox/202211060605.md"
     },
     {
       "basename": "pancakes",
@@ -51,10 +67,6 @@
     {
       "basename": "recipe_moc",
       "path": "Atlas/recipe_moc.md"
-    },
-    {
-      "basename": "202212242025",
-      "path": "Inbox/202212242025.md"
     },
     {
       "basename": "folder_structure",
@@ -115,22 +127,6 @@
     {
       "basename": "2bu8626vgi1a1",
       "path": "Sources/2bu8626vgi1a1.jpg"
-    },
-    {
-      "basename": "202211130802",
-      "path": "Inbox/202211130802.md"
-    },
-    {
-      "basename": "202212021202",
-      "path": "Inbox/202212021202.md"
-    },
-    {
-      "basename": "202212061356",
-      "path": "Inbox/202212061356.md"
-    },
-    {
-      "basename": "202212091209",
-      "path": "Inbox/202212091209.md"
     },
     {
       "basename": "Untitled",

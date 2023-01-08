@@ -37,3 +37,9 @@ Created: 20221012 17:39
 19. Remove lid from dutch oven
 20. Bake for another 40 minutes (until golden brown)
 21. Let cool for at least one hour
+
+
+- 20220108 Notes
+	- Feed sourdough starter, leave out for 24 hours before starting the recipe. It should be bubbly/glutenny
+	- Bake for ~50-60 minutes after taking the top off of the crock pot
+	- Definitely use bread flour

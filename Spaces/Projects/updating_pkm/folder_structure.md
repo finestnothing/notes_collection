@@ -30,7 +30,3 @@ Try to figure out how [About these notes](https://notes.andymatuschak.org/About_
 Will want to be more particular about what becomes final content
 	Some stuff is so I don't need to google later
 	Other stuff can be for putting together writing
-I want a different graph view as well
-	Want things grouped by topic with just a few connections between topics if possible
-		Not sure if this is feasible
-		I just don't want to overlink or have central files that everything hits

@@ -8,36 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "435a8a07dc34f0be",
+            "id": "1d65bae2f455d098",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Work/incremental_streaming/+info_incremental_streaming.md",
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "47cb8e72e35cd763",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d65bae2f455d098",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md"
+              }
             }
           },
           {
@@ -240,15 +228,15 @@
   },
   "active": "6c6f2c87ec684d7d",
   "lastOpenFiles": [
+    "Spaces/Projects/updating_pkm/+about_updating_pkm.md",
+    "Cards/sourdough_bread.md",
+    "Spaces/Work/incremental_streaming/+info_incremental_streaming.md",
+    "Spaces/Work/incremental_streaming/-database_dev_silver_ims2.md",
     "Spaces/Work/incremental_streaming/-database_cobalt_staging5.md",
     "Spaces/Work/incremental_streaming/-database_dev_bronze_ims4.md",
     "Spaces/Course_Notes/databricks_training_notes/delta_live_tables.md",
     "Spaces/Course_Notes/databricks_training_notes/202211291525.md",
     "Spaces/Course_Notes/databricks_training_notes/202211081511.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211071456.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211031516.md",
-    "Spaces/Course_Notes/databricks_training_notes/202211011523.md",
-    "Spaces/Course_Notes/databricks_training_notes/202210271455.md",
-    "Spaces/Course_Notes/databricks_training_notes/Converted/202210261443.md"
+    "Spaces/Course_Notes/databricks_training_notes/202211071456.md"
   ]
 }

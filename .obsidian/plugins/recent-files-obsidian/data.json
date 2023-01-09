@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "mcu_watch_order",
-      "path": "Spaces/Media/mcu_watch_order.md"
+      "basename": "folder_structure",
+      "path": "Spaces/Projects/updating_pkm/folder_structure.md"
+    },
+    {
+      "basename": "+about_updating_pkm",
+      "path": "Spaces/Projects/updating_pkm/+about_updating_pkm.md"
     },
     {
       "basename": "sourdough_bread",
       "path": "Cards/sourdough_bread.md"
+    },
+    {
+      "basename": "+info_incremental_streaming",
+      "path": "Spaces/Work/incremental_streaming/+info_incremental_streaming.md"
     },
     {
       "basename": "delta_live_tables",
@@ -61,10 +69,6 @@
       "path": "Spaces/Course_Notes/databricks_training_notes/Converted/202210111545.md"
     },
     {
-      "basename": "+info_incremental_streaming",
-      "path": "Spaces/Work/incremental_streaming/+info_incremental_streaming.md"
-    },
-    {
       "basename": "+info_work",
       "path": "Spaces/Work/+info_work.md"
     },
@@ -91,14 +95,6 @@
     {
       "basename": "recipe_moc",
       "path": "Atlas/recipe_moc.md"
-    },
-    {
-      "basename": "folder_structure",
-      "path": "Spaces/Projects/updating_pkm/folder_structure.md"
-    },
-    {
-      "basename": "+about_updating_pkm",
-      "path": "Spaces/Projects/updating_pkm/+about_updating_pkm.md"
     },
     {
       "basename": "map_of_content_template",
@@ -163,6 +159,10 @@
     {
       "basename": "product_creation_moc",
       "path": "Atlas/product_creation_moc.md"
+    },
+    {
+      "basename": "mcu_watch_order",
+      "path": "Spaces/Media/mcu_watch_order.md"
     },
     {
       "basename": "202210111615",

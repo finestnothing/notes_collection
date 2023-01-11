@@ -115,17 +115,6 @@
             }
           },
           {
-            "id": "e0b6fbd92e1098f6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "029d531586176b2b",
             "type": "leaf",
             "state": {
@@ -198,6 +187,17 @@
             }
           },
           {
+            "id": "e0b6fbd92e1098f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "0ff3496a2d63ea69",
             "type": "leaf",
             "state": {
@@ -205,8 +205,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,7 +225,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6c6f2c87ec684d7d",
+  "active": "1c8b684d02e74de1",
   "lastOpenFiles": [
     "Spaces/Projects/updating_pkm/+about_updating_pkm.md",
     "Cards/sourdough_bread.md",

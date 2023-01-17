@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "+info_databricks_training_notes",
-      "path": "Spaces/Course_Notes/databricks_training_notes/data_engineering/+info_databricks_training_notes.md"
+      "basename": "pkm_meta",
+      "path": "Atlas/pkm_meta.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "folder_structure",
       "path": "Spaces/Projects/updating_pkm/folder_structure.md"
     },
     {
+      "basename": "what_is_the_2_machine_scheduling_process",
+      "path": "Cards/what_is_the_2_machine_scheduling_process.md"
+    },
+    {
+      "basename": "benefits_of_2_machine_scheduling_process",
+      "path": "Cards/benefits_of_2_machine_scheduling_process.md"
+    },
+    {
+      "basename": "where_did_2_machine_scheduling_come_from",
+      "path": "Cards/where_did_2_machine_scheduling_come_from.md"
+    },
+    {
+      "basename": "algorithms_to_live_by_moc",
+      "path": "Atlas/algorithms_to_live_by_moc.md"
+    },
+    {
       "basename": "+about_updating_pkm",
       "path": "Spaces/Projects/updating_pkm/+about_updating_pkm.md"
+    },
+    {
+      "basename": "+info_databricks_training_notes",
+      "path": "Spaces/Course_Notes/databricks_training_notes/data_engineering/+info_databricks_training_notes.md"
     },
     {
       "basename": "sourdough_bread",
@@ -145,10 +169,6 @@
       "path": "Dev/automl.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "2bu8626vgi1a1",
       "path": "Sources/2bu8626vgi1a1.jpg"
     },
@@ -171,26 +191,6 @@
     {
       "basename": "202210111615",
       "path": "Spaces/Course_Notes/databricks_training_notes/data_engineering/Converted/202210111615.md"
-    },
-    {
-      "basename": "20221122",
-      "path": "Calendar/20221122.md"
-    },
-    {
-      "basename": "unity_catalog_vs_hive_metastore 1",
-      "path": "Cards/unity_catalog_vs_hive_metastore 1.md"
-    },
-    {
-      "basename": "sql_commands",
-      "path": "Cards/sql_commands.md"
-    },
-    {
-      "basename": "sql_command_count",
-      "path": "Cards/sql_command_count.md"
-    },
-    {
-      "basename": "spark",
-      "path": "Cards/spark.md"
     }
   ],
   "omittedPaths": [],

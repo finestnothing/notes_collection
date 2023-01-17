@@ -11,8 +11,13 @@
             "id": "23b158886688715a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/pkm_meta.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/pkm_meta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Atlas/pkm_meta.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlas/pkm_meta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Atlas/pkm_meta.md"
+              }
             }
           },
           {
@@ -199,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,15 +228,15 @@
   },
   "active": "23b158886688715a",
   "lastOpenFiles": [
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/+info_databricks_training_notes.md",
+    "README.md",
     "Spaces/Projects/updating_pkm/folder_structure.md",
-    "Spaces/Projects/updating_pkm/+about_updating_pkm.md",
-    "Cards/sourdough_bread.md",
-    "Spaces/Work/incremental_streaming/+info_incremental_streaming.md",
-    "Spaces/Work/incremental_streaming/-database_dev_silver_ims2.md",
-    "Spaces/Work/incremental_streaming/-database_cobalt_staging5.md",
-    "Spaces/Work/incremental_streaming/-database_dev_bronze_ims4.md",
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/delta_live_tables.md",
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211291525.md"
+    "z_new_pkm/area_of_responsibility/Untitled.md",
+    "z_new_pkm/area_of_responsibility/professional_development.md",
+    "z_new_pkm/area_of_responsibility/maintaining_pkm.md",
+    "Cards/what_is_the_2_machine_scheduling_process.md",
+    "Cards/benefits_of_2_machine_scheduling_process.md",
+    "Cards/where_did_2_machine_scheduling_come_from.md",
+    "Atlas/algorithms_to_live_by_moc.md",
+    "Spaces/Projects/updating_pkm/+about_updating_pkm.md"
   ]
 }

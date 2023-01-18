@@ -12,7 +12,7 @@ Created: 20221222 14:37
 - [ ] Cards Folder
 	- Need a location for the content itself
 - [ ] Simple way/place to add any new content
-	- I don't want to have to think about where a new note will go
+	- I don't want to have to think about where a new note will go immediately
 - [ ] README file
 	- Introduction to the PKM
 	- Links to the maps of content genres (or the maps themselves)

@@ -1,0 +1,7 @@
+[[bronze_casesubtyperel]]
+[[bronze_casesubtypes]]
+[[bronze_clientcase]]
+[[bronze_beneficiary]]
+[[bronze_countrycasetypes]]
+[[bronze_casecategory]]
+[[bronze_country]]

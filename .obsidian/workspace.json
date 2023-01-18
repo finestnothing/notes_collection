@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/202212091209.md",
+                "file": "Spaces/Work/databricks_map/202301180835.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f318bf229cf2295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c9726dfcf899b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Work/databricks_map/gold_bene_dep_union.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/202212091209.md",
+                "file": "Spaces/Work/databricks_map/202301180835.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/202212091209.md",
+                "file": "Spaces/Work/databricks_map/202301180835.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -148,16 +167,9 @@
                 }
               }
             }
-          },
-          {
-            "id": "758dc52476ee95cb",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "87c3e153392c9533",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/202212091209.md",
+                "file": "Spaces/Work/databricks_map/202301180835.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/202212091209.md"
+                "file": "Spaces/Work/databricks_map/202301180835.md"
               }
             }
           },
@@ -205,8 +217,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,20 +234,21 @@
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8026f815761b09bc",
+  "active": "029d531586176b2b",
   "lastOpenFiles": [
-    "Inbox/202211130802.md",
-    "Inbox/202211060605.md",
-    "Spaces/Course_Notes/databricks_training_notes/machine_learning/202301171518.md",
-    "Spaces/Course_Notes/databricks_training_notes/machine_learning/+info_databricks_machine_learning_training.md",
-    "Inbox/202212091209.md",
-    "Atlas/pkm_meta.md",
-    "README.md",
-    "Spaces/Projects/updating_pkm/folder_structure.md",
-    "z_new_pkm/area_of_responsibility/Untitled.md",
-    "z_new_pkm/area_of_responsibility/professional_development.md"
+    "Spaces/Work/databricks_map/gold_bene_dep_union.md",
+    "Spaces/Work/databricks_map/gold_dep_aos_status.md",
+    "Spaces/Work/databricks_map/silver_case_dependent.md",
+    "Spaces/Work/databricks_map/bronze_casedependents.md",
+    "Spaces/Work/databricks_map/202301180835.md",
+    "Spaces/Work/databricks_map/gold_dep_passport_docs.md",
+    "Spaces/Work/databricks_map/silver_dep_passport_doc.md",
+    "Spaces/Work/databricks_map/silver_dep_passport.md",
+    "Spaces/Work/databricks_map/bronze_passportinfo.md",
+    "Spaces/Work/databricks_map/gold_dep_immigration_status.md"
   ]
 }

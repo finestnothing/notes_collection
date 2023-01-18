@@ -1,10 +1,8 @@
 [
   "obsidian-admonition",
   "table-editor-obsidian",
-  "obsidian-checklist-plugin",
   "tag-page-preview",
   "obsidian-dictionary-plugin",
-  "recent-files-obsidian",
   "calendar",
   "obsidian-git",
   "find-unlinked-files",
@@ -15,5 +13,8 @@
   "dataview",
   "obsidian-linter",
   "obsidian-annotator",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "templater-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-tasks-plugin"
 ]

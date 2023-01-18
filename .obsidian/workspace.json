@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f088ffd9f1f4ac8a",
+        "id": "3235e0bd0c1d587a",
         "type": "tabs",
         "children": [
           {
-            "id": "23b158886688715a",
+            "id": "8026f815761b09bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/pkm_meta.md",
+                "file": "Inbox/202212091209.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
       {
         "id": "8b215792957bce13",
         "type": "tabs",
-        "dimension": 55.933852140077825,
+        "dimension": 52.431906614785994,
         "children": [
           {
             "id": "47945a3a2d5ae9d3",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/pkm_meta.md",
+                "file": "Inbox/202212091209.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/pkm_meta.md",
+                "file": "Inbox/202212091209.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +162,7 @@
       {
         "id": "87c3e153392c9533",
         "type": "tabs",
-        "dimension": 44.066147859922175,
+        "dimension": 47.568093385214006,
         "children": [
           {
             "id": "1c8b684d02e74de1",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/pkm_meta.md",
+                "file": "Inbox/202212091209.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/pkm_meta.md"
+                "file": "Inbox/202212091209.md"
               }
             }
           },
@@ -205,12 +205,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,17 +226,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "23b158886688715a",
+  "active": "8026f815761b09bc",
   "lastOpenFiles": [
+    "Inbox/202211130802.md",
+    "Inbox/202211060605.md",
+    "Spaces/Course_Notes/databricks_training_notes/machine_learning/202301171518.md",
+    "Spaces/Course_Notes/databricks_training_notes/machine_learning/+info_databricks_machine_learning_training.md",
+    "Inbox/202212091209.md",
+    "Atlas/pkm_meta.md",
     "README.md",
     "Spaces/Projects/updating_pkm/folder_structure.md",
     "z_new_pkm/area_of_responsibility/Untitled.md",
-    "z_new_pkm/area_of_responsibility/professional_development.md",
-    "z_new_pkm/area_of_responsibility/maintaining_pkm.md",
-    "Cards/what_is_the_2_machine_scheduling_process.md",
-    "Cards/benefits_of_2_machine_scheduling_process.md",
-    "Cards/where_did_2_machine_scheduling_come_from.md",
-    "Atlas/algorithms_to_live_by_moc.md",
-    "Spaces/Projects/updating_pkm/+about_updating_pkm.md"
+    "z_new_pkm/area_of_responsibility/professional_development.md"
   ]
 }

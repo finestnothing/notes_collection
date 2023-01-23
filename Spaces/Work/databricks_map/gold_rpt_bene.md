@@ -1,4 +1,4 @@
-# rpt_bene_gold
+# gold_rpt_bene
 
 [[gold_bene_dep_union]]
 [[gold_client_aggregate]]

@@ -82,7 +82,7 @@
 - [ ] Spider-Man: No Way Home
 - [x] Doctor Strange in the Multiverse of Madness
 - [ ] Hawkeye
-- [ ] Moon Knight
+- [x] Moon Knight
 - [ ] Ms Marvel
 - [ ] Thor: Love and Thunder
 

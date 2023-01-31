@@ -198,12 +198,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,15 +222,15 @@
   },
   "active": "904ca692975a104c",
   "lastOpenFiles": [
+    "Spaces/Course_Notes/databricks_training_notes/data_engineering/delta_live_tables.md",
+    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211011523.md",
+    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211031516.md",
+    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211071456.md",
+    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211081511.md",
+    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211291525.md",
+    "Inbox/202301240821.md",
     "Spaces/Work/databricks_map/gold_bene_dep_union.md",
     "Spaces/Work/databricks_map/gold_rpt_bene.md",
-    "Spaces/Work/databricks_map/202301180835.md",
-    "Spaces/Work/databricks_map/bronze_aosdependent.md",
-    "Spaces/Projects/updating_pkm/folder_structure.md",
-    "Calendar/20221122.md",
-    "z_new_pkm/a.md",
-    "Spaces/Work/databricks_map/gold_dep_aos_status.md",
-    "Spaces/Work/databricks_map/silver_case_dependent.md",
-    "Spaces/Work/databricks_map/bronze_casedependents.md"
+    "Spaces/Work/databricks_map/202301180835.md"
   ]
 }

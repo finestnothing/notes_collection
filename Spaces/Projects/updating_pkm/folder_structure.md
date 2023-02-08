@@ -9,17 +9,17 @@ Created: 20221222 14:37
 - [ ] Easy to access maps of content for diving into topics
 	- Maybe genre-wide maps of content for entering, that connect to sub-topics
 		- Would make it easier to avoid the folder structure'
-- [ ] Cards Folder
+- [x] Cards Folder ✅ 2023-02-08
 	- Need a location for the content itself
-- [ ] Simple way/place to add any new content
+- [x] Simple way/place to add any new content ✅ 2023-02-08
 	- I don't want to have to think about where a new note will go immediately
-- [ ] README file
+- [x] README file ✅ 2023-02-08
 	- Introduction to the PKM
 	- Links to the maps of content genres (or the maps themselves)
-- [ ] Utilities
+- [x] Utilities ✅ 2023-02-08
 	- Need a place to put utility files
 	- Includes documentation, templates, intro-files, etc
-- [ ] Some sort of workflow for raw -> cleaned -> atomic
+- [x] Some sort of workflow for raw -> cleaned -> atomic ✅ 2023-02-08
 	- Look into evergreen maybe?
 	- Something like andy matsuchacks notes
 

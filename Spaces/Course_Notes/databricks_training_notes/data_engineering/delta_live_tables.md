@@ -1,4 +1,4 @@
-up:: [[+info_databricks_training_notes]]
+up:: [[+info_databricks_data_engineering_training_notes]]
 
 # Data Streaming
 

@@ -27,3 +27,8 @@ Created: 2022-12-26 19:35
 5. Scoop 1/4 cup batter at a time
 6. Flip when bottom is golden and bubbles appear on top
 7. Remove when golden
+
+
+For waffles:
+1 1/4 cup milk (309 g)
+6 tbsp butter

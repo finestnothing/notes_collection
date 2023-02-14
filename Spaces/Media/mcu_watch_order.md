@@ -49,7 +49,7 @@
 - [x] Agents of SHIELD season 4 episodes 7-8
 - [x] Agents of SHIELD: Slingshot season 1 episodes 1-6
 - [x] Agents of SHIELD season 4 episodes 9-22
-- [ ] Spider-Man: Homecoming
+- [x] Spider-Man: Homecoming ✅ 2023-02-14
 - [x] Thor: Ragnarok
 - [x] Team Darryl one shot
 - [x] The Inhumans season 1
@@ -76,7 +76,7 @@
 - [ ] Wandavision
 - [ ] The Falcon and the Winter Soldier
 - [x] Shang-Chi and the Legend of the Ten Rings
-- [ ] She-Hulk: Attorney at Law
+- [x] She-Hulk: Attorney at Law ✅ 2023-02-14
 - [x] Eternals
 - [ ] Spider-Man: Far From Home
 - [ ] Spider-Man: No Way Home
@@ -84,11 +84,11 @@
 - [ ] Hawkeye
 - [x] Moon Knight
 - [ ] Ms Marvel
-- [ ] Thor: Love and Thunder
+- [x] Thor: Love and Thunder ✅ 2023-02-14
 
 # Upcoming Marvel Movies and TV
 
-- [ ] Black Panther: Wakanda Forever November 11, 2022
+- [x] Black Panther: Wakanda Forever November 11, 2022 ✅ 2023-02-14
 - [ ] The Guardians of the Galaxy Holiday Special - December 2022
 - [ ] Ant-Man and the Wasp: Quantumania - Feb 17, 2023
 - [ ] Secret Invasion - Spring 2023

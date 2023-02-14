@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_new_pkm/extras/front_matter.md",
+                "file": "Spaces/Media/mcu_watch_order.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_new_pkm/extras/front_matter.md",
+                "file": "Spaces/Media/mcu_watch_order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "z_new_pkm/extras/front_matter.md",
+                "file": "Spaces/Media/mcu_watch_order.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_new_pkm/extras/front_matter.md",
+                "file": "Spaces/Media/mcu_watch_order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_new_pkm/extras/front_matter.md"
+                "file": "Spaces/Media/mcu_watch_order.md"
               }
             }
           },
@@ -250,6 +250,7 @@
   },
   "active": "7cd840070ba72d68",
   "lastOpenFiles": [
+    "z_new_pkm/extras/front_matter.md",
     "z_new_pkm/extras/tags.md",
     "Extras/pkm_documentation.md",
     "Extras/queries.md",
@@ -258,7 +259,6 @@
     "z_new_pkm/areas_of_responsibility/learning_aor.md",
     "Spaces/Projects/updating_pkm/folder_structure.md",
     "z_new_pkm/README.md",
-    "Spaces/Course_Notes/databricks_training_notes/machine_learning/+info_databricks_machine_learning_training.md",
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/+info_databricks_data_engineering_training_notes.md"
+    "Spaces/Course_Notes/databricks_training_notes/machine_learning/+info_databricks_machine_learning_training.md"
   ]
 }

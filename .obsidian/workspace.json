@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6c89d8629f9d7e02",
+        "id": "60f46da1c1b9d1de",
         "type": "tabs",
         "children": [
           {
-            "id": "afad5a98e154997a",
+            "id": "4a90effe11420ec1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/data_engineering/202210271455.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db61d600956ff586",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/data_engineering/202210271455.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +114,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/data_engineering/202210271455.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/data_engineering/202210271455.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Course_Notes/databricks_training_notes/data_engineering/202210271455.md"
-              }
+              "state": {}
             }
           },
           {
@@ -231,8 +210,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db61d600956ff586",
+  "active": "4a90effe11420ec1",
   "lastOpenFiles": [
+    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202210271455.md",
     "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211011523.md",
     "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211031516.md",
     "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211071456.md",

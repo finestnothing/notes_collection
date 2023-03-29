@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60f46da1c1b9d1de",
+        "id": "097e1bd3fc93991d",
         "type": "tabs",
         "children": [
           {
-            "id": "4a90effe11420ec1",
+            "id": "baefbc8d1ea074f8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +211,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a90effe11420ec1",
+  "active": "baefbc8d1ea074f8",
   "lastOpenFiles": [
+    "Atlas/research_moc.md",
+    "Atlas/rpg_games_moc.md",
+    "Atlas/historical_events_moc.md",
+    "Cards/homemade_pasta.md",
+    "Cards/alfredo_sauce.md",
+    "Atlas/recipe_moc.md",
+    "Cards/sourdough_pizza_crust.md",
+    "Cards/sourdough_bread.md",
+    "Cards/autolyze.md",
     "Spaces/Course_Notes/databricks_training_notes/data_engineering/202210271455.md",
     "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211011523.md",
     "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211031516.md",

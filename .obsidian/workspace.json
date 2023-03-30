@@ -11,8 +11,13 @@
             "id": "baefbc8d1ea074f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Projects/updating_pkm/folder_structure.md"
+              }
             }
           },
           {
@@ -213,6 +223,7 @@
   },
   "active": "baefbc8d1ea074f8",
   "lastOpenFiles": [
+    "Spaces/Projects/updating_pkm/+about_updating_pkm.md",
     "Atlas/research_moc.md",
     "Atlas/rpg_games_moc.md",
     "Atlas/historical_events_moc.md",

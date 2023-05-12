@@ -1,23 +1,18 @@
 {
   "main": {
-    "id": "f28fd48759ec85ea",
+    "id": "b23025df34a0b748",
     "type": "split",
     "children": [
       {
-        "id": "097e1bd3fc93991d",
+        "id": "b500c07314eeb5e4",
         "type": "tabs",
         "children": [
           {
-            "id": "baefbc8d1ea074f8",
+            "id": "81dcbe864355a2a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -26,30 +21,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4a8f86f17f1b68df",
+    "id": "0459cb06d218e2a1",
     "type": "split",
     "children": [
       {
-        "id": "70b999bb3f0f381a",
+        "id": "c016959ab87b7bf2",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6f2c87ec684d7d",
+            "id": "c435f2e171f4f376",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "ff087a8be9c3cf5b",
+            "id": "ca4111a7f270d125",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "sourdough",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,18 +54,10 @@
             }
           },
           {
-            "id": "1b75919f67229dfc",
+            "id": "70f8581c7dcd4023",
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "75e914ceb9d44929",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           }
@@ -81,21 +68,27 @@
     "width": 300
   },
   "right": {
-    "id": "ea5b5e9bea3ea042",
+    "id": "e7f5d1f5f73548de",
     "type": "split",
     "children": [
       {
-        "id": "8b215792957bce13",
+        "id": "b3631ca9bf6a0678",
         "type": "tabs",
-        "dimension": 52.431906614785994,
         "children": [
           {
-            "id": "47945a3a2d5ae9d3",
+            "id": "0afc04303bec3f5c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfb8db62dc938fe6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,80 +100,18 @@
             }
           },
           {
-            "id": "d3ddabfee9469c3c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "029d531586176b2b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3628873693012127,
-                  "close": true
-                }
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "87c3e153392c9533",
-        "type": "tabs",
-        "dimension": 47.568093385214006,
-        "children": [
-          {
-            "id": "1c8b684d02e74de1",
+            "id": "129d387322aa5407",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Projects/updating_pkm/folder_structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ceea7583a54e8570",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Spaces/Projects/updating_pkm/folder_structure.md"
-              }
-            }
-          },
-          {
-            "id": "e0b6fbd92e1098f6",
+            "id": "fc5def95275a2a0b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -191,58 +122,35 @@
             }
           },
           {
-            "id": "0ff3496a2d63ea69",
+            "id": "cf3dfa80ee7be14e",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
-      "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "baefbc8d1ea074f8",
-  "lastOpenFiles": [
-    "Spaces/Projects/updating_pkm/+about_updating_pkm.md",
-    "Atlas/research_moc.md",
-    "Atlas/rpg_games_moc.md",
-    "Atlas/historical_events_moc.md",
-    "Cards/homemade_pasta.md",
-    "Cards/alfredo_sauce.md",
-    "Atlas/recipe_moc.md",
-    "Cards/sourdough_pizza_crust.md",
-    "Cards/sourdough_bread.md",
-    "Cards/autolyze.md",
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202210271455.md",
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211011523.md",
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211031516.md",
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211071456.md",
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211081511.md",
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/202211291525.md",
-    "Spaces/Course_Notes/databricks_training_notes/data_engineering/delta_live_tables.md",
-    "Extras/pkm_documentation.md",
-    "z_new_pkm/extras/tags.md",
-    "Spaces/Media/mcu_watch_order.md",
-    "z_new_pkm/extras/front_matter.md"
-  ]
+  "active": "81dcbe864355a2a5",
+  "lastOpenFiles": []
 }

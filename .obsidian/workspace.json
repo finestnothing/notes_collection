@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/pancakes.md",
+                "file": "Atlas/algorithms_to_live_by_moc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "b43db189811a97c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/pancakes.md",
+                "file": "Atlas/algorithms_to_live_by_moc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/pancakes.md",
+                "file": "Atlas/algorithms_to_live_by_moc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/pancakes.md"
+                "file": "Atlas/algorithms_to_live_by_moc.md"
               }
             }
           }
@@ -179,8 +168,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b43db189811a97c5",
+  "active": "81dcbe864355a2a5",
   "lastOpenFiles": [
+    "Cards/pancakes.md",
     "Atlas/recipe_moc.md"
   ]
 }
